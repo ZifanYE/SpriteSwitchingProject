@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0007",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A better preserves Aoi’s subdued, inward affect with calmer beats like neutral on '...Okay,' while B overstates several moments with surprise/fear where quieter restraint fits better."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "Version A uses neutral sprite at the calming moment with Ren and fear at the final peony-door realization, maintaining subtle emotional restraint; Version B repeats fear unnecessarily after being reassured and uses surprise where neutral better fits an introverted character's quiet acceptance, breaking consistency with her reserved personality."
+    }
+  }
+}

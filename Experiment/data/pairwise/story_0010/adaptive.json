@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0010",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays more subtly reserved with shy/downcast beats where B turns a few lines too neutral/confused/openly smiley, making Aoi’s personality and emotional flow feel more coherent."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "Differences are limited to three lines; B's neutral observation, confused self-questioning, and smile at the shared joke track the emotional beats slightly better than A's repeated shy/smile choices, while both fit the reserved personality."
+    }
+  }
+}

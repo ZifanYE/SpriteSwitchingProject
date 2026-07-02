@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0006",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B avoids A’s overly forceful skeptical beats by using more hesitant/surprised sprites where this introverted girl would likely stay small and flustered, especially on \"I wasn't going to,\" \"S-sorry!\" and \"That was because of you?\"."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "B",
+      "rationale": "The only difference is the old woman's reproach line, where B's 'surprised' better fits the startled blush of the moment while A's 'uneasy_confused' is slightly more restrained and on-personality."
+    }
+  }
+}

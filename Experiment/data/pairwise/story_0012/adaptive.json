@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0012",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "strong",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays more aligned with Aoi’s quiet, self-conscious reserve, while B repeatedly overstates or misreads beats with determined/smile/confused where anxious, embarrassed, or subdued fits better."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A's anxious/sad choices at key moments (panic over lateness, dismay at the closed police box, swallowing nerves before calling out) track the implied emotions more precisely, while B overuses 'determined' and mismatches lines like the smiling 'It's fine' and confused police-box reaction."
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0020",
+  "expression_set": "ekman",
+  "personality": "extroverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B better preserves an expressive, proactive Aoi by avoiding A’s overly downcast/flat sprites at key helping lines, while matching the scene’s shift from panic to concern to upbeat resolve more coherently."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "A",
+      "rationale": "B's extra happiness sprites suit her outgoing nature but A's sadness/concern on the crying-boy lines better tracks the implied emotion of each moment."
+    }
+  }
+}

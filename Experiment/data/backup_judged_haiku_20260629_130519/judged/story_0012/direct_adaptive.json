@@ -1,0 +1,170 @@
+{
+  "instance_id": "story_0012",
+  "pipeline": "direct",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "anxious",
+    "confused",
+    "determined",
+    "embarrassed",
+    "neutral",
+    "sad",
+    "shy",
+    "smile",
+    "surprised"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 5,
+      "text": "If I cut through the plaza... maybe I can still make it.",
+      "emotion_description": null,
+      "label": "determined"
+    },
+    {
+      "turn": 8,
+      "text": "...Um.",
+      "emotion_description": null,
+      "label": "shy"
+    },
+    {
+      "turn": 10,
+      "text": "Are you... lost?",
+      "emotion_description": null,
+      "label": "shy"
+    },
+    {
+      "turn": 13,
+      "text": "It's okay. Don't move, all right?",
+      "emotion_description": null,
+      "label": "determined"
+    },
+    {
+      "turn": 14,
+      "text": "Do you know her phone number?",
+      "emotion_description": null,
+      "label": "determined"
+    },
+    {
+      "turn": 18,
+      "text": "...It's fine.",
+      "emotion_description": null,
+      "label": "smile"
+    },
+    {
+      "turn": 19,
+      "text": "We'll find someone to help.",
+      "emotion_description": null,
+      "label": "determined"
+    },
+    {
+      "turn": 22,
+      "text": "Ah...",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 25,
+      "text": "I know.",
+      "emotion_description": null,
+      "label": "sad"
+    },
+    {
+      "turn": 26,
+      "text": "Let's stay where she can find you.",
+      "emotion_description": null,
+      "label": "determined"
+    },
+    {
+      "turn": 28,
+      "text": "What does she look like?",
+      "emotion_description": null,
+      "label": "determined"
+    },
+    {
+      "turn": 31,
+      "text": "Excuse me!",
+      "emotion_description": null,
+      "label": "determined"
+    },
+    {
+      "turn": 32,
+      "text": "Has anyone seen an older woman with a brown hat?",
+      "emotion_description": null,
+      "label": "determined"
+    },
+    {
+      "turn": 35,
+      "text": "She's looking for this boy.",
+      "emotion_description": null,
+      "label": "determined"
+    },
+    {
+      "turn": 42,
+      "text": "I'm glad I found him.",
+      "emotion_description": null,
+      "label": "smile"
+    },
+    {
+      "turn": 47,
+      "text": "...Yes.",
+      "emotion_description": null,
+      "label": "embarrassed"
+    },
+    {
+      "turn": 51,
+      "text": "Please don't be.",
+      "emotion_description": null,
+      "label": "shy"
+    },
+    {
+      "turn": 52,
+      "text": "He wasn't alone.",
+      "emotion_description": null,
+      "label": "determined"
+    },
+    {
+      "turn": 58,
+      "text": "Aoi Sakamizu.",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 62,
+      "text": "I stopped to help a lost child near the station.",
+      "emotion_description": null,
+      "label": "embarrassed"
+    },
+    {
+      "turn": 65,
+      "text": "Yes, sir.",
+      "emotion_description": null,
+      "label": "embarrassed"
+    },
+    {
+      "turn": 69,
+      "text": "It was okay.",
+      "emotion_description": null,
+      "label": "smile"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "The sprites mostly fit an introverted girl’s subdued affect—shy, anxious, embarrassed, and quiet smiles—with only minor overuse of determined during moments that might have shown more visible strain or hesitation."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Sprites consistently reflect introversion through subtle expressions (shy, determined restraint, embarrassed vulnerability) and avoid loud displays, though 'determined' is used somewhat repetitively where quieter hesitation or internal resolve might better capture her soft-spoken nature; emotional progression tracks the arc from anxiety→resolve→compassion→shame→quiet acceptance with only minor misalignments."
+    }
+  }
+}

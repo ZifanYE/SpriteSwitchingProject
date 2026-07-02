@@ -1,0 +1,125 @@
+{
+  "instance_id": "story_0007",
+  "pipeline": "twostage",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "expression_labels": [
+    "anger",
+    "disgust",
+    "fear",
+    "happiness",
+    "neutral",
+    "sadness",
+    "surprise"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panicked embarrassment and self-reproach, worried that starting the term late has already gone wrong.",
+      "label": "fear"
+    },
+    {
+      "turn": 6,
+      "text": "I just needed a shortcut...",
+      "emotion_description": "She feels embarrassed and quietly frustrated with herself, a little stunned that her small attempt to save time has gone so badly wrong.",
+      "label": "sadness"
+    },
+    {
+      "turn": 9,
+      "text": "If I go back now... where is back?",
+      "emotion_description": "She feels quietly disoriented and uneasy, with a small thread of fear giving way to cautious curiosity as she realizes there may be no simple way to return.",
+      "label": "fear"
+    },
+    {
+      "turn": 12,
+      "text": "S-sorry. I didn't mean to come here.",
+      "emotion_description": "She feels startled and embarrassed, with a quiet, apologetic fear that she has intruded somewhere impossible and may have done something wrong.",
+      "label": "fear"
+    },
+    {
+      "turn": 14,
+      "text": "I have entrance assembly. Or... first-term assembly.",
+      "emotion_description": "She is flustered and anxious, trying to cling to the normal school routine as a small anchor while quietly realizing how badly her morning has gone off course.",
+      "label": "fear"
+    },
+    {
+      "turn": 18,
+      "text": "Can I get home quickly?",
+      "emotion_description": "She is anxious and flustered, trying to stay polite while urgently hoping for reassurance and a way back before her first-day worries get worse.",
+      "label": "fear"
+    },
+    {
+      "turn": 22,
+      "text": "It's... pretty.",
+      "emotion_description": "She is quietly awed and a little relieved, letting her fear soften into shy wonder as she takes in the strange beauty around her.",
+      "label": "happiness"
+    },
+    {
+      "turn": 28,
+      "text": "It's breaking?",
+      "emotion_description": "She is startled and anxious, with a small, disbelieving fear that makes her voice rise only slightly as she tries to understand the danger.",
+      "label": "fear"
+    },
+    {
+      "turn": 32,
+      "text": "I can't... I'm not good at this...",
+      "emotion_description": "She feels overwhelmed and self-doubting, with a quiet panic that she’s failing to cope even as she keeps trying to push forward.",
+      "label": "fear"
+    },
+    {
+      "turn": 36,
+      "text": "Ah—!",
+      "emotion_description": "A sharp burst of panic and helpless surprise as she loses her footing, with fear overriding her usual quiet composure.",
+      "label": "fear"
+    },
+    {
+      "turn": 40,
+      "text": "...Okay.",
+      "emotion_description": "She is frightened but gathering herself, clinging to Ren’s steady reassurance and forcing a small, quiet resolve to keep going.",
+      "label": "neutral"
+    },
+    {
+      "turn": 44,
+      "text": "May?",
+      "emotion_description": "She is quietly alarmed and uncertain, trying to understand the warning while holding back her fear and clinging to the hope that she can still get home.",
+      "label": "fear"
+    },
+    {
+      "turn": 47,
+      "text": "Then... thank you. For noticing me.",
+      "emotion_description": "She feels quietly grateful and a little vulnerable, touched that someone saw her and helped her when she was frightened and lost.",
+      "label": "happiness"
+    },
+    {
+      "turn": 50,
+      "text": "I won't. Probably.",
+      "emotion_description": "She is trying to sound lightly reassuring and a little self-conscious, but underneath the small joke there is lingering nerves and a tentative trust in Ren.",
+      "label": "happiness"
+    },
+    {
+      "turn": 54,
+      "text": "I'm... still late.",
+      "emotion_description": "She feels a small, weary mix of lingering panic and embarrassed resignation, with a faint thread of relief that she made it back at all.",
+      "label": "sadness"
+    },
+    {
+      "turn": 57,
+      "text": "So it wasn't a dream.",
+      "emotion_description": "She feels quiet, stunned relief mixed with lingering awe, as if she is trying to confirm that the impossible really happened and that she is not imagining it.",
+      "label": "surprise"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Mostly subtle and reserved overall—fear dominates appropriately, wonder/thanks are softly happy, but a few beats feel off, especially neutral on '...Okay' and happiness on the more tentative gratitude/joke lines."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Sprites consistently reflect an introverted character's subtle emotional range—fear dominates appropriately given the supernatural crisis, happiness appears only in quiet moments of gratitude, and neutral/sadness emerge during introspection; one minor slip is the 'happiness' sprite at 'It's... pretty' which reads slightly too open for someone described as showing emotion subtly, but the overall arc of restraint and internal processing is maintained."
+    }
+  }
+}

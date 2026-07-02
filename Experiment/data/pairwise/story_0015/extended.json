@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0015",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B’s restrained, mostly uneasy/confused choices better suit an introverted girl’s subtle affect, while A occasionally overstates reactions with exasperated/astonished beats even though it has a few sharper emotional accents."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "A",
+      "rationale": "B's near-uniform uneasy_confused suits the reserved personality but flattens emotion, while A's varied astonished/serious/exasperated sprites track the line-by-line emotional beats far better."
+    }
+  }
+}

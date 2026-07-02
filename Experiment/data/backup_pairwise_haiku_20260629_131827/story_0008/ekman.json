@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0008",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "A",
+      "rationale": "B’s added sadness on the self-deprecating lines feels more inward and reserved for an introvert, but A better matches the bakery beat by using happiness for the brief relieved almost-laughing thank-you instead of over-somber sadness."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "Version A uses neutral sprite for self-deprecating humor ('defeated by basic clothing maintenance') and happiness when finding absurdity in disaster, better matching an introvert's subtle emotional expression; Version B overuses sadness in moments requiring restraint or wry acceptance, misrepresenting how a reserved character processes embarrassment."
+    }
+  }
+}

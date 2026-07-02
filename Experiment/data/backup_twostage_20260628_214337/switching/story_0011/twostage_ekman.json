@@ -1,0 +1,113 @@
+{
+  "instance_id": "story_0011",
+  "pipeline": "twostage",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "expression_labels": [
+    "anger",
+    "disgust",
+    "fear",
+    "happiness",
+    "neutral",
+    "sadness",
+    "surprise"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panicked embarrassment and self-reproach, worried that starting the term late has already ruined her chance to make a good impression.",
+      "label": "fear"
+    },
+    {
+      "turn": 5,
+      "text": "...\"Don't take the usual road to school.\"",
+      "emotion_description": "She feels a quiet, uneasy alarm and a growing sense of being watched, trying to stay composed while the warning unsettles her.",
+      "label": "fear"
+    },
+    {
+      "turn": 7,
+      "text": "I should've ignored it.",
+      "emotion_description": "She feels a quiet, uneasy regret and self-reproach, wishing she had trusted her own judgment instead of letting the note unsettle her.",
+      "label": "sadness"
+    },
+    {
+      "turn": 8,
+      "text": "But... it was inside my shoe.",
+      "emotion_description": "She feels uneasy and quietly unsettled, torn between dismissing the note and the lingering sense that its strange placement makes it hard to ignore.",
+      "label": "fear"
+    },
+    {
+      "turn": 12,
+      "text": "...Ah.",
+      "emotion_description": "She feels a quiet, startled chill of relief and unease at once, realizing the note may have saved her from something bad while making the whole situation feel unsettlingly real.",
+      "label": "fear"
+    },
+    {
+      "turn": 14,
+      "text": "So that's why...?",
+      "emotion_description": "She feels a quiet, uneasy shock as the warning suddenly makes sense, with a faint tremor of fear and relief mixed together.",
+      "label": "surprise"
+    },
+    {
+      "turn": 17,
+      "text": "Y-yes.",
+      "emotion_description": "She feels startled and uneasy, but is trying to answer politely and keep her fear hidden behind a small, hesitant composure.",
+      "label": "fear"
+    },
+    {
+      "turn": 19,
+      "text": "Eh... how do you know that?",
+      "emotion_description": "She feels startled and uneasy, with a quiet spike of suspicion and confusion as she realizes the woman knows more about her than she expected.",
+      "label": "surprise"
+    },
+    {
+      "turn": 23,
+      "text": "...What?",
+      "emotion_description": "She is startled and uneasy, with a quiet surge of suspicion and confusion as the woman’s familiarity and warning make her feel suddenly exposed.",
+      "label": "fear"
+    },
+    {
+      "turn": 24,
+      "text": "I haven't even received one yet.",
+      "emotion_description": "She feels quietly unsettled and confused, with a faint edge of anxiety as she realizes something is wrong with her student ID and the woman seems to know more than she should.",
+      "label": "fear"
+    },
+    {
+      "turn": 29,
+      "text": "W-wait.",
+      "emotion_description": "She is startled and uneasy, trying to hold herself together while urgently seeking an explanation for the woman’s ominous warning.",
+      "label": "fear"
+    },
+    {
+      "turn": 30,
+      "text": "Who are you?",
+      "emotion_description": "She is tense and bewildered, trying to steady her fear with a cautious question while feeling the situation slip beyond her understanding.",
+      "label": "fear"
+    },
+    {
+      "turn": 34,
+      "text": "...No way.",
+      "emotion_description": "She is stunned and unsettled, trying to deny what just happened while a quiet thread of fear and confusion tightens inside her.",
+      "label": "fear"
+    },
+    {
+      "turn": 38,
+      "text": "\"Class 1-C.\"",
+      "emotion_description": "She feels a tight, uneasy shock mixed with dawning dread, as if the strange message has just confirmed that something is watching her and she is trying to stay composed despite the fear.",
+      "label": "fear"
+    },
+    {
+      "turn": 40,
+      "text": "This isn't funny.",
+      "emotion_description": "She is frightened and unsettled, trying to steady herself by rejecting the situation as a bad joke even though she feels the eerie warning is becoming real.",
+      "label": "fear"
+    },
+    {
+      "turn": 42,
+      "text": "...I have to go.",
+      "emotion_description": "She is frightened and overwhelmed, but forcing herself into motion with a thin thread of resolve because she knows she cannot afford to stop and think right now.",
+      "label": "fear"
+    }
+  ]
+}

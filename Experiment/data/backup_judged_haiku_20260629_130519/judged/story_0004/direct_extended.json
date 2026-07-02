@@ -1,0 +1,138 @@
+{
+  "instance_id": "story_0004",
+  "pipeline": "direct",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "astonished",
+    "crying_hard",
+    "displeased_frown",
+    "exasperated",
+    "holding_back_tears",
+    "interested_attentive",
+    "natural_smile_cheerful",
+    "sad",
+    "serious_expressionless",
+    "slightly_happy_faint_smile",
+    "surprised",
+    "unconvinced",
+    "uneasy_confused"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": null,
+      "label": "exasperated"
+    },
+    {
+      "turn": 6,
+      "text": "I had it this morning... I know I did...",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 8,
+      "text": "Um...",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 9,
+      "text": "Are you okay?",
+      "emotion_description": null,
+      "label": "interested_attentive"
+    },
+    {
+      "turn": 12,
+      "text": "You got separated?",
+      "emotion_description": null,
+      "label": "interested_attentive"
+    },
+    {
+      "turn": 16,
+      "text": "...I can't just leave you.",
+      "emotion_description": null,
+      "label": "serious_expressionless"
+    },
+    {
+      "turn": 17,
+      "text": "Do you know your brother's name?",
+      "emotion_description": null,
+      "label": "interested_attentive"
+    },
+    {
+      "turn": 19,
+      "text": "Okay. Let's stand by the police box.",
+      "emotion_description": null,
+      "label": "serious_expressionless"
+    },
+    {
+      "turn": 23,
+      "text": "I just... happened to see her.",
+      "emotion_description": null,
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 30,
+      "text": "She's been scared for a while.",
+      "emotion_description": null,
+      "label": "sad"
+    },
+    {
+      "turn": 34,
+      "text": "It's okay now.",
+      "emotion_description": null,
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 36,
+      "text": "...You're welcome.",
+      "emotion_description": null,
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 40,
+      "text": "Ah...",
+      "emotion_description": null,
+      "label": "astonished"
+    },
+    {
+      "turn": 41,
+      "text": "First period is definitely starting.",
+      "emotion_description": null,
+      "label": "exasperated"
+    },
+    {
+      "turn": 44,
+      "text": "They're all going to look at me...",
+      "emotion_description": null,
+      "label": "holding_back_tears"
+    },
+    {
+      "turn": 47,
+      "text": "But... I did the right thing.",
+      "emotion_description": null,
+      "label": "holding_back_tears"
+    },
+    {
+      "turn": 50,
+      "text": "So... I'll go.",
+      "emotion_description": null,
+      "label": "slightly_happy_faint_smile"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 3,
+      "emotional_fidelity": 4,
+      "rationale": "Most later choices fit Aoi’s quiet, restrained affect, but early exasperated/astonished beats feel too outwardly strong for an introverted girl even though the scene’s emotional arc is otherwise coherent."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Sprites consistently reflect introversion through subtle expressions (faint smiles, downcast looks, quiet pauses) and avoid overwrought displays; emotional progression is coherent and well-matched to dialogue, with only minor misalignments (e.g., 'interested_attentive' for 'Um...' is slightly forward for someone hesitant to engage)."
+    }
+  }
+}

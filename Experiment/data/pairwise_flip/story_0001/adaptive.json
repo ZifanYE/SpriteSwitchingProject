@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0001",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays subtler and more introverted with shy relief where B turns two gentle gratitude/reassurance beats into overly outward smile/determined sprites."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "The two differ only on two lines: A's 'shy' for 'You saved me' fits the reserved character better than B's 'smile', and A's 'smile' for the tentative recovery line is more fitting than B's 'determined', which feels too assertive for this introvert."
+    }
+  }
+}

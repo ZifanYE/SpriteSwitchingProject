@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0013",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A better preserves Aoi’s quiet, inward restraint by using determined/confused where B overplays anxiety/surprise, yielding subtler and more coherent emotional beats."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "The lines differ only at three points where B's anxious/surprised choices ('I know I did', 'That's worse', 'You want me to help?') better fit a reserved character's subtle unease than A's determined/confused picks."
+    }
+  }
+}

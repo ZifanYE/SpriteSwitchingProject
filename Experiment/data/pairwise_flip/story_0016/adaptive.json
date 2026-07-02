@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0016",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays more reserved with shy/anxious embarrassment where B’s determined beats feel a bit too forceful for an introverted girl, though both track the scene’s emotions well overall."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "B",
+      "rationale": "A's softer 'embarrassed'/'shy' choices fit the reserved personality slightly better, while B's 'determined' and 'anxious' picks more accurately capture the emotional beats of pressing on and panic."
+    }
+  }
+}

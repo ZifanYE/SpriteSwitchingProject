@@ -1,0 +1,140 @@
+{
+  "instance_id": "story_0010",
+  "pipeline": "direct",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "anxious",
+    "confused",
+    "determined",
+    "embarrassed",
+    "neutral",
+    "sad",
+    "shy",
+    "smile",
+    "surprised"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 7,
+      "text": "Ah—!",
+      "emotion_description": null,
+      "label": "surprised"
+    },
+    {
+      "turn": 12,
+      "text": "I-I'm sorry.",
+      "emotion_description": null,
+      "label": "embarrassed"
+    },
+    {
+      "turn": 13,
+      "text": "I turned too fast.",
+      "emotion_description": null,
+      "label": "embarrassed"
+    },
+    {
+      "turn": 16,
+      "text": "You don't have to—",
+      "emotion_description": null,
+      "label": "embarrassed"
+    },
+    {
+      "turn": 19,
+      "text": "I won't cry.",
+      "emotion_description": null,
+      "label": "determined"
+    },
+    {
+      "turn": 22,
+      "text": "...Thank you.",
+      "emotion_description": null,
+      "label": "shy"
+    },
+    {
+      "turn": 25,
+      "text": "Um. Your tag.",
+      "emotion_description": null,
+      "label": "shy"
+    },
+    {
+      "turn": 29,
+      "text": "You're the transfer student.",
+      "emotion_description": null,
+      "label": "neutral"
+    },
+    {
+      "turn": 31,
+      "text": "Only a little.",
+      "emotion_description": null,
+      "label": "shy"
+    },
+    {
+      "turn": 34,
+      "text": "Aoi. First year.",
+      "emotion_description": null,
+      "label": "shy"
+    },
+    {
+      "turn": 36,
+      "text": "Was it the panic?",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 39,
+      "text": "Oh no...",
+      "emotion_description": null,
+      "label": "embarrassed"
+    },
+    {
+      "turn": 40,
+      "text": "The staff room— I still have to take this there.",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 44,
+      "text": "You know already?",
+      "emotion_description": null,
+      "label": "surprised"
+    },
+    {
+      "turn": 47,
+      "text": "Then... we're both doing badly.",
+      "emotion_description": null,
+      "label": "smile"
+    },
+    {
+      "turn": 50,
+      "text": "...Right.",
+      "emotion_description": null,
+      "label": "shy"
+    },
+    {
+      "turn": 51,
+      "text": "Thank you, Kazami-senpai.",
+      "emotion_description": null,
+      "label": "shy"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "The sprites mostly suit an introverted girl through shy/embarrassed/quiet smiles and subtle reactions, with only minor overstatement in the determined beat and a few generic labels."
+    },
+    "claude": {
+      "character_consistency": 5,
+      "emotional_fidelity": 5,
+      "rationale": "Sprites stay subtle and reserved (shy, embarrassed, small smile) while precisely tracking the emotional arc from panic to flustered gratitude to quiet warmth, with the lone 'determined' fitting her restrained flash of offense."
+    }
+  }
+}

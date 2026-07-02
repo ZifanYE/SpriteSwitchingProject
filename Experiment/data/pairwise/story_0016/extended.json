@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0016",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "They are identical except A uses a more heightened surprised sprite for the bus-chasing plea and a more upbeat hopeful sprite for 'Maybe... maybe I can still make homeroom,' while B’s more restrained choices better suit an introverted girl and the scene’s emotional flow."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "A",
+      "rationale": "The three differing lines diverge: B's 'surprised' and 'uneasy_confused' choices read as more reserved/subtle (better CC), while A's 'astonished' for 'Ah—!' and 'slightly_happy_faint_smile' for the hopeful homeroom line match the implied emotions more precisely (better EF)."
+    }
+  }
+}

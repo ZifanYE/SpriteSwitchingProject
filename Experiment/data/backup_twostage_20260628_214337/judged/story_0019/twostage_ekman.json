@@ -1,0 +1,131 @@
+{
+  "instance_id": "story_0019",
+  "pipeline": "twostage",
+  "expression_set": "ekman",
+  "personality": "extroverted",
+  "expression_labels": [
+    "anger",
+    "disgust",
+    "fear",
+    "happiness",
+    "neutral",
+    "sadness",
+    "surprise"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels panicked and flustered, with a burst of frustrated disbelief at being late on the very first day and a strong urge to fix it immediately.",
+      "label": "fear"
+    },
+    {
+      "turn": 3,
+      "text": "Why today of all days? My alarm worked! I know it did!",
+      "emotion_description": "She feels flustered and incredulous, half-panicking at the unfairness of being late while desperately insisting she did everything right.",
+      "label": "anger"
+    },
+    {
+      "turn": 5,
+      "text": "Wait. Where's my pass?",
+      "emotion_description": "She’s suddenly panicked and flustered, with a sharp spike of anxiety as she realizes her missing pass could make her already disastrous morning even worse.",
+      "label": "fear"
+    },
+    {
+      "turn": 7,
+      "text": "Come on, come on, don't do this to me!",
+      "emotion_description": "She is panicked and increasingly desperate, trying to force herself into control while feeling the morning spiral out of her hands.",
+      "label": "fear"
+    },
+    {
+      "turn": 9,
+      "text": "Seriously... I stopped to read that creepy note, and now my pass is gone?",
+      "emotion_description": "She feels panicked and exasperated, with a sharp spike of suspicion and self-reproach as she realizes her own curiosity may have caused the mess.",
+      "label": "fear"
+    },
+    {
+      "turn": 13,
+      "text": "I'm late, I'm cardless, and I'm trying very hard not to become a tragedy in a school uniform.",
+      "emotion_description": "She is flustered and panicking, but trying to keep her fear under control by turning it into a joking, self-aware complaint.",
+      "label": "fear"
+    },
+    {
+      "turn": 16,
+      "text": "Platform three... you're kidding.",
+      "emotion_description": "She feels a sharp mix of disbelief and wary hope, as if the creepy note may actually be leading somewhere real and she’s bracing herself for whatever comes next.",
+      "label": "surprise"
+    },
+    {
+      "turn": 18,
+      "text": "Sorry! Excuse me! First-day emergency!",
+      "emotion_description": "She is breathless and panicked but also energized by the urgency, trying to stay upbeat and socially smooth while rushing to fix the disaster.",
+      "label": "fear"
+    },
+    {
+      "turn": 20,
+      "text": "Oh, thank goodness! That's mine—",
+      "emotion_description": "She feels sudden, breathless relief and grateful excitement, with a lingering edge of disbelief after the morning’s panic.",
+      "label": "happiness"
+    },
+    {
+      "turn": 24,
+      "text": "...How do you know my name?",
+      "emotion_description": "She is startled and instantly wary, her earlier panic sharpening into tense suspicion as she tries to figure out how this stranger knows so much about her.",
+      "label": "fear"
+    },
+    {
+      "turn": 26,
+      "text": "Okay, wow. That's not a normal sentence.",
+      "emotion_description": "She is startled and wary, trying to mask her unease with a quick, incredulous joke while her mind races to figure out who this person is and what they want.",
+      "label": "surprise"
+    },
+    {
+      "turn": 28,
+      "text": "Did my friends put you up to this? Because this prank is way too elaborate for eight in the morning.",
+      "emotion_description": "She’s startled but trying to regain control by turning the situation into a joke, with suspicion and nervous excitement bubbling under her frustration.",
+      "label": "surprise"
+    },
+    {
+      "turn": 30,
+      "text": "That made it worse. You know that, right?",
+      "emotion_description": "She feels a sharp mix of alarm and irritated disbelief, with her usual boldness turning into wary suspicion as the stranger’s cryptic warning makes the situation feel even more unsettling.",
+      "label": "fear"
+    },
+    {
+      "turn": 33,
+      "text": "Nope. No. Absolutely not.",
+      "emotion_description": "She is jolted into alarmed disbelief, trying to reject the impossible situation out loud while her confidence gives way to a tense, wary panic.",
+      "label": "fear"
+    },
+    {
+      "turn": 35,
+      "text": "People do not just vanish before homeroom!",
+      "emotion_description": "She is startled and increasingly alarmed, trying to force a rational explanation onto something that feels impossible while her usual boldness turns into frantic disbelief.",
+      "label": "fear"
+    },
+    {
+      "turn": 37,
+      "text": "Aah— school! Mystery later, attendance first!",
+      "emotion_description": "She is forcing herself into brisk, upbeat determination to stay in control, pushing fear and confusion aside with a nervous, energetic resolve to make it to school on time.",
+      "label": "fear"
+    },
+    {
+      "turn": 39,
+      "text": "Seat by the window, huh... If that's true, who were you?",
+      "emotion_description": "She’s rattled but intensely curious, trying to turn her fear into a determined, investigative focus as she wonders who the stranger really was.",
+      "label": "fear"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 3,
+      "emotional_fidelity": 3,
+      "rationale": "Aoi’s expressive, talkative panic mostly fits an extrovert, but the sprites lean too heavily on fear—missing clearer frustration/comic exasperation on lines like the alarm complaint, the prank accusation, and the final curious reflection."
+    },
+    "claude": {
+      "character_consistency": 2,
+      "emotional_fidelity": 2,
+      "rationale": "An extroverted character who 'laughs openly' and 'speaks her mind readily' should show visible frustration, wide-eyed surprise, and bright grins—yet fear dominates 11 of 15 sprites, with only two surprise and one happiness choice; the sprite sequence flattens her expressiveness into sustained panic rather than the dynamic mood shifts her personality demands."
+    }
+  }
+}

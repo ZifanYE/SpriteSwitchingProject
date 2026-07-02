@@ -1,0 +1,126 @@
+{
+  "instance_id": "story_0015",
+  "pipeline": "twostage",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "astonished",
+    "crying_hard",
+    "displeased_frown",
+    "exasperated",
+    "holding_back_tears",
+    "interested_attentive",
+    "natural_smile_cheerful",
+    "sad",
+    "serious_expressionless",
+    "slightly_happy_faint_smile",
+    "surprised",
+    "unconvinced",
+    "uneasy_confused"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panicked embarrassment and self-reproach, worried that starting the term late has already ruined her chance to make a good impression.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 5,
+      "text": "...What?",
+      "emotion_description": "She is quietly startled and disoriented, pausing in disbelief at the strange reflection while trying to keep her composure.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 9,
+      "text": "N-no way...",
+      "emotion_description": "She is stunned and quietly frightened, her usual composure slipping as she tries to deny what she just saw.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 12,
+      "text": "A key...?",
+      "emotion_description": "She is stunned and quietly bewildered, trying to make sense of the impossible while keeping her fear and excitement tightly contained.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 17,
+      "text": "Root?",
+      "emotion_description": "She is startled and quietly bewildered, trying to make sense of Rowan’s strange warning while instinctively focusing on the single unfamiliar word.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 19,
+      "text": "This is why I'm late...?",
+      "emotion_description": "She feels bewildered and faintly panicked, trying to make sense of the impossible situation while quietly blaming herself for the delay.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 21,
+      "text": "School. Opening ceremony. First years have to be early.",
+      "emotion_description": "She is flustered and anxious about being late, but tries to steady herself by clinging to the ordinary school routine and speaking in a small, matter-of-fact way.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 24,
+      "text": "If I do, will this... close?",
+      "emotion_description": "She is anxious and cautious, quietly weighing the risk of letting go of the key while hoping to understand whether doing so will safely end this strange situation.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 28,
+      "text": "...All right.",
+      "emotion_description": "She is tense and bewildered, but quietly resolves to trust him and hand over the key despite her lingering fear and urgency about being late.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 32,
+      "text": "You know my name?",
+      "emotion_description": "She is quietly startled and a little wary, with a shy, tentative curiosity as she realizes this stranger somehow knows her name.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 38,
+      "text": "So that's it...?",
+      "emotion_description": "She is quietly bewildered and still trying to make sense of the impossible, with a cautious trace of relief now that the danger seems to be passing.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 45,
+      "text": "Rowan...",
+      "emotion_description": "She is quietly alarmed and searching for reassurance, her relief collapsing into tense worry as she realizes the danger is far from over.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 48,
+      "text": "Ah—!",
+      "emotion_description": "She is jolted into sharp, frightened shock, her composure breaking for an instant as the sudden brand and the creature’s gaze overwhelm her.",
+      "label": "surprised"
+    },
+    {
+      "turn": 52,
+      "text": "This... is really bad, isn't it?",
+      "emotion_description": "She feels a quiet, sinking dread mixed with disbelief, trying to stay composed while realizing she has been pulled into something far beyond an ordinary school morning.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 59,
+      "text": "...Can this wait until after homeroom?",
+      "emotion_description": "She is trying to steady herself by clinging to normal school routine, masking her lingering panic with quiet practicality and a faint, overwhelmed hope that she can postpone the impossible for just a little while.",
+      "label": "uneasy_confused"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 2,
+      "rationale": "The mostly subdued, uneasy sprites suit an introverted girl, but reusing uneasy_confused for relief, tentative acceptance, curiosity, and quiet humor misses many line-specific emotional turns."
+    },
+    "claude": {
+      "character_consistency": 2,
+      "emotional_fidelity": 2,
+      "rationale": "Aoi uses uneasy_confused for nearly every line regardless of context (shock at the key, relief after closing the portal, the final quip about homeroom), failing to show the subtle emotional modulation and restraint an introverted character would display; the single surprised sprite at the sigil mark is too little, too late to salvage the monotonous affect."
+    }
+  }
+}

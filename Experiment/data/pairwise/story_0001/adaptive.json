@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0001",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "They are identical until the end, where B’s shy→smile recovery stays subtler and more introverted, while A’s smile→determined reads slightly too assertive for both the personality and the scene’s gentle emotional resolution."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "The two differ only on three lines; B's shy-then-smile-then-smile progression fits the reserved character's gradual easing better than A's smile-determined-smile, which has a less subtle 'determined' beat."
+    }
+  }
+}

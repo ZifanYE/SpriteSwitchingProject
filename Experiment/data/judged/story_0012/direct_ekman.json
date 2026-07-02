@@ -1,0 +1,167 @@
+{
+  "instance_id": "story_0012",
+  "pipeline": "direct",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "expression_labels": [
+    "anger",
+    "disgust",
+    "fear",
+    "happiness",
+    "neutral",
+    "sadness",
+    "surprise"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 5,
+      "text": "If I cut through the plaza... maybe I can still make it.",
+      "emotion_description": null,
+      "label": "neutral"
+    },
+    {
+      "turn": 8,
+      "text": "...Um.",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 10,
+      "text": "Are you... lost?",
+      "emotion_description": null,
+      "label": "neutral"
+    },
+    {
+      "turn": 13,
+      "text": "It's okay. Don't move, all right?",
+      "emotion_description": null,
+      "label": "happiness"
+    },
+    {
+      "turn": 14,
+      "text": "Do you know her phone number?",
+      "emotion_description": null,
+      "label": "neutral"
+    },
+    {
+      "turn": 18,
+      "text": "...It's fine.",
+      "emotion_description": null,
+      "label": "sadness"
+    },
+    {
+      "turn": 19,
+      "text": "We'll find someone to help.",
+      "emotion_description": null,
+      "label": "happiness"
+    },
+    {
+      "turn": 22,
+      "text": "Ah...",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 25,
+      "text": "I know.",
+      "emotion_description": null,
+      "label": "sadness"
+    },
+    {
+      "turn": 26,
+      "text": "Let's stay where she can find you.",
+      "emotion_description": null,
+      "label": "sadness"
+    },
+    {
+      "turn": 28,
+      "text": "What does she look like?",
+      "emotion_description": null,
+      "label": "neutral"
+    },
+    {
+      "turn": 31,
+      "text": "Excuse me!",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 32,
+      "text": "Has anyone seen an older woman with a brown hat?",
+      "emotion_description": null,
+      "label": "neutral"
+    },
+    {
+      "turn": 35,
+      "text": "She's looking for this boy.",
+      "emotion_description": null,
+      "label": "neutral"
+    },
+    {
+      "turn": 42,
+      "text": "I'm glad I found him.",
+      "emotion_description": null,
+      "label": "happiness"
+    },
+    {
+      "turn": 47,
+      "text": "...Yes.",
+      "emotion_description": null,
+      "label": "sadness"
+    },
+    {
+      "turn": 51,
+      "text": "Please don't be.",
+      "emotion_description": null,
+      "label": "sadness"
+    },
+    {
+      "turn": 52,
+      "text": "He wasn't alone.",
+      "emotion_description": null,
+      "label": "happiness"
+    },
+    {
+      "turn": 58,
+      "text": "Aoi Sakamizu.",
+      "emotion_description": null,
+      "label": "neutral"
+    },
+    {
+      "turn": 62,
+      "text": "I stopped to help a lost child near the station.",
+      "emotion_description": null,
+      "label": "neutral"
+    },
+    {
+      "turn": 65,
+      "text": "Yes, sir.",
+      "emotion_description": null,
+      "label": "neutral"
+    },
+    {
+      "turn": 69,
+      "text": "It was okay.",
+      "emotion_description": null,
+      "label": "happiness"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 3,
+      "emotional_fidelity": 3,
+      "rationale": "Several subdued choices fit Aoi’s reserved nature, but repeated neutral/happiness sprites flatten anxious, hesitant beats and the surprise/fear labels overstate moments she expresses quietly."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Sprites track the emotional arc well (panic, gentle reassurance via subtle happiness, sadness at missing the bell, warm relief at the end), with only minor slips like 'fear' for a soft '...Um' and 'surprise' for raising her voice that slightly overstate her reserved nature."
+    }
+  }
+}

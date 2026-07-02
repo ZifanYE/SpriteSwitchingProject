@@ -1,0 +1,125 @@
+{
+  "instance_id": "story_0011",
+  "pipeline": "direct",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "expression_labels": [
+    "anger",
+    "disgust",
+    "fear",
+    "happiness",
+    "neutral",
+    "sadness",
+    "surprise"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 5,
+      "text": "...\"Don't take the usual road to school.\"",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 7,
+      "text": "I should've ignored it.",
+      "emotion_description": null,
+      "label": "sadness"
+    },
+    {
+      "turn": 8,
+      "text": "But... it was inside my shoe.",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 12,
+      "text": "...Ah.",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 14,
+      "text": "So that's why...?",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 17,
+      "text": "Y-yes.",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 19,
+      "text": "Eh... how do you know that?",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 23,
+      "text": "...What?",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 24,
+      "text": "I haven't even received one yet.",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 29,
+      "text": "W-wait.",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 30,
+      "text": "Who are you?",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 34,
+      "text": "...No way.",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 38,
+      "text": "\"Class 1-C.\"",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 40,
+      "text": "This isn't funny.",
+      "emotion_description": null,
+      "label": "anger"
+    },
+    {
+      "turn": 42,
+      "text": "...I have to go.",
+      "emotion_description": null,
+      "label": "fear"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 3,
+      "emotional_fidelity": 4,
+      "rationale": "Fear and subdued sadness fit Aoi’s anxious, reserved demeanor, but repeated overt surprise/anger sprites make her read more visibly reactive than this introverted personality would usually show."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Sprite choices consistently favor fear and surprise—appropriate for an introverted character experiencing supernatural dread—with only minor misalignment: the anger sprite at 'This isn't funny' slightly overexpresses what an introverted character would likely suppress, and some surprise moments could have been subtler (downcast eyes or hesitation rather than overt shock), but the overall arc respects her reserved, internalizing nature."
+    }
+  }
+}

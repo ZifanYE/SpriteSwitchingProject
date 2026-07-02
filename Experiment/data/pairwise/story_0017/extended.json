@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0017",
+  "expression_set": "extended",
+  "personality": "extroverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "strong",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A keeps Aoi broadly expressive while tracking her embarrassment-to-relief arc more plausibly; B overuses cheerful sprites in awkward beats and softens several emotions that should read flustered or strained."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B's brighter, more expressive sprite choices at key beats (the wry 'Love that for me', the 'Made it' grin, the dramatic-entrance line) better fit her extroverted self-deprecating humor and emotional flow, whereas A's repeated exasperation and the awkward surprised+confused stack at the wrong-classroom moment is slightly less coherent."
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "instance_id": "story_0001",
+  "pipeline": "direct",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "astonished",
+    "crying_hard",
+    "displeased_frown",
+    "exasperated",
+    "holding_back_tears",
+    "interested_attentive",
+    "natural_smile_cheerful",
+    "sad",
+    "serious_expressionless",
+    "slightly_happy_faint_smile",
+    "surprised",
+    "unconvinced",
+    "uneasy_confused"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": null,
+      "label": "exasperated"
+    },
+    {
+      "turn": 4,
+      "text": "Please don't say that...",
+      "emotion_description": null,
+      "label": "holding_back_tears"
+    },
+    {
+      "turn": 6,
+      "text": "If I miss the opening homeroom...",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 9,
+      "text": "I'm sorry. I'm late.",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 12,
+      "text": "Class 1-B... second floor, right?",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 16,
+      "text": "S-sorry for interrupting...",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 20,
+      "text": "Ah... right. I'm very sorry.",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 23,
+      "text": "I couldn't even be late correctly...",
+      "emotion_description": null,
+      "label": "exasperated"
+    },
+    {
+      "turn": 27,
+      "text": "Y-yes. I mixed up the rooms.",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 30,
+      "text": "Thank you...",
+      "emotion_description": null,
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 34,
+      "text": "I'm sorry for causing trouble.",
+      "emotion_description": null,
+      "label": "holding_back_tears"
+    },
+    {
+      "turn": 37,
+      "text": "You saved me.",
+      "emotion_description": null,
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 40,
+      "text": "Okay... I can do that.",
+      "emotion_description": null,
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 42,
+      "text": "Maybe... this day isn't ruined after all.",
+      "emotion_description": null,
+      "label": "slightly_happy_faint_smile"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 3,
+      "rationale": "The sequence is mostly shy and subdued with repeated uneasy/confused and faint-smile choices, but exasperated and especially holding_back_tears overstate several moments that read as anxious embarrassment rather than near-crying distress."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Sprites consistently reflect introversion through restraint and subtle emotion (uneasy_confused dominates; faint smiles appear only after kindness), with one misalignment: 'holding_back_tears' at the station and after sitting down both feel slightly overwrought for someone who internalizes emotion quietly rather than visibly struggling."
+    }
+  }
+}

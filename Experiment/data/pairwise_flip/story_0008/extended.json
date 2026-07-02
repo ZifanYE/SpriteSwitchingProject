@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0008",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A better preserves Aoi’s subdued, inward embarrassment with softer choices like faint_smile/neutral where B often pushes her into harsher exasperation, frown, or tears at quieter beats."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A's self-deprecating wry smile at clothing defeat and serious/blank pause at the crushed croquette read as more subtly introverted and emotionally coherent, while B's repeated exasperated and displeased_frown choices feel slightly louder and less fitting."
+    }
+  }
+}

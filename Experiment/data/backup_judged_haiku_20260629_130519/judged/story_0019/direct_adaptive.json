@@ -1,0 +1,134 @@
+{
+  "instance_id": "story_0019",
+  "pipeline": "direct",
+  "expression_set": "adaptive",
+  "personality": "extroverted",
+  "expression_labels": [
+    "angry",
+    "anxious",
+    "confused",
+    "determined",
+    "embarrassed",
+    "neutral",
+    "sad",
+    "shy",
+    "smile",
+    "surprised"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 3,
+      "text": "Why today of all days? My alarm worked! I know it did!",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 5,
+      "text": "Wait. Where's my pass?",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 7,
+      "text": "Come on, come on, don't do this to me!",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 9,
+      "text": "Seriously... I stopped to read that creepy note, and now my pass is gone?",
+      "emotion_description": null,
+      "label": "angry"
+    },
+    {
+      "turn": 13,
+      "text": "I'm late, I'm cardless, and I'm trying very hard not to become a tragedy in a school uniform.",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 16,
+      "text": "Platform three... you're kidding.",
+      "emotion_description": null,
+      "label": "surprised"
+    },
+    {
+      "turn": 18,
+      "text": "Sorry! Excuse me! First-day emergency!",
+      "emotion_description": null,
+      "label": "determined"
+    },
+    {
+      "turn": 20,
+      "text": "Oh, thank goodness! That's mine—",
+      "emotion_description": null,
+      "label": "smile"
+    },
+    {
+      "turn": 24,
+      "text": "...How do you know my name?",
+      "emotion_description": null,
+      "label": "surprised"
+    },
+    {
+      "turn": 26,
+      "text": "Okay, wow. That's not a normal sentence.",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 28,
+      "text": "Did my friends put you up to this? Because this prank is way too elaborate for eight in the morning.",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 30,
+      "text": "That made it worse. You know that, right?",
+      "emotion_description": null,
+      "label": "angry"
+    },
+    {
+      "turn": 33,
+      "text": "Nope. No. Absolutely not.",
+      "emotion_description": null,
+      "label": "angry"
+    },
+    {
+      "turn": 35,
+      "text": "People do not just vanish before homeroom!",
+      "emotion_description": null,
+      "label": "angry"
+    },
+    {
+      "turn": 37,
+      "text": "Aah— school! Mystery later, attendance first!",
+      "emotion_description": null,
+      "label": "determined"
+    },
+    {
+      "turn": 39,
+      "text": "Seat by the window, huh... If that's true, who were you?",
+      "emotion_description": null,
+      "label": "confused"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "The sequence is broadly expressive and proactive in an extroverted way—anxious panic, open irritation, surprise, and decisive urgency fit well—though a few beats are slightly off, especially using smile instead of stronger relief and repeating angry where fear/shock or bafflement would read truer."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Sprites consistently reflect an extroverted, expressive personality with visible emotional shifts (anxious→angry→surprised→determined), though the repeated use of anxious early on slightly underutilizes the range of an outgoing character, and confused appears once where frustration or indignation might sharpen the moment further."
+    }
+  }
+}

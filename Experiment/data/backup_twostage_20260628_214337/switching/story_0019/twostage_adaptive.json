@@ -1,0 +1,122 @@
+{
+  "instance_id": "story_0019",
+  "pipeline": "twostage",
+  "expression_set": "adaptive",
+  "personality": "extroverted",
+  "expression_labels": [
+    "angry",
+    "anxious",
+    "confused",
+    "determined",
+    "embarrassed",
+    "neutral",
+    "sad",
+    "shy",
+    "smile",
+    "surprised"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels panicked and flustered, with a burst of frustrated disbelief at being late on the very first day and a strong urge to fix it immediately.",
+      "label": "anxious"
+    },
+    {
+      "turn": 3,
+      "text": "Why today of all days? My alarm worked! I know it did!",
+      "emotion_description": "She feels flustered and incredulous, half-panicking at the unfairness of being late on the very first day while desperately insisting it isn’t her fault.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 5,
+      "text": "Wait. Where's my pass?",
+      "emotion_description": "She’s suddenly panicked and flustered, with a sharp spike of worry as she realizes her morning is getting even worse and she may be in trouble.",
+      "label": "anxious"
+    },
+    {
+      "turn": 7,
+      "text": "Come on, come on, don't do this to me!",
+      "emotion_description": "She is panicked and increasingly desperate, trying to keep herself from spiraling as she frantically searches and pleads with the situation to cooperate.",
+      "label": "anxious"
+    },
+    {
+      "turn": 9,
+      "text": "Seriously... I stopped to read that creepy note, and now my pass is gone?",
+      "emotion_description": "She feels panicked and frustrated, with a sharp spike of self-blame and suspicion as she realizes her delay may have cost her the pass.",
+      "label": "anxious"
+    },
+    {
+      "turn": 13,
+      "text": "I'm late, I'm cardless, and I'm trying very hard not to become a tragedy in a school uniform.",
+      "emotion_description": "She is flustered and embarrassed but still trying to stay joking and in control, using humor to mask rising panic about being late and unprepared.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 16,
+      "text": "Platform three... you're kidding.",
+      "emotion_description": "She feels a sharp jolt of disbelief and wary suspicion, with a flicker of hope underneath as she realizes the creepy note may actually have been leading her somewhere useful.",
+      "label": "surprised"
+    },
+    {
+      "turn": 18,
+      "text": "Sorry! Excuse me! First-day emergency!",
+      "emotion_description": "She is breathless and panicked but also energized by the urgency, trying to stay upbeat and socially smooth while rushing to fix the disaster.",
+      "label": "anxious"
+    },
+    {
+      "turn": 20,
+      "text": "Oh, thank goodness! That's mine—",
+      "emotion_description": "She feels sudden, breathless relief and grateful excitement, with a burst of hopeful energy now that her lost pass has been found.",
+      "label": "smile"
+    },
+    {
+      "turn": 24,
+      "text": "...How do you know my name?",
+      "emotion_description": "She is startled and instantly wary, with her earlier panic sharpening into tense suspicion as she tries to figure out how a stranger knows so much about her.",
+      "label": "surprised"
+    },
+    {
+      "turn": 26,
+      "text": "Okay, wow. That's not a normal sentence.",
+      "emotion_description": "She’s startled and wary, but trying to mask it with sharp, nervous humor as she realizes this stranger knows far too much.",
+      "label": "anxious"
+    },
+    {
+      "turn": 28,
+      "text": "Did my friends put you up to this? Because this prank is way too elaborate for eight in the morning.",
+      "emotion_description": "She is startled but trying to regain control by turning the bizarre encounter into a joke, with suspicion and nervous excitement bubbling under her frustration.",
+      "label": "surprised"
+    },
+    {
+      "turn": 30,
+      "text": "That made it worse. You know that, right?",
+      "emotion_description": "She feels a sharp mix of alarm and irritated disbelief, trying to push back against the stranger’s unsettling cryptic behavior while staying outwardly bold and in control.",
+      "label": "angry"
+    },
+    {
+      "turn": 33,
+      "text": "Nope. No. Absolutely not.",
+      "emotion_description": "She is jolted into alarmed disbelief, trying to reject the impossible situation out loud while her confidence wavers into nervous, defensive panic.",
+      "label": "surprised"
+    },
+    {
+      "turn": 35,
+      "text": "People do not just vanish before homeroom!",
+      "emotion_description": "She is rattled and incredulous, trying to force the situation back into something normal while panic and suspicion keep creeping in.",
+      "label": "anxious"
+    },
+    {
+      "turn": 37,
+      "text": "Aah— school! Mystery later, attendance first!",
+      "emotion_description": "She is forcing herself into upbeat, practical determination to outrun her fear, using humor and urgency to stay in control despite being rattled by the eerie encounter.",
+      "label": "determined"
+    },
+    {
+      "turn": 39,
+      "text": "Seat by the window, huh... If that's true, who were you?",
+      "emotion_description": "She’s rattled but intensely curious, trying to turn her fear into a determined need to figure out who the stranger was and why they knew so much about her.",
+      "label": "anxious"
+    }
+  ]
+}

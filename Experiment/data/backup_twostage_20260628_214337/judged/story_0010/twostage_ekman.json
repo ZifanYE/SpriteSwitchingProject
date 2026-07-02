@@ -1,0 +1,137 @@
+{
+  "instance_id": "story_0010",
+  "pipeline": "twostage",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "expression_labels": [
+    "anger",
+    "disgust",
+    "fear",
+    "happiness",
+    "neutral",
+    "sadness",
+    "surprise"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panic and self-reproach, worried that being late on the very first day has already ruined her careful start.",
+      "label": "fear"
+    },
+    {
+      "turn": 7,
+      "text": "Ah—!",
+      "emotion_description": "She feels a sudden jolt of startled panic and embarrassment, with a reflexive urge to apologize and shrink back after the collision.",
+      "label": "fear"
+    },
+    {
+      "turn": 12,
+      "text": "I-I'm sorry.",
+      "emotion_description": "She feels startled and flustered, with a tight, apologetic panic as she tries to recover from the collision and avoid making a bad first impression.",
+      "label": "fear"
+    },
+    {
+      "turn": 13,
+      "text": "I turned too fast.",
+      "emotion_description": "She is flustered and apologetic, trying to explain herself quietly while feeling embarrassed and anxious about the collision.",
+      "label": "fear"
+    },
+    {
+      "turn": 16,
+      "text": "You don't have to—",
+      "emotion_description": "She feels flustered and apologetic, but also quietly grateful and a little embarrassed by needing help, so she tries to stop him from doing the work for her.",
+      "label": "happiness"
+    },
+    {
+      "turn": 19,
+      "text": "I won't cry.",
+      "emotion_description": "She feels stung and embarrassed by his assumption, but quietly resolves to defend herself with a small, restrained firmness.",
+      "label": "anger"
+    },
+    {
+      "turn": 22,
+      "text": "...Thank you.",
+      "emotion_description": "She feels quietly embarrassed and flustered, but also relieved and unexpectedly touched by his help, so her gratitude comes out soft and restrained.",
+      "label": "happiness"
+    },
+    {
+      "turn": 25,
+      "text": "Um. Your tag.",
+      "emotion_description": "She feels a small, cautious mix of embarrassment and gratitude, with a quiet urge to return the tag without making a fuss.",
+      "label": "happiness"
+    },
+    {
+      "turn": 29,
+      "text": "You're the transfer student.",
+      "emotion_description": "She is quietly tentative and a little self-conscious, trying to confirm what she suspects while keeping her tone polite and restrained.",
+      "label": "fear"
+    },
+    {
+      "turn": 31,
+      "text": "Only a little.",
+      "emotion_description": "She feels a small, shy spark of embarrassment and guarded amusement, softening her earlier offense while trying to answer him modestly without drawing attention to herself.",
+      "label": "happiness"
+    },
+    {
+      "turn": 34,
+      "text": "Aoi. First year.",
+      "emotion_description": "She feels a little flustered but determined to sound composed, offering her name and year in a quiet, guarded way that hints at cautious curiosity beneath her reserve.",
+      "label": "fear"
+    },
+    {
+      "turn": 36,
+      "text": "Was it the panic?",
+      "emotion_description": "She is quietly curious and a little self-conscious, tentatively probing him while still feeling the lingering embarrassment of the collision.",
+      "label": "fear"
+    },
+    {
+      "turn": 39,
+      "text": "Oh no...",
+      "emotion_description": "She feels a sudden sinking panic and embarrassed dread as the bell reminds her she is already late, with a small, helpless resignation beneath her quiet composure.",
+      "label": "fear"
+    },
+    {
+      "turn": 40,
+      "text": "The staff room— I still have to take this there.",
+      "emotion_description": "She feels a sudden jolt of anxious urgency and embarrassment, realizing she is still late and trying to regain composure while focusing on the task at hand.",
+      "label": "fear"
+    },
+    {
+      "turn": 44,
+      "text": "You know already?",
+      "emotion_description": "She feels a small, embarrassed surprise that he already knows where she needs to go, mixed with a quiet relief that he’s helping despite his bluntness.",
+      "label": "surprise"
+    },
+    {
+      "turn": 47,
+      "text": "Then... we're both doing badly.",
+      "emotion_description": "She feels shyly amused and relieved, letting a tiny shared joke slip out as her embarrassment softens into tentative warmth.",
+      "label": "happiness"
+    },
+    {
+      "turn": 50,
+      "text": "...Right.",
+      "emotion_description": "She feels a little flustered and embarrassed, but also quietly amused and relieved by his blunt kindness, so she answers with restrained, tentative warmth.",
+      "label": "happiness"
+    },
+    {
+      "turn": 51,
+      "text": "Thank you, Kazami-senpai.",
+      "emotion_description": "She feels shyly grateful and a little flustered, but also quietly warmed by his help and the small, unexpected closeness of using his name.",
+      "label": "happiness"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 3,
+      "emotional_fidelity": 3,
+      "rationale": "Fear suits the flustered opening and anger fits her quiet offense, but repeated fear on neutral/self-intro lines and broad happiness where she should show only small, restrained warmth make the sequence only partly fit this introverted character."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Sprites consistently reflect an introverted personality—fear/hesitation dominate early exchanges, happiness emerges only in safe moments of gratitude, and emotional restraint is maintained throughout; minor misalignment occurs with the 'happiness' sprite during 'You don't have to—' (which reads as mild protest rather than genuine warmth) and 'surprise' at 'You know already?' (which fits the line but slightly overstates her typical reserved reaction)."
+    }
+  }
+}

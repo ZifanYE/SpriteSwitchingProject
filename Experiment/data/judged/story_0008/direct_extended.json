@@ -1,0 +1,132 @@
+{
+  "instance_id": "story_0008",
+  "pipeline": "direct",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "astonished",
+    "crying_hard",
+    "displeased_frown",
+    "exasperated",
+    "holding_back_tears",
+    "interested_attentive",
+    "natural_smile_cheerful",
+    "sad",
+    "serious_expressionless",
+    "slightly_happy_faint_smile",
+    "surprised",
+    "unconvinced",
+    "uneasy_confused"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": null,
+      "label": "exasperated"
+    },
+    {
+      "turn": 5,
+      "text": "I was defeated by... basic clothing maintenance.",
+      "emotion_description": null,
+      "label": "exasperated"
+    },
+    {
+      "turn": 8,
+      "text": "...Why?",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 10,
+      "text": "Okay. Window, then.",
+      "emotion_description": null,
+      "label": "exasperated"
+    },
+    {
+      "turn": 16,
+      "text": "I-I'm so sorry!",
+      "emotion_description": null,
+      "label": "holding_back_tears"
+    },
+    {
+      "turn": 18,
+      "text": "Ah— hot! Hot—",
+      "emotion_description": null,
+      "label": "surprised"
+    },
+    {
+      "turn": 21,
+      "text": "Thank you... and I'm really sorry.",
+      "emotion_description": null,
+      "label": "holding_back_tears"
+    },
+    {
+      "turn": 24,
+      "text": "I don't deserve a reward for this.",
+      "emotion_description": null,
+      "label": "displeased_frown"
+    },
+    {
+      "turn": 29,
+      "text": "...",
+      "emotion_description": null,
+      "label": "exasperated"
+    },
+    {
+      "turn": 31,
+      "text": "It was trying so hard.",
+      "emotion_description": null,
+      "label": "holding_back_tears"
+    },
+    {
+      "turn": 34,
+      "text": "If even breakfast gave up... maybe I can stop panicking for one second.",
+      "emotion_description": null,
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 37,
+      "text": "Oh. Right. That would have been worse.",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 40,
+      "text": "Y-Yes, sorry.",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 44,
+      "text": "Does it show that much?",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 47,
+      "text": "Made it... somehow.",
+      "emotion_description": null,
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 49,
+      "text": "Please let the disasters stay outside the school today.",
+      "emotion_description": null,
+      "label": "slightly_happy_faint_smile"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "The sprites mostly fit an introverted girl’s subdued panic and quiet embarrassment—tearful apologies, confused pauses, and faint relief—though repeated exasperation and the firmer frown feel slightly more outward than her reserved profile."
+    },
+    "claude": {
+      "character_consistency": 3,
+      "emotional_fidelity": 4,
+      "rationale": "Emotions mostly track the lines well (holding_back_tears, faint smiles, surprise fit), but repeated 'exasperated' sprites and the outburst-like reactions lean louder than this reserved, soft-spoken character would outwardly show."
+    }
+  }
+}

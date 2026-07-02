@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0001",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "Both fit a quiet, inwardly stressed girl, but B better captures her suppressed near-tear anxiety at key low-key humiliation beats, while A's exasperated self-critique feels a bit too outwardly forceful."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "The two versions differ only on two lines; B's holding_back_tears for the anxious 'if I miss homeroom' and the self-critical 'couldn't even be late correctly' better fits the introvert's suppressed inner distress than A's milder uneasy_confused/exasperated."
+    }
+  }
+}

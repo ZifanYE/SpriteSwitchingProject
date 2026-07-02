@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0010",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A better preserves Aoi’s restrained, introverted affect by keeping her late-scene replies subdued, while B over-brightens lines like “...Right.” and “Was it the panic?” that read more shy/dry than openly happy."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "The two differ on only two lines: A's neutral for the teasing 'Was it the panic?' and reserved 'Right' fits the subtle, soft-spoken introvert better than B's repeated happiness."
+    }
+  }
+}

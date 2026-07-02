@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0010",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A better preserves Aoi’s quiet reserve while still allowing a small, earned smile/laugh beat; B makes her slightly too openly warm in the transfer-student exchange and underplays the laugh with mere shyness."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "A",
+      "rationale": "B leans more consistently on shy/reserved sprites fitting the introvert, while A's neutral/confused/smile choices track the line-by-line emotional beats more precisely."
+    }
+  }
+}

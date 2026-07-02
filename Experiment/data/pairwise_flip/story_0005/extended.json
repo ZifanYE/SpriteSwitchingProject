@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0005",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A better preserves Aoi’s subdued, inward affect with gentler empathy and lingering vulnerability, while B inserts a few sprites that feel too outwardly alert or upbeat for the moment."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A's 'sad' on noticing trembling hands and 'holding_back_tears' at the parting track the quiet emotional swell better, while B's 'surprised', 'uneasy_confused', and 'interested_attentive' at key empathetic beats are flatter and less coherent."
+    }
+  }
+}

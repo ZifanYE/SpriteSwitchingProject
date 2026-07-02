@@ -1,0 +1,132 @@
+{
+  "instance_id": "story_0008",
+  "pipeline": "twostage",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "astonished",
+    "crying_hard",
+    "displeased_frown",
+    "exasperated",
+    "holding_back_tears",
+    "interested_attentive",
+    "natural_smile_cheerful",
+    "sad",
+    "serious_expressionless",
+    "slightly_happy_faint_smile",
+    "surprised",
+    "unconvinced",
+    "uneasy_confused"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panicked embarrassment and self-reproach, worried that being late has already ruined her careful first impression.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 5,
+      "text": "I was defeated by... basic clothing maintenance.",
+      "emotion_description": "She feels embarrassed and mildly flustered, but is trying to turn her mishap into quiet self-deprecating humor to keep from dwelling on it.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 8,
+      "text": "...Why?",
+      "emotion_description": "She feels stunned and quietly exasperated, as if the morning’s absurd string of mishaps has left her too tired to do anything but stare in disbelief.",
+      "label": "exasperated"
+    },
+    {
+      "turn": 10,
+      "text": "Okay. Window, then.",
+      "emotion_description": "She is quietly exasperated but determined, forcing herself to stay calm and improvise despite feeling absurdly unlucky.",
+      "label": "exasperated"
+    },
+    {
+      "turn": 16,
+      "text": "I-I'm so sorry!",
+      "emotion_description": "She is flustered and mortified, with a panicked urge to apologize immediately while trying to stay small and polite despite the chaos she caused.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 18,
+      "text": "Ah— hot! Hot—",
+      "emotion_description": "She is startled and flustered, more focused on the sudden sting and embarrassment than on anything else, with a panicked urge to recover quietly.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 21,
+      "text": "Thank you... and I'm really sorry.",
+      "emotion_description": "She feels embarrassed and flustered, but also genuinely grateful for the help, trying to stay polite and composed despite wanting to disappear.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 24,
+      "text": "I don't deserve a reward for this.",
+      "emotion_description": "She feels embarrassed and self-reproachful, quietly insisting on her own fault even while being touched by the owner’s kindness.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 29,
+      "text": "...",
+      "emotion_description": "She is too stunned and exhausted to speak, feeling a tiny, helpless mix of embarrassment, disbelief, and resigned defeat after one mishap after another.",
+      "label": "exasperated"
+    },
+    {
+      "turn": 31,
+      "text": "It was trying so hard.",
+      "emotion_description": "She is on the verge of tears, feeling a mix of exhausted disbelief and tender sympathy for the ruined croquette, with a tiny, helpless laugh trapped behind her embarrassment.",
+      "label": "holding_back_tears"
+    },
+    {
+      "turn": 34,
+      "text": "If even breakfast gave up... maybe I can stop panicking for one second.",
+      "emotion_description": "She feels exhausted and absurdly defeated, but a tiny, shaky humor is helping her soften the panic and regain a sliver of composure.",
+      "label": "exasperated"
+    },
+    {
+      "turn": 37,
+      "text": "Oh. Right. That would have been worse.",
+      "emotion_description": "She feels a quiet, delayed jolt of relief mixed with lingering embarrassment, realizing with subdued gratitude that she narrowly avoided making an even bigger mistake.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 40,
+      "text": "Y-Yes, sorry.",
+      "emotion_description": "She feels flustered and chastened, but also quietly relieved to be caught before making yet another mistake, so she answers with timid compliance rather than resistance.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 44,
+      "text": "Does it show that much?",
+      "emotion_description": "She feels embarrassed and self-conscious that her chaotic morning is obvious to others, but she answers quietly with a small, resigned vulnerability rather than defensiveness.",
+      "label": "holding_back_tears"
+    },
+    {
+      "turn": 47,
+      "text": "Made it... somehow.",
+      "emotion_description": "She feels exhausted and faintly incredulous, but also relieved and quietly proud that she managed to arrive despite everything going wrong.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 49,
+      "text": "Please let the disasters stay outside the school today.",
+      "emotion_description": "She is quietly overwhelmed and anxious, but trying to steady herself with a small, hopeful plea that the day will finally stop going wrong.",
+      "label": "holding_back_tears"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 3,
+      "emotional_fidelity": 3,
+      "rationale": "The mostly subdued uneasy/faint-smile choices fit an introvert, but repeated exasperated sprites on quiet deadpan lines and missed beats like the near-laugh and final anxious plea make the emotional arc only mixed."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 3,
+      "rationale": "Aoi's reserved, soft-spoken nature is consistently reflected through subtle expressions (uneasy_confused, faint_smile, holding_back_tears) rather than dramatic outbursts, but emotional progression falters: holding_back_tears appears twice in low-stakes moments (the croquette, the crossing guard's comment) where exasperated or slightly_happy would better match the actual emotional beat, and the final holding_back_tears contradicts the relief and accomplishment of 'Made it... somehow.'"
+    }
+  }
+}

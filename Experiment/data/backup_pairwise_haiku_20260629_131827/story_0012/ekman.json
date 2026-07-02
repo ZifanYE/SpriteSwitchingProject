@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0012",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays more subdued and inward for this introverted girl, while B adds several overly bright/assertive beats that weaken line-by-line emotional fit."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "Version A maintains consistent restraint and subtlety throughout (neutral/fear/sadness dominating), while B inappropriately uses happiness sprites during moments of anxiety and reassurance that should feel more measured for an introverted character; A's emotional arc is also more coherent, avoiding the tonal whiplash of B's happiness choices."
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0002",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays more subtly reserved and gives warmer, better-timed soft-smile beats, while B overuses stronger surprise/astonishment and misses a few gentle or neutral moments."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A uses softer 'surprised' and adds faint smiles where warmth fits (e.g. 'These are for my class', 'So we're in same class'), while B overuses 'surprised'/'astonished' and flattens those tender beats, less fitting the reserved personality and emotional arc."
+    }
+  }
+}

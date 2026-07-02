@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0013",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B stays more subdued and inward-looking for this introverted character, and its later sadness/quiet resolve beats A’s overly bright neutral/happiness choices at key emotional turns."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B's subdued choices (neutral for the matter-of-fact 'I left home at seven-twenty,' sadness for the self-deprecating 'I'm not, really') better fit a reserved girl and the emotional beats, whereas A overuses surprise/fear and mismatches happiness on the closing bow."
+    }
+  }
+}

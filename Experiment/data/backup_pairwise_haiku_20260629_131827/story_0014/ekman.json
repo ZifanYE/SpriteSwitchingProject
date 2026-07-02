@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0014",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A better preserves Aoi’s subdued, anxious temperament with softer fear beats, while B’s surprise on the alien realization and especially anger on the joking blame line feel too forceful and less emotionally precise."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "Version A uses fear at two critical moments (after 'So there is an alien device' and 'If I disappear before homeroom') that better reflect an introvert's internal panic, while B's surprise sprite at the first moment and anger sprite at the second undermine the character's reserved, inward emotional processing; A maintains consistent subtle emotional escalation matching her personality."
+    }
+  }
+}

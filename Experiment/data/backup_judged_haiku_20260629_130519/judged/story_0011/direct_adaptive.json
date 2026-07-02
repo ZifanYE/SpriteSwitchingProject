@@ -1,0 +1,128 @@
+{
+  "instance_id": "story_0011",
+  "pipeline": "direct",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "anxious",
+    "confused",
+    "determined",
+    "embarrassed",
+    "neutral",
+    "sad",
+    "shy",
+    "smile",
+    "surprised"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 5,
+      "text": "...\"Don't take the usual road to school.\"",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 7,
+      "text": "I should've ignored it.",
+      "emotion_description": null,
+      "label": "sad"
+    },
+    {
+      "turn": 8,
+      "text": "But... it was inside my shoe.",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 12,
+      "text": "...Ah.",
+      "emotion_description": null,
+      "label": "surprised"
+    },
+    {
+      "turn": 14,
+      "text": "So that's why...?",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 17,
+      "text": "Y-yes.",
+      "emotion_description": null,
+      "label": "shy"
+    },
+    {
+      "turn": 19,
+      "text": "Eh... how do you know that?",
+      "emotion_description": null,
+      "label": "surprised"
+    },
+    {
+      "turn": 23,
+      "text": "...What?",
+      "emotion_description": null,
+      "label": "surprised"
+    },
+    {
+      "turn": 24,
+      "text": "I haven't even received one yet.",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 29,
+      "text": "W-wait.",
+      "emotion_description": null,
+      "label": "surprised"
+    },
+    {
+      "turn": 30,
+      "text": "Who are you?",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 34,
+      "text": "...No way.",
+      "emotion_description": null,
+      "label": "surprised"
+    },
+    {
+      "turn": 38,
+      "text": "\"Class 1-C.\"",
+      "emotion_description": null,
+      "label": "surprised"
+    },
+    {
+      "turn": 40,
+      "text": "This isn't funny.",
+      "emotion_description": null,
+      "label": "angry"
+    },
+    {
+      "turn": 42,
+      "text": "...I have to go.",
+      "emotion_description": null,
+      "label": "determined"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 3,
+      "emotional_fidelity": 4,
+      "rationale": "Most sprites track Aoi's fear, confusion, and quiet resolve well, but the overt angry/determined beats feel somewhat stronger and less subdued than an introverted, soft-spoken character would usually show."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Sprites consistently favor subtle, inward-focused expressions (anxious, confused, shy) befitting an introvert under stress, with only minor misalignment: 'angry' at the end feels slightly too overt for someone who 'rarely raises her voice,' but the overall arc of escalating dread and quiet alarm matches the personality well."
+    }
+  }
+}

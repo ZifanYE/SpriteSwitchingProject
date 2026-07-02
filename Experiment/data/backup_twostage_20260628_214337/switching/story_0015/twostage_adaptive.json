@@ -1,0 +1,110 @@
+{
+  "instance_id": "story_0015",
+  "pipeline": "twostage",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "anxious",
+    "confused",
+    "determined",
+    "embarrassed",
+    "neutral",
+    "sad",
+    "shy",
+    "smile",
+    "surprised"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panicked embarrassment and self-reproach, worried that starting the term late has already ruined her chance to make a good impression.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 5,
+      "text": "...What?",
+      "emotion_description": "She is quietly startled and disoriented, pausing in disbelief as the strange reflection briefly unsettles her.",
+      "label": "surprised"
+    },
+    {
+      "turn": 9,
+      "text": "N-no way...",
+      "emotion_description": "She is stunned and quietly frightened, trying to deny what she just saw while her usual composure starts to slip.",
+      "label": "surprised"
+    },
+    {
+      "turn": 12,
+      "text": "A key...?",
+      "emotion_description": "She is stunned and wary, trying to make sense of the impossible while keeping her fear and curiosity tightly contained.",
+      "label": "surprised"
+    },
+    {
+      "turn": 17,
+      "text": "Root?",
+      "emotion_description": "She is startled and confused, trying to make sense of Rowan’s strange warning while quietly fixating on the unfamiliar word and the fragile key in her hands.",
+      "label": "confused"
+    },
+    {
+      "turn": 19,
+      "text": "This is why I'm late...?",
+      "emotion_description": "She feels stunned and flustered, trying to make sense of the impossible situation while quietly worrying that this bizarre encounter is somehow her fault.",
+      "label": "confused"
+    },
+    {
+      "turn": 21,
+      "text": "School. Opening ceremony. First years have to be early.",
+      "emotion_description": "She is flustered and anxious about being late, but trying to steady herself by clinging to the ordinary rules of school life.",
+      "label": "anxious"
+    },
+    {
+      "turn": 24,
+      "text": "If I do, will this... close?",
+      "emotion_description": "She is anxious and cautious, quietly trying to understand the danger while reluctantly hoping that giving up the key will make the strange situation end.",
+      "label": "anxious"
+    },
+    {
+      "turn": 28,
+      "text": "...All right.",
+      "emotion_description": "She is tense and bewildered, but quietly resolves to trust him and hand over the key despite her lingering fear and urgency about being late.",
+      "label": "determined"
+    },
+    {
+      "turn": 32,
+      "text": "You know my name?",
+      "emotion_description": "She is quietly startled and a little wary, with a shy flicker of curiosity and self-consciousness at being recognized so suddenly.",
+      "label": "shy"
+    },
+    {
+      "turn": 38,
+      "text": "So that's it...?",
+      "emotion_description": "She is quietly bewildered and still trying to make sense of the impossible, with a cautious trace of relief now that the danger seems to be passing.",
+      "label": "confused"
+    },
+    {
+      "turn": 45,
+      "text": "Rowan...",
+      "emotion_description": "She is quietly alarmed and searching for reassurance, her relief collapsing into tense worry as she realizes Rowan is in danger.",
+      "label": "anxious"
+    },
+    {
+      "turn": 48,
+      "text": "Ah—!",
+      "emotion_description": "She is jolted into sharp, frightened shock, the kind that catches in her throat as she realizes something terrifying has just marked her.",
+      "label": "surprised"
+    },
+    {
+      "turn": 52,
+      "text": "This... is really bad, isn't it?",
+      "emotion_description": "She feels a quiet, sinking dread mixed with disbelief, trying to stay composed while realizing she has been pulled into something far more dangerous than she can handle.",
+      "label": "anxious"
+    },
+    {
+      "turn": 59,
+      "text": "...Can this wait until after homeroom?",
+      "emotion_description": "She is trying to stay composed and practical despite lingering panic, quietly prioritizing school and hoping to postpone the impossible until she can breathe again.",
+      "label": "anxious"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0004",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays subtler and more reserved overall, while B repeatedly pushes Aoi into stronger or less fitting affects (sad/holding_back_tears/exasperated) that overstate both her personality and the scene’s emotional beats."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B's subtle progression (serious resolve at the crosswalk, sad empathy at reunion, holding_back_tears at the dreaded classroom thought) better captures the introvert's quiet internal emotion than A's repetitive uneasy_confused and abrupt happy smiles."
+    }
+  }
+}

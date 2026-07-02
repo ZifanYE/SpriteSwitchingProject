@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0012",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A better preserves Aoi’s restrained, gentle affect with softer reassurance and embarrassment beats, while B overuses fear/neutral in places where calm kindness or subdued regret fits the line more naturally."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "A",
+      "rationale": "B's restrained fear/neutral palette better fits the reserved, anxious introvert, while A's warmer happiness cues (reassuring the boy, comforting the grandmother) track the line-level emotions more coherently."
+    }
+  }
+}

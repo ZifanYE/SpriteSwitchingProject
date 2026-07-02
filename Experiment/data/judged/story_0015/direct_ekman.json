@@ -1,0 +1,119 @@
+{
+  "instance_id": "story_0015",
+  "pipeline": "direct",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "expression_labels": [
+    "anger",
+    "disgust",
+    "fear",
+    "happiness",
+    "neutral",
+    "sadness",
+    "surprise"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 5,
+      "text": "...What?",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 9,
+      "text": "N-no way...",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 12,
+      "text": "A key...?",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 17,
+      "text": "Root?",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 19,
+      "text": "This is why I'm late...?",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 21,
+      "text": "School. Opening ceremony. First years have to be early.",
+      "emotion_description": null,
+      "label": "neutral"
+    },
+    {
+      "turn": 24,
+      "text": "If I do, will this... close?",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 28,
+      "text": "...All right.",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 32,
+      "text": "You know my name?",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 38,
+      "text": "So that's it...?",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 45,
+      "text": "Rowan...",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 48,
+      "text": "Ah—!",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 52,
+      "text": "This... is really bad, isn't it?",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 59,
+      "text": "...Can this wait until after homeroom?",
+      "emotion_description": null,
+      "label": "fear"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 3,
+      "emotional_fidelity": 4,
+      "rationale": "The mostly subdued surprise/fear choices fit an introvert under stress, but repeated overt fear on practical, quiet lines like '...All right' and the lack of softer relief/hesitation expressions keep it from feeling fully in-character or perfectly nuanced."
+    },
+    "claude": {
+      "character_consistency": 2,
+      "emotional_fidelity": 3,
+      "rationale": "The sprites lurch between fear and surprise throughout, never showing the subtle, restrained reactions (quiet pauses, faint smiles, downcast eyes) the introverted personality calls for, though they often roughly track the line's surface emotion."
+    }
+  }
+}

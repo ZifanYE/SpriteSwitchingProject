@@ -1,0 +1,168 @@
+{
+  "instance_id": "story_0018",
+  "pipeline": "direct",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "astonished",
+    "crying_hard",
+    "displeased_frown",
+    "exasperated",
+    "holding_back_tears",
+    "interested_attentive",
+    "natural_smile_cheerful",
+    "sad",
+    "serious_expressionless",
+    "slightly_happy_faint_smile",
+    "surprised",
+    "unconvinced",
+    "uneasy_confused"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": null,
+      "label": "exasperated"
+    },
+    {
+      "turn": 6,
+      "text": "Ah—!",
+      "emotion_description": null,
+      "label": "astonished"
+    },
+    {
+      "turn": 10,
+      "text": "I-I'm so sorry.",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 11,
+      "text": "I wasn't looking ahead.",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 14,
+      "text": "My forms... oh no...",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 18,
+      "text": "Th-thank you.",
+      "emotion_description": null,
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 19,
+      "text": "You don't have to—",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 22,
+      "text": "You saw that?",
+      "emotion_description": null,
+      "label": "astonished"
+    },
+    {
+      "turn": 26,
+      "text": "Both...?",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 29,
+      "text": "Oh.",
+      "emotion_description": null,
+      "label": "surprised"
+    },
+    {
+      "turn": 31,
+      "text": "Then... we're in trouble together.",
+      "emotion_description": null,
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 35,
+      "text": "Ah— the bell...",
+      "emotion_description": null,
+      "label": "surprised"
+    },
+    {
+      "turn": 37,
+      "text": "I can try.",
+      "emotion_description": null,
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 41,
+      "text": "S-sorry...",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 43,
+      "text": "Aoi Sakamoto. First year, Class Three.",
+      "emotion_description": null,
+      "label": "serious_expressionless"
+    },
+    {
+      "turn": 49,
+      "text": "It's my fault.",
+      "emotion_description": null,
+      "label": "sad"
+    },
+    {
+      "turn": 50,
+      "text": "I forgot my forms and ran back home for them.",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 51,
+      "text": "Then I turned the corner too fast.",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 56,
+      "text": "Yes, sir.",
+      "emotion_description": null,
+      "label": "serious_expressionless"
+    },
+    {
+      "turn": 58,
+      "text": "Um... Kirishima-senpai?",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 60,
+      "text": "Thank you. For helping me.",
+      "emotion_description": null,
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 63,
+      "text": "...I will.",
+      "emotion_description": null,
+      "label": "slightly_happy_faint_smile"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "The sprites mostly stay subdued and inward—uneasy, faint-smiling, small serious admissions—fitting an introvert, with only minor overstatement in the opening exasperated/surprised beats."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Subtle faint-smiles, downcast sad/uneasy reactions, and quiet 'serious_expressionless' for formal replies fit the reserved persona well, though the opening 'exasperated' is slightly louder than her soft-spoken nature."
+    }
+  }
+}

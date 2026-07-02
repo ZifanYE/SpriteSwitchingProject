@@ -1,0 +1,143 @@
+{
+  "instance_id": "story_0013",
+  "pipeline": "direct",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "expression_labels": [
+    "anger",
+    "disgust",
+    "fear",
+    "happiness",
+    "neutral",
+    "sadness",
+    "surprise"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 5,
+      "text": "...Why is it here again?",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 8,
+      "text": "I left home at seven-twenty.",
+      "emotion_description": null,
+      "label": "neutral"
+    },
+    {
+      "turn": 9,
+      "text": "I know I did.",
+      "emotion_description": null,
+      "label": "neutral"
+    },
+    {
+      "turn": 13,
+      "text": "...You can see me?",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 16,
+      "text": "Am I dreaming?",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 18,
+      "text": "That's... worse.",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 22,
+      "text": "You want me to help?",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 26,
+      "text": "...If I say no, I'll just see this gate again, won't I?",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 29,
+      "text": "Okay.",
+      "emotion_description": null,
+      "label": "neutral"
+    },
+    {
+      "turn": 30,
+      "text": "Just quickly, then.",
+      "emotion_description": null,
+      "label": "neutral"
+    },
+    {
+      "turn": 33,
+      "text": "Is this it?",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 39,
+      "text": "It didn't ruin everything.",
+      "emotion_description": null,
+      "label": "happiness"
+    },
+    {
+      "turn": 40,
+      "text": "You remembered to come back.",
+      "emotion_description": null,
+      "label": "happiness"
+    },
+    {
+      "turn": 43,
+      "text": "I'm... not, really.",
+      "emotion_description": null,
+      "label": "sadness"
+    },
+    {
+      "turn": 50,
+      "text": "...I really am late now.",
+      "emotion_description": null,
+      "label": "sadness"
+    },
+    {
+      "turn": 52,
+      "text": "I'll still go.",
+      "emotion_description": null,
+      "label": "happiness"
+    },
+    {
+      "turn": 56,
+      "text": "S-Sorry.",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 57,
+      "text": "I got held up on the way.",
+      "emotion_description": null,
+      "label": "neutral"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Mostly subtle and reserved overall—neutral/fear fit her quiet compliance and timid apology—but a few choices are slightly broad or off, especially repeated fear and the upbeat happiness on her gentle reassurance and final resolve."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Sprites consistently reflect an introverted character's subtle emotional restraint—quiet fear, muted surprise, neutral composure—with only minor misalignments: the two happiness sprites feel slightly too overt for someone who 'shows emotion subtly,' and the final fear-then-neutral sequence at school could better capture the internal turbulence described."
+    }
+  }
+}

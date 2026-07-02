@@ -1,0 +1,134 @@
+{
+  "instance_id": "story_0004",
+  "pipeline": "twostage",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "anxious",
+    "confused",
+    "determined",
+    "embarrassed",
+    "neutral",
+    "sad",
+    "shy",
+    "smile",
+    "surprised"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panicked embarrassment and self-reproach, worried that starting the term late has already ruined her chance to make a good impression.",
+      "label": "anxious"
+    },
+    {
+      "turn": 6,
+      "text": "I had it this morning... I know I did...",
+      "emotion_description": "She feels flustered and quietly distressed, trying to reassure herself with a small, uncertain insistence while inwardly worrying that she may have lost the form.",
+      "label": "anxious"
+    },
+    {
+      "turn": 8,
+      "text": "Um...",
+      "emotion_description": "She feels hesitant and quietly concerned, caught between her own panic about being late and a gentle urge to speak up or help.",
+      "label": "anxious"
+    },
+    {
+      "turn": 9,
+      "text": "Are you okay?",
+      "emotion_description": "She is anxious and flustered about being late, but her concern for the crying child gently overrides her panic, making her tentative and quietly compassionate.",
+      "label": "anxious"
+    },
+    {
+      "turn": 12,
+      "text": "You got separated?",
+      "emotion_description": "She is quietly concerned and gently focused on the little girl’s distress, with her own lateness pushed aside for the moment.",
+      "label": "anxious"
+    },
+    {
+      "turn": 16,
+      "text": "...I can't just leave you.",
+      "emotion_description": "She feels quietly torn between her own panic about being late and a gentle, protective resolve that makes her stay with the frightened child anyway.",
+      "label": "determined"
+    },
+    {
+      "turn": 17,
+      "text": "Do you know your brother's name?",
+      "emotion_description": "She is quietly focused and gently concerned, pushing aside her own panic about being late to calmly help the lost child.",
+      "label": "determined"
+    },
+    {
+      "turn": 19,
+      "text": "Okay. Let's stand by the police box.",
+      "emotion_description": "She feels quietly determined and reassuring, setting aside her own panic about being late to help the frightened child with gentle focus.",
+      "label": "determined"
+    },
+    {
+      "turn": 23,
+      "text": "I just... happened to see her.",
+      "emotion_description": "She feels quietly embarrassed and self-effacing, downplaying her kindness while still holding a small, relieved warmth that the situation is now safely in someone else’s hands.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 30,
+      "text": "She's been scared for a while.",
+      "emotion_description": "She feels quietly relieved that the girl is safe, while still carrying a soft, lingering concern and empathy for how frightened she must have been.",
+      "label": "sad"
+    },
+    {
+      "turn": 34,
+      "text": "It's okay now.",
+      "emotion_description": "She feels quietly relieved and gently reassuring, with a soft lingering concern that makes her voice stay small and careful.",
+      "label": "smile"
+    },
+    {
+      "turn": 36,
+      "text": "...You're welcome.",
+      "emotion_description": "She feels quietly relieved and a little embarrassed by the praise, trying to brush it off with modesty while still being warmed by the moment.",
+      "label": "shy"
+    },
+    {
+      "turn": 40,
+      "text": "Ah...",
+      "emotion_description": "A small, sinking wave of dismay and anxious resignation hits her as she realizes she is now even later, mixed with lingering relief from helping the siblings.",
+      "label": "sad"
+    },
+    {
+      "turn": 41,
+      "text": "First period is definitely starting.",
+      "emotion_description": "She feels a sudden, sinking panic about being late, mixed with lingering relief and warmth from helping the lost girl, but she keeps it quiet and composed.",
+      "label": "anxious"
+    },
+    {
+      "turn": 44,
+      "text": "They're all going to look at me...",
+      "emotion_description": "She feels a shy, sinking wave of embarrassment and dread at being noticed for arriving late, with a quiet urge to disappear rather than face the classroom.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 47,
+      "text": "But... I did the right thing.",
+      "emotion_description": "She is quietly trying to steady herself with a small, fragile sense of reassurance and pride, even though she still feels anxious and embarrassed about being late.",
+      "label": "determined"
+    },
+    {
+      "turn": 50,
+      "text": "So... I'll go.",
+      "emotion_description": "She feels anxious and embarrassed about being late, but quietly steels herself with a small, reluctant resolve to face school anyway.",
+      "label": "determined"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "The sprites mostly fit an introverted girl’s subdued affect—quiet anxiety, shy embarrassment, and soft determination—with only slight overuse of overt 'determined' where a more hesitant resolve might suit better."
+    },
+    "claude": {
+      "character_consistency": 5,
+      "emotional_fidelity": 5,
+      "rationale": "Sprites track a coherent arc (anxious→determined→embarrassed→sad→smile→shy→anxious→determined) with quiet, subtle choices like 'embarrassed' on the deflecting 'I just happened to see her' and 'shy' on her whispered 'you're welcome,' fitting the reserved personality precisely."
+    }
+  }
+}

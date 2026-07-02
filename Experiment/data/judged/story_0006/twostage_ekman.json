@@ -1,0 +1,149 @@
+{
+  "instance_id": "story_0006",
+  "pipeline": "twostage",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "expression_labels": [
+    "anger",
+    "disgust",
+    "fear",
+    "happiness",
+    "neutral",
+    "sadness",
+    "surprise"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panicked embarrassment and self-reproach, worried that starting the term late has already gone wrong.",
+      "label": "fear"
+    },
+    {
+      "turn": 4,
+      "text": "It was just a shortcut... why is the road... doing that?",
+      "emotion_description": "She feels flustered and mildly panicked, trying to make sense of the strange traffic light while quietly blaming her bad luck and worrying about being even later.",
+      "label": "fear"
+    },
+    {
+      "turn": 7,
+      "text": "Did someone drop... a phone?",
+      "emotion_description": "She is cautiously curious and slightly uneasy, trying to make sense of the strange object while keeping her nerves contained.",
+      "label": "surprise"
+    },
+    {
+      "turn": 12,
+      "text": "...Eh?",
+      "emotion_description": "She is stunned into a small, breathless pause, her confusion edged with wary disbelief as the impossible scene interrupts her rush.",
+      "label": "surprise"
+    },
+    {
+      "turn": 14,
+      "text": "U-um. Are you... talking to me?",
+      "emotion_description": "She is startled and confused, but trying very hard to stay polite and composed as she cautiously checks whether the strange girl is addressing her.",
+      "label": "surprise"
+    },
+    {
+      "turn": 17,
+      "text": "I wasn't going to.",
+      "emotion_description": "She feels startled and a little defensive, but is trying to sound calm and ordinary to hide how overwhelmed she is by the strange situation.",
+      "label": "surprise"
+    },
+    {
+      "turn": 22,
+      "text": "S-sorry!",
+      "emotion_description": "She feels startled and embarrassed, flustered by being caught freezing in the road and instinctively apologizing in a small, timid voice while trying to recover her composure.",
+      "label": "surprise"
+    },
+    {
+      "turn": 26,
+      "text": "Your... what?",
+      "emotion_description": "She is confused and cautious, trying to follow the strange explanation while quietly masking her alarm with a small, hesitant voice.",
+      "label": "surprise"
+    },
+    {
+      "turn": 30,
+      "text": "This isn't a phone.",
+      "emotion_description": "She is startled and trying to steady herself, with cautious curiosity edging out her embarrassment as she realizes this strange object is far beyond anything ordinary.",
+      "label": "surprise"
+    },
+    {
+      "turn": 32,
+      "text": "And you're not a transfer student.",
+      "emotion_description": "She is quietly startled but increasingly certain, her nervousness giving way to cautious suspicion as she tries to make sense of the impossible without raising her voice.",
+      "label": "surprise"
+    },
+    {
+      "turn": 36,
+      "text": "I... should be at school.",
+      "emotion_description": "She is overwhelmed and anxious, trying to cling to ordinary school-day priorities as a small, shaky way to regain control while fear and confusion keep building underneath.",
+      "label": "fear"
+    },
+    {
+      "turn": 38,
+      "text": "That was because of you?",
+      "emotion_description": "She is startled and anxious, but beneath the soft protest there is a cautious, rising frustration at being dragged into something impossible when she only wanted an ordinary first day.",
+      "label": "surprise"
+    },
+    {
+      "turn": 42,
+      "text": "You sound like an apology email.",
+      "emotion_description": "She is still nervous and overwhelmed, but a tiny, reluctant amusement slips through as she tries to steady herself with a dry joke.",
+      "label": "happiness"
+    },
+    {
+      "turn": 45,
+      "text": "...Not really.",
+      "emotion_description": "She is nervously amused despite herself, trying to stay polite and understated while admitting the joke fell flat.",
+      "label": "neutral"
+    },
+    {
+      "turn": 50,
+      "text": "No... homeroom.",
+      "emotion_description": "She feels a sudden sinking dread and embarrassed panic at the thought of being late to homeroom, with a small, helpless resignation under it.",
+      "label": "fear"
+    },
+    {
+      "turn": 52,
+      "text": "A small error?",
+      "emotion_description": "She is anxious and pressed for time, but also cautiously curious and slightly intrigued by the girl’s calm, strange promise.",
+      "label": "surprise"
+    },
+    {
+      "turn": 57,
+      "text": "If this makes me later, I'm blaming you forever.",
+      "emotion_description": "She is flustered and anxious about being late, but her teasing complaint shows a small burst of relief and tentative warmth toward the girl.",
+      "label": "happiness"
+    },
+    {
+      "turn": 63,
+      "text": "You're coming in too?",
+      "emotion_description": "She is startled but cautiously relieved, with a shy, tentative curiosity and a small flicker of hope that this strange girl might stay close and make the situation feel less overwhelming.",
+      "label": "surprise"
+    },
+    {
+      "turn": 65,
+      "text": "That's a terrible way to say 'school life.'",
+      "emotion_description": "She is nervously amused and a little exasperated, trying to mask her lingering shock with a dry, tentative joke as she begins to accept the girl’s strange presence.",
+      "label": "happiness"
+    },
+    {
+      "turn": 68,
+      "text": "Then... try not to break reality before lunch, okay?",
+      "emotion_description": "She is still shaken and wary, but her nervousness has softened into tentative humor and a quiet, reluctant willingness to accept the strange girl’s company.",
+      "label": "happiness"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Mostly subtle, timid reactions fit an introvert, and the fear→surprise→tentative humor arc tracks the scene well, though repeated surprise is a bit blunt and a few joking lines read warmer than the personality suggests."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Sprites track the line emotions well (fear when panicking, surprise during the uncanny encounter, happiness for the shy teasing arc) and the subtle 'happiness' for her quiet smiles fits the reserved personality, though the heavy reliance on 'surprise'/'fear' is slightly broad for such a soft-spoken character."
+    }
+  }
+}

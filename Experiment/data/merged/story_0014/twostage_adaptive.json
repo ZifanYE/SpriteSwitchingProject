@@ -1,0 +1,487 @@
+{
+  "instance_id": "story_0014",
+  "title": "The Girl in the Crosswalk",
+  "protagonist": "Aoi",
+  "studied_speaker": "Aoi",
+  "pipeline": "twostage",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "spriteMap": {
+    "angry": 0,
+    "anxious": 1,
+    "confused": 2,
+    "determined": 3,
+    "embarrassed": 4,
+    "neutral": 5,
+    "sad": 6,
+    "shy": 7,
+    "smile": 8,
+    "surprised": 9
+  },
+  "dialogue": [
+    {
+      "turn": 0,
+      "type": "narration",
+      "text": "The first morning of the new school term -- and Aoi is already running late."
+    },
+    {
+      "turn": 1,
+      "type": "dialogue",
+      "text": "No, no, no -- not on the very first day!",
+      "speaker": "Aoi",
+      "label": "embarrassed",
+      "sprite": 4
+    },
+    {
+      "turn": 2,
+      "type": "narration",
+      "text": "Her alarm had rung on time."
+    },
+    {
+      "turn": 3,
+      "type": "narration",
+      "text": "The problem was the seven minutes that vanished afterward."
+    },
+    {
+      "turn": 4,
+      "type": "narration",
+      "text": "Aoi stands at the apartment stairwell, one hand on the rail, staring at her phone."
+    },
+    {
+      "turn": 5,
+      "type": "dialogue",
+      "text": "It says 7:41...",
+      "speaker": "Aoi",
+      "label": "anxious",
+      "sprite": 1
+    },
+    {
+      "turn": 6,
+      "type": "dialogue",
+      "text": "But it was 7:34 a second ago.",
+      "speaker": "Aoi",
+      "label": "confused",
+      "sprite": 2
+    },
+    {
+      "turn": 7,
+      "type": "narration",
+      "text": "The screen flickers. For an instant, the date reads 03/88."
+    },
+    {
+      "turn": 8,
+      "type": "dialogue",
+      "text": "I didn't... drop this, did I?",
+      "speaker": "Aoi",
+      "label": "confused",
+      "sprite": 2
+    },
+    {
+      "turn": 9,
+      "type": "narration",
+      "text": "At the bottom of the stairs, something glints beside the mailboxes."
+    },
+    {
+      "turn": 10,
+      "type": "narration",
+      "text": "A thin silver shard. No bigger than a hairpin. Floating an inch above the floor."
+    },
+    {
+      "turn": 11,
+      "type": "dialogue",
+      "text": "That's not possible.",
+      "speaker": "Aoi",
+      "label": "confused",
+      "sprite": 2
+    },
+    {
+      "turn": 12,
+      "type": "narration",
+      "text": "When she reaches toward it, the air folds like clear fabric."
+    },
+    {
+      "turn": 13,
+      "type": "dialogue",
+      "text": "Please don't touch the anchor barehanded.",
+      "speaker": "Mysterious Girl"
+    },
+    {
+      "turn": 14,
+      "type": "narration",
+      "text": "A girl in the same school uniform is suddenly there, as if the morning forgot to include her until now."
+    },
+    {
+      "turn": 15,
+      "type": "narration",
+      "text": "Her smile is careful. Her eyes reflect the stairwell light a fraction too brightly."
+    },
+    {
+      "turn": 16,
+      "type": "dialogue",
+      "text": "I... didn't hear you come in.",
+      "speaker": "Aoi",
+      "label": "surprised",
+      "sprite": 9
+    },
+    {
+      "turn": 17,
+      "type": "dialogue",
+      "text": "I was nearby.",
+      "speaker": "Mysterious Girl"
+    },
+    {
+      "turn": 18,
+      "type": "dialogue",
+      "text": "Nearby doesn't usually mean appearing out of nowhere.",
+      "speaker": "Aoi",
+      "label": "confused",
+      "sprite": 2
+    },
+    {
+      "turn": 19,
+      "type": "narration",
+      "text": "The girl kneels and lifts the shard between two fingers. Tiny blue rings ripple out, silently counting nothing Aoi understands."
+    },
+    {
+      "turn": 20,
+      "type": "dialogue",
+      "text": "This is why you're late.",
+      "speaker": "Mysterious Girl"
+    },
+    {
+      "turn": 21,
+      "type": "dialogue",
+      "text": "Excuse me?",
+      "speaker": "Aoi",
+      "label": "confused",
+      "sprite": 2
+    },
+    {
+      "turn": 22,
+      "type": "dialogue",
+      "text": "It caught your local time and frayed it.",
+      "speaker": "Mysterious Girl"
+    },
+    {
+      "turn": 23,
+      "type": "dialogue",
+      "text": "My... local time.",
+      "speaker": "Aoi",
+      "label": "confused",
+      "sprite": 2
+    },
+    {
+      "turn": 24,
+      "type": "narration",
+      "text": "Aoi almost laughs, but it catches in her throat."
+    },
+    {
+      "turn": 25,
+      "type": "narration",
+      "text": "The mailbox labels blur. For one dizzy second, every apartment number becomes a string of moving symbols."
+    },
+    {
+      "turn": 26,
+      "type": "dialogue",
+      "text": "I don't think I'm awake enough for this.",
+      "speaker": "Aoi",
+      "label": "confused",
+      "sprite": 2
+    },
+    {
+      "turn": 27,
+      "type": "dialogue",
+      "text": "You are awake. That's the issue.",
+      "speaker": "Mysterious Girl"
+    },
+    {
+      "turn": 28,
+      "type": "narration",
+      "text": "The shard gives a soft chime. The stairwell window shows not the street outside, but a dark sky crowded with pale, slow-turning shapes."
+    },
+    {
+      "turn": 29,
+      "type": "dialogue",
+      "text": "...What is that?",
+      "speaker": "Aoi",
+      "label": "surprised",
+      "sprite": 9
+    },
+    {
+      "turn": 30,
+      "type": "dialogue",
+      "text": "Home.",
+      "speaker": "Mysterious Girl"
+    },
+    {
+      "turn": 31,
+      "type": "narration",
+      "text": "The word lands gently, and somehow that makes it stranger."
+    },
+    {
+      "turn": 32,
+      "type": "dialogue",
+      "text": "You're joking.",
+      "speaker": "Aoi",
+      "label": "confused",
+      "sprite": 2
+    },
+    {
+      "turn": 33,
+      "type": "dialogue",
+      "text": "I am trying to seem reassuring.",
+      "speaker": "Mysterious Girl"
+    },
+    {
+      "turn": 34,
+      "type": "narration",
+      "text": "Aoi's grip tightens on her school bag. Her pulse stutters hard enough to hurt."
+    },
+    {
+      "turn": 35,
+      "type": "dialogue",
+      "text": "So there is an alien device in my stairwell...",
+      "speaker": "Aoi",
+      "label": "confused",
+      "sprite": 2
+    },
+    {
+      "turn": 36,
+      "type": "dialogue",
+      "text": "And you're saying you're not from here.",
+      "speaker": "Aoi",
+      "label": "confused",
+      "sprite": 2
+    },
+    {
+      "turn": 37,
+      "type": "dialogue",
+      "text": "Correct.",
+      "speaker": "Mysterious Girl"
+    },
+    {
+      "turn": 38,
+      "type": "narration",
+      "text": "The shard cracks."
+    },
+    {
+      "turn": 39,
+      "type": "narration",
+      "text": "A seam of white light opens across the floor, humming through Aoi's shoes."
+    },
+    {
+      "turn": 40,
+      "type": "dialogue",
+      "text": "What happens if that opens?",
+      "speaker": "Aoi",
+      "label": "anxious",
+      "sprite": 1
+    },
+    {
+      "turn": 41,
+      "type": "dialogue",
+      "text": "Your building briefly overlaps with a transit lane.",
+      "speaker": "Mysterious Girl"
+    },
+    {
+      "turn": 42,
+      "type": "dialogue",
+      "text": "Briefly sounds bad.",
+      "speaker": "Aoi",
+      "label": "anxious",
+      "sprite": 1
+    },
+    {
+      "turn": 43,
+      "type": "dialogue",
+      "text": "For architecture, yes.",
+      "speaker": "Mysterious Girl"
+    },
+    {
+      "turn": 44,
+      "type": "narration",
+      "text": "A laugh escapes Aoi before she can stop it—small, breathless, completely wrong for the situation."
+    },
+    {
+      "turn": 45,
+      "type": "narration",
+      "text": "Then the light jumps toward the stairs."
+    },
+    {
+      "turn": 46,
+      "type": "dialogue",
+      "text": "Tell me what to do.",
+      "speaker": "Aoi",
+      "label": "anxious",
+      "sprite": 1
+    },
+    {
+      "turn": 47,
+      "type": "dialogue",
+      "text": "Hold this end. On three, pull.",
+      "speaker": "Mysterious Girl"
+    },
+    {
+      "turn": 48,
+      "type": "narration",
+      "text": "The shard unfolds into a ribbon of light between them, warm as sunlit glass."
+    },
+    {
+      "turn": 49,
+      "type": "dialogue",
+      "text": "If I disappear before homeroom, I'm blaming you.",
+      "speaker": "Aoi",
+      "label": "anxious",
+      "sprite": 1
+    },
+    {
+      "turn": 50,
+      "type": "dialogue",
+      "text": "That's fair.",
+      "speaker": "Mysterious Girl"
+    },
+    {
+      "turn": 51,
+      "type": "narration",
+      "text": "They pull."
+    },
+    {
+      "turn": 52,
+      "type": "narration",
+      "text": "The stairwell lurches. Aoi sees impossible things in the white seam—crowded platforms, tall silhouettes, a moon with a ring of writing around it."
+    },
+    {
+      "turn": 53,
+      "type": "narration",
+      "text": "Then everything snaps shut."
+    },
+    {
+      "turn": 54,
+      "type": "narration",
+      "text": "Silence."
+    },
+    {
+      "turn": 55,
+      "type": "dialogue",
+      "text": "...Did we fix it?",
+      "speaker": "Aoi",
+      "label": "anxious",
+      "sprite": 1
+    },
+    {
+      "turn": 56,
+      "type": "dialogue",
+      "text": "Mostly.",
+      "speaker": "Mysterious Girl"
+    },
+    {
+      "turn": 57,
+      "type": "narration",
+      "text": "Aoi lets out the breath she had been saving. Her knees feel watery with relief."
+    },
+    {
+      "turn": 58,
+      "type": "dialogue",
+      "text": "Mostly?",
+      "speaker": "Aoi",
+      "label": "anxious",
+      "sprite": 1
+    },
+    {
+      "turn": 59,
+      "type": "dialogue",
+      "text": "I still need to attend school here.",
+      "speaker": "Mysterious Girl"
+    },
+    {
+      "turn": 60,
+      "type": "narration",
+      "text": "Aoi looks up."
+    },
+    {
+      "turn": 61,
+      "type": "narration",
+      "text": "The girl's uniform ribbon is tied slightly wrong. Her pronunciation has been perfect, but too perfect, like memorized audio."
+    },
+    {
+      "turn": 62,
+      "type": "dialogue",
+      "text": "You're enrolling... today?",
+      "speaker": "Aoi",
+      "label": "surprised",
+      "sprite": 9
+    },
+    {
+      "turn": 63,
+      "type": "dialogue",
+      "text": "I was supposed to observe quietly.",
+      "speaker": "Mysterious Girl"
+    },
+    {
+      "turn": 64,
+      "type": "dialogue",
+      "text": "You lost a piece of impossible technology in an apartment stairwell.",
+      "speaker": "Aoi",
+      "label": "confused",
+      "sprite": 2
+    },
+    {
+      "turn": 65,
+      "type": "dialogue",
+      "text": "Yes.",
+      "speaker": "Mysterious Girl"
+    },
+    {
+      "turn": 66,
+      "type": "narration",
+      "text": "Aoi presses her lips together."
+    },
+    {
+      "turn": 67,
+      "type": "narration",
+      "text": "A tiny smile slips out anyway."
+    },
+    {
+      "turn": 68,
+      "type": "dialogue",
+      "text": "Then I guess we're both having a bad first day.",
+      "speaker": "Aoi",
+      "label": "smile",
+      "sprite": 8
+    },
+    {
+      "turn": 69,
+      "type": "narration",
+      "text": "For the first time, the girl's careful expression softens into something real."
+    },
+    {
+      "turn": 70,
+      "type": "dialogue",
+      "text": "Would you still walk with me?",
+      "speaker": "Mysterious Girl"
+    },
+    {
+      "turn": 71,
+      "type": "narration",
+      "text": "Outside, the morning is ordinary again. Cars. Wires. A pale spring sky."
+    },
+    {
+      "turn": 72,
+      "type": "narration",
+      "text": "Aoi glances at the time. 7:42. As if nothing at all was taken."
+    },
+    {
+      "turn": 73,
+      "type": "dialogue",
+      "text": "...Only if you explain what 'local time' means on the way.",
+      "speaker": "Aoi",
+      "label": "smile",
+      "sprite": 8
+    },
+    {
+      "turn": 74,
+      "type": "narration",
+      "text": "Clutching her bag a little less tightly, Aoi steps out into the new term beside a girl who does not belong to Earth."
+    }
+  ]
+}

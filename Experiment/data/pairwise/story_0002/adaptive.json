@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0002",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays more subtly reserved and lands the ending with a gentle smile, while B overuses anxious/confused and misses the warm same-class reveal and closing joke."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A's ending smile sprites capture the warm, helpless-laugh payoff that B flattens into embarrassed/surprised, while B's repeated 'confused' is less fitting than A's varied surprised/embarrassed beats."
+    }
+  }
+}

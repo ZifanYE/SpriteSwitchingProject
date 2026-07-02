@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0003",
+  "expression_set": "extended",
+  "personality": "extroverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "B",
+      "rationale": "A’s stronger astonishment reads a bit more outwardly expressive for this extroverted heroine overall, but B’s surprised/unconvinced/uneasy progression tracks the specific beats of discovery and skepticism more precisely."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B uses more varied and nuanced sprites (surprised, unconvinced) that better capture an extroverted character's dynamic emotional range and skepticism, while A relies too heavily on astonished/exasperated, missing opportunities to show Aoi's expressive personality shifting through confusion and disbelief."
+    }
+  }
+}

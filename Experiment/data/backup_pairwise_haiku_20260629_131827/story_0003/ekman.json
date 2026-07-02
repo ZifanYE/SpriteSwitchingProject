@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0003",
+  "expression_set": "ekman",
+  "personality": "extroverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B better preserves Aoi’s outspoken, reactive edge and lands the final two lines as frustrated defiance rather than pure fear, while the rest is essentially equal."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "Version A uses happiness for the self-aware joke about fate, which fits an extroverted character's tendency to laugh at herself and deflect with humor; Version B's anger sprite misses this tonal shift and makes the final two lines feel monotonously frustrated rather than showing the emotional range and expressiveness that defines her personality."
+    }
+  }
+}

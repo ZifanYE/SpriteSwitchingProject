@@ -1,0 +1,119 @@
+{
+  "instance_id": "story_0004",
+  "pipeline": "twostage",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "expression_labels": [
+    "anger",
+    "disgust",
+    "fear",
+    "happiness",
+    "neutral",
+    "sadness",
+    "surprise"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panicked embarrassment and self-reproach, worried that starting the term late has already ruined her chance to make a good impression.",
+      "label": "fear"
+    },
+    {
+      "turn": 6,
+      "text": "I had it this morning... I know I did...",
+      "emotion_description": "She feels flustered and quietly frustrated with herself, clinging to a small, uncertain hope that the form might still be in her bag despite the sinking worry that she forgot it.",
+      "label": "fear"
+    },
+    {
+      "turn": 8,
+      "text": "Um...",
+      "emotion_description": "She feels flustered and anxious about being late, but her attention has shifted into a hesitant, concerned pause as she notices the crying child and quietly decides what to do.",
+      "label": "fear"
+    },
+    {
+      "turn": 9,
+      "text": "Are you okay?",
+      "emotion_description": "She is anxious and flustered about being late, but her concern for the crying child gently overrides her own panic, making her voice tentative and caring.",
+      "label": "fear"
+    },
+    {
+      "turn": 12,
+      "text": "You got separated?",
+      "emotion_description": "She is quietly concerned and gently focused on the little girl, with her own panic about being late pushed aside for a careful, sympathetic response.",
+      "label": "neutral"
+    },
+    {
+      "turn": 16,
+      "text": "...I can't just leave you.",
+      "emotion_description": "She feels quietly torn and anxious about being late, but her concern for the frightened child overrides her own panic, leaving her determined and gently protective.",
+      "label": "fear"
+    },
+    {
+      "turn": 17,
+      "text": "Do you know your brother's name?",
+      "emotion_description": "She is quietly focused and concerned, setting aside her own panic to gently gather the information she needs so she can help the little girl.",
+      "label": "fear"
+    },
+    {
+      "turn": 19,
+      "text": "Okay. Let's stand by the police box.",
+      "emotion_description": "She feels quietly responsible and reassuring, setting aside her own panic about being late to help the frightened child with calm, gentle resolve.",
+      "label": "happiness"
+    },
+    {
+      "turn": 23,
+      "text": "I just... happened to see her.",
+      "emotion_description": "She feels shy and self-effacing, quietly downplaying her own kindness while still holding a small, relieved warmth that the girl is safe.",
+      "label": "happiness"
+    },
+    {
+      "turn": 30,
+      "text": "She's been scared for a while.",
+      "emotion_description": "She feels quietly relieved that the girl is safe, while still carrying a soft, lingering concern and empathy for how long the child had been frightened.",
+      "label": "happiness"
+    },
+    {
+      "turn": 34,
+      "text": "It's okay now.",
+      "emotion_description": "She feels quietly relieved and gently reassuring, with her own lingering anxiety easing as she gives the siblings a small, sincere comfort.",
+      "label": "happiness"
+    },
+    {
+      "turn": 36,
+      "text": "...You're welcome.",
+      "emotion_description": "She feels quietly relieved and a little embarrassed by the praise, trying to accept the gratitude modestly while still carrying the lingering rush of worry from the situation.",
+      "label": "happiness"
+    },
+    {
+      "turn": 40,
+      "text": "Ah...",
+      "emotion_description": "A sudden, sinking realization hits her that she is now even later than before, mixing quiet panic with resigned embarrassment.",
+      "label": "fear"
+    },
+    {
+      "turn": 41,
+      "text": "First period is definitely starting.",
+      "emotion_description": "She feels a sudden jolt of anxious resignation, realizing she is now truly late and mentally bracing herself while trying to stay composed.",
+      "label": "fear"
+    },
+    {
+      "turn": 44,
+      "text": "They're all going to look at me...",
+      "emotion_description": "She feels shy, embarrassed, and anxious about being noticed for arriving late, with a small urge to hide even though she knows she has to go in.",
+      "label": "fear"
+    },
+    {
+      "turn": 47,
+      "text": "But... I did the right thing.",
+      "emotion_description": "She is quietly trying to steady herself with a small, fragile sense of reassurance, mixing lingering anxiety about being late with the shy pride of having helped someone.",
+      "label": "happiness"
+    },
+    {
+      "turn": 50,
+      "text": "So... I'll go.",
+      "emotion_description": "She feels anxious and embarrassed about being late, but quietly steels herself with a small, reluctant resolve to face school because she knows helping the girl was the right thing.",
+      "label": "fear"
+    }
+  ]
+}

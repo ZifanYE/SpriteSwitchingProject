@@ -1,0 +1,132 @@
+{
+  "instance_id": "story_0011",
+  "pipeline": "twostage",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "astonished",
+    "crying_hard",
+    "displeased_frown",
+    "exasperated",
+    "holding_back_tears",
+    "interested_attentive",
+    "natural_smile_cheerful",
+    "sad",
+    "serious_expressionless",
+    "slightly_happy_faint_smile",
+    "surprised",
+    "unconvinced",
+    "uneasy_confused"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panicked embarrassment and self-reproach, worried that starting the term late has already ruined her chance to make a good impression.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 5,
+      "text": "...\"Don't take the usual road to school.\"",
+      "emotion_description": "She feels a quiet, uneasy alarm and a growing sense of being watched, trying to stay composed while the warning unsettles her.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 7,
+      "text": "I should've ignored it.",
+      "emotion_description": "She feels a quiet, self-reproaching regret mixed with lingering unease, as if she’s blaming herself for letting the note unsettle her and delay her morning.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 8,
+      "text": "But... it was inside my shoe.",
+      "emotion_description": "She feels uneasy and faintly alarmed, but also quietly compelled to trust the note because its strange, intimate placement makes it hard to dismiss.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 12,
+      "text": "...Ah.",
+      "emotion_description": "She feels a quiet, startled chill of relief mixed with unease, as if the note’s warning has just become unsettlingly real.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 14,
+      "text": "So that's why...?",
+      "emotion_description": "She feels a quiet, uneasy shock as the warning suddenly makes sense, with a faint tremor of fear and disbelief beneath her restrained composure.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 17,
+      "text": "Y-yes.",
+      "emotion_description": "She feels startled and uneasy, but is trying to answer politely while quietly realizing the warning may have been meant to protect her.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 19,
+      "text": "Eh... how do you know that?",
+      "emotion_description": "She feels startled and uneasy, with a quiet spike of suspicion and confusion as she realizes the woman knows more about her than she should.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 23,
+      "text": "...What?",
+      "emotion_description": "She feels startled and uneasy, with a quiet spike of suspicion and confusion as the woman seems to know too much.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 24,
+      "text": "I haven't even received one yet.",
+      "emotion_description": "She feels quietly unsettled and confused, with a growing sense that something is off as she tries to make sense of the missing student ID without showing panic.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 29,
+      "text": "W-wait.",
+      "emotion_description": "She is startled and uneasy, trying to hold herself together while a growing sense of confusion and dread makes her hesitate before the woman’s unsettling warning.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 30,
+      "text": "Who are you?",
+      "emotion_description": "She is tense and bewildered, trying to steady her fear with a cautious question while feeling a growing sense that something is deeply wrong.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 34,
+      "text": "...No way.",
+      "emotion_description": "She is stunned and unsettled, trying to deny what just happened while a quiet fear and confusion settle in beneath her composure.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 38,
+      "text": "\"Class 1-C.\"",
+      "emotion_description": "She is stunned and uneasy, trying to steady herself by repeating the class name as if it might make this impossible situation feel real.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 40,
+      "text": "This isn't funny.",
+      "emotion_description": "She is frightened and unsettled, trying to steady herself by rejecting the situation as a bad joke even though she feels the eerie warning is becoming real.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 42,
+      "text": "...I have to go.",
+      "emotion_description": "She is frightened and overwhelmed, but forcing herself into motion with a quiet, determined resolve because she knows she cannot afford to stop and think.",
+      "label": "uneasy_confused"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 2,
+      "rationale": "The consistently subdued uneasy/confused sprite suits Aoi's reserved, inward style, but using the exact same expression for panic, shock, wary questioning, and grim resolve misses multiple emotional turns."
+    },
+    "claude": {
+      "character_consistency": 1,
+      "emotional_fidelity": 1,
+      "rationale": "Every single line uses the same 'uneasy_confused' sprite regardless of emotional context, failing to capture the introverted character's subtle emotional range (fear, realization, shock, determination) and contradicting the personality's hallmark of expressing feeling through micro-expressions and physical restraint rather than uniform distress."
+    }
+  }
+}

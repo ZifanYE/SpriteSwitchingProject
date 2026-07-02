@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0001",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B uses subtler sadness/neutral beats where this introverted girl would internalize stress, while A overuses fear and makes her emotional progression less nuanced."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "Version B uses neutral sprite for the internal thought 'Class 1-B... second floor, right?' which better reflects an introverted character's quiet self-reflection, whereas A's repeated fear sprite oversaturates the emotional palette; B also avoids the tonal whiplash of A's fear→sadness→happiness progression by using sadness as the anchor through the embarrassment sequence, making the eventual happiness feel more earned and consistent with subtle emotional expression."
+    }
+  }
+}

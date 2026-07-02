@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0015",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A better preserves Aoi’s subdued, hesitant affect by keeping her practical school line and resigned assent restrained, while B’s fear on the school explanation and assent feels less fitting even though B’s fear on the pain cry is stronger."
+    },
+    "claude": {
+      "cc_winner": "tie",
+      "cc_confidence": "strong",
+      "ef_winner": "tie",
+      "ef_confidence": "strong",
+      "raw_cc_ab": "tie",
+      "raw_ef_ab": "tie",
+      "rationale": "Versions A and B are identical in sprite selection across all dialogue lines; no meaningful comparison is possible."
+    }
+  }
+}

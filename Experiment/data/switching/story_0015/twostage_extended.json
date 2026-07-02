@@ -1,0 +1,114 @@
+{
+  "instance_id": "story_0015",
+  "pipeline": "twostage",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "astonished",
+    "crying_hard",
+    "displeased_frown",
+    "exasperated",
+    "holding_back_tears",
+    "interested_attentive",
+    "natural_smile_cheerful",
+    "sad",
+    "serious_expressionless",
+    "slightly_happy_faint_smile",
+    "surprised",
+    "unconvinced",
+    "uneasy_confused"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panicked embarrassment and self-reproach, worried that starting the term late has already ruined her chance to make a good impression.",
+      "label": "exasperated"
+    },
+    {
+      "turn": 5,
+      "text": "...What?",
+      "emotion_description": "She is quietly startled and disoriented, pausing in disbelief as she tries to make sense of the strange reflection she just saw.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 9,
+      "text": "N-no way...",
+      "emotion_description": "She is stunned and quietly frightened, her usual composure slipping as she tries to deny what she just saw.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 12,
+      "text": "A key...?",
+      "emotion_description": "She is stunned and quietly bewildered, trying to make sense of the impossible while keeping her fear and curiosity tightly contained.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 17,
+      "text": "Root?",
+      "emotion_description": "She is startled and confused, trying to make sense of the strange warning while quietly repeating the unfamiliar word with cautious curiosity.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 19,
+      "text": "This is why I'm late...?",
+      "emotion_description": "She feels flustered and bewildered, with a faint, anxious disbelief as she tries to make sense of the impossible situation while still worrying about being late.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 21,
+      "text": "School. Opening ceremony. First years have to be early.",
+      "emotion_description": "She is flustered and anxious about being late, but still trying to stay composed and explain herself in a small, matter-of-fact way.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 24,
+      "text": "If I do, will this... close?",
+      "emotion_description": "She is anxious and cautious, quietly trying to understand the danger while reluctantly trusting him enough to ask whether giving up the key will make the strange doorway shut.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 28,
+      "text": "...All right.",
+      "emotion_description": "She is quietly overwhelmed but trying to stay composed, reluctantly trusting him and accepting the situation despite her lingering shock and urgency.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 32,
+      "text": "You know my name?",
+      "emotion_description": "She is quietly startled and a little wary, with a shy flicker of curiosity and self-consciousness at being recognized so suddenly.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 38,
+      "text": "So that's it...?",
+      "emotion_description": "She is quietly stunned and trying to make sense of the impossible, with a cautious, subdued curiosity beneath her lingering relief.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 45,
+      "text": "Rowan...",
+      "emotion_description": "She is quietly alarmed and searching for reassurance, her voice barely holding steady as she turns to Rowan for an explanation or help.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 48,
+      "text": "Ah—!",
+      "emotion_description": "She is startled into a sharp, breathless panic, with a flicker of fear and disbelief as the sigil suddenly burns onto her wrist.",
+      "label": "surprised"
+    },
+    {
+      "turn": 52,
+      "text": "This... is really bad, isn't it?",
+      "emotion_description": "She feels a quiet, sinking dread mixed with disbelief, trying to stay composed while realizing she has been pulled into something far more dangerous than she can handle.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 59,
+      "text": "...Can this wait until after homeroom?",
+      "emotion_description": "She is trying to stay composed and practical despite lingering panic, quietly hoping to postpone the impossible situation so she can get through homeroom first.",
+      "label": "uneasy_confused"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0003",
+  "expression_set": "adaptive",
+  "personality": "extroverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A better preserves Aoi’s expressive, reactive personality and tracks the scene’s beats more naturally, while B is flatter at key snarky and rattled moments."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A's expressive choices (angry retort, anxious nerves, repeated surprise at uncanny knowledge) fit the outgoing personality and emotional beats better, while B flattens key lines into neutral/confused that underplay the moment."
+    }
+  }
+}

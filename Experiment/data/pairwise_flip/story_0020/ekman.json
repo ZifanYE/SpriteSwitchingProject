@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0020",
+  "expression_set": "ekman",
+  "personality": "extroverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A better preserves Aoi’s expressive, proactive extroversion with warmer/helpful smiles and energetic public-facing beats, while B turns several active, upbeat lines flat or overly subdued."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A's bright happiness sprites for Aoi's energetic, reassuring lines fit her extroverted warmth better, while B's repeated neutrals flatten the emotional progression; the one EF edge for B (sadness on 'are you okay?') is outweighed by A's livelier, more coherent arc."
+    }
+  }
+}

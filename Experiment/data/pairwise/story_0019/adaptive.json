@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0019",
+  "expression_set": "adaptive",
+  "personality": "extroverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B’s embarrassed beat to her self-aware joke and surprised reaction to the disappearance track this expressive, outgoing Aoi and the scene’s emotional turns better than A’s flatter anxious/angry choices."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "The two versions differ only on two lines: B's 'embarrassed' for the self-deprecating quip and 'surprised' for the disbelief at the empty bench both fit the moments better than A's repeated 'anxious'/'angry', while A's 'anxious' for the tragedy quip and 'angry' for the vanishing shock are slightly off."
+    }
+  }
+}

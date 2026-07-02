@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0009",
+  "expression_set": "adaptive",
+  "personality": "extroverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "tie",
+      "cc_confidence": "strong",
+      "ef_winner": "two_stage",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "tie",
+      "raw_ef_ab": "A",
+      "rationale": "The versions are identical except at the late classroom apology, where A’s embarrassed sprite better fits a flustered interruption than B’s smile, while overall personality fit remains effectively the same."
+    },
+    "claude": {
+      "cc_winner": "tie",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "tie",
+      "raw_ef_ab": "A",
+      "rationale": "The only difference is the 'Sorry we're late!' line, where A's embarrassed sprite better matches the apologetic tone than B's smile."
+    }
+  }
+}

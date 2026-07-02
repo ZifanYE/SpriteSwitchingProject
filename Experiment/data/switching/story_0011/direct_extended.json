@@ -1,0 +1,120 @@
+{
+  "instance_id": "story_0011",
+  "pipeline": "direct",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "astonished",
+    "crying_hard",
+    "displeased_frown",
+    "exasperated",
+    "holding_back_tears",
+    "interested_attentive",
+    "natural_smile_cheerful",
+    "sad",
+    "serious_expressionless",
+    "slightly_happy_faint_smile",
+    "surprised",
+    "unconvinced",
+    "uneasy_confused"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": null,
+      "label": "exasperated"
+    },
+    {
+      "turn": 5,
+      "text": "...\"Don't take the usual road to school.\"",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 7,
+      "text": "I should've ignored it.",
+      "emotion_description": null,
+      "label": "sad"
+    },
+    {
+      "turn": 8,
+      "text": "But... it was inside my shoe.",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 12,
+      "text": "...Ah.",
+      "emotion_description": null,
+      "label": "astonished"
+    },
+    {
+      "turn": 14,
+      "text": "So that's why...?",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 17,
+      "text": "Y-yes.",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 19,
+      "text": "Eh... how do you know that?",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 23,
+      "text": "...What?",
+      "emotion_description": null,
+      "label": "astonished"
+    },
+    {
+      "turn": 24,
+      "text": "I haven't even received one yet.",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 29,
+      "text": "W-wait.",
+      "emotion_description": null,
+      "label": "surprised"
+    },
+    {
+      "turn": 30,
+      "text": "Who are you?",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 34,
+      "text": "...No way.",
+      "emotion_description": null,
+      "label": "astonished"
+    },
+    {
+      "turn": 38,
+      "text": "\"Class 1-C.\"",
+      "emotion_description": null,
+      "label": "surprised"
+    },
+    {
+      "turn": 40,
+      "text": "This isn't funny.",
+      "emotion_description": null,
+      "label": "displeased_frown"
+    },
+    {
+      "turn": 42,
+      "text": "...I have to go.",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    }
+  ]
+}

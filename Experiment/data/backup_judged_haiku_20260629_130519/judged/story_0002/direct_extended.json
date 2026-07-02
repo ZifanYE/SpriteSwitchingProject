@@ -1,0 +1,162 @@
+{
+  "instance_id": "story_0002",
+  "pipeline": "direct",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "astonished",
+    "crying_hard",
+    "displeased_frown",
+    "exasperated",
+    "holding_back_tears",
+    "interested_attentive",
+    "natural_smile_cheerful",
+    "sad",
+    "serious_expressionless",
+    "slightly_happy_faint_smile",
+    "surprised",
+    "unconvinced",
+    "uneasy_confused"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": null,
+      "label": "exasperated"
+    },
+    {
+      "turn": 6,
+      "text": "Ah—!",
+      "emotion_description": null,
+      "label": "astonished"
+    },
+    {
+      "turn": 10,
+      "text": "I-I'm sorry.",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 11,
+      "text": "I turned too fast...",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 14,
+      "text": "You don't have to—",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 17,
+      "text": "Th-thank you.",
+      "emotion_description": null,
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 20,
+      "text": "Sorry.",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 22,
+      "text": "...I know.",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 25,
+      "text": "Yes.",
+      "emotion_description": null,
+      "label": "serious_expressionless"
+    },
+    {
+      "turn": 26,
+      "text": "These are for my class.",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 29,
+      "text": "What?",
+      "emotion_description": null,
+      "label": "surprised"
+    },
+    {
+      "turn": 31,
+      "text": "Moved...?",
+      "emotion_description": null,
+      "label": "surprised"
+    },
+    {
+      "turn": 33,
+      "text": "No wonder...",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 36,
+      "text": "You're helping me?",
+      "emotion_description": null,
+      "label": "surprised"
+    },
+    {
+      "turn": 39,
+      "text": "Are you a second-year?",
+      "emotion_description": null,
+      "label": "interested_attentive"
+    },
+    {
+      "turn": 41,
+      "text": "Oh.",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 43,
+      "text": "Then... welcome.",
+      "emotion_description": null,
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 48,
+      "text": "Y-yes!",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 52,
+      "text": "Our...?",
+      "emotion_description": null,
+      "label": "surprised"
+    },
+    {
+      "turn": 55,
+      "text": "So we're in the same class.",
+      "emotion_description": null,
+      "label": "surprised"
+    },
+    {
+      "turn": 58,
+      "text": "Then I really did crash into my morning.",
+      "emotion_description": null,
+      "label": "slightly_happy_faint_smile"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "The sprites mostly sustain Aoi’s shy, apologetic reserve through uneasy/confused and faint-smile choices, with only minor overstatement in the opening exasperation and a few broad surprised beats."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Sprites consistently reflect introversion through hesitation, apologies, downcast moments, and subtle smiles; minor inconsistency is the 'exasperated' opening (louder than her reserved nature typically permits), but the emotional arc from flustered to cautiously warm is coherent and well-matched to dialogue throughout."
+    }
+  }
+}

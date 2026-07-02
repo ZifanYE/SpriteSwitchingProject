@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0017",
+  "expression_set": "ekman",
+  "personality": "extroverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B better captures an expressive, upbeat extrovert under stress by using lighter self-aware sprites where A overuses fear/happiness in moments that read more flustered or irritated."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B's 'anger' on the sarcastic 'Love that for me' line better fits expressive frustration than A's mismatched 'happiness,' and its 'surprise' for the rushed apology and 'happiness' while squeezing in are more coherent than A's repeated 'fear.'"
+    }
+  }
+}

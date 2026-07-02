@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0005",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "The versions are nearly identical, but A’s surprise on “If I do this... I’ll get to school?” and final lingering surprise on “First day...” better preserve Aoi’s subdued, quietly unsettled temperament and the scene’s emotional arc than B’s more fearful then flattened neutral choices."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "The two differ only at three lines: B's 'If I do this' and 'And if I don't' as fear better match the rising dread, and B's final 'First day...' neutral coheres with the relieved closing breath."
+    }
+  }
+}

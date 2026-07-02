@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0014",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays more understated for this introverted girl, while B overstates several beats with fear where the scene reads as dry nerves, wary disbelief, or tentative humor."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "The lines differ only at a few points: B replaces A's out-of-character 'anger' line with 'fear' (better for this reserved character) and uses 'fear' where rising dread fits the alien-device and 'Mostly?' beats, matching the emotional progression more coherently."
+    }
+  }
+}

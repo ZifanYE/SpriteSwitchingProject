@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0019",
+  "expression_set": "adaptive",
+  "personality": "extroverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "Both are lively overall, but A’s embarrassed beat better suits her expressive, self-aware humor and its surprised reaction to the disappearance tracks the shock/fear more cleanly than B’s repeated anger."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "The two versions differ only on two lines: A's 'embarrassed' for the self-deprecating tragedy quip and 'surprised' for the vanishing reaction fit the emotion and expressive personality better than B's repeated 'anxious'/'angry'."
+    }
+  }
+}

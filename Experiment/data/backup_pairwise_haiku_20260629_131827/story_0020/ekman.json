@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0020",
+  "expression_set": "ekman",
+  "personality": "extroverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B better preserves Aoi’s outwardly expressive, proactive warmth by using happier/helpful sprites in her caretaking lines, while A leans too sad/flat in moments that read more reassuring and energetic."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "Version A uses sadness when Aoi first addresses the crying boy, which better reflects her empathetic response to his distress; Version B uses happiness here, which contradicts the emotional gravity of the moment. Version A also uses neutral sprites for practical information-gathering and task-focused dialogue, reserving happiness for genuine warmth and reassurance, creating better emotional progression and consistency with an extroverted character who is both expressive and emotionally intelligent."
+    }
+  }
+}

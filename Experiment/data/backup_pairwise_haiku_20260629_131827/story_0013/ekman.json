@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0013",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B stays more subdued and inward for this introverted girl, and its later sadness/quiet resolve beats A’s more reactive early surprise and overly bright ending sprites."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "B",
+      "rationale": "Version A maintains consistent fear/surprise cycling that better reflects an introverted character's reserved processing of shock, while Version B's shift to sadness in the final act better captures the emotional weight of the ghost's revelation and Aoi's quiet empathy, though it slightly breaks character consistency by showing overt sadness rather than subtle internal feeling."
+    }
+  }
+}

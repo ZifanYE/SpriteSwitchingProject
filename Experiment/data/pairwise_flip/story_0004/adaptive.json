@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0004",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B better preserves Aoi’s quiet, inward reserve with shy/sad beats and more coherent support-taking-action progression, while A is slightly off on a few lines with flatter or mismatched anxious/neutral choices."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B's 'shy' for the soft thank-you and 'sad' for the dropping-stomach moment fit the reserved character and emotional beats slightly better, and its consistent 'determined' run during the rescue reads more coherently than A's anxious wavering."
+    }
+  }
+}

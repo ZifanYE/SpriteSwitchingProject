@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0011",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "A",
+      "rationale": "B avoids A’s overly forceful angry beat and keeps Aoi more subdued overall, but A tracks the scene’s moment-to-moment emotions more precisely, especially the dawning realization, startled exchanges, and firmer final protest."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "A",
+      "rationale": "B's reliance on anxious/shy tones (notably 'anxious' over A's 'angry' for 'This isn't funny') better fits a reserved character who keeps feelings inside, while A's more varied sprites (shy, angry, surprised) track each line's specific emotion slightly better."
+    }
+  }
+}

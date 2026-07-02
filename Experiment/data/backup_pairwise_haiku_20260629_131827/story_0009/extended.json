@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0009",
+  "expression_set": "extended",
+  "personality": "extroverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "strong",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A better preserves an expressive, outgoing Aoi while tracking the scene’s stress→embarrassment→relief arc; B overuses cheerful/faint-smile sprites in clearly flustered or self-deprecating beats."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "Version A uses sprite variety (serious_expressionless, astonished) to show Aoi's dynamic emotional range and extroverted expressiveness, while B relies too heavily on natural_smile_cheerful and slightly_happy_faint_smile, flattening her emotional arc and failing to capture the visible frustration and surprise that define her personality."
+    }
+  }
+}

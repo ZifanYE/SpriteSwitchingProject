@@ -1,0 +1,101 @@
+{
+  "instance_id": "story_0001",
+  "pipeline": "twostage",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "expression_labels": [
+    "anger",
+    "disgust",
+    "fear",
+    "happiness",
+    "neutral",
+    "sadness",
+    "surprise"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panicked embarrassment and self-reproach, worried that starting the term late will ruin her careful first impression.",
+      "label": "fear"
+    },
+    {
+      "turn": 4,
+      "text": "Please don't say that...",
+      "emotion_description": "She feels quietly overwhelmed and anxious, with a small, pleading hope that the bad news might not be true.",
+      "label": "fear"
+    },
+    {
+      "turn": 6,
+      "text": "If I miss the opening homeroom...",
+      "emotion_description": "She is quietly panicking and imagining the embarrassment of being late on the very first day, with anxious worry building under her restrained exterior.",
+      "label": "fear"
+    },
+    {
+      "turn": 9,
+      "text": "I'm sorry. I'm late.",
+      "emotion_description": "She feels embarrassed and anxious, quietly bracing herself for the teacher’s reaction while trying to stay polite and composed.",
+      "label": "fear"
+    },
+    {
+      "turn": 12,
+      "text": "Class 1-B... second floor, right?",
+      "emotion_description": "She is quietly anxious and flustered, trying to steady herself by confirming the classroom location while feeling embarrassed about being late.",
+      "label": "fear"
+    },
+    {
+      "turn": 16,
+      "text": "S-sorry for interrupting...",
+      "emotion_description": "She feels flustered and deeply embarrassed at being the center of attention, trying to shrink into herself while politely apologizing and hoping not to make the situation worse.",
+      "label": "fear"
+    },
+    {
+      "turn": 20,
+      "text": "Ah... right. I'm very sorry.",
+      "emotion_description": "She feels mortified and flustered, shrinking inward with quiet embarrassment as she apologizes again for the awkward mistake.",
+      "label": "sadness"
+    },
+    {
+      "turn": 23,
+      "text": "I couldn't even be late correctly...",
+      "emotion_description": "She feels mortified and self-reproachful, quietly overwhelmed by embarrassment as she inwardly scolds herself for making an already bad first impression even worse.",
+      "label": "sadness"
+    },
+    {
+      "turn": 27,
+      "text": "Y-yes. I mixed up the rooms.",
+      "emotion_description": "She feels embarrassed and flustered, trying to stay polite and composed while quietly shrinking under the humiliation of her mistake.",
+      "label": "sadness"
+    },
+    {
+      "turn": 30,
+      "text": "Thank you...",
+      "emotion_description": "She feels shyly relieved and grateful for the kindness, with her embarrassment easing just enough to let a small, cautious warmth show.",
+      "label": "happiness"
+    },
+    {
+      "turn": 34,
+      "text": "I'm sorry for causing trouble.",
+      "emotion_description": "She feels deeply embarrassed and apologetic, quietly shrinking inward while trying to be polite and not burden anyone further.",
+      "label": "sadness"
+    },
+    {
+      "turn": 37,
+      "text": "You saved me.",
+      "emotion_description": "She feels deeply relieved and quietly grateful, with a small surge of warmth and trust toward Mina after being rescued from an embarrassing morning.",
+      "label": "happiness"
+    },
+    {
+      "turn": 40,
+      "text": "Okay... I can do that.",
+      "emotion_description": "She feels a small, relieved steadiness returning after the morning’s embarrassment, and though still shy, she’s quietly grateful and willing to trust Mina’s help.",
+      "label": "happiness"
+    },
+    {
+      "turn": 42,
+      "text": "Maybe... this day isn't ruined after all.",
+      "emotion_description": "She feels a cautious, relieved sense of hope, quietly reassured by Mina’s kindness and trying to believe the day can still turn out okay.",
+      "label": "happiness"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "instance_id": "story_0002",
+  "pipeline": "twostage",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "astonished",
+    "crying_hard",
+    "displeased_frown",
+    "exasperated",
+    "holding_back_tears",
+    "interested_attentive",
+    "natural_smile_cheerful",
+    "sad",
+    "serious_expressionless",
+    "slightly_happy_faint_smile",
+    "surprised",
+    "unconvinced",
+    "uneasy_confused"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panicked embarrassment and self-reproach, worried that starting the term late has already ruined her chance to make a good impression.",
+      "label": "exasperated"
+    },
+    {
+      "turn": 6,
+      "text": "Ah—!",
+      "emotion_description": "She feels a sharp, startled jolt of embarrassment and alarm, instinctively trying to keep herself composed even as the collision catches her off guard.",
+      "label": "surprised"
+    },
+    {
+      "turn": 10,
+      "text": "I-I'm sorry.",
+      "emotion_description": "She feels startled and embarrassed, immediately shrinking inward with apologetic anxiety as she tries to smooth over the collision without making a scene.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 11,
+      "text": "I turned too fast...",
+      "emotion_description": "She feels flustered and embarrassed, quietly blaming herself for the collision while trying to explain without making a fuss.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 14,
+      "text": "You don't have to—",
+      "emotion_description": "She feels flustered and embarrassed from the collision, but also quietly grateful and a little hesitant to accept help, so she starts to protest softly out of politeness.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 17,
+      "text": "Th-thank you.",
+      "emotion_description": "She feels flustered and embarrassed from the collision, but also quietly relieved and grateful that he helped her despite his bluntness.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 20,
+      "text": "Sorry.",
+      "emotion_description": "She feels flustered and embarrassed, with a small surge of gratitude and awkwardness as she apologizes again and tries to shrink from the brief contact.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 22,
+      "text": "...I know.",
+      "emotion_description": "She feels embarrassed and self-conscious, quietly acknowledging his observation while trying to hide how flustered and apologetic she still is.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 25,
+      "text": "Yes.",
+      "emotion_description": "She feels small and embarrassed after the collision, but also quietly relieved to answer him and keep the interaction brief and polite.",
+      "label": "serious_expressionless"
+    },
+    {
+      "turn": 26,
+      "text": "These are for my class.",
+      "emotion_description": "She feels shy and flustered, but also quietly relieved to explain herself and regain a little composure after the awkward collision.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 29,
+      "text": "What?",
+      "emotion_description": "She is startled and suddenly alert, with a small surge of embarrassed confusion as she realizes she may have been heading the wrong way.",
+      "label": "surprised"
+    },
+    {
+      "turn": 31,
+      "text": "Moved...?",
+      "emotion_description": "She feels startled and flustered, with a small surge of anxious confusion as she realizes she may have been rushing in the wrong direction.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 33,
+      "text": "No wonder...",
+      "emotion_description": "She feels a small, embarrassed sinking realization mixed with relief that the mistake wasn’t entirely her fault, and she’s quietly trying to absorb the bad news without panicking.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 36,
+      "text": "You're helping me?",
+      "emotion_description": "She feels startled and quietly relieved, with a shy, tentative gratitude that makes her unsure how to respond.",
+      "label": "surprised"
+    },
+    {
+      "turn": 39,
+      "text": "Are you a second-year?",
+      "emotion_description": "She feels cautious curiosity mixed with a small, tentative relief, trying to understand this blunt boy while quietly accepting his help.",
+      "label": "interested_attentive"
+    },
+    {
+      "turn": 41,
+      "text": "Oh.",
+      "emotion_description": "She feels a small, startled mix of embarrassment and relief, quietly realizing he’s not being rude so much as unexpectedly helpful.",
+      "label": "surprised"
+    },
+    {
+      "turn": 43,
+      "text": "Then... welcome.",
+      "emotion_description": "She feels shyly relieved and a little awkward, but makes a small, polite effort to be warm and welcoming despite her lingering embarrassment.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 48,
+      "text": "Y-yes!",
+      "emotion_description": "She feels flustered and breathless from being caught late, but also quietly relieved that she made it and can finally hand over the schedules.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 52,
+      "text": "Our...?",
+      "emotion_description": "She is startled and quietly confused, realizing with a small jolt that the boy may be connected to her class and trying to make sense of the unexpected situation without showing much outward emotion.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 55,
+      "text": "So we're in the same class.",
+      "emotion_description": "She feels a small, startled lift of relief and curiosity, quietly pleased by the unexpected coincidence while still keeping her nerves tucked in.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 58,
+      "text": "Then I really did crash into my morning.",
+      "emotion_description": "She feels embarrassed but lightly amused, relieved that the chaos has turned into a small joke, and a little overwhelmed by how abruptly her morning has gone off course.",
+      "label": "slightly_happy_faint_smile"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "The sprites mostly sustain Aoi’s shy, apologetic reserve through repeated uneasy/confused and faint-smile choices, with only minor overstatement in the opening exasperation and a few flatter-than-ideal beats like 'Yes.'"
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "The faint smiles, frequent uneasy_confused, and soft surprises fit a reserved girl well, though the opening 'exasperated' is louder than her subtle profile and 'serious_expressionless' for a simple 'Yes' slightly undersells the nervous moment."
+    }
+  }
+}

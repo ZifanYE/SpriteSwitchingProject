@@ -1,0 +1,108 @@
+{
+  "instance_id": "story_0003",
+  "pipeline": "twostage",
+  "expression_set": "extended",
+  "personality": "extroverted",
+  "expression_labels": [
+    "angry",
+    "astonished",
+    "crying_hard",
+    "displeased_frown",
+    "exasperated",
+    "holding_back_tears",
+    "interested_attentive",
+    "natural_smile_cheerful",
+    "sad",
+    "serious_expressionless",
+    "slightly_happy_faint_smile",
+    "surprised",
+    "unconvinced",
+    "uneasy_confused"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels panicked and flustered, with a burst of frustrated disbelief at being late on the very first day and a strong urge to fix it immediately.",
+      "label": "exasperated"
+    },
+    {
+      "turn": 3,
+      "text": "Stupid alarm, why did you die today of all days?!",
+      "emotion_description": "She is flustered and panicked about being late, with a burst of irritated self-directed frustration at the alarm for ruining her first day.",
+      "label": "exasperated"
+    },
+    {
+      "turn": 5,
+      "text": "Mom's going to say it was fate punishing me for scrolling at midnight...",
+      "emotion_description": "She’s flustered and self-mocking, half-panicked about being late but trying to lighten the moment with a joking complaint that hides her embarrassment.",
+      "label": "exasperated"
+    },
+    {
+      "turn": 8,
+      "text": "Wait, seriously? They never open this gate.",
+      "emotion_description": "She’s abruptly shifting from frantic panic to startled, hopeful curiosity, with a quick spark of relief at the unexpected shortcut and a lively sense that maybe the morning can still be saved.",
+      "label": "surprised"
+    },
+    {
+      "turn": 11,
+      "text": "Yeah, that was the problem, thanks.",
+      "emotion_description": "She’s flustered and irritated from being late, but her quick retort shows she’s also trying to stay sharp and not let the situation make her feel helpless.",
+      "label": "exasperated"
+    },
+    {
+      "turn": 13,
+      "text": "...That's weirdly specific.",
+      "emotion_description": "She feels wary and puzzled, with a flicker of suspicion beneath her usual blunt, energetic tone as she tries to make sense of the girl’s oddly precise warning.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 16,
+      "text": "\"Always\"? We've never met.",
+      "emotion_description": "She feels startled and suspicious, with a flash of defensive embarrassment at being read so accurately by a stranger.",
+      "label": "unconvinced"
+    },
+    {
+      "turn": 19,
+      "text": "How do you know that before the board goes up?",
+      "emotion_description": "She feels sharply startled and uneasy, with her usual boldness turning into wary suspicion as she tries to make sense of how this stranger knows something she shouldn’t.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 23,
+      "text": "Okay, wow. Creepy. Helpful, maybe, but creepy.",
+      "emotion_description": "She’s startled and uneasy, but trying to regain control by joking through her nerves and treating the stranger’s eerie help with wary curiosity.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 26,
+      "text": "Yes! I might actually make it!",
+      "emotion_description": "She feels a sudden burst of relieved, energized optimism as the immediate panic lifts and she sees a real chance of arriving on time.",
+      "label": "natural_smile_cheerful"
+    },
+    {
+      "turn": 31,
+      "text": "No way...",
+      "emotion_description": "She is stunned and suddenly shaken, realizing the stranger’s warning was real and feeling a sharp mix of fear, disbelief, and uneasy gratitude.",
+      "label": "astonished"
+    },
+    {
+      "turn": 33,
+      "text": "She said not to use the east stairs.",
+      "emotion_description": "Aoi is jolted into tense, uneasy alarm as the stranger’s warning suddenly feels ominously real, mixing fear with a sharp sense of being unsettled and impressed.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 37,
+      "text": "Oh, come on. Don't do this to me on day one.",
+      "emotion_description": "She feels a sharp mix of disbelief and rising anxiety, with a frustrated edge because the eerie warning just proved real and she’s suddenly aware she may be caught in something bigger than a bad first day.",
+      "label": "exasperated"
+    },
+    {
+      "turn": 39,
+      "text": "Fine. School first. Panic attack later.",
+      "emotion_description": "She is forcing herself into brisk, joking composure to stay functional, while underneath she’s shaken, anxious, and newly convinced something ominous is happening.",
+      "label": "exasperated"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0014",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays more subtly reserved throughout, while B’s determined mid-crisis beat and confused final line are less fitting than A’s anxious relief and soft closing smile."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A's opening 'embarrassed', and especially its closing 'smile' sprites match the soft, subtly-warming introvert and the scene's relieved, gently-bonding ending, whereas B's 'determined' and repeated 'confused'/closing 'confused' break the emotional progression and the quiet-smile beats."
+    }
+  }
+}

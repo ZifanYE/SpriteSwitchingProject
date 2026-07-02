@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0018",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays more uniformly subdued and introverted, while B adds a few sharper or less fitting beats (confused/embarrassed/anxious/determined) where A’s shy-surprised-embarrassed progression tracks the scene more naturally."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A's opening 'embarrassed' and steady 'thank you' fit better, and B's final 'determined' on a soft '...I will' overstates a quiet promise, while differences are otherwise minor."
+    }
+  }
+}

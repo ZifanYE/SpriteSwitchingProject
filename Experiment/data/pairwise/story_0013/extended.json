@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0013",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays more subdued and inward throughout, while B adds sharper beats like astonished/unconvinced and a smile on 'Okay' that feel less introverted and less smoothly aligned to the scene’s emotional flow."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "B",
+      "rationale": "A's repeated uneasy_confused keeps a subdued, reserved tone fitting the introvert, while B's astonished and unconvinced add emotional specificity matching key beats but read slightly more reactive than the personality suggests."
+    }
+  }
+}

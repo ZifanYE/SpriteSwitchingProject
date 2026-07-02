@@ -1,0 +1,122 @@
+{
+  "instance_id": "story_0020",
+  "pipeline": "direct",
+  "expression_set": "adaptive",
+  "personality": "extroverted",
+  "expression_labels": [
+    "angry",
+    "anxious",
+    "confused",
+    "determined",
+    "embarrassed",
+    "neutral",
+    "sad",
+    "shy",
+    "smile",
+    "surprised"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 3,
+      "text": "Why did the train have to stall today of all days?!",
+      "emotion_description": null,
+      "label": "angry"
+    },
+    {
+      "turn": 6,
+      "text": "...Huh?",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 8,
+      "text": "Hey, hey, are you okay?",
+      "emotion_description": null,
+      "label": "neutral"
+    },
+    {
+      "turn": 11,
+      "text": "Whoa, seriously? Don't move, okay? I'm here.",
+      "emotion_description": null,
+      "label": "determined"
+    },
+    {
+      "turn": 15,
+      "text": "...Ah, man. Fine. First day and I'm already doomed.",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 16,
+      "text": "What's your name?",
+      "emotion_description": null,
+      "label": "determined"
+    },
+    {
+      "turn": 18,
+      "text": "Okay, Kota. I'm Aoi. We're going to find your mom together.",
+      "emotion_description": null,
+      "label": "determined"
+    },
+    {
+      "turn": 20,
+      "text": "Did you come from the station? The bakery? Somewhere with lots of people?",
+      "emotion_description": null,
+      "label": "determined"
+    },
+    {
+      "turn": 23,
+      "text": "Got it. Flower shop. Come on, hold my sleeve tight.",
+      "emotion_description": null,
+      "label": "determined"
+    },
+    {
+      "turn": 25,
+      "text": "Excuse me! Did anyone see a woman looking for a little kid in a yellow cap?",
+      "emotion_description": null,
+      "label": "determined"
+    },
+    {
+      "turn": 32,
+      "text": "It's okay. He stayed near the crossing. He was really trying to be brave.",
+      "emotion_description": null,
+      "label": "smile"
+    },
+    {
+      "turn": 34,
+      "text": "Next time, don't chase buses, okay? They're not that interesting.",
+      "emotion_description": null,
+      "label": "smile"
+    },
+    {
+      "turn": 38,
+      "text": "Oh, wow. I am absolutely dead.",
+      "emotion_description": null,
+      "label": "embarrassed"
+    },
+    {
+      "turn": 40,
+      "text": "But... yeah. Still worth it.",
+      "emotion_description": null,
+      "label": "smile"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "The sequence is mostly expressive and proactive in line with an extrovert, and most emotions track well from panic to irritation to resolve to relief, with only a few flatter choices like neutral on comforting the boy and repeated determined sprites smoothing over subtler shifts."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Sprites track the emotional arc well (anxious panic, angry, confused, smiling relief, embarrassed laugh) fitting the expressive extrovert, though the long run of identical 'determined' sprites flattens turns where varied expression was warranted."
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0018",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays more uniformly soft and inward with embarrassed/shy choices, while B adds a few sharper or less fitting beats (confused, embarrassed at the teacher stop, determined on the final quiet reply) that weaken both personality fit and emotional flow."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "Version A maintains consistent embarrassment through the collision and apology sequence, then shifts to shy/surprised as Aoi gains composure—better reflecting an introvert's gradual emotional recovery. Version B's early anxious sprite and later embarrassed response to the teacher undercuts the character's subtle emotional arc, and the confused sprite at 'Both...?' feels out of place for someone processing information quietly."
+    }
+  }
+}

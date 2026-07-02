@@ -1,0 +1,132 @@
+{
+  "instance_id": "story_0009",
+  "pipeline": "direct",
+  "expression_set": "extended",
+  "personality": "extroverted",
+  "expression_labels": [
+    "angry",
+    "astonished",
+    "crying_hard",
+    "displeased_frown",
+    "exasperated",
+    "holding_back_tears",
+    "interested_attentive",
+    "natural_smile_cheerful",
+    "sad",
+    "serious_expressionless",
+    "slightly_happy_faint_smile",
+    "surprised",
+    "unconvinced",
+    "uneasy_confused"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": null,
+      "label": "exasperated"
+    },
+    {
+      "turn": 4,
+      "text": "You've got to be kidding me. Today of all days?",
+      "emotion_description": null,
+      "label": "exasperated"
+    },
+    {
+      "turn": 6,
+      "text": "Okay, okay. Don't panic. Fast walk, transfer, survive.",
+      "emotion_description": null,
+      "label": "serious_expressionless"
+    },
+    {
+      "turn": 8,
+      "text": "Made it! Barely! I am never trusting that line again.",
+      "emotion_description": null,
+      "label": "natural_smile_cheerful"
+    },
+    {
+      "turn": 10,
+      "text": "Year one, class three... end of the hall, right?",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 12,
+      "text": "Good morning! Sorry I'm la—",
+      "emotion_description": null,
+      "label": "natural_smile_cheerful"
+    },
+    {
+      "turn": 15,
+      "text": "...Nope! Wrong dramatic entrance!",
+      "emotion_description": null,
+      "label": "exasperated"
+    },
+    {
+      "turn": 17,
+      "text": "Amazing. Absolute master class, Aoi.",
+      "emotion_description": null,
+      "label": "exasperated"
+    },
+    {
+      "turn": 20,
+      "text": "What kind of map prints north in six-point font?!",
+      "emotion_description": null,
+      "label": "exasperated"
+    },
+    {
+      "turn": 22,
+      "text": "Come on, come on... please let the teacher be nice.",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 25,
+      "text": "Please tell me you're also in 1-3 and not judging me too hard.",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 28,
+      "text": "Then lead the way, hero. I'll owe you my life for at least one lunch break.",
+      "emotion_description": null,
+      "label": "natural_smile_cheerful"
+    },
+    {
+      "turn": 30,
+      "text": "Excuse me! Sorry we're late!",
+      "emotion_description": null,
+      "label": "natural_smile_cheerful"
+    },
+    {
+      "turn": 33,
+      "text": "That obvious, huh?",
+      "emotion_description": null,
+      "label": "astonished"
+    },
+    {
+      "turn": 36,
+      "text": "Thank you! I swear this is not my usual brand.",
+      "emotion_description": null,
+      "label": "natural_smile_cheerful"
+    },
+    {
+      "turn": 38,
+      "text": "Okay. New term status: messy start, but not a total disaster.",
+      "emotion_description": null,
+      "label": "slightly_happy_faint_smile"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Aoi is mostly expressed as an openly reactive, talkative extrovert with lively exasperation and cheerful recovery, though a few choices like the expressionless self-pep-talk and repeated exasperation flatten more specific beats such as embarrassment or sarcasm."
+    },
+    "claude": {
+      "character_consistency": 5,
+      "emotional_fidelity": 4,
+      "rationale": "Sprites track Aoi's expressive swings from exasperation to cheerful relief well, though the embarrassed 'Heat floods her face' moment used exasperated rather than a flustered/embarrassed expression."
+    }
+  }
+}

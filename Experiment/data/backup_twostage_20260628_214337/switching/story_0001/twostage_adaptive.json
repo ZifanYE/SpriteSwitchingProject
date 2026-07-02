@@ -1,0 +1,104 @@
+{
+  "instance_id": "story_0001",
+  "pipeline": "twostage",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "anxious",
+    "confused",
+    "determined",
+    "embarrassed",
+    "neutral",
+    "sad",
+    "shy",
+    "smile",
+    "surprised"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panicked embarrassment and self-reproach, worried that starting the term late will ruin her careful first impression.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 4,
+      "text": "Please don't say that...",
+      "emotion_description": "She feels quietly overwhelmed and anxious, dreading even more bad news while trying to keep her panic contained.",
+      "label": "anxious"
+    },
+    {
+      "turn": 6,
+      "text": "If I miss the opening homeroom...",
+      "emotion_description": "She is quietly panicking and imagining the embarrassment of being late on the very first day, with anxious self-reproach and a tense effort to stay composed.",
+      "label": "anxious"
+    },
+    {
+      "turn": 9,
+      "text": "I'm sorry. I'm late.",
+      "emotion_description": "She feels embarrassed and anxious, quietly bracing herself for the teacher’s reaction while trying to stay polite and composed.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 12,
+      "text": "Class 1-B... second floor, right?",
+      "emotion_description": "She is quietly anxious and flustered, trying to steady herself by confirming the classroom location while feeling embarrassed about being late.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 16,
+      "text": "S-sorry for interrupting...",
+      "emotion_description": "She feels mortified and anxious, shrinking under everyone’s attention while trying to stay polite and unobtrusive.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 20,
+      "text": "Ah... right. I'm very sorry.",
+      "emotion_description": "She feels mortified and flustered, quietly absorbing the embarrassment while trying to apologize politely and disappear into herself.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 23,
+      "text": "I couldn't even be late correctly...",
+      "emotion_description": "She feels mortified and flustered, turning her embarrassment inward into a quiet, self-conscious frustration at having made an already bad first impression even worse.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 27,
+      "text": "Y-yes. I mixed up the rooms.",
+      "emotion_description": "She feels embarrassed and flustered, but is trying to answer politely and quietly while keeping her humiliation contained.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 30,
+      "text": "Thank you...",
+      "emotion_description": "She feels shyly relieved and grateful for the kindness, with her embarrassment still lingering but easing a little as she accepts the help.",
+      "label": "shy"
+    },
+    {
+      "turn": 34,
+      "text": "I'm sorry for causing trouble.",
+      "emotion_description": "She feels deeply embarrassed and apologetic, quietly shrinking inward while trying to be polite and not burden anyone further.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 37,
+      "text": "You saved me.",
+      "emotion_description": "She feels deeply relieved and quietly grateful, with a small surge of warmth and trust toward Mina after being rescued from an embarrassing morning.",
+      "label": "smile"
+    },
+    {
+      "turn": 40,
+      "text": "Okay... I can do that.",
+      "emotion_description": "She feels a small, relieved steadiness returning after the morning’s embarrassment, quietly grateful for Mina’s kindness and trying to gather her composure so she can keep going.",
+      "label": "smile"
+    },
+    {
+      "turn": 42,
+      "text": "Maybe... this day isn't ruined after all.",
+      "emotion_description": "She feels a cautious, relieved hope beginning to replace her earlier embarrassment, as if a small kindness has made the day seem salvageable.",
+      "label": "smile"
+    }
+  ]
+}

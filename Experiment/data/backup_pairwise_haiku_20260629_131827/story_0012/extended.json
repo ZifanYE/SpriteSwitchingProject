@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0012",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays more restrained and inward overall, while B adds a few softer-but-less-coherent shifts like attentive during public calling and uneasy during the teacher exchange."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "Version A maintains consistent introverted restraint through serious_expressionless sprites during confrontational moments (calling out to strangers, facing the teacher), while B inappropriately shifts to uneasy_confused when addressing authority, undermining her composed resolve; A also uses holding_back_tears to convey subtle emotional depth rather than B's explicit sad sprite, better matching the character's tendency to keep feelings internal."
+    }
+  }
+}

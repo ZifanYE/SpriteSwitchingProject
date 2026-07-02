@@ -1,0 +1,149 @@
+{
+  "instance_id": "story_0018",
+  "pipeline": "twostage",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "expression_labels": [
+    "anger",
+    "disgust",
+    "fear",
+    "happiness",
+    "neutral",
+    "sadness",
+    "surprise"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panic and self-reproach, worried that starting the term late has already ruined her careful first impression.",
+      "label": "fear"
+    },
+    {
+      "turn": 6,
+      "text": "Ah—!",
+      "emotion_description": "A sharp burst of startled panic and embarrassment as she collides with someone, with a quiet fear that she has already ruined her first day.",
+      "label": "surprise"
+    },
+    {
+      "turn": 10,
+      "text": "I-I'm so sorry.",
+      "emotion_description": "She feels flustered and embarrassed, with a sharp jolt of panic at the collision and a quiet urge to apologize and avoid making a scene.",
+      "label": "fear"
+    },
+    {
+      "turn": 11,
+      "text": "I wasn't looking ahead.",
+      "emotion_description": "She feels flustered and embarrassed, with a quiet spike of panic and self-reproach as she apologizes for her carelessness.",
+      "label": "fear"
+    },
+    {
+      "turn": 14,
+      "text": "My forms... oh no...",
+      "emotion_description": "She feels flustered and embarrassed, with a sinking panic that she may have ruined her first day by losing the important forms.",
+      "label": "fear"
+    },
+    {
+      "turn": 18,
+      "text": "Th-thank you.",
+      "emotion_description": "She feels flustered and embarrassed from the collision, but also quietly relieved and grateful that he helped her gather the papers.",
+      "label": "happiness"
+    },
+    {
+      "turn": 19,
+      "text": "You don't have to—",
+      "emotion_description": "She feels flustered and embarrassed, but also quietly grateful and a little self-conscious about accepting help.",
+      "label": "surprise"
+    },
+    {
+      "turn": 22,
+      "text": "You saw that?",
+      "emotion_description": "She feels startled and self-conscious, with a small flare of embarrassment turning into quiet surprise that he noticed something so personal.",
+      "label": "surprise"
+    },
+    {
+      "turn": 26,
+      "text": "Both...?",
+      "emotion_description": "She is shyly startled and a little anxious, but also quietly relieved and curious that he seems to be sharing the blame instead of scolding her.",
+      "label": "surprise"
+    },
+    {
+      "turn": 29,
+      "text": "Oh.",
+      "emotion_description": "She feels a small, startled relief mixed with embarrassed self-consciousness, quietly realizing he is in the same awkward situation and softening toward him.",
+      "label": "surprise"
+    },
+    {
+      "turn": 31,
+      "text": "Then... we're in trouble together.",
+      "emotion_description": "She feels a shy, relieved sense of shared embarrassment that softens her panic into tentative camaraderie.",
+      "label": "happiness"
+    },
+    {
+      "turn": 35,
+      "text": "Ah— the bell...",
+      "emotion_description": "She feels a small jolt of anxious urgency, realizing the situation has become even more serious, but beneath it there’s a faint, shy relief at not being alone in being late.",
+      "label": "surprise"
+    },
+    {
+      "turn": 37,
+      "text": "I can try.",
+      "emotion_description": "She feels flustered but quietly determined, trying to steady her nerves and help despite still being embarrassed and late.",
+      "label": "neutral"
+    },
+    {
+      "turn": 41,
+      "text": "S-sorry...",
+      "emotion_description": "She is flustered and frightened, shrinking under the teacher’s attention while trying to apologize quietly and avoid making the situation worse.",
+      "label": "fear"
+    },
+    {
+      "turn": 43,
+      "text": "Aoi Sakamoto. First year, Class Three.",
+      "emotion_description": "She is tense and flustered from being caught, but trying hard to steady herself and answer politely despite her lingering embarrassment.",
+      "label": "fear"
+    },
+    {
+      "turn": 49,
+      "text": "It's my fault.",
+      "emotion_description": "She feels deeply embarrassed and guilty, instinctively taking responsibility to protect the situation from getting worse, while trying to stay composed despite her sinking stomach.",
+      "label": "sadness"
+    },
+    {
+      "turn": 50,
+      "text": "I forgot my forms and ran back home for them.",
+      "emotion_description": "She feels small and embarrassed, but is trying to explain herself calmly and take responsibility without making excuses.",
+      "label": "sadness"
+    },
+    {
+      "turn": 51,
+      "text": "Then I turned the corner too fast.",
+      "emotion_description": "She feels flustered and apologetic, trying to soften her own mistake by quietly taking responsibility while hoping the teacher won’t be too harsh.",
+      "label": "fear"
+    },
+    {
+      "turn": 56,
+      "text": "Yes, sir.",
+      "emotion_description": "She feels a quiet rush of relief and lingering embarrassment, trying to stay polite and composed after narrowly escaping a worse scolding.",
+      "label": "happiness"
+    },
+    {
+      "turn": 58,
+      "text": "Um... Kirishima-senpai?",
+      "emotion_description": "She is shyly trying to bridge the awkwardness with cautious gratitude and a small, tentative hope that addressing him respectfully will soften the tension.",
+      "label": "happiness"
+    },
+    {
+      "turn": 60,
+      "text": "Thank you. For helping me.",
+      "emotion_description": "She feels shy, relieved, and quietly grateful, with a lingering blush of embarrassment but a small warmth toward him for stepping in.",
+      "label": "happiness"
+    },
+    {
+      "turn": 63,
+      "text": "...I will.",
+      "emotion_description": "She feels still flustered and embarrassed, but also quietly grateful and determined to recover her composure after the scolding.",
+      "label": "neutral"
+    }
+  ]
+}

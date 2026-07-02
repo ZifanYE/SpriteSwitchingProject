@@ -1,0 +1,131 @@
+{
+  "instance_id": "story_0019",
+  "pipeline": "direct",
+  "expression_set": "ekman",
+  "personality": "extroverted",
+  "expression_labels": [
+    "anger",
+    "disgust",
+    "fear",
+    "happiness",
+    "neutral",
+    "sadness",
+    "surprise"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 3,
+      "text": "Why today of all days? My alarm worked! I know it did!",
+      "emotion_description": null,
+      "label": "anger"
+    },
+    {
+      "turn": 5,
+      "text": "Wait. Where's my pass?",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 7,
+      "text": "Come on, come on, don't do this to me!",
+      "emotion_description": null,
+      "label": "anger"
+    },
+    {
+      "turn": 9,
+      "text": "Seriously... I stopped to read that creepy note, and now my pass is gone?",
+      "emotion_description": null,
+      "label": "anger"
+    },
+    {
+      "turn": 13,
+      "text": "I'm late, I'm cardless, and I'm trying very hard not to become a tragedy in a school uniform.",
+      "emotion_description": null,
+      "label": "anger"
+    },
+    {
+      "turn": 16,
+      "text": "Platform three... you're kidding.",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 18,
+      "text": "Sorry! Excuse me! First-day emergency!",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 20,
+      "text": "Oh, thank goodness! That's mine—",
+      "emotion_description": null,
+      "label": "happiness"
+    },
+    {
+      "turn": 24,
+      "text": "...How do you know my name?",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 26,
+      "text": "Okay, wow. That's not a normal sentence.",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 28,
+      "text": "Did my friends put you up to this? Because this prank is way too elaborate for eight in the morning.",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 30,
+      "text": "That made it worse. You know that, right?",
+      "emotion_description": null,
+      "label": "anger"
+    },
+    {
+      "turn": 33,
+      "text": "Nope. No. Absolutely not.",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 35,
+      "text": "People do not just vanish before homeroom!",
+      "emotion_description": null,
+      "label": "anger"
+    },
+    {
+      "turn": 37,
+      "text": "Aah— school! Mystery later, attendance first!",
+      "emotion_description": null,
+      "label": "happiness"
+    },
+    {
+      "turn": 39,
+      "text": "Seat by the window, huh... If that's true, who were you?",
+      "emotion_description": null,
+      "label": "surprise"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Aoi’s sprites are generally vivid and outwardly reactive in line with an extroverted personality, and most beats track the panic→relief→unease arc well, though several frustration/comic lines lean too heavily on anger or surprise."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Sprites consistently reflect an extroverted, expressive personality with visible emotional swings (fear→anger→surprise→happiness→fear→anger→happiness→surprise), though the repeated anger choices in the middle section slightly flatten what could be more varied frustration/bewilderment, and the final happiness sprite arrives slightly early before the full weight of the mystery settles in."
+    }
+  }
+}

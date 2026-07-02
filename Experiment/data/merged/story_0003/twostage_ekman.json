@@ -1,0 +1,273 @@
+{
+  "instance_id": "story_0003",
+  "title": "The Girl at the Closed Gate",
+  "protagonist": "Aoi",
+  "studied_speaker": "Aoi",
+  "pipeline": "twostage",
+  "expression_set": "ekman",
+  "personality": "extroverted",
+  "spriteMap": {
+    "anger": 0,
+    "disgust": 1,
+    "fear": 2,
+    "happiness": 3,
+    "neutral": 4,
+    "sadness": 5,
+    "surprise": 6
+  },
+  "dialogue": [
+    {
+      "turn": 0,
+      "type": "narration",
+      "text": "The first morning of the new school term -- and Aoi is already running late."
+    },
+    {
+      "turn": 1,
+      "type": "dialogue",
+      "text": "No, no, no -- not on the very first day!",
+      "speaker": "Aoi",
+      "label": "fear",
+      "sprite": 2
+    },
+    {
+      "turn": 2,
+      "type": "narration",
+      "text": "Aoi skids around the corner of her street, one sock still slouching at her ankle, her school bag thumping against her side."
+    },
+    {
+      "turn": 3,
+      "type": "dialogue",
+      "text": "Stupid alarm, why did you die today of all days?!",
+      "speaker": "Aoi",
+      "label": "anger",
+      "sprite": 0
+    },
+    {
+      "turn": 4,
+      "type": "narration",
+      "text": "She had set three alarms. All three screens had gone black in the night, drained at once for no reason she could explain."
+    },
+    {
+      "turn": 5,
+      "type": "dialogue",
+      "text": "Mom's going to say it was fate punishing me for scrolling at midnight...",
+      "speaker": "Aoi",
+      "label": "happiness",
+      "sprite": 3
+    },
+    {
+      "turn": 6,
+      "type": "narration",
+      "text": "At the shortcut behind the shopping street, she slows."
+    },
+    {
+      "turn": 7,
+      "type": "narration",
+      "text": "The old service gate to the school wall is standing open."
+    },
+    {
+      "turn": 8,
+      "type": "dialogue",
+      "text": "Wait, seriously? They never open this gate.",
+      "speaker": "Aoi",
+      "label": "surprise",
+      "sprite": 6
+    },
+    {
+      "turn": 9,
+      "type": "narration",
+      "text": "A girl in the same uniform stands beside it, pale in the morning light, holding the bars with both hands."
+    },
+    {
+      "turn": 10,
+      "type": "dialogue",
+      "text": "If you go through the front, you'll be late.",
+      "speaker": "Girl"
+    },
+    {
+      "turn": 11,
+      "type": "dialogue",
+      "text": "Yeah, that was the problem, thanks.",
+      "speaker": "Aoi",
+      "label": "anger",
+      "sprite": 0
+    },
+    {
+      "turn": 12,
+      "type": "dialogue",
+      "text": "Take this way instead. And don't use the east stairs today.",
+      "speaker": "Girl"
+    },
+    {
+      "turn": 13,
+      "type": "dialogue",
+      "text": "...That's weirdly specific.",
+      "speaker": "Aoi",
+      "label": "surprise",
+      "sprite": 6
+    },
+    {
+      "turn": 14,
+      "type": "narration",
+      "text": "The girl looks at Aoi's chest, at the ribbon she'd tied in a rushed, crooked knot."
+    },
+    {
+      "turn": 15,
+      "type": "dialogue",
+      "text": "You always pull the left side tighter when you're nervous.",
+      "speaker": "Girl"
+    },
+    {
+      "turn": 16,
+      "type": "dialogue",
+      "text": "\"Always\"? We've never met.",
+      "speaker": "Aoi",
+      "label": "surprise",
+      "sprite": 6
+    },
+    {
+      "turn": 17,
+      "type": "narration",
+      "text": "A chill runs under Aoi's collar despite the warm spring air."
+    },
+    {
+      "turn": 18,
+      "type": "dialogue",
+      "text": "Hurry. You're in Class 1-C now.",
+      "speaker": "Girl"
+    },
+    {
+      "turn": 19,
+      "type": "dialogue",
+      "text": "How do you know that before the board goes up?",
+      "speaker": "Aoi",
+      "label": "surprise",
+      "sprite": 6
+    },
+    {
+      "turn": 20,
+      "type": "narration",
+      "text": "The girl doesn't answer. She presses something into Aoi's hand — a small brass key on a faded blue string."
+    },
+    {
+      "turn": 21,
+      "type": "dialogue",
+      "text": "You'll need it later.",
+      "speaker": "Girl"
+    },
+    {
+      "turn": 22,
+      "type": "narration",
+      "text": "Aoi stares for half a beat, then laughs once out of pure nerves."
+    },
+    {
+      "turn": 23,
+      "type": "dialogue",
+      "text": "Okay, wow. Creepy. Helpful, maybe, but creepy.",
+      "speaker": "Aoi",
+      "label": "surprise",
+      "sprite": 6
+    },
+    {
+      "turn": 24,
+      "type": "narration",
+      "text": "She darts through the gate anyway."
+    },
+    {
+      "turn": 25,
+      "type": "narration",
+      "text": "The shortcut spits her out beside the gym, shaving precious minutes off the trip."
+    },
+    {
+      "turn": 26,
+      "type": "dialogue",
+      "text": "Yes! I might actually make it!",
+      "speaker": "Aoi",
+      "label": "happiness",
+      "sprite": 3
+    },
+    {
+      "turn": 27,
+      "type": "narration",
+      "text": "A crash splits the air from inside the main building."
+    },
+    {
+      "turn": 28,
+      "type": "narration",
+      "text": "Students near the entrance gasp and recoil as a maintenance cart lies tipped across the bottom of the east stairwell, mops and buckets scattered everywhere."
+    },
+    {
+      "turn": 29,
+      "type": "dialogue",
+      "text": "Good thing nobody was on the stairs.",
+      "speaker": "Male Student"
+    },
+    {
+      "turn": 30,
+      "type": "narration",
+      "text": "Aoi stops cold, breath caught halfway in."
+    },
+    {
+      "turn": 31,
+      "type": "dialogue",
+      "text": "No way...",
+      "speaker": "Aoi",
+      "label": "surprise",
+      "sprite": 6
+    },
+    {
+      "turn": 32,
+      "type": "narration",
+      "text": "Her fingers tighten around the brass key until the edges bite into her palm."
+    },
+    {
+      "turn": 33,
+      "type": "dialogue",
+      "text": "She said not to use the east stairs.",
+      "speaker": "Aoi",
+      "label": "fear",
+      "sprite": 2
+    },
+    {
+      "turn": 34,
+      "type": "narration",
+      "text": "Heart hammering now for a totally different reason, Aoi spins and looks back toward the service gate."
+    },
+    {
+      "turn": 35,
+      "type": "narration",
+      "text": "It is closed."
+    },
+    {
+      "turn": 36,
+      "type": "narration",
+      "text": "Locked, chained, and dusty, as if it has not been opened in months."
+    },
+    {
+      "turn": 37,
+      "type": "dialogue",
+      "text": "Oh, come on. Don't do this to me on day one.",
+      "speaker": "Aoi",
+      "label": "fear",
+      "sprite": 2
+    },
+    {
+      "turn": 38,
+      "type": "narration",
+      "text": "A teacher starts herding students away from the stairwell, and the tide of bodies pulls Aoi toward the shoe lockers."
+    },
+    {
+      "turn": 39,
+      "type": "dialogue",
+      "text": "Fine. School first. Panic attack later.",
+      "speaker": "Aoi",
+      "label": "fear",
+      "sprite": 2
+    },
+    {
+      "turn": 40,
+      "type": "narration",
+      "text": "She slips the blue string into her blazer pocket and hurries inside, unable to shake the feeling that the morning has only just begun."
+    }
+  ]
+}

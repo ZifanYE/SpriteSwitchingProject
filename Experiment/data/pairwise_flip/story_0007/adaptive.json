@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0007",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B stays more understated for an introverted Aoi (notably using shy over smile), while A and B are otherwise close with B slightly better on the final reflective beats."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "A",
+      "rationale": "B's softer choices (embarrassed/shy over anxious) suit the reserved personality, but A's emotional progression—anxious panic, smile of wonder, confused realization—tracks the line-by-line emotions more accurately."
+    }
+  }
+}

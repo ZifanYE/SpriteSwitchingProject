@@ -1,0 +1,131 @@
+{
+  "instance_id": "story_0004",
+  "pipeline": "direct",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "expression_labels": [
+    "anger",
+    "disgust",
+    "fear",
+    "happiness",
+    "neutral",
+    "sadness",
+    "surprise"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 6,
+      "text": "I had it this morning... I know I did...",
+      "emotion_description": null,
+      "label": "sadness"
+    },
+    {
+      "turn": 8,
+      "text": "Um...",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 9,
+      "text": "Are you okay?",
+      "emotion_description": null,
+      "label": "neutral"
+    },
+    {
+      "turn": 12,
+      "text": "You got separated?",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 16,
+      "text": "...I can't just leave you.",
+      "emotion_description": null,
+      "label": "sadness"
+    },
+    {
+      "turn": 17,
+      "text": "Do you know your brother's name?",
+      "emotion_description": null,
+      "label": "neutral"
+    },
+    {
+      "turn": 19,
+      "text": "Okay. Let's stand by the police box.",
+      "emotion_description": null,
+      "label": "neutral"
+    },
+    {
+      "turn": 23,
+      "text": "I just... happened to see her.",
+      "emotion_description": null,
+      "label": "neutral"
+    },
+    {
+      "turn": 30,
+      "text": "She's been scared for a while.",
+      "emotion_description": null,
+      "label": "sadness"
+    },
+    {
+      "turn": 34,
+      "text": "It's okay now.",
+      "emotion_description": null,
+      "label": "happiness"
+    },
+    {
+      "turn": 36,
+      "text": "...You're welcome.",
+      "emotion_description": null,
+      "label": "happiness"
+    },
+    {
+      "turn": 40,
+      "text": "Ah...",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 41,
+      "text": "First period is definitely starting.",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 44,
+      "text": "They're all going to look at me...",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 47,
+      "text": "But... I did the right thing.",
+      "emotion_description": null,
+      "label": "happiness"
+    },
+    {
+      "turn": 50,
+      "text": "So... I'll go.",
+      "emotion_description": null,
+      "label": "fear"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 3,
+      "emotional_fidelity": 4,
+      "rationale": "The emotional arc is mostly coherent—fear at lateness, subdued concern/helpfulness, relief, then renewed anxiety—but repeated overt fear/surprise and bright happiness are somewhat stronger than this introverted, subtly expressive personality suggests."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Sprites consistently reflect an introverted personality's subtle emotional expression (downcast eyes, quiet pauses, restraint), with only minor misalignment: the 'happiness' sprite at the end feels slightly too bright for someone who whispers reassurance and remains fundamentally anxious about being late."
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0019",
+  "expression_set": "adaptive",
+  "personality": "extroverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B’s embarrassed beat better suits her expressive, self-aware joking with the attendant, and its surprised reaction to the disappearance tracks the shock more naturally than A’s continued anger."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B uses 'embarrassed' when speaking to the attendant (fitting an extrovert's self-aware humor in a social moment) and 'surprised' after the stranger vanishes (shock at the impossible), while A repeats 'anxious' and 'angry' in those spots; B's choices better capture emotional variety and the extroverted character's expressive range."
+    }
+  }
+}

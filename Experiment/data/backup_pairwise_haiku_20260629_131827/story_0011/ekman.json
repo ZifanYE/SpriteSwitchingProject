@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0011",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "The versions are identical except for A's sad/fearful 'This isn't funny' versus B's anger, and A better preserves this introverted character's subdued affect while fitting the scene's anxious, uncanny escalation."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "Version A maintains consistent emotional restraint throughout (fear/surprise/sadness), fitting an introverted character who internalizes distress; Version B's anger sprite at 'This isn't funny' breaks character by having her externalize frustration loudly rather than suppress it quietly as her personality demands."
+    }
+  }
+}

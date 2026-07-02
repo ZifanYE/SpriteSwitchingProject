@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0013",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays more softly restrained for this introverted girl, while B’s determined/confused swaps on lines like “I know I did,” “That’s... worse,” and “You want me to help?” feel less emotionally precise."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "Version A uses anxious sprites consistently for Aoi's panicked early moments, while B switches to determined on 'I know I did' (undermining her frantic state) and confused on 'That's... worse' (which should convey anxiety/dread); A's progression from anxious→confused→surprised→determined→smile→embarrassed better tracks an introverted character's emotional arc from panic through resolution to quiet reflection."
+    }
+  }
+}

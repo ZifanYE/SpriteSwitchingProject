@@ -1,0 +1,128 @@
+{
+  "instance_id": "story_0009",
+  "pipeline": "twostage",
+  "expression_set": "adaptive",
+  "personality": "extroverted",
+  "expression_labels": [
+    "angry",
+    "anxious",
+    "confused",
+    "determined",
+    "embarrassed",
+    "neutral",
+    "sad",
+    "shy",
+    "smile",
+    "surprised"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels panicked and flustered, with a burst of frustrated disbelief at being late on the very first day and a strong urge to fix it immediately.",
+      "label": "anxious"
+    },
+    {
+      "turn": 4,
+      "text": "You've got to be kidding me. Today of all days?",
+      "emotion_description": "She feels openly exasperated and panicked at the bad timing, with a frustrated disbelief that her already stressful first day is getting even worse.",
+      "label": "angry"
+    },
+    {
+      "turn": 6,
+      "text": "Okay, okay. Don't panic. Fast walk, transfer, survive.",
+      "emotion_description": "She is trying to steady herself with brisk, self-motivating determination, masking rising stress and urgency with a practical pep talk.",
+      "label": "determined"
+    },
+    {
+      "turn": 8,
+      "text": "Made it! Barely! I am never trusting that line again.",
+      "emotion_description": "She feels breathless relief and triumphant frustration at having arrived at all, with a lingering vow to avoid that train line after such a stressful start.",
+      "label": "smile"
+    },
+    {
+      "turn": 10,
+      "text": "Year one, class three... end of the hall, right?",
+      "emotion_description": "She is tense and hurried but trying to stay upbeat and focused, mentally checking directions while pushing past her embarrassment about being late.",
+      "label": "determined"
+    },
+    {
+      "turn": 12,
+      "text": "Good morning! Sorry I'm la—",
+      "emotion_description": "She is flustered and breathless from rushing in late, but still upbeat and determined to make a cheerful first impression despite her embarrassment.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 15,
+      "text": "...Nope! Wrong dramatic entrance!",
+      "emotion_description": "She feels a burst of embarrassed panic that instantly flips into playful self-deprecation, trying to cover her mistake with upbeat humor and keep her confidence intact.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 17,
+      "text": "Amazing. Absolute master class, Aoi.",
+      "emotion_description": "She is mortified and flustered, but trying to laugh off her blunder with self-deprecating humor to recover her composure.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 20,
+      "text": "What kind of map prints north in six-point font?!",
+      "emotion_description": "She’s flustered and embarrassed, but mostly venting frustrated disbelief at the absurdity of the mistake while trying to laugh it off.",
+      "label": "angry"
+    },
+    {
+      "turn": 22,
+      "text": "Come on, come on... please let the teacher be nice.",
+      "emotion_description": "She is flustered and anxious after a string of humiliating mistakes, but still pushing herself forward with hopeful, pleading determination that the teacher will be forgiving.",
+      "label": "anxious"
+    },
+    {
+      "turn": 25,
+      "text": "Please tell me you're also in 1-3 and not judging me too hard.",
+      "emotion_description": "She feels embarrassed but is trying to recover with humor and hopeful friendliness, quietly desperate for reassurance that she hasn’t completely blown her first impression.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 28,
+      "text": "Then lead the way, hero. I'll owe you my life for at least one lunch break.",
+      "emotion_description": "She feels relieved and amused, quickly shifting into playful gratitude and friendly trust as she lets the other girl take charge.",
+      "label": "smile"
+    },
+    {
+      "turn": 30,
+      "text": "Excuse me! Sorry we're late!",
+      "emotion_description": "She feels flustered but relieved to have finally arrived at the right classroom, and she’s trying to recover with upbeat, socially confident energy despite the embarrassment.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 33,
+      "text": "That obvious, huh?",
+      "emotion_description": "She feels embarrassed and sheepish, but also relieved that the teacher is taking it lightly and trying to recover with a self-conscious joke.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 36,
+      "text": "Thank you! I swear this is not my usual brand.",
+      "emotion_description": "She feels relieved and embarrassed at once, trying to laugh off her disastrous first impression while reassuring everyone that she’s usually much more put-together.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 38,
+      "text": "Okay. New term status: messy start, but not a total disaster.",
+      "emotion_description": "She feels sheepish but relieved, trying to laugh off the chaos and regain her confidence now that the worst seems to be over.",
+      "label": "smile"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "The sequence is mostly expressive and outgoing—anger, determination, joking embarrassment, and relieved smiles fit Aoi’s extroverted voice—though the bright entrance line being marked embarrassed slightly blunts an otherwise coherent emotional arc."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Sprites track the emotional arc well (anxious panic, angry frustration, determined resolve, embarrassed mishaps, warm smiles), though the heavy run of 'embarrassed' flattens some distinct beats that an expressive extrovert might vary more."
+    }
+  }
+}

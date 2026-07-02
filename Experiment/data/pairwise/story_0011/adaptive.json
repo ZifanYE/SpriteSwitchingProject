@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0011",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays more subdued and inwardly tense for this introverted character, while B adds less fitting beats like shy/angry and misses some fear-driven reactions."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "B's 'angry' at 'This isn't funny' clashes with the reserved introvert who rarely shows anger, while A's 'anxious' fits better; A's anxious/shy progression is more coherent than B's repeated surprised and the out-of-character anger."
+    }
+  }
+}

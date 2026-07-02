@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0015",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A’s anxious/hesitant choices better suit an introverted, soft-spoken girl, while B’s embarrassed and especially determined sprites overstate her outward affect in key early beats."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "The versions differ on only three lines; A's 'anxious' for the running-late opening and 'anxious' for the school explanation fit a reserved character's contained panic better than B's 'embarrassed' and 'determined', while B's 'surprised' over A's 'confused' on the reflection line is roughly even."
+    }
+  }
+}

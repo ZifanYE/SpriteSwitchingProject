@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0002",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B uses more subdued sadness/neutral beats where A over-brightens or over-startles, giving Aoi a quieter, more emotionally precise progression."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B's softer 'sadness' for the apologetic, downcast lines and 'neutral' restraint better fit the reserved, subtly-emotive personality, where A overuses 'fear' and 'happiness'."
+    }
+  }
+}

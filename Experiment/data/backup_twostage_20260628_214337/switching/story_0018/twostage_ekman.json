@@ -1,0 +1,149 @@
+{
+  "instance_id": "story_0018",
+  "pipeline": "twostage",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "expression_labels": [
+    "anger",
+    "disgust",
+    "fear",
+    "happiness",
+    "neutral",
+    "sadness",
+    "surprise"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panicked embarrassment and self-reproach, worried that starting the term late has already gone wrong.",
+      "label": "fear"
+    },
+    {
+      "turn": 6,
+      "text": "Ah—!",
+      "emotion_description": "A sharp burst of startled panic and embarrassment, with a quiet dread that she has already made a bad first impression.",
+      "label": "fear"
+    },
+    {
+      "turn": 10,
+      "text": "I-I'm so sorry.",
+      "emotion_description": "She feels flustered and embarrassed, with a sharp jolt of panic at the collision and a quiet urge to apologize and smooth things over immediately.",
+      "label": "fear"
+    },
+    {
+      "turn": 11,
+      "text": "I wasn't looking ahead.",
+      "emotion_description": "She feels flustered and embarrassed, with a quiet spike of self-reproach as she apologizes and tries to take the blame to smooth over the awkward collision.",
+      "label": "sadness"
+    },
+    {
+      "turn": 14,
+      "text": "My forms... oh no...",
+      "emotion_description": "She feels flustered and embarrassed, with a sinking panic that her mistake has already made a bad first impression and may delay her even more.",
+      "label": "fear"
+    },
+    {
+      "turn": 18,
+      "text": "Th-thank you.",
+      "emotion_description": "She feels flustered and embarrassed from the collision, but also quietly relieved and grateful that he helped her gather the papers.",
+      "label": "happiness"
+    },
+    {
+      "turn": 19,
+      "text": "You don't have to—",
+      "emotion_description": "She feels flustered and embarrassed from the collision, but also quietly grateful and a little self-conscious about accepting help, so her protest comes out soft and hesitant.",
+      "label": "surprise"
+    },
+    {
+      "turn": 22,
+      "text": "You saw that?",
+      "emotion_description": "She feels flustered and self-conscious, startled that he noticed her name and the forms, with a small flicker of embarrassment mixed with quiet gratitude.",
+      "label": "surprise"
+    },
+    {
+      "turn": 26,
+      "text": "Both...?",
+      "emotion_description": "She is flustered and quietly startled, trying to process his blunt remark while feeling a small, embarrassed flicker of shared relief that she is not the only one in trouble.",
+      "label": "surprise"
+    },
+    {
+      "turn": 29,
+      "text": "Oh.",
+      "emotion_description": "She feels a small, startled easing of tension as she realizes he’s also new and late, mixed with lingering embarrassment and a quiet, tentative curiosity.",
+      "label": "surprise"
+    },
+    {
+      "turn": 31,
+      "text": "Then... we're in trouble together.",
+      "emotion_description": "She feels a small, relieved sense of shared embarrassment and tentative camaraderie, with her anxiety softening into quiet warmth.",
+      "label": "happiness"
+    },
+    {
+      "turn": 35,
+      "text": "Ah— the bell...",
+      "emotion_description": "She feels a small jolt of anxious urgency, realizing the situation has suddenly become more serious and that she needs to hurry without making a fuss.",
+      "label": "fear"
+    },
+    {
+      "turn": 37,
+      "text": "I can try.",
+      "emotion_description": "She feels flustered but quietly determined, trying to steady her nerves and help despite still being embarrassed and out of breath.",
+      "label": "fear"
+    },
+    {
+      "turn": 41,
+      "text": "S-sorry...",
+      "emotion_description": "She is flustered and frightened, with a tight, apologetic panic as she freezes under the teacher’s attention and tries to make herself small.",
+      "label": "fear"
+    },
+    {
+      "turn": 43,
+      "text": "Aoi Sakamoto. First year, Class Three.",
+      "emotion_description": "She is tense and flustered from being caught, but trying to steady herself and answer politely with quiet resolve.",
+      "label": "fear"
+    },
+    {
+      "turn": 49,
+      "text": "It's my fault.",
+      "emotion_description": "She feels deeply embarrassed and guilty, instinctively taking responsibility to protect the other person and avoid making the situation worse.",
+      "label": "sadness"
+    },
+    {
+      "turn": 50,
+      "text": "I forgot my forms and ran back home for them.",
+      "emotion_description": "She feels embarrassed and apologetic, but is trying to explain herself calmly and take responsibility without making a fuss.",
+      "label": "sadness"
+    },
+    {
+      "turn": 51,
+      "text": "Then I turned the corner too fast.",
+      "emotion_description": "She feels quietly embarrassed and self-blaming, trying to soften the situation by taking responsibility while keeping her nerves tightly contained.",
+      "label": "sadness"
+    },
+    {
+      "turn": 56,
+      "text": "Yes, sir.",
+      "emotion_description": "She feels a quiet rush of relief and lingering embarrassment, but answers obediently and softly, trying to steady herself after the scare.",
+      "label": "fear"
+    },
+    {
+      "turn": 58,
+      "text": "Um... Kirishima-senpai?",
+      "emotion_description": "She is shyly trying to bridge the awkwardness with cautious gratitude and a small, tentative hope that addressing him respectfully will soften the moment.",
+      "label": "happiness"
+    },
+    {
+      "turn": 60,
+      "text": "Thank you. For helping me.",
+      "emotion_description": "She feels shy, relieved, and quietly grateful, with a lingering blush of embarrassment but a sincere urge to acknowledge his help.",
+      "label": "happiness"
+    },
+    {
+      "turn": 63,
+      "text": "...I will.",
+      "emotion_description": "She feels flustered and still a little embarrassed, but also quietly grateful and determined to recover her composure after the awkward first-day mishap.",
+      "label": "happiness"
+    }
+  ]
+}

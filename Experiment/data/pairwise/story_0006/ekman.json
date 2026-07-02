@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0006",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B avoids A’s overly intense fear on the road-glitch line and uses neutral for the quiet, small-voiced denial, giving Aoi a subtler introverted affect and a more precise early emotional progression."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "The lines differ at three spots: B's neutral for 'I wasn't going to' (small voice) and surprise for the confused road line fit better, and fear for the embarrassed 'S-sorry!' is a defensible flustered read, while A's second-line fear is redundant and its surprise on 'S-sorry!' is less apt."
+    }
+  }
+}

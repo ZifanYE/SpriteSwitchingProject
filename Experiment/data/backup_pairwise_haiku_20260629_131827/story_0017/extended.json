@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0017",
+  "expression_set": "extended",
+  "personality": "extroverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A better preserves Aoi’s expressive, openly frazzled-then-cheerful personality, while B softens several embarrassment/stress beats with smiles that blunt the scene’s emotional arc."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "Version A uses sprite transitions that better track Aoi's emotional arc—moving from exasperation to cautious optimism on the train, then genuine warmth after meeting Mika—while Version B mismatches sprites to emotional content (cheerful smile when entering wrong classroom, confused face during self-reassurance), undermining both consistency with her extroverted personality and the scene's emotional progression."
+    }
+  }
+}

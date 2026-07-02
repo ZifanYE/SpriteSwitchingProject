@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0020",
+  "expression_set": "extended",
+  "personality": "extroverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B better preserves Aoi’s expressive, outgoing energy with more active/helpful sprites in key beats, while A’s flatter serious/exasperated choices undersell the rescue and playful admonition."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "Version A uses serious_expressionless and interested_attentive to show Aoi's shift into protective mode and active problem-solving, maintaining her extroverted decisiveness; Version B's uneasy_confused and surprised at the discovery moment undercut her take-charge personality, and natural_smile_cheerful for the bus warning feels tonally mismatched to her teasing directness."
+    }
+  }
+}

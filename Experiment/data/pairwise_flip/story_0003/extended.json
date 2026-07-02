@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0003",
+  "expression_set": "extended",
+  "personality": "extroverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B’s stronger surprise on the gate/identity-knowledge beats A’s flatter skepticism, while both otherwise fit Aoi’s expressive, outspoken personality similarly well."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "The lines diverge at the uncanny revelations ('Always?', knowing the class) where B's astonished better captures wide-eyed surprise fitting an expressive extrovert, while A's unconvinced/uneasy_confused understate the escalating shock."
+    }
+  }
+}

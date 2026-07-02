@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0007",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A’s calmer neutral on “...Okay” and more subdued fear on “May?” fit an introverted, subtly expressive Aoi better, while B’s surprise/fear choices feel a bit too outward at those beats."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "B",
+      "rationale": "The versions differ on three lines: B's 'surprise' for 'It's breaking?' and 'May?' fits the moment's shock better, while A's 'neutral' for the calming '...Okay' better suits a reserved character steadying herself."
+    }
+  }
+}

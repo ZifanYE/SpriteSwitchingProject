@@ -1,0 +1,149 @@
+{
+  "instance_id": "story_0018",
+  "pipeline": "direct",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "expression_labels": [
+    "anger",
+    "disgust",
+    "fear",
+    "happiness",
+    "neutral",
+    "sadness",
+    "surprise"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 6,
+      "text": "Ah—!",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 10,
+      "text": "I-I'm so sorry.",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 11,
+      "text": "I wasn't looking ahead.",
+      "emotion_description": null,
+      "label": "sadness"
+    },
+    {
+      "turn": 14,
+      "text": "My forms... oh no...",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 18,
+      "text": "Th-thank you.",
+      "emotion_description": null,
+      "label": "happiness"
+    },
+    {
+      "turn": 19,
+      "text": "You don't have to—",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 22,
+      "text": "You saw that?",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 26,
+      "text": "Both...?",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 29,
+      "text": "Oh.",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 31,
+      "text": "Then... we're in trouble together.",
+      "emotion_description": null,
+      "label": "happiness"
+    },
+    {
+      "turn": 35,
+      "text": "Ah— the bell...",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 37,
+      "text": "I can try.",
+      "emotion_description": null,
+      "label": "neutral"
+    },
+    {
+      "turn": 41,
+      "text": "S-sorry...",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 43,
+      "text": "Aoi Sakamoto. First year, Class Three.",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 49,
+      "text": "It's my fault.",
+      "emotion_description": null,
+      "label": "sadness"
+    },
+    {
+      "turn": 50,
+      "text": "I forgot my forms and ran back home for them.",
+      "emotion_description": null,
+      "label": "sadness"
+    },
+    {
+      "turn": 51,
+      "text": "Then I turned the corner too fast.",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 56,
+      "text": "Yes, sir.",
+      "emotion_description": null,
+      "label": "neutral"
+    },
+    {
+      "turn": 58,
+      "text": "Um... Kirishima-senpai?",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 60,
+      "text": "Thank you. For helping me.",
+      "emotion_description": null,
+      "label": "happiness"
+    },
+    {
+      "turn": 63,
+      "text": "...I will.",
+      "emotion_description": null,
+      "label": "neutral"
+    }
+  ]
+}

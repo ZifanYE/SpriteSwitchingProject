@@ -1,0 +1,119 @@
+{
+  "instance_id": "story_0016",
+  "pipeline": "twostage",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "expression_labels": [
+    "anger",
+    "disgust",
+    "fear",
+    "happiness",
+    "neutral",
+    "sadness",
+    "surprise"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panicked embarrassment and self-reproach, worried that starting the term late has already ruined her chance to make a good impression.",
+      "label": "fear"
+    },
+    {
+      "turn": 4,
+      "text": "I only meant to look at the time...",
+      "emotion_description": "She feels flustered and embarrassed, quietly trying to excuse herself while inwardly panicking about being late on the very first day.",
+      "label": "fear"
+    },
+    {
+      "turn": 7,
+      "text": "Ah—!",
+      "emotion_description": "A startled, embarrassed jolt of panic as the newspapers smack her face, with a tiny flare of self-conscious frustration at how badly the morning is already going.",
+      "label": "surprise"
+    },
+    {
+      "turn": 9,
+      "text": "Ow... no, keep moving.",
+      "emotion_description": "She feels flustered and embarrassed by the string of mishaps, but is trying to stay composed and push through the morning without panicking.",
+      "label": "fear"
+    },
+    {
+      "turn": 11,
+      "text": "Wait, please—!",
+      "emotion_description": "She feels a sudden surge of anxious hope and urgency, as if this last chance is slipping away and she’s quietly begging not to be left behind.",
+      "label": "fear"
+    },
+    {
+      "turn": 14,
+      "text": "...I see.",
+      "emotion_description": "She feels a quiet, sinking mix of embarrassment and resignation, trying to stay composed even as the morning’s disasters leave her discouraged.",
+      "label": "sadness"
+    },
+    {
+      "turn": 17,
+      "text": "Good morning. I'm sorry for... this shape.",
+      "emotion_description": "She feels mortified and flustered, but is trying to stay polite and composed by turning her embarrassment into a quiet, awkward joke.",
+      "label": "happiness"
+    },
+    {
+      "turn": 19,
+      "text": "I haven't ridden one in a while.",
+      "emotion_description": "She feels quietly anxious and self-conscious about her lack of practice, but is trying to stay polite and composed despite the embarrassing morning.",
+      "label": "fear"
+    },
+    {
+      "turn": 23,
+      "text": "Maybe... maybe I can still make homeroom.",
+      "emotion_description": "She is cautiously hopeful and quietly determined, trying to steady her nerves after a string of humiliating mishaps and cling to the possibility that the morning can still be salvaged.",
+      "label": "happiness"
+    },
+    {
+      "turn": 26,
+      "text": "Why is there a daikon in the basket...",
+      "emotion_description": "She is quietly stunned and exhausted, with a thin thread of disbelief and resigned frustration at how absurdly unlucky her morning has become.",
+      "label": "surprise"
+    },
+    {
+      "turn": 29,
+      "text": "...This was supposed to be a good start.",
+      "emotion_description": "She feels quietly defeated and embarrassed, with a small, resigned sadness at how badly her careful first day has unraveled.",
+      "label": "sadness"
+    },
+    {
+      "turn": 31,
+      "text": "I ironed everything. I checked everything. I really tried.",
+      "emotion_description": "She feels quietly crushed and unfairly defeated, with a fragile mix of embarrassment, frustration, and hurt pride after trying so hard and still failing.",
+      "label": "sadness"
+    },
+    {
+      "turn": 34,
+      "text": "I'm fine. Just... losing to vegetables.",
+      "emotion_description": "She is embarrassed and quietly frustrated, but trying to mask her disappointment with dry, self-deprecating humor so she can keep her composure.",
+      "label": "sadness"
+    },
+    {
+      "turn": 37,
+      "text": "Th-thank you.",
+      "emotion_description": "She feels embarrassed and overwhelmed, but also quietly relieved and grateful that someone is helping her after a humiliating morning.",
+      "label": "happiness"
+    },
+    {
+      "turn": 40,
+      "text": "Right. Running sounds simpler than cycling.",
+      "emotion_description": "She feels embarrassed and exhausted from the morning’s disasters, but a little relieved and quietly amused that someone is helping, so she accepts the simpler plan with shy determination.",
+      "label": "happiness"
+    },
+    {
+      "turn": 43,
+      "text": "Made it... somehow.",
+      "emotion_description": "She feels exhausted and relieved, with a fragile little triumph under her embarrassment as she realizes she barely managed to arrive in time.",
+      "label": "happiness"
+    },
+    {
+      "turn": 45,
+      "text": "Please don't tell anyone about the daikon.",
+      "emotion_description": "She feels shyly embarrassed and vulnerable, but also relieved and quietly grateful, trying to protect her dignity with a soft, earnest plea.",
+      "label": "sadness"
+    }
+  ]
+}

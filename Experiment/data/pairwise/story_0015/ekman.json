@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0015",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A better preserves Aoi’s subdued, inward affect with neutral/fear on practical and hesitant lines, while B overstates several beats with fear where quiet composure or tentative acceptance fits better."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A's neutral for the matter-of-fact school explanation and surprise for the sudden brand both fit better than B's choices."
+    }
+  }
+}

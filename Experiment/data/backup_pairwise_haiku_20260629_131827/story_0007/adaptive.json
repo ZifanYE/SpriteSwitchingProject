@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0007",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays subtler and more reserved with shy/embarrassed beats where B’s fuller smiles feel too outward for an introvert, and A’s final surprised realization reads more naturally than B’s confused one."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "Version A uses 'shy' for moments of vulnerability and gratitude, which better reflects an introverted character's subtle emotional expression; Version B's 'smile' sprites are too overt and externally expressive for someone who 'shows emotion subtly' and 'rarely raises her voice.'"
+    }
+  }
+}

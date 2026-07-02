@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0008",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays closer to Aoi’s subdued, inwardly flustered temperament, while B’s faint-smile, exasperated, and expressionless choices miss several line-level emotions and weaken the scene’s progression."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "strong",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "Version A maintains consistent introversion through subtle emotional restraint (uneasy_confused, displeased_frown) and avoids tonal mismatches, while Version B uses incongruous sprites (slightly_happy_faint_smile for self-deprecation, sad and serious_expressionless for emotional beats) that break character consistency and emotional coherence."
+    }
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "instance_id": "story_0017",
+  "title": "First Bell, Wrong Door",
+  "protagonist": "Aoi",
+  "studied_speaker": "Aoi",
+  "pipeline": "twostage",
+  "expression_set": "adaptive",
+  "personality": "extroverted",
+  "spriteMap": {
+    "angry": 0,
+    "anxious": 1,
+    "confused": 2,
+    "determined": 3,
+    "embarrassed": 4,
+    "neutral": 5,
+    "sad": 6,
+    "shy": 7,
+    "smile": 8,
+    "surprised": 9
+  },
+  "dialogue": [
+    {
+      "turn": 0,
+      "type": "narration",
+      "text": "The first morning of the new school term -- and Aoi is already running late."
+    },
+    {
+      "turn": 1,
+      "type": "dialogue",
+      "text": "No, no, no -- not on the very first day!",
+      "speaker": "Aoi",
+      "label": "anxious",
+      "sprite": 1
+    },
+    {
+      "turn": 2,
+      "type": "narration",
+      "text": "At the station gate, a crowd bunches up around the signboard."
+    },
+    {
+      "turn": 3,
+      "type": "narration",
+      "text": "Red text flashes: local line delayed due to a door trouble inspection."
+    },
+    {
+      "turn": 4,
+      "type": "dialogue",
+      "text": "You have got to be kidding me.",
+      "speaker": "Aoi",
+      "label": "angry",
+      "sprite": 0
+    },
+    {
+      "turn": 5,
+      "type": "dialogue",
+      "text": "Come on, come on... move already.",
+      "speaker": "Aoi",
+      "label": "angry",
+      "sprite": 0
+    },
+    {
+      "turn": 6,
+      "type": "narration",
+      "text": "The platform is packed shoulder to shoulder, and by the time the train arrives, every second feels loud."
+    },
+    {
+      "turn": 7,
+      "type": "narration",
+      "text": "Aoi squeezes in, clutching her school bag to her chest."
+    },
+    {
+      "turn": 8,
+      "type": "dialogue",
+      "text": "Okay. It's fine. New term, fresh start, and I'm sweating before homeroom.",
+      "speaker": "Aoi",
+      "label": "embarrassed",
+      "sprite": 4
+    },
+    {
+      "turn": 9,
+      "type": "narration",
+      "text": "When she finally reaches school, the warning bell is already ringing."
+    },
+    {
+      "turn": 10,
+      "type": "dialogue",
+      "text": "Sorry! Excuse me! Coming through!",
+      "speaker": "Aoi",
+      "label": "embarrassed",
+      "sprite": 4
+    },
+    {
+      "turn": 11,
+      "type": "narration",
+      "text": "She dashes up the stairs, checks the class list once, then cuts into the nearest first-year room."
+    },
+    {
+      "turn": 12,
+      "type": "dialogue",
+      "text": "Made it—",
+      "speaker": "Aoi",
+      "label": "smile",
+      "sprite": 8
+    },
+    {
+      "turn": 13,
+      "type": "narration",
+      "text": "Thirty unfamiliar faces turn toward her."
+    },
+    {
+      "turn": 14,
+      "type": "dialogue",
+      "text": "Can I help you?",
+      "speaker": "Teacher"
+    },
+    {
+      "turn": 15,
+      "type": "dialogue",
+      "text": "...Ah.",
+      "speaker": "Aoi",
+      "label": "embarrassed",
+      "sprite": 4
+    },
+    {
+      "turn": 16,
+      "type": "dialogue",
+      "text": "This is not 1-C, is it?",
+      "speaker": "Aoi",
+      "label": "embarrassed",
+      "sprite": 4
+    },
+    {
+      "turn": 17,
+      "type": "dialogue",
+      "text": "This is 1-E.",
+      "speaker": "Teacher"
+    },
+    {
+      "turn": 18,
+      "type": "narration",
+      "text": "A couple of students laugh under their breath. Heat rushes straight to Aoi's face."
+    },
+    {
+      "turn": 19,
+      "type": "dialogue",
+      "text": "Right! Great! Love that for me.",
+      "speaker": "Aoi",
+      "label": "embarrassed",
+      "sprite": 4
+    },
+    {
+      "turn": 20,
+      "type": "dialogue",
+      "text": "Sorry to interrupt!",
+      "speaker": "Aoi",
+      "label": "embarrassed",
+      "sprite": 4
+    },
+    {
+      "turn": 21,
+      "type": "narration",
+      "text": "She backs out, nearly trips on the door frame, then bolts down the hall."
+    },
+    {
+      "turn": 22,
+      "type": "narration",
+      "text": "At the corner, another girl in the same uniform catches her sleeve lightly."
+    },
+    {
+      "turn": 23,
+      "type": "dialogue",
+      "text": "1-C? It's the next hall over. I almost did the same thing.",
+      "speaker": "Mika"
+    },
+    {
+      "turn": 24,
+      "type": "dialogue",
+      "text": "Seriously? You may have just saved my life.",
+      "speaker": "Aoi",
+      "label": "smile",
+      "sprite": 8
+    },
+    {
+      "turn": 25,
+      "type": "dialogue",
+      "text": "Come on. If we run now, we can still make the greeting.",
+      "speaker": "Mika"
+    },
+    {
+      "turn": 26,
+      "type": "narration",
+      "text": "They hurry together and slide into 1-C just before the teacher closes the attendance book."
+    },
+    {
+      "turn": 27,
+      "type": "dialogue",
+      "text": "Aoi Sato?",
+      "speaker": "Teacher"
+    },
+    {
+      "turn": 28,
+      "type": "dialogue",
+      "text": "Here! Present. Very present. Extremely sorry.",
+      "speaker": "Aoi",
+      "label": "embarrassed",
+      "sprite": 4
+    },
+    {
+      "turn": 29,
+      "type": "narration",
+      "text": "A few quiet chuckles ripple through the room, but this time they don't sting as much."
+    },
+    {
+      "turn": 30,
+      "type": "narration",
+      "text": "After homeroom, Aoi exhales so hard her shoulders drop."
+    },
+    {
+      "turn": 31,
+      "type": "dialogue",
+      "text": "I can't believe that happened before nine in the morning.",
+      "speaker": "Aoi",
+      "label": "smile",
+      "sprite": 8
+    },
+    {
+      "turn": 32,
+      "type": "dialogue",
+      "text": "You recovered fast.",
+      "speaker": "Mika"
+    },
+    {
+      "turn": 33,
+      "type": "dialogue",
+      "text": "Recovered? I entered the wrong class like I was making a dramatic entrance.",
+      "speaker": "Aoi",
+      "label": "smile",
+      "sprite": 8
+    },
+    {
+      "turn": 34,
+      "type": "dialogue",
+      "text": "It was kind of impressive.",
+      "speaker": "Mika"
+    },
+    {
+      "turn": 35,
+      "type": "dialogue",
+      "text": "Then I'll call it confidence and not a total disaster.",
+      "speaker": "Aoi",
+      "label": "smile",
+      "sprite": 8
+    },
+    {
+      "turn": 36,
+      "type": "narration",
+      "text": "Mika laughs, and Aoi finds herself laughing too, the knot in her chest finally loosening."
+    },
+    {
+      "turn": 37,
+      "type": "dialogue",
+      "text": "Hey, since I already embarrassed myself in front of half the first years... want to stick together at lunch?",
+      "speaker": "Aoi",
+      "label": "smile",
+      "sprite": 8
+    },
+    {
+      "turn": 38,
+      "type": "dialogue",
+      "text": "Yeah. I'd like that.",
+      "speaker": "Mika"
+    },
+    {
+      "turn": 39,
+      "type": "narration",
+      "text": "It isn't the smooth first day Aoi wanted."
+    },
+    {
+      "turn": 40,
+      "type": "narration",
+      "text": "But walking to her seat with a new name already saved in her mind, it feels like a start anyway."
+    }
+  ]
+}

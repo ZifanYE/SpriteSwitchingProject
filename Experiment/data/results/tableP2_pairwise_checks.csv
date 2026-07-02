@@ -1,0 +1,7 @@
+Check,Value
+"Position bias (CC, gpt) -- P(chose A)",0.63  (n=59)
+"Position bias (CC, claude) -- P(chose A)",0.51  (n=59)
+"Position bias (EF, gpt) -- P(chose A)",0.63  (n=59)
+"Position bias (EF, claude) -- P(chose A)",0.56  (n=59)
+Inter-judge agreement (CC),"0.78 exact, kappa=0.576  (n=60)"
+Inter-judge agreement (EF),"0.70 exact, kappa=0.417  (n=60)"

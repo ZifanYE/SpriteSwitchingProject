@@ -1,0 +1,150 @@
+{
+  "instance_id": "story_0013",
+  "pipeline": "twostage",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "astonished",
+    "crying_hard",
+    "displeased_frown",
+    "exasperated",
+    "holding_back_tears",
+    "interested_attentive",
+    "natural_smile_cheerful",
+    "sad",
+    "serious_expressionless",
+    "slightly_happy_faint_smile",
+    "surprised",
+    "unconvinced",
+    "uneasy_confused"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panicked embarrassment and self-reproach, worried that starting the term late will ruin her chance to make a good impression.",
+      "label": "exasperated"
+    },
+    {
+      "turn": 5,
+      "text": "...Why is it here again?",
+      "emotion_description": "She feels startled and quietly disoriented, with a growing anxious frustration as she realizes she may be caught in something impossible.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 8,
+      "text": "I left home at seven-twenty.",
+      "emotion_description": "She is quietly bewildered and increasingly anxious, trying to reassure herself with a factual detail even as she realizes something is very wrong.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 9,
+      "text": "I know I did.",
+      "emotion_description": "She feels quietly unsettled and increasingly certain that something is wrong, but is trying to stay calm and trust her own memory despite the confusion.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 13,
+      "text": "...You can see me?",
+      "emotion_description": "She is startled and wary, with a quiet surge of disbelief and fear as she realizes the strange girl is real and aware of her.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 16,
+      "text": "Am I dreaming?",
+      "emotion_description": "She feels a quiet, disbelieving fear mixed with confusion, trying to make sense of the impossible while keeping her panic tightly contained.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 18,
+      "text": "That's... worse.",
+      "emotion_description": "She feels a small, uneasy jolt of fear and disbelief, but tries to keep it contained with a quiet, resigned wit.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 22,
+      "text": "You want me to help?",
+      "emotion_description": "She is cautious but quietly sympathetic, with a small surge of concern and reluctant willingness to get involved despite her confusion.",
+      "label": "interested_attentive"
+    },
+    {
+      "turn": 26,
+      "text": "...If I say no, I'll just see this gate again, won't I?",
+      "emotion_description": "She feels wary and resigned, with a quiet thread of reluctant curiosity and determination beneath her fear.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 29,
+      "text": "Okay.",
+      "emotion_description": "She feels resigned but quietly determined, accepting the strange situation with a small, nervous calm because she knows refusing won’t help.",
+      "label": "serious_expressionless"
+    },
+    {
+      "turn": 30,
+      "text": "Just quickly, then.",
+      "emotion_description": "She is quietly resigned but still anxious, trying to sound practical and in control while accepting the strange situation with a faint, hesitant determination.",
+      "label": "serious_expressionless"
+    },
+    {
+      "turn": 33,
+      "text": "Is this it?",
+      "emotion_description": "She is cautiously hopeful and quietly relieved, with a faint trace of lingering anxiety as she asks the question softly.",
+      "label": "interested_attentive"
+    },
+    {
+      "turn": 39,
+      "text": "It didn't ruin everything.",
+      "emotion_description": "She speaks softly with quiet reassurance, trying to comfort the ghost while also easing her own lingering anxiety about being late and making mistakes.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 40,
+      "text": "You remembered to come back.",
+      "emotion_description": "She feels a quiet, tender relief mixed with sympathy, recognizing the ghost girl’s loneliness and offering a small, sincere reassurance without fully showing how moved she is.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 43,
+      "text": "I'm... not, really.",
+      "emotion_description": "She feels shy and self-effacing, quietly deflecting praise while a small, embarrassed warmth lingers from being seen as kind.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 50,
+      "text": "...I really am late now.",
+      "emotion_description": "She feels a quiet, resigned mix of anxiety and relief, realizing the strange delay is over and that she must now face the ordinary panic of being genuinely late.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 52,
+      "text": "I'll still go.",
+      "emotion_description": "She feels quietly resolved and a little anxious, but steadied by the encounter enough to keep moving forward despite being late.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 56,
+      "text": "S-Sorry.",
+      "emotion_description": "She feels flustered and embarrassed about arriving late, but is trying to stay polite and composed despite her warm cheeks and lingering nervousness.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 57,
+      "text": "I got held up on the way.",
+      "emotion_description": "She feels flustered and apologetic, trying to explain herself quietly while still holding onto a small, embarrassed resolve to face the situation.",
+      "label": "uneasy_confused"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "The sequence is mostly subdued and fittingly introverted—confusion, quiet resolve, and faint smiles land well—but the opening exasperated sprite feels a bit too outwardly expressive for her reserved profile."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Subtle uneasy/faint-smile choices fit her reserved nature and track the emotional arc well, though the opening 'exasperated' is a touch loud for someone described as never raising her voice."
+    }
+  }
+}

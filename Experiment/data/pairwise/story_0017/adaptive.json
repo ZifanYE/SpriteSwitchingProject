@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0017",
+  "expression_set": "adaptive",
+  "personality": "extroverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A’s determined sprites better capture an expressive, take-charge personality under pressure and track the scene’s shift from panic to push-through to embarrassment and recovery more coherently than B’s flatter embarrassed/smile choices."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B's 'smile' on 'Made it—' and the post-homeroom recovery line better captures her expressive bounce-back, while A's pep-talk 'determined' fits slightly better but 'embarrassed' for the relieved exhale line is weaker than B's 'smile'."
+    }
+  }
+}

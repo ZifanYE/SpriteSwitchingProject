@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0011",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "The versions are identical except for A’s fearful \"This isn't funny\" versus B’s angry one, and fear fits both Aoi’s introverted, subdued personality and the scene’s escalating uncanny dread better than anger."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "The sequences are identical except at 'This isn't funny,' where A's fear better fits the introverted character who keeps strong feelings inside, while B's anger is out of character and overstated."
+    }
+  }
+}

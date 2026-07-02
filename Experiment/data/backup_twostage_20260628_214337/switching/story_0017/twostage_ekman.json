@@ -1,0 +1,113 @@
+{
+  "instance_id": "story_0017",
+  "pipeline": "twostage",
+  "expression_set": "ekman",
+  "personality": "extroverted",
+  "expression_labels": [
+    "anger",
+    "disgust",
+    "fear",
+    "happiness",
+    "neutral",
+    "sadness",
+    "surprise"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels panicked and flustered, with a burst of frustrated disbelief at being late on the very first day and a strong urge to fix it immediately.",
+      "label": "fear"
+    },
+    {
+      "turn": 4,
+      "text": "You have got to be kidding me.",
+      "emotion_description": "She feels sharply exasperated and incredulous, with a burst of frustrated panic at how unfairly her already-bad first morning is going.",
+      "label": "anger"
+    },
+    {
+      "turn": 5,
+      "text": "Come on, come on... move already.",
+      "emotion_description": "She’s impatient and stressed, urgently trying to push through the delay while barely holding back her frustration about being late on the very first day.",
+      "label": "anger"
+    },
+    {
+      "turn": 8,
+      "text": "Okay. It's fine. New term, fresh start, and I'm sweating before homeroom.",
+      "emotion_description": "She is trying to talk herself into staying upbeat, but underneath the joking tone she feels flustered, stressed, and embarrassed about already being in a mess on the first day.",
+      "label": "fear"
+    },
+    {
+      "turn": 10,
+      "text": "Sorry! Excuse me! Coming through!",
+      "emotion_description": "She feels flustered and urgently determined, pushing through the crowd with embarrassed energy while trying to stay upbeat and not let the bad start rattle her.",
+      "label": "happiness"
+    },
+    {
+      "turn": 12,
+      "text": "Made it—",
+      "emotion_description": "Breathless and relieved after a frantic rush, with a burst of triumphant optimism that she’s finally arrived despite the chaos.",
+      "label": "happiness"
+    },
+    {
+      "turn": 15,
+      "text": "...Ah.",
+      "emotion_description": "She freezes in sudden embarrassment and awkward realization, her confident rush collapsing into a small, startled pause as she registers that she has walked into the wrong room.",
+      "label": "surprise"
+    },
+    {
+      "turn": 16,
+      "text": "This is not 1-C, is it?",
+      "emotion_description": "She is flustered and embarrassed from realizing she may have rushed into the wrong classroom, but she’s trying to recover quickly and sound composed.",
+      "label": "surprise"
+    },
+    {
+      "turn": 19,
+      "text": "Right! Great! Love that for me.",
+      "emotion_description": "She’s mortified and flustered, but covering it with bright, sarcastic self-mockery to keep from looking embarrassed in front of everyone.",
+      "label": "happiness"
+    },
+    {
+      "turn": 20,
+      "text": "Sorry to interrupt!",
+      "emotion_description": "She is flustered and embarrassed from the mistaken classroom entrance, but trying to recover with upbeat politeness and a determined, socially confident front.",
+      "label": "happiness"
+    },
+    {
+      "turn": 24,
+      "text": "Seriously? You may have just saved my life.",
+      "emotion_description": "She feels intensely relieved and grateful, with her embarrassment turning into playful, breathless relief as she leans on Mika’s help to recover her confidence.",
+      "label": "happiness"
+    },
+    {
+      "turn": 28,
+      "text": "Here! Present. Very present. Extremely sorry.",
+      "emotion_description": "She feels flustered and embarrassed from her string of mistakes, but is trying to recover with upbeat, self-deprecating energy and a determined eagerness to make a good impression.",
+      "label": "happiness"
+    },
+    {
+      "turn": 31,
+      "text": "I can't believe that happened before nine in the morning.",
+      "emotion_description": "She feels embarrassed but now mostly relieved and amused at her own disastrous morning, with a lingering sense of disbelief and self-deprecating frustration.",
+      "label": "happiness"
+    },
+    {
+      "turn": 33,
+      "text": "Recovered? I entered the wrong class like I was making a dramatic entrance.",
+      "emotion_description": "She’s embarrassed but laughing it off with self-deprecating humor, trying to turn a mortifying mistake into a playful story and keep her spirits up.",
+      "label": "happiness"
+    },
+    {
+      "turn": 35,
+      "text": "Then I'll call it confidence and not a total disaster.",
+      "emotion_description": "She’s joking herself back into composure, turning embarrassment into playful self-assurance and trying to frame the whole mess as a funny win instead of a humiliating mistake.",
+      "label": "happiness"
+    },
+    {
+      "turn": 37,
+      "text": "Hey, since I already embarrassed myself in front of half the first years... want to stick together at lunch?",
+      "emotion_description": "She feels relieved and warmly embarrassed, but is turning that shared awkwardness into an upbeat, friendly bid for companionship and reassurance.",
+      "label": "happiness"
+    }
+  ]
+}

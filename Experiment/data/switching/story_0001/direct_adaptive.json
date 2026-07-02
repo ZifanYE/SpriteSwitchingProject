@@ -1,0 +1,104 @@
+{
+  "instance_id": "story_0001",
+  "pipeline": "direct",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "anxious",
+    "confused",
+    "determined",
+    "embarrassed",
+    "neutral",
+    "sad",
+    "shy",
+    "smile",
+    "surprised"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 4,
+      "text": "Please don't say that...",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 6,
+      "text": "If I miss the opening homeroom...",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 9,
+      "text": "I'm sorry. I'm late.",
+      "emotion_description": null,
+      "label": "embarrassed"
+    },
+    {
+      "turn": 12,
+      "text": "Class 1-B... second floor, right?",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 16,
+      "text": "S-sorry for interrupting...",
+      "emotion_description": null,
+      "label": "embarrassed"
+    },
+    {
+      "turn": 20,
+      "text": "Ah... right. I'm very sorry.",
+      "emotion_description": null,
+      "label": "embarrassed"
+    },
+    {
+      "turn": 23,
+      "text": "I couldn't even be late correctly...",
+      "emotion_description": null,
+      "label": "embarrassed"
+    },
+    {
+      "turn": 27,
+      "text": "Y-yes. I mixed up the rooms.",
+      "emotion_description": null,
+      "label": "embarrassed"
+    },
+    {
+      "turn": 30,
+      "text": "Thank you...",
+      "emotion_description": null,
+      "label": "shy"
+    },
+    {
+      "turn": 34,
+      "text": "I'm sorry for causing trouble.",
+      "emotion_description": null,
+      "label": "embarrassed"
+    },
+    {
+      "turn": 37,
+      "text": "You saved me.",
+      "emotion_description": null,
+      "label": "smile"
+    },
+    {
+      "turn": 40,
+      "text": "Okay... I can do that.",
+      "emotion_description": null,
+      "label": "determined"
+    },
+    {
+      "turn": 42,
+      "text": "Maybe... this day isn't ruined after all.",
+      "emotion_description": null,
+      "label": "smile"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0012",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays more understated and introverted overall, while B repeatedly hardens or heightens key beats with less fitting seriousness/tearfulness."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A's 'sad' at 'I know' and softer 'uneasy_confused' at the gate fit the shy, subtly-emotional girl better, while B overuses 'serious_expressionless' during embarrassed, vulnerable moments where it reads cold and flat."
+    }
+  }
+}

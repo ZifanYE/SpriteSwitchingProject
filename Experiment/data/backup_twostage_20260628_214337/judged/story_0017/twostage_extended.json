@@ -1,0 +1,132 @@
+{
+  "instance_id": "story_0017",
+  "pipeline": "twostage",
+  "expression_set": "extended",
+  "personality": "extroverted",
+  "expression_labels": [
+    "angry",
+    "astonished",
+    "crying_hard",
+    "displeased_frown",
+    "exasperated",
+    "holding_back_tears",
+    "interested_attentive",
+    "natural_smile_cheerful",
+    "sad",
+    "serious_expressionless",
+    "slightly_happy_faint_smile",
+    "surprised",
+    "unconvinced",
+    "uneasy_confused"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels panicked and flustered, with a burst of frustrated disbelief at being late on the very first day and a strong urge to fix it immediately.",
+      "label": "exasperated"
+    },
+    {
+      "turn": 4,
+      "text": "You have got to be kidding me.",
+      "emotion_description": "She feels exasperated and incredulous, with a sharp burst of frustration at the bad luck of being delayed on the very first day.",
+      "label": "exasperated"
+    },
+    {
+      "turn": 5,
+      "text": "Come on, come on... move already.",
+      "emotion_description": "She’s impatient and stressed from being delayed on the very first day, with a frustrated urgency that’s turning into a determined push to get moving.",
+      "label": "exasperated"
+    },
+    {
+      "turn": 8,
+      "text": "Okay. It's fine. New term, fresh start, and I'm sweating before homeroom.",
+      "emotion_description": "She is trying to talk herself into staying upbeat, but underneath the joking words she feels flustered, stressed, and embarrassed about already being in a mess on the first day.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 10,
+      "text": "Sorry! Excuse me! Coming through!",
+      "emotion_description": "She is flustered and urgently determined, pushing through the crowd with embarrassed energy while trying to stay upbeat and not let the bad start rattle her.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 12,
+      "text": "Made it—",
+      "emotion_description": "Breathless and relieved after a frantic rush, with a burst of triumphant optimism that she still managed to arrive in time.",
+      "label": "natural_smile_cheerful"
+    },
+    {
+      "turn": 15,
+      "text": "...Ah.",
+      "emotion_description": "She freezes in sudden embarrassment and awkward surprise, realizing she has burst into the wrong room and is now painfully aware of everyone staring at her.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 16,
+      "text": "This is not 1-C, is it?",
+      "emotion_description": "She is flustered and embarrassed from realizing she rushed into the wrong classroom, but still trying to recover quickly and sound composed.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 19,
+      "text": "Right! Great! Love that for me.",
+      "emotion_description": "She’s mortified and embarrassed by the mistake, but is forcing a bright, joking front to save face and keep from spiraling.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 20,
+      "text": "Sorry to interrupt!",
+      "emotion_description": "She is flustered and embarrassed from barging into the wrong classroom, but trying to recover with upbeat, socially smooth confidence.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 24,
+      "text": "Seriously? You may have just saved my life.",
+      "emotion_description": "She feels intensely relieved and grateful, with a burst of embarrassed humor as she clings to the small rescue after a chaotic, humiliating morning.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 28,
+      "text": "Here! Present. Very present. Extremely sorry.",
+      "emotion_description": "She feels flustered and embarrassed from her string of mistakes, but is trying to recover with upbeat, self-aware humor and a determined effort to make a good impression.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 31,
+      "text": "I can't believe that happened before nine in the morning.",
+      "emotion_description": "She feels embarrassed and exasperated, but mostly relieved and amused at how absurdly badly the morning started.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 33,
+      "text": "Recovered? I entered the wrong class like I was making a dramatic entrance.",
+      "emotion_description": "She’s embarrassed but laughing it off with self-deprecating humor, trying to turn a mortifying mistake into something playful and confident.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 35,
+      "text": "Then I'll call it confidence and not a total disaster.",
+      "emotion_description": "She’s joking herself back into composure, turning embarrassment into playful self-assurance while still feeling the sting of the morning’s blunders.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 37,
+      "text": "Hey, since I already embarrassed myself in front of half the first years... want to stick together at lunch?",
+      "emotion_description": "She feels relieved and warmly embarrassed, but is now turning that shared awkwardness into an upbeat, friendly bid for companionship and reassurance.",
+      "label": "natural_smile_cheerful"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "The sequence is mostly expressive and outgoing—exasperation in the commute, confusion at the wrong room, then cheerful recovery and initiative with Mika—though the repeated faint-smile sprites underplay her embarrassment and comic energy in several mid-scene lines."
+    },
+    "claude": {
+      "character_consistency": 3,
+      "emotional_fidelity": 3,
+      "rationale": "Early exasperation sprites fit the extroverted personality's expressive frustration, but the prolonged use of uneasy_confused and slightly_happy_faint_smile during moments of embarrassment and recovery undersells the outgoing, bright-grinning character who should show more visible emotional swings and confident reframing; the final natural_smile_cheerful arrives too late to establish the full arc of her readiness to laugh openly at herself."
+    }
+  }
+}

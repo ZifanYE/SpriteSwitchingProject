@@ -1,0 +1,128 @@
+{
+  "instance_id": "story_0008",
+  "pipeline": "direct",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "anxious",
+    "confused",
+    "determined",
+    "embarrassed",
+    "neutral",
+    "sad",
+    "shy",
+    "smile",
+    "surprised"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 5,
+      "text": "I was defeated by... basic clothing maintenance.",
+      "emotion_description": null,
+      "label": "embarrassed"
+    },
+    {
+      "turn": 8,
+      "text": "...Why?",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 10,
+      "text": "Okay. Window, then.",
+      "emotion_description": null,
+      "label": "determined"
+    },
+    {
+      "turn": 16,
+      "text": "I-I'm so sorry!",
+      "emotion_description": null,
+      "label": "embarrassed"
+    },
+    {
+      "turn": 18,
+      "text": "Ah— hot! Hot—",
+      "emotion_description": null,
+      "label": "surprised"
+    },
+    {
+      "turn": 21,
+      "text": "Thank you... and I'm really sorry.",
+      "emotion_description": null,
+      "label": "embarrassed"
+    },
+    {
+      "turn": 24,
+      "text": "I don't deserve a reward for this.",
+      "emotion_description": null,
+      "label": "embarrassed"
+    },
+    {
+      "turn": 29,
+      "text": "...",
+      "emotion_description": null,
+      "label": "embarrassed"
+    },
+    {
+      "turn": 31,
+      "text": "It was trying so hard.",
+      "emotion_description": null,
+      "label": "sad"
+    },
+    {
+      "turn": 34,
+      "text": "If even breakfast gave up... maybe I can stop panicking for one second.",
+      "emotion_description": null,
+      "label": "smile"
+    },
+    {
+      "turn": 37,
+      "text": "Oh. Right. That would have been worse.",
+      "emotion_description": null,
+      "label": "embarrassed"
+    },
+    {
+      "turn": 40,
+      "text": "Y-Yes, sorry.",
+      "emotion_description": null,
+      "label": "embarrassed"
+    },
+    {
+      "turn": 44,
+      "text": "Does it show that much?",
+      "emotion_description": null,
+      "label": "embarrassed"
+    },
+    {
+      "turn": 47,
+      "text": "Made it... somehow.",
+      "emotion_description": null,
+      "label": "smile"
+    },
+    {
+      "turn": 49,
+      "text": "Please let the disasters stay outside the school today.",
+      "emotion_description": null,
+      "label": "anxious"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "The sprites mostly fit an introverted girl’s subdued embarrassment/anxiety and track the mishap-to-relief arc well, with only minor overstatement in moments like 'determined' and the final 'anxious' beat."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Sprites consistently reflect an introverted character's subtle emotional expression (downcast eyes, quiet pauses, soft embarrassment dominating), with only minor misalignments: the 'determined' sprite during a moment of resignation and the final 'anxious' sprite slightly overstating what should be quiet relief."
+    }
+  }
+}

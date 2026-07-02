@@ -1,0 +1,131 @@
+{
+  "instance_id": "story_0019",
+  "pipeline": "twostage",
+  "expression_set": "ekman",
+  "personality": "extroverted",
+  "expression_labels": [
+    "anger",
+    "disgust",
+    "fear",
+    "happiness",
+    "neutral",
+    "sadness",
+    "surprise"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels panicked and flustered, with a burst of frustrated disbelief at being late on the very first day and a strong urge to fix it immediately.",
+      "label": "fear"
+    },
+    {
+      "turn": 3,
+      "text": "Why today of all days? My alarm worked! I know it did!",
+      "emotion_description": "She feels flustered and incredulous, half-panicking as she tries to defend herself against the unfairness of being late on the very first day.",
+      "label": "surprise"
+    },
+    {
+      "turn": 5,
+      "text": "Wait. Where's my pass?",
+      "emotion_description": "She’s suddenly panicked and flustered, with a sharp spike of anxiety as she realizes her morning is getting even worse.",
+      "label": "fear"
+    },
+    {
+      "turn": 7,
+      "text": "Come on, come on, don't do this to me!",
+      "emotion_description": "She is panicked and increasingly desperate, trying to keep herself from spiraling as she frantically searches for the missing pass and feels the morning slipping out of control.",
+      "label": "fear"
+    },
+    {
+      "turn": 9,
+      "text": "Seriously... I stopped to read that creepy note, and now my pass is gone?",
+      "emotion_description": "She feels panicked and irritated, with a rising sense of self-blame and disbelief as she realizes her curiosity may have cost her her transit pass.",
+      "label": "anger"
+    },
+    {
+      "turn": 13,
+      "text": "I'm late, I'm cardless, and I'm trying very hard not to become a tragedy in a school uniform.",
+      "emotion_description": "She is flustered and panicking, but trying to keep a joking, self-aware tone to mask how overwhelmed and embarrassed she feels.",
+      "label": "fear"
+    },
+    {
+      "turn": 16,
+      "text": "Platform three... you're kidding.",
+      "emotion_description": "She feels a sharp jolt of disbelief and wary suspicion, with a flicker of hope underneath as she realizes the creepy note may have been leading her somewhere on purpose.",
+      "label": "surprise"
+    },
+    {
+      "turn": 18,
+      "text": "Sorry! Excuse me! First-day emergency!",
+      "emotion_description": "She is breathless and panicked but also energized by the urgency, trying to stay upbeat and socially smooth while rushing to fix the disaster.",
+      "label": "surprise"
+    },
+    {
+      "turn": 20,
+      "text": "Oh, thank goodness! That's mine—",
+      "emotion_description": "She feels sudden, breathless relief and grateful excitement, with her earlier panic flipping into eager, relieved energy as she recognizes her pass.",
+      "label": "happiness"
+    },
+    {
+      "turn": 24,
+      "text": "...How do you know my name?",
+      "emotion_description": "She is startled and instantly wary, her earlier frantic relief collapsing into tense suspicion as she tries to figure out how this stranger knows so much about her.",
+      "label": "surprise"
+    },
+    {
+      "turn": 26,
+      "text": "Okay, wow. That's not a normal sentence.",
+      "emotion_description": "She’s startled and wary, but trying to mask it with blunt humor while her mind races to figure out who this person is and why they know so much about her.",
+      "label": "surprise"
+    },
+    {
+      "turn": 28,
+      "text": "Did my friends put you up to this? Because this prank is way too elaborate for eight in the morning.",
+      "emotion_description": "She’s startled but trying to regain control with humor, suspicious of the stranger’s eerie knowledge, and half-amused, half-worried that her friends might be behind an absurdly elaborate prank.",
+      "label": "surprise"
+    },
+    {
+      "turn": 30,
+      "text": "That made it worse. You know that, right?",
+      "emotion_description": "She feels rattled and suspicious, with a sharp edge of exasperation as the stranger’s cryptic warning turns her relief into uneasy alarm.",
+      "label": "anger"
+    },
+    {
+      "turn": 33,
+      "text": "Nope. No. Absolutely not.",
+      "emotion_description": "She is jolted into alarmed disbelief, trying to reject the impossible situation out loud while her confidence gives way to tense, breathless fear.",
+      "label": "fear"
+    },
+    {
+      "turn": 35,
+      "text": "People do not just vanish before homeroom!",
+      "emotion_description": "She is jolted from disbelief into sharp, indignant panic, trying to force the situation back into something normal by sheer outrage.",
+      "label": "anger"
+    },
+    {
+      "turn": 37,
+      "text": "Aah— school! Mystery later, attendance first!",
+      "emotion_description": "She is forcing herself into brisk, upbeat determination, using humor and urgency to push past her fear and confusion so she can focus on getting to school on time.",
+      "label": "happiness"
+    },
+    {
+      "turn": 39,
+      "text": "Seat by the window, huh... If that's true, who were you?",
+      "emotion_description": "She is rattled but intensely curious, trying to turn her fear into a determined, investigative focus as she wonders who the stranger really was.",
+      "label": "surprise"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Aoi’s sprites are generally vivid and outwardly reactive in line with an extrovert, and most beats track the panic→annoyance→relief→alarm arc well, though several surprise/fear choices flatten finer distinctions like frantic urgency, joking bravado, and wary curiosity."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Sprites track the panic-anger-relief-surprise arc well and reflect her expressive nature, though 'fear' for the deadpan tragedy quip and 'happiness' for the panicked 'Aah— school!' are slight mismatches."
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0002",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays subtler and more inward overall, while B overuses anxious/confused and misses the gentle smile payoff at the end."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "Version A maintains consistent embarrassment/shyness throughout, fitting an introverted character who processes emotions internally; Version B's shifts to 'anxious' and 'confused' feel more externally reactive and less aligned with subtle emotional restraint, and the final 'embarrassed' sprite contradicts the emotional arc of a character finding comfort in connection."
+    }
+  }
+}

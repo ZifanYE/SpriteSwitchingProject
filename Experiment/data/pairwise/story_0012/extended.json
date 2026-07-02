@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0012",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays more restrained and inward overall, while B adds softer-but-less-fitting uncertainty in assertive/reporting moments and a less coherent emotional contour."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "A",
+      "rationale": "B's softer 'uneasy_confused' choices at the gate fit the reserved girl who hates attention, while A's 'holding_back_tears' and varied serious sprites track the emotional beats more precisely."
+    }
+  }
+}

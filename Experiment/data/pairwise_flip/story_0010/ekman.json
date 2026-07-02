@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0010",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A’s neutral on “Was it the panic?” and warm “...Right.” better preserve Aoi’s subdued, introverted affect, while B makes the self-conscious joke too startled and the later beat too flat."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "A",
+      "rationale": "The two differ on three lines: B's surprise at 'Was it the panic?' and neutral at '...Right.' fit a reserved character slightly better, but A's happiness at 'Was it the panic?' and neutral at '...Right.' track the warming, embarrassed emotional progression more faithfully."
+    }
+  }
+}

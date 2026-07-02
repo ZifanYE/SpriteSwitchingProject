@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0001",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A’s use of sadness/neutral for apology, self-orientation, and embarrassment better suits an introverted, subdued girl, while B overextends fear into quieter beats and flattens the scene’s emotional progression."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "The two differ only on two lines: A uses sadness for the resigned apology and neutral for the quiet hallway question, matching the subdued personality and emotion better than B's repeated fear."
+    }
+  }
+}

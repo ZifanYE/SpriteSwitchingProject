@@ -1,0 +1,397 @@
+{
+  "instance_id": "story_0013",
+  "title": "The Fourth Bell of Morning",
+  "protagonist": "Aoi",
+  "studied_speaker": "Aoi",
+  "pipeline": "direct",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "spriteMap": {
+    "angry": 0,
+    "anxious": 1,
+    "confused": 2,
+    "determined": 3,
+    "embarrassed": 4,
+    "neutral": 5,
+    "sad": 6,
+    "shy": 7,
+    "smile": 8,
+    "surprised": 9
+  },
+  "dialogue": [
+    {
+      "turn": 0,
+      "type": "narration",
+      "text": "The first morning of the new school term -- and Aoi is already running late."
+    },
+    {
+      "turn": 1,
+      "type": "dialogue",
+      "text": "No, no, no -- not on the very first day!",
+      "speaker": "Aoi",
+      "label": "anxious",
+      "sprite": 1
+    },
+    {
+      "turn": 2,
+      "type": "narration",
+      "text": "Her breath catches in the cold air as she hurries down the narrow street behind the shrine."
+    },
+    {
+      "turn": 3,
+      "type": "narration",
+      "text": "She should have reached the main road already."
+    },
+    {
+      "turn": 4,
+      "type": "narration",
+      "text": "Instead, the red shrine gate stands ahead of her again, wet with the same pale morning light."
+    },
+    {
+      "turn": 5,
+      "type": "dialogue",
+      "text": "...Why is it here again?",
+      "speaker": "Aoi",
+      "label": "confused",
+      "sprite": 2
+    },
+    {
+      "turn": 6,
+      "type": "narration",
+      "text": "At first, she thought she had taken a wrong turn."
+    },
+    {
+      "turn": 7,
+      "type": "narration",
+      "text": "Then the town bell rang seven-thirty for the fourth time."
+    },
+    {
+      "turn": 8,
+      "type": "dialogue",
+      "text": "I left home at seven-twenty.",
+      "speaker": "Aoi",
+      "label": "anxious",
+      "sprite": 1
+    },
+    {
+      "turn": 9,
+      "type": "dialogue",
+      "text": "I know I did.",
+      "speaker": "Aoi",
+      "label": "determined",
+      "sprite": 3
+    },
+    {
+      "turn": 10,
+      "type": "narration",
+      "text": "A girl in an old-fashioned middle-school uniform stands beneath the gate."
+    },
+    {
+      "turn": 11,
+      "type": "narration",
+      "text": "Her hair ribbon is faded. Her shoes are soaked, though the road is dry."
+    },
+    {
+      "turn": 12,
+      "type": "dialogue",
+      "text": "If you keep passing by, you'll be late forever.",
+      "speaker": "Ghost Girl"
+    },
+    {
+      "turn": 13,
+      "type": "dialogue",
+      "text": "...You can see me?",
+      "speaker": "Aoi",
+      "label": "surprised",
+      "sprite": 9
+    },
+    {
+      "turn": 14,
+      "type": "dialogue",
+      "text": "You're the one who keeps seeing me.",
+      "speaker": "Ghost Girl"
+    },
+    {
+      "turn": 15,
+      "type": "narration",
+      "text": "Aoi's fingers tighten around her schoolbag strap."
+    },
+    {
+      "turn": 16,
+      "type": "dialogue",
+      "text": "Am I dreaming?",
+      "speaker": "Aoi",
+      "label": "confused",
+      "sprite": 2
+    },
+    {
+      "turn": 17,
+      "type": "dialogue",
+      "text": "No. Just being ignored by the morning.",
+      "speaker": "Ghost Girl"
+    },
+    {
+      "turn": 18,
+      "type": "dialogue",
+      "text": "That's... worse.",
+      "speaker": "Aoi",
+      "label": "confused",
+      "sprite": 2
+    },
+    {
+      "turn": 19,
+      "type": "narration",
+      "text": "The ghost girl looks toward the stone steps leading into the shrine grounds."
+    },
+    {
+      "turn": 20,
+      "type": "dialogue",
+      "text": "I lost something on my first day too.",
+      "speaker": "Ghost Girl"
+    },
+    {
+      "turn": 21,
+      "type": "dialogue",
+      "text": "Until I find it, seven-thirty won't end here.",
+      "speaker": "Ghost Girl"
+    },
+    {
+      "turn": 22,
+      "type": "dialogue",
+      "text": "You want me to help?",
+      "speaker": "Aoi",
+      "label": "confused",
+      "sprite": 2
+    },
+    {
+      "turn": 23,
+      "type": "narration",
+      "text": "For a moment, fear and irritation tug against each other inside her."
+    },
+    {
+      "turn": 24,
+      "type": "narration",
+      "text": "The first day. New class. New seat. New chance."
+    },
+    {
+      "turn": 25,
+      "type": "narration",
+      "text": "And still, she glances up the shrine steps."
+    },
+    {
+      "turn": 26,
+      "type": "dialogue",
+      "text": "...If I say no, I'll just see this gate again, won't I?",
+      "speaker": "Aoi",
+      "label": "anxious",
+      "sprite": 1
+    },
+    {
+      "turn": 27,
+      "type": "dialogue",
+      "text": "Probably.",
+      "speaker": "Ghost Girl"
+    },
+    {
+      "turn": 28,
+      "type": "narration",
+      "text": "The answer is so mild that Aoi lets out a small, helpless laugh."
+    },
+    {
+      "turn": 29,
+      "type": "dialogue",
+      "text": "Okay.",
+      "speaker": "Aoi",
+      "label": "determined",
+      "sprite": 3
+    },
+    {
+      "turn": 30,
+      "type": "dialogue",
+      "text": "Just quickly, then.",
+      "speaker": "Aoi",
+      "label": "determined",
+      "sprite": 3
+    },
+    {
+      "turn": 31,
+      "type": "narration",
+      "text": "They climb together through still air that smells faintly of rain."
+    },
+    {
+      "turn": 32,
+      "type": "narration",
+      "text": "At the offering box lies a single student ID card, tucked against the wood as if no wind had touched it in years."
+    },
+    {
+      "turn": 33,
+      "type": "dialogue",
+      "text": "Is this it?",
+      "speaker": "Aoi",
+      "label": "confused",
+      "sprite": 2
+    },
+    {
+      "turn": 34,
+      "type": "dialogue",
+      "text": "...",
+      "speaker": "Ghost Girl"
+    },
+    {
+      "turn": 35,
+      "type": "narration",
+      "text": "The girl takes it with both hands."
+    },
+    {
+      "turn": 36,
+      "type": "dialogue",
+      "text": "I was late that day too.",
+      "speaker": "Ghost Girl"
+    },
+    {
+      "turn": 37,
+      "type": "dialogue",
+      "text": "I ran into the road because I thought being a little later would ruin everything.",
+      "speaker": "Ghost Girl"
+    },
+    {
+      "turn": 38,
+      "type": "narration",
+      "text": "Her voice stays gentle, but the silence after it feels bottomless."
+    },
+    {
+      "turn": 39,
+      "type": "dialogue",
+      "text": "It didn't ruin everything.",
+      "speaker": "Aoi",
+      "label": "smile",
+      "sprite": 8
+    },
+    {
+      "turn": 40,
+      "type": "dialogue",
+      "text": "You remembered to come back.",
+      "speaker": "Aoi",
+      "label": "smile",
+      "sprite": 8
+    },
+    {
+      "turn": 41,
+      "type": "narration",
+      "text": "The ghost girl blinks, surprised, then smiles so faintly it almost isn't there."
+    },
+    {
+      "turn": 42,
+      "type": "dialogue",
+      "text": "You're kind.",
+      "speaker": "Ghost Girl"
+    },
+    {
+      "turn": 43,
+      "type": "dialogue",
+      "text": "I'm... not, really.",
+      "speaker": "Aoi",
+      "label": "embarrassed",
+      "sprite": 4
+    },
+    {
+      "turn": 44,
+      "type": "dialogue",
+      "text": "Then be careful anyway.",
+      "speaker": "Ghost Girl"
+    },
+    {
+      "turn": 45,
+      "type": "narration",
+      "text": "The bell rings again."
+    },
+    {
+      "turn": 46,
+      "type": "narration",
+      "text": "This time, it continues past seven-thirty."
+    },
+    {
+      "turn": 47,
+      "type": "narration",
+      "text": "A breeze moves through the shrine at last, carrying the scent of spring and the distant noise of students."
+    },
+    {
+      "turn": 48,
+      "type": "narration",
+      "text": "When Aoi looks up, the girl is gone."
+    },
+    {
+      "turn": 49,
+      "type": "narration",
+      "text": "Only the old ID remains in Aoi's hand for a second before fading like mist."
+    },
+    {
+      "turn": 50,
+      "type": "dialogue",
+      "text": "...I really am late now.",
+      "speaker": "Aoi",
+      "label": "embarrassed",
+      "sprite": 4
+    },
+    {
+      "turn": 51,
+      "type": "narration",
+      "text": "She starts down the steps, then pauses and bows once toward the empty gate."
+    },
+    {
+      "turn": 52,
+      "type": "dialogue",
+      "text": "I'll still go.",
+      "speaker": "Aoi",
+      "label": "determined",
+      "sprite": 3
+    },
+    {
+      "turn": 53,
+      "type": "narration",
+      "text": "By the time she reaches school, the homeroom bell is ringing."
+    },
+    {
+      "turn": 54,
+      "type": "dialogue",
+      "text": "First day and already cutting it close?",
+      "speaker": "Teacher"
+    },
+    {
+      "turn": 55,
+      "type": "narration",
+      "text": "Aoi stands in the classroom doorway, cheeks warm, hair slightly disheveled."
+    },
+    {
+      "turn": 56,
+      "type": "dialogue",
+      "text": "S-Sorry.",
+      "speaker": "Aoi",
+      "label": "embarrassed",
+      "sprite": 4
+    },
+    {
+      "turn": 57,
+      "type": "dialogue",
+      "text": "I got held up on the way.",
+      "speaker": "Aoi",
+      "label": "embarrassed",
+      "sprite": 4
+    },
+    {
+      "turn": 58,
+      "type": "narration",
+      "text": "A few students laugh softly, not unkindly."
+    },
+    {
+      "turn": 59,
+      "type": "narration",
+      "text": "Aoi exhales."
+    },
+    {
+      "turn": 60,
+      "type": "narration",
+      "text": "Her heart is still unsteady, but the morning is finally moving forward."
+    }
+  ]
+}

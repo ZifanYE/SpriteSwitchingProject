@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0005",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "The versions are nearly identical, but A’s fearful hesitation before naming and neutral, subdued closing fit Aoi’s reserved temperament and the scene’s emotional landing better than B’s more startled choices."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "The sequences differ only at two lines: A's 'fear' for the bargain question fits the dread better than B's 'surprise', and A's final 'neutral' settles the closing line more fittingly than B's 'surprise'."
+    }
+  }
+}

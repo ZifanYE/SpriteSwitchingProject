@@ -1,0 +1,137 @@
+{
+  "instance_id": "story_0010",
+  "pipeline": "direct",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "expression_labels": [
+    "anger",
+    "disgust",
+    "fear",
+    "happiness",
+    "neutral",
+    "sadness",
+    "surprise"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 7,
+      "text": "Ah—!",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 12,
+      "text": "I-I'm sorry.",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 13,
+      "text": "I turned too fast.",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 16,
+      "text": "You don't have to—",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 19,
+      "text": "I won't cry.",
+      "emotion_description": null,
+      "label": "anger"
+    },
+    {
+      "turn": 22,
+      "text": "...Thank you.",
+      "emotion_description": null,
+      "label": "happiness"
+    },
+    {
+      "turn": 25,
+      "text": "Um. Your tag.",
+      "emotion_description": null,
+      "label": "neutral"
+    },
+    {
+      "turn": 29,
+      "text": "You're the transfer student.",
+      "emotion_description": null,
+      "label": "neutral"
+    },
+    {
+      "turn": 31,
+      "text": "Only a little.",
+      "emotion_description": null,
+      "label": "happiness"
+    },
+    {
+      "turn": 34,
+      "text": "Aoi. First year.",
+      "emotion_description": null,
+      "label": "neutral"
+    },
+    {
+      "turn": 36,
+      "text": "Was it the panic?",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 39,
+      "text": "Oh no...",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 40,
+      "text": "The staff room— I still have to take this there.",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 44,
+      "text": "You know already?",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 47,
+      "text": "Then... we're both doing badly.",
+      "emotion_description": null,
+      "label": "happiness"
+    },
+    {
+      "turn": 50,
+      "text": "...Right.",
+      "emotion_description": null,
+      "label": "neutral"
+    },
+    {
+      "turn": 51,
+      "text": "Thank you, Kazami-senpai.",
+      "emotion_description": null,
+      "label": "happiness"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "The mostly subdued sequence fits an introverted girl—fear, quiet thanks, neutral hesitance, small happiness—with only minor overstatement in the explicit anger and repeated fear labels."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Sprites consistently reflect an introverted personality—subtle emotions, downcast moments, quiet pauses—with only minor slips; emotional progression is coherent and mostly precise, though the 'happiness' sprite at 'Thank you' could register as slightly more reserved given her shyness."
+    }
+  }
+}

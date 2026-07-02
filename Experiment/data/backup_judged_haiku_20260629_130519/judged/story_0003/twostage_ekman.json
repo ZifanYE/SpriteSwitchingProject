@@ -1,0 +1,113 @@
+{
+  "instance_id": "story_0003",
+  "pipeline": "twostage",
+  "expression_set": "ekman",
+  "personality": "extroverted",
+  "expression_labels": [
+    "anger",
+    "disgust",
+    "fear",
+    "happiness",
+    "neutral",
+    "sadness",
+    "surprise"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels panicked and flustered, with a burst of frustrated disbelief at being late on the very first day and a strong urge to fix it immediately.",
+      "label": "fear"
+    },
+    {
+      "turn": 3,
+      "text": "Stupid alarm, why did you die today of all days?!",
+      "emotion_description": "She is flustered and panicked about being late, with a burst of irritated self-directed frustration at the alarm for ruining her first day.",
+      "label": "anger"
+    },
+    {
+      "turn": 5,
+      "text": "Mom's going to say it was fate punishing me for scrolling at midnight...",
+      "emotion_description": "She feels flustered and self-mocking, half-panicked about being late but trying to laugh off her bad luck with an exasperated, embarrassed grin.",
+      "label": "happiness"
+    },
+    {
+      "turn": 8,
+      "text": "Wait, seriously? They never open this gate.",
+      "emotion_description": "She’s abruptly shifting from panicked frustration to startled, hopeful curiosity, feeling a little relieved at the unexpected shortcut while still wary that something is off.",
+      "label": "surprise"
+    },
+    {
+      "turn": 11,
+      "text": "Yeah, that was the problem, thanks.",
+      "emotion_description": "She’s flustered and irritated from being late, but her sharp reply also shows a burst of defensive sarcasm and embarrassed frustration at being told the obvious.",
+      "label": "anger"
+    },
+    {
+      "turn": 13,
+      "text": "...That's weirdly specific.",
+      "emotion_description": "She feels wary and puzzled, with her earlier panic easing into cautious curiosity as she tries to make sense of the girl’s oddly precise warning.",
+      "label": "surprise"
+    },
+    {
+      "turn": 16,
+      "text": "\"Always\"? We've never met.",
+      "emotion_description": "She feels startled and suspicious, with a quick flash of self-consciousness at being read so accurately by a stranger.",
+      "label": "surprise"
+    },
+    {
+      "turn": 19,
+      "text": "How do you know that before the board goes up?",
+      "emotion_description": "She is startled and uneasy, trying to sound sharp and in control while her mind races at the unsettling feeling that this girl knows far too much about her.",
+      "label": "surprise"
+    },
+    {
+      "turn": 23,
+      "text": "Okay, wow. Creepy. Helpful, maybe, but creepy.",
+      "emotion_description": "She’s startled and uneasy, but trying to regain control with nervous humor and a bold, talkative edge.",
+      "label": "surprise"
+    },
+    {
+      "turn": 26,
+      "text": "Yes! I might actually make it!",
+      "emotion_description": "She feels a sudden burst of relieved, energized optimism as the immediate panic eases and she dares to believe the morning might still turn around.",
+      "label": "happiness"
+    },
+    {
+      "turn": 31,
+      "text": "No way...",
+      "emotion_description": "She is jolted into stunned, uneasy realization, feeling a sharp mix of relief at the warning and fear at how narrowly she avoided something dangerous.",
+      "label": "surprise"
+    },
+    {
+      "turn": 33,
+      "text": "She said not to use the east stairs.",
+      "emotion_description": "She feels a sharp, uneasy jolt of vindication and fear, realizing the girl’s eerie warning may have saved her from something genuinely dangerous.",
+      "label": "fear"
+    },
+    {
+      "turn": 37,
+      "text": "Oh, come on. Don't do this to me on day one.",
+      "emotion_description": "She feels a sharp mix of disbelief and rising anxiety, with a frustrated edge as the eerie warning suddenly makes her feel trapped and personally targeted on her very first day.",
+      "label": "fear"
+    },
+    {
+      "turn": 39,
+      "text": "Fine. School first. Panic attack later.",
+      "emotion_description": "She is forcing herself into brisk, joking composure to stay functional, while underneath she’s shaken, anxious, and trying hard not to spiral after realizing the warning may have saved her.",
+      "label": "fear"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Aoi is mostly expressively in character—snappy anger, open surprise, bright relief—but a few beats read off, especially the joking 'fate punishing me' on happiness and the nervous laugh marked only as surprise."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Sprites consistently reflect an extroverted, expressive personality with appropriate emotional reactions to each beat; minor misalignment occurs in the final fear sprites, which lean toward introspection rather than the outward expressiveness her personality would suggest even in shock."
+    }
+  }
+}

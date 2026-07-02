@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0006",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A better preserves Aoi’s quiet, understated demeanor with more restrained neutral/fear beats, while B overuses surprise/fear on softer or embarrassed lines."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "The lines differ at four points; A uses neutral for the soft-spoken 'I wasn't going to' and varied fear/surprise that better track the emotional beats, while B over-relies on surprise, flattening the subtle progression."
+    }
+  }
+}

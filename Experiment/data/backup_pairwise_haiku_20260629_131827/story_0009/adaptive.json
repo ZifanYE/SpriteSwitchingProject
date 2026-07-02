@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0009",
+  "expression_set": "adaptive",
+  "personality": "extroverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "The versions are identical except at the classroom entrance, where A’s smile better fits Aoi’s outgoing, breathless apology and preserves the relief-to-social-energy progression better than B’s embarrassed sprite."
+    },
+    "claude": {
+      "cc_winner": "tie",
+      "cc_confidence": "strong",
+      "ef_winner": "tie",
+      "ef_confidence": "strong",
+      "raw_cc_ab": "tie",
+      "raw_ef_ab": "tie",
+      "rationale": "Versions A and B are identical in sprite selection across all dialogue lines; no meaningful comparison is possible."
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0007",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B’s neutral \"...Okay\" and fearful \"May?\" read as more restrained and line-specific for an introverted girl, while A’s surprise there feels less fitting."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "The three differing lines favor B: 'It's breaking?' as fear and 'May?' as fear fit the rising tension better than A's surprise, and the quiet '...Okay' as neutral suits her reserved nature, though A's surprise at 'May?' is also defensible."
+    }
+  }
+}

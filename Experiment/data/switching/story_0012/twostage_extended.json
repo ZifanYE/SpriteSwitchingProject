@@ -1,0 +1,162 @@
+{
+  "instance_id": "story_0012",
+  "pipeline": "twostage",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "astonished",
+    "crying_hard",
+    "displeased_frown",
+    "exasperated",
+    "holding_back_tears",
+    "interested_attentive",
+    "natural_smile_cheerful",
+    "sad",
+    "serious_expressionless",
+    "slightly_happy_faint_smile",
+    "surprised",
+    "unconvinced",
+    "uneasy_confused"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panicked embarrassment and frustration at starting the term badly, trying to keep it contained even as she worries about making a poor first impression.",
+      "label": "exasperated"
+    },
+    {
+      "turn": 5,
+      "text": "If I cut through the plaza... maybe I can still make it.",
+      "emotion_description": "She is quietly anxious and flustered, but trying to steady herself with a small, hopeful determination to salvage the morning without drawing attention.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 8,
+      "text": "...Um.",
+      "emotion_description": "She feels hesitant and flustered, caught between her own urgency and a quiet, compassionate impulse to speak up.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 10,
+      "text": "Are you... lost?",
+      "emotion_description": "She feels a quiet, hesitant concern that overcomes her own panic, and is gently mustering the courage to help despite her shyness.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 13,
+      "text": "It's okay. Don't move, all right?",
+      "emotion_description": "She feels a quiet, steady concern that overrides her own panic, and is trying to sound calm and reassuring while gently taking charge.",
+      "label": "serious_expressionless"
+    },
+    {
+      "turn": 14,
+      "text": "Do you know her phone number?",
+      "emotion_description": "She is quietly focused and gently reassuring, with her own lateness pushed aside as she concentrates on helping the frightened boy.",
+      "label": "interested_attentive"
+    },
+    {
+      "turn": 18,
+      "text": "...It's fine.",
+      "emotion_description": "She is quietly suppressing her own panic about being late and choosing to reassure the boy first, with a small, steady resolve beneath her worry.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 19,
+      "text": "We'll find someone to help.",
+      "emotion_description": "She feels quietly anxious about being late, but steadies herself with gentle resolve and concern for the lost boy, choosing to help despite her own worry.",
+      "label": "serious_expressionless"
+    },
+    {
+      "turn": 22,
+      "text": "Ah...",
+      "emotion_description": "She feels a small, quiet jolt of disappointment and worry as she realizes the police box is empty, but she keeps her composure and searches for the next thing to do.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 25,
+      "text": "I know.",
+      "emotion_description": "She feels a quiet, aching sympathy for the boy and a restrained urgency to reassure him, while keeping her own worry and time pressure carefully hidden.",
+      "label": "sad"
+    },
+    {
+      "turn": 26,
+      "text": "Let's stay where she can find you.",
+      "emotion_description": "She is quietly reassuring and focused, masking her own urgency so the boy feels safe while she tries to keep him calm and visible.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 28,
+      "text": "What does she look like?",
+      "emotion_description": "She is quietly focused and reassuring, with a small undercurrent of urgency and worry about the boy and the ticking clock, but she keeps it gentle and steady.",
+      "label": "interested_attentive"
+    },
+    {
+      "turn": 31,
+      "text": "Excuse me!",
+      "emotion_description": "She is quietly anxious and pressed for time, but focused and determined to get help for the lost boy despite her own first-day worries.",
+      "label": "serious_expressionless"
+    },
+    {
+      "turn": 32,
+      "text": "Has anyone seen an older woman with a brown hat?",
+      "emotion_description": "She is quietly focused and concerned, pushing aside her own lateness to help the boy while keeping her voice controlled and gentle.",
+      "label": "interested_attentive"
+    },
+    {
+      "turn": 35,
+      "text": "She's looking for this boy.",
+      "emotion_description": "She feels tense and self-conscious from having to speak up in public, but stays focused and quietly determined to help the lost boy.",
+      "label": "serious_expressionless"
+    },
+    {
+      "turn": 42,
+      "text": "I'm glad I found him.",
+      "emotion_description": "She feels quiet relief and gentle satisfaction, with a faint lingering embarrassment from having drawn attention to herself.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 47,
+      "text": "...Yes.",
+      "emotion_description": "She feels a small, resigned pang of panic and embarrassment about being late, but it’s softened by quiet relief and satisfaction from having helped the boy.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 51,
+      "text": "Please don't be.",
+      "emotion_description": "She feels a quiet, self-effacing mix of embarrassment and relief, trying to reassure the grandmother while swallowing her own frustration about being late.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 52,
+      "text": "He wasn't alone.",
+      "emotion_description": "She is quietly reassuring and self-effacing, trying to soften the grandmother’s guilt while masking her own disappointment and lingering anxiety about being late.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 58,
+      "text": "Aoi Sakamizu.",
+      "emotion_description": "She feels breathless and embarrassed about being late, but is trying to stay composed and answer politely despite the lingering tightness in her chest.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 62,
+      "text": "I stopped to help a lost child near the station.",
+      "emotion_description": "She feels anxious and embarrassed about being late, but also quietly resolute and a little relieved that she can tell the truth because helping the child mattered more than her own inconvenience.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 65,
+      "text": "Yes, sir.",
+      "emotion_description": "She feels quietly relieved to be let off with a warning, still embarrassed about being late, and a little tense from having to speak up at all.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 69,
+      "text": "It was okay.",
+      "emotion_description": "She is quietly reassuring herself that the trouble was worth it, feeling a small, warm sense of relief and pride beneath lingering embarrassment.",
+      "label": "slightly_happy_faint_smile"
+    }
+  ]
+}

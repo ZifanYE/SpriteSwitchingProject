@@ -1,0 +1,378 @@
+{
+  "instance_id": "story_0015",
+  "title": "The Door in the Crosswalk Light",
+  "protagonist": "Aoi",
+  "studied_speaker": "Aoi",
+  "pipeline": "twostage",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "spriteMap": {
+    "anger": 0,
+    "disgust": 1,
+    "fear": 2,
+    "happiness": 3,
+    "neutral": 4,
+    "sadness": 5,
+    "surprise": 6
+  },
+  "dialogue": [
+    {
+      "turn": 0,
+      "type": "narration",
+      "text": "The first morning of the new school term -- and Aoi is already running late."
+    },
+    {
+      "turn": 1,
+      "type": "dialogue",
+      "text": "No, no, no -- not on the very first day!",
+      "speaker": "Aoi",
+      "label": "fear",
+      "sprite": 2
+    },
+    {
+      "turn": 2,
+      "type": "narration",
+      "text": "Her loafer skids on the sidewalk paint as she cuts the corner by the shopping street."
+    },
+    {
+      "turn": 3,
+      "type": "narration",
+      "text": "Just ahead, the morning sun strikes the glass of a shuttered flower shop."
+    },
+    {
+      "turn": 4,
+      "type": "narration",
+      "text": "For one bright second, the reflection is not the street at all, but a deep green path under a violet sky."
+    },
+    {
+      "turn": 5,
+      "type": "dialogue",
+      "text": "...What?",
+      "speaker": "Aoi",
+      "label": "surprise",
+      "sprite": 6
+    },
+    {
+      "turn": 6,
+      "type": "narration",
+      "text": "She jerks back too late."
+    },
+    {
+      "turn": 7,
+      "type": "narration",
+      "text": "Her sleeve brushes the shining window, and the surface ripples like water."
+    },
+    {
+      "turn": 8,
+      "type": "narration",
+      "text": "A gust of cold, sweet air spills out, carrying the scent of rain and roses."
+    },
+    {
+      "turn": 9,
+      "type": "dialogue",
+      "text": "N-no way...",
+      "speaker": "Aoi",
+      "label": "fear",
+      "sprite": 2
+    },
+    {
+      "turn": 10,
+      "type": "narration",
+      "text": "Something small and luminous tumbles from the wavering glass and lands in her hands."
+    },
+    {
+      "turn": 11,
+      "type": "narration",
+      "text": "It is a brass key wrapped in a thread of blue flame."
+    },
+    {
+      "turn": 12,
+      "type": "dialogue",
+      "text": "A key...?",
+      "speaker": "Aoi",
+      "label": "surprise",
+      "sprite": 6
+    },
+    {
+      "turn": 13,
+      "type": "dialogue",
+      "text": "Ah! There you are!",
+      "speaker": "???"
+    },
+    {
+      "turn": 14,
+      "type": "narration",
+      "text": "A boy about her age steps halfway through the window as if climbing out of a pond."
+    },
+    {
+      "turn": 15,
+      "type": "narration",
+      "text": "He wears a dark cloak pinned with a silver leaf, his hair bright as wheat in sunlight."
+    },
+    {
+      "turn": 16,
+      "type": "dialogue",
+      "text": "Please don't drop that. If it touches ordinary ground, the door will root.",
+      "speaker": "Rowan"
+    },
+    {
+      "turn": 17,
+      "type": "dialogue",
+      "text": "Root?",
+      "speaker": "Aoi",
+      "label": "surprise",
+      "sprite": 6
+    },
+    {
+      "turn": 18,
+      "type": "narration",
+      "text": "As if to answer, golden vines begin curling from the flower shop frame, threading over the brick in glittering spirals."
+    },
+    {
+      "turn": 19,
+      "type": "dialogue",
+      "text": "This is why I'm late...?",
+      "speaker": "Aoi",
+      "label": "surprise",
+      "sprite": 6
+    },
+    {
+      "turn": 20,
+      "type": "dialogue",
+      "text": "Late?",
+      "speaker": "Rowan"
+    },
+    {
+      "turn": 21,
+      "type": "dialogue",
+      "text": "School. Opening ceremony. First years have to be early.",
+      "speaker": "Aoi",
+      "label": "fear",
+      "sprite": 2
+    },
+    {
+      "turn": 22,
+      "type": "dialogue",
+      "text": "Then I owe you speed. Hand me the key.",
+      "speaker": "Rowan"
+    },
+    {
+      "turn": 23,
+      "type": "narration",
+      "text": "Aoi hesitates, fingers tightening around the warm brass."
+    },
+    {
+      "turn": 24,
+      "type": "dialogue",
+      "text": "If I do, will this... close?",
+      "speaker": "Aoi",
+      "label": "fear",
+      "sprite": 2
+    },
+    {
+      "turn": 25,
+      "type": "dialogue",
+      "text": "If you don't, my forest may pour into your town by noon.",
+      "speaker": "Rowan"
+    },
+    {
+      "turn": 26,
+      "type": "narration",
+      "text": "Behind him, through the shining gap, she sees towering lilies bigger than umbrellas and a river flashing silver through scarlet grass."
+    },
+    {
+      "turn": 27,
+      "type": "narration",
+      "text": "It is beautiful enough to hurt."
+    },
+    {
+      "turn": 28,
+      "type": "dialogue",
+      "text": "...All right.",
+      "speaker": "Aoi",
+      "label": "surprise",
+      "sprite": 6
+    },
+    {
+      "turn": 29,
+      "type": "narration",
+      "text": "She places the key in his palm."
+    },
+    {
+      "turn": 30,
+      "type": "narration",
+      "text": "For a moment, his hand folds over hers—cool, steady, unreal."
+    },
+    {
+      "turn": 31,
+      "type": "dialogue",
+      "text": "Thank you, Aoi.",
+      "speaker": "Rowan"
+    },
+    {
+      "turn": 32,
+      "type": "dialogue",
+      "text": "You know my name?",
+      "speaker": "Aoi",
+      "label": "surprise",
+      "sprite": 6
+    },
+    {
+      "turn": 33,
+      "type": "dialogue",
+      "text": "It's stitched inside your bag. And also—",
+      "speaker": "Rowan"
+    },
+    {
+      "turn": 34,
+      "type": "narration",
+      "text": "His smile turns sheepish as the blue flame races up the key."
+    },
+    {
+      "turn": 35,
+      "type": "dialogue",
+      "text": "—the door likes names.",
+      "speaker": "Rowan"
+    },
+    {
+      "turn": 36,
+      "type": "narration",
+      "text": "The vines recoil. The false sky folds inward like silk being gathered."
+    },
+    {
+      "turn": 37,
+      "type": "narration",
+      "text": "Relief loosens her shoulders at last."
+    },
+    {
+      "turn": 38,
+      "type": "dialogue",
+      "text": "So that's it...?",
+      "speaker": "Aoi",
+      "label": "surprise",
+      "sprite": 6
+    },
+    {
+      "turn": 39,
+      "type": "narration",
+      "text": "A bell rings in the distance."
+    },
+    {
+      "turn": 40,
+      "type": "narration",
+      "text": "Not the school bell."
+    },
+    {
+      "turn": 41,
+      "type": "narration",
+      "text": "A deep bronze note rolls out from inside the closing portal, and Rowan's face drains of color."
+    },
+    {
+      "turn": 42,
+      "type": "dialogue",
+      "text": "No. It found the breach.",
+      "speaker": "Rowan"
+    },
+    {
+      "turn": 43,
+      "type": "narration",
+      "text": "A vast shadow passes beneath the violet sky."
+    },
+    {
+      "turn": 44,
+      "type": "narration",
+      "text": "One enormous amber eye opens in the narrowing seam of light."
+    },
+    {
+      "turn": 45,
+      "type": "dialogue",
+      "text": "Rowan...",
+      "speaker": "Aoi",
+      "label": "fear",
+      "sprite": 2
+    },
+    {
+      "turn": 46,
+      "type": "dialogue",
+      "text": "Don't look at it for long.",
+      "speaker": "Rowan"
+    },
+    {
+      "turn": 47,
+      "type": "narration",
+      "text": "Too late—the eye fixes on her, ancient and bright, and the key in Rowan's hand brands a single blue sigil across Aoi's wrist."
+    },
+    {
+      "turn": 48,
+      "type": "dialogue",
+      "text": "Ah—!",
+      "speaker": "Aoi",
+      "label": "fear",
+      "sprite": 2
+    },
+    {
+      "turn": 49,
+      "type": "narration",
+      "text": "The portal snaps shut."
+    },
+    {
+      "turn": 50,
+      "type": "narration",
+      "text": "The street returns: gray shutters, vending machine hum, distant bicycle wheels."
+    },
+    {
+      "turn": 51,
+      "type": "narration",
+      "text": "Only the mark remains, glowing faintly like a flower made of fire."
+    },
+    {
+      "turn": 52,
+      "type": "dialogue",
+      "text": "This... is really bad, isn't it?",
+      "speaker": "Aoi",
+      "label": "fear",
+      "sprite": 2
+    },
+    {
+      "turn": 53,
+      "type": "dialogue",
+      "text": "For your schedule? Yes.",
+      "speaker": "Rowan"
+    },
+    {
+      "turn": 54,
+      "type": "dialogue",
+      "text": "For the rest of us?",
+      "speaker": "Rowan"
+    },
+    {
+      "turn": 55,
+      "type": "narration",
+      "text": "He looks at the sigil, then at her with sudden, solemn apology."
+    },
+    {
+      "turn": 56,
+      "type": "dialogue",
+      "text": "A little worse than that.",
+      "speaker": "Rowan"
+    },
+    {
+      "turn": 57,
+      "type": "narration",
+      "text": "Aoi stares at her wrist, then toward the road to school."
+    },
+    {
+      "turn": 58,
+      "type": "narration",
+      "text": "Her chest is still tight with panic—yet under it, small and strange, something else is blooming."
+    },
+    {
+      "turn": 59,
+      "type": "dialogue",
+      "text": "...Can this wait until after homeroom?",
+      "speaker": "Aoi",
+      "label": "fear",
+      "sprite": 2
+    }
+  ]
+}

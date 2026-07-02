@@ -1,0 +1,284 @@
+{
+  "instance_id": "story_0019",
+  "title": "The Slip at Platform Three",
+  "protagonist": "Aoi",
+  "studied_speaker": "Aoi",
+  "pipeline": "twostage",
+  "expression_set": "adaptive",
+  "personality": "extroverted",
+  "spriteMap": {
+    "angry": 0,
+    "anxious": 1,
+    "confused": 2,
+    "determined": 3,
+    "embarrassed": 4,
+    "neutral": 5,
+    "sad": 6,
+    "shy": 7,
+    "smile": 8,
+    "surprised": 9
+  },
+  "dialogue": [
+    {
+      "turn": 0,
+      "type": "narration",
+      "text": "The first morning of the new school term -- and Aoi is already running late."
+    },
+    {
+      "turn": 1,
+      "type": "dialogue",
+      "text": "No, no, no -- not on the very first day!",
+      "speaker": "Aoi",
+      "label": "anxious",
+      "sprite": 1
+    },
+    {
+      "turn": 2,
+      "type": "narration",
+      "text": "Aoi skids to a stop at the station gate, one shoe half-laced and her bag hanging open."
+    },
+    {
+      "turn": 3,
+      "type": "dialogue",
+      "text": "Why today of all days? My alarm worked! I know it did!",
+      "speaker": "Aoi",
+      "label": "anxious",
+      "sprite": 1
+    },
+    {
+      "turn": 4,
+      "type": "narration",
+      "text": "She digs through her pocket for her transit card — and freezes."
+    },
+    {
+      "turn": 5,
+      "type": "dialogue",
+      "text": "Wait. Where's my pass?",
+      "speaker": "Aoi",
+      "label": "anxious",
+      "sprite": 1
+    },
+    {
+      "turn": 6,
+      "type": "narration",
+      "text": "Her face drains, then snaps back into motion. She drops to a crouch and checks every pocket with frantic speed."
+    },
+    {
+      "turn": 7,
+      "type": "dialogue",
+      "text": "Come on, come on, don't do this to me!",
+      "speaker": "Aoi",
+      "label": "anxious",
+      "sprite": 1
+    },
+    {
+      "turn": 8,
+      "type": "narration",
+      "text": "Nothing. Then she remembers the folded slip of paper that had been tucked into her mailbox before dawn."
+    },
+    {
+      "turn": 9,
+      "type": "dialogue",
+      "text": "Seriously... I stopped to read that creepy note, and now my pass is gone?",
+      "speaker": "Aoi",
+      "label": "angry",
+      "sprite": 0
+    },
+    {
+      "turn": 10,
+      "type": "narration",
+      "text": "The note had contained only one line: Check platform three before first bell."
+    },
+    {
+      "turn": 11,
+      "type": "narration",
+      "text": "A station attendant notices her panic and steps closer."
+    },
+    {
+      "turn": 12,
+      "type": "dialogue",
+      "text": "Are you all right, miss?",
+      "speaker": "Attendant"
+    },
+    {
+      "turn": 13,
+      "type": "dialogue",
+      "text": "I'm late, I'm cardless, and I'm trying very hard not to become a tragedy in a school uniform.",
+      "speaker": "Aoi",
+      "label": "embarrassed",
+      "sprite": 4
+    },
+    {
+      "turn": 14,
+      "type": "dialogue",
+      "text": "If you lost a pass, check the bench by platform three. Someone turned one in.",
+      "speaker": "Attendant"
+    },
+    {
+      "turn": 15,
+      "type": "narration",
+      "text": "Aoi blinks. For one beat, the whole station feels too quiet."
+    },
+    {
+      "turn": 16,
+      "type": "dialogue",
+      "text": "Platform three... you're kidding.",
+      "speaker": "Aoi",
+      "label": "surprised",
+      "sprite": 9
+    },
+    {
+      "turn": 17,
+      "type": "narration",
+      "text": "She bolts down the stairs, ponytail flying, weaving through commuters with breathless apologies."
+    },
+    {
+      "turn": 18,
+      "type": "dialogue",
+      "text": "Sorry! Excuse me! First-day emergency!",
+      "speaker": "Aoi",
+      "label": "determined",
+      "sprite": 3
+    },
+    {
+      "turn": 19,
+      "type": "narration",
+      "text": "At the far end of platform three sits a single student in a dark coat, though the morning is warm. Beside them: Aoi's transit pass."
+    },
+    {
+      "turn": 20,
+      "type": "dialogue",
+      "text": "Oh, thank goodness! That's mine—",
+      "speaker": "Aoi",
+      "label": "smile",
+      "sprite": 8
+    },
+    {
+      "turn": 21,
+      "type": "narration",
+      "text": "The student places a hand over the pass before she can grab it. Their expression is calm, unreadable."
+    },
+    {
+      "turn": 22,
+      "type": "dialogue",
+      "text": "Aoi Takamori. Class 1-B. Seat by the window.",
+      "speaker": "Stranger"
+    },
+    {
+      "turn": 23,
+      "type": "narration",
+      "text": "She stops so hard her bag swings into her hip."
+    },
+    {
+      "turn": 24,
+      "type": "dialogue",
+      "text": "...How do you know my name?",
+      "speaker": "Aoi",
+      "label": "surprised",
+      "sprite": 9
+    },
+    {
+      "turn": 25,
+      "type": "dialogue",
+      "text": "If you take the overpass today, don't look down when the bell rings.",
+      "speaker": "Stranger"
+    },
+    {
+      "turn": 26,
+      "type": "dialogue",
+      "text": "Okay, wow. That's not a normal sentence.",
+      "speaker": "Aoi",
+      "label": "confused",
+      "sprite": 2
+    },
+    {
+      "turn": 27,
+      "type": "narration",
+      "text": "The stranger slides the pass toward her. Under it is a small brass token stamped with a crescent moon and the number 3."
+    },
+    {
+      "turn": 28,
+      "type": "dialogue",
+      "text": "Did my friends put you up to this? Because this prank is way too elaborate for eight in the morning.",
+      "speaker": "Aoi",
+      "label": "confused",
+      "sprite": 2
+    },
+    {
+      "turn": 29,
+      "type": "dialogue",
+      "text": "Keep that. You'll need it when you hear your name a second time.",
+      "speaker": "Stranger"
+    },
+    {
+      "turn": 30,
+      "type": "dialogue",
+      "text": "That made it worse. You know that, right?",
+      "speaker": "Aoi",
+      "label": "angry",
+      "sprite": 0
+    },
+    {
+      "turn": 31,
+      "type": "narration",
+      "text": "A train roars through the station between them, wind whipping her blazer and stealing the heat from her face."
+    },
+    {
+      "turn": 32,
+      "type": "narration",
+      "text": "She shields her eyes. When the train passes, the bench is empty."
+    },
+    {
+      "turn": 33,
+      "type": "dialogue",
+      "text": "Nope. No. Absolutely not.",
+      "speaker": "Aoi",
+      "label": "surprised",
+      "sprite": 9
+    },
+    {
+      "turn": 34,
+      "type": "narration",
+      "text": "Only her pass and the brass token remain on the seat."
+    },
+    {
+      "turn": 35,
+      "type": "dialogue",
+      "text": "People do not just vanish before homeroom!",
+      "speaker": "Aoi",
+      "label": "angry",
+      "sprite": 0
+    },
+    {
+      "turn": 36,
+      "type": "narration",
+      "text": "Her heart hammers somewhere between fear and outrage. Then the station clock clicks forward."
+    },
+    {
+      "turn": 37,
+      "type": "dialogue",
+      "text": "Aah— school! Mystery later, attendance first!",
+      "speaker": "Aoi",
+      "label": "determined",
+      "sprite": 3
+    },
+    {
+      "turn": 38,
+      "type": "narration",
+      "text": "She snatches up both items and runs, but at the top of the stairs she slows just enough to look at the token in her palm."
+    },
+    {
+      "turn": 39,
+      "type": "dialogue",
+      "text": "Seat by the window, huh... If that's true, who were you?",
+      "speaker": "Aoi",
+      "label": "confused",
+      "sprite": 2
+    },
+    {
+      "turn": 40,
+      "type": "narration",
+      "text": "Clutching the strange brass moon, Aoi rushes toward the first day of term with a new knot of suspense under her ribs."
+    }
+  ]
+}

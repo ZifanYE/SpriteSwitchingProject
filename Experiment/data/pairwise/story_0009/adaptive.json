@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0009",
+  "expression_set": "adaptive",
+  "personality": "extroverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "The versions are identical except at the classroom entrance, where A’s smile better fits Aoi’s outgoing, breathless apology and preserves a smoother relief-to-social-confidence beat than B’s more timid embarrassed sprite."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "The only difference is the line 'Excuse me! Sorry we're late!' where A's 'smile' better fits the bright, extroverted greeting while B's 'embarrassed' is less apt."
+    }
+  }
+}

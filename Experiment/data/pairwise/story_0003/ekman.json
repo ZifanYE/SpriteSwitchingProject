@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0003",
+  "expression_set": "ekman",
+  "personality": "extroverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B keeps Aoi more outwardly forceful and expressive, and its anger on the final two lines fits her frustrated, quippy reaction better than A’s more subdued fear."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "The 'Mom's punishing me' line reads as a wry/amused remark better fit by A's happiness, while B's anger-anger ending flattens the fearful resolution that A's fear sprites capture more coherently."
+    }
+  }
+}

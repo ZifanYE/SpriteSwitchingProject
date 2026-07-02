@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0006",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A better preserves Aoi’s timid, inward style and matches key beats more precisely, while B makes her sound too firm at 'I wasn't going to,' too muted at 'S-sorry!,' and too skeptical at 'That was because of you?'."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "The versions differ on only three lines; A's 'surprised' for the apology to the old woman and 'uneasy_confused' for 'I wasn't going to' fit the flustered, reserved moments better than B's 'unconvinced' choices."
+    }
+  }
+}

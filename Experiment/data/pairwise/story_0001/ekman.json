@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0001",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B avoids overusing fear by shifting to sadness/neutral in quieter, apologetic beats, which better suits an introverted girl and creates a more natural emotional arc."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B uses softer sadness/neutral for the quiet bow and hallway navigation where A overuses fear, better fitting a reserved introvert and the lower-intensity emotions of those lines."
+    }
+  }
+}

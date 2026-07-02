@@ -1,0 +1,132 @@
+{
+  "instance_id": "story_0017",
+  "pipeline": "direct",
+  "expression_set": "extended",
+  "personality": "extroverted",
+  "expression_labels": [
+    "angry",
+    "astonished",
+    "crying_hard",
+    "displeased_frown",
+    "exasperated",
+    "holding_back_tears",
+    "interested_attentive",
+    "natural_smile_cheerful",
+    "sad",
+    "serious_expressionless",
+    "slightly_happy_faint_smile",
+    "surprised",
+    "unconvinced",
+    "uneasy_confused"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": null,
+      "label": "exasperated"
+    },
+    {
+      "turn": 4,
+      "text": "You have got to be kidding me.",
+      "emotion_description": null,
+      "label": "exasperated"
+    },
+    {
+      "turn": 5,
+      "text": "Come on, come on... move already.",
+      "emotion_description": null,
+      "label": "exasperated"
+    },
+    {
+      "turn": 8,
+      "text": "Okay. It's fine. New term, fresh start, and I'm sweating before homeroom.",
+      "emotion_description": null,
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 10,
+      "text": "Sorry! Excuse me! Coming through!",
+      "emotion_description": null,
+      "label": "exasperated"
+    },
+    {
+      "turn": 12,
+      "text": "Made it—",
+      "emotion_description": null,
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 15,
+      "text": "...Ah.",
+      "emotion_description": null,
+      "label": "surprised"
+    },
+    {
+      "turn": 16,
+      "text": "This is not 1-C, is it?",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 19,
+      "text": "Right! Great! Love that for me.",
+      "emotion_description": null,
+      "label": "exasperated"
+    },
+    {
+      "turn": 20,
+      "text": "Sorry to interrupt!",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 24,
+      "text": "Seriously? You may have just saved my life.",
+      "emotion_description": null,
+      "label": "natural_smile_cheerful"
+    },
+    {
+      "turn": 28,
+      "text": "Here! Present. Very present. Extremely sorry.",
+      "emotion_description": null,
+      "label": "natural_smile_cheerful"
+    },
+    {
+      "turn": 31,
+      "text": "I can't believe that happened before nine in the morning.",
+      "emotion_description": null,
+      "label": "exasperated"
+    },
+    {
+      "turn": 33,
+      "text": "Recovered? I entered the wrong class like I was making a dramatic entrance.",
+      "emotion_description": null,
+      "label": "exasperated"
+    },
+    {
+      "turn": 35,
+      "text": "Then I'll call it confidence and not a total disaster.",
+      "emotion_description": null,
+      "label": "natural_smile_cheerful"
+    },
+    {
+      "turn": 37,
+      "text": "Hey, since I already embarrassed myself in front of half the first years... want to stick together at lunch?",
+      "emotion_description": null,
+      "label": "natural_smile_cheerful"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "The sequence is mostly expressive and outgoing—frustration, embarrassment, quick recovery, and cheerful social initiative all fit Aoi—though a few exasperated beats read slightly one-note where flustered or self-deprecating amusement would fit better."
+    },
+    "claude": {
+      "character_consistency": 5,
+      "emotional_fidelity": 5,
+      "rationale": "Sprites track every beat—exasperation at delays, surprise/confusion in the wrong room, cheerful recovery with Mika—matching the expressive, outgoing personality throughout."
+    }
+  }
+}

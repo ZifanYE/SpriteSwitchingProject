@@ -1,0 +1,134 @@
+{
+  "instance_id": "story_0004",
+  "pipeline": "direct",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "anxious",
+    "confused",
+    "determined",
+    "embarrassed",
+    "neutral",
+    "sad",
+    "shy",
+    "smile",
+    "surprised"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 6,
+      "text": "I had it this morning... I know I did...",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 8,
+      "text": "Um...",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 9,
+      "text": "Are you okay?",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 12,
+      "text": "You got separated?",
+      "emotion_description": null,
+      "label": "neutral"
+    },
+    {
+      "turn": 16,
+      "text": "...I can't just leave you.",
+      "emotion_description": null,
+      "label": "determined"
+    },
+    {
+      "turn": 17,
+      "text": "Do you know your brother's name?",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 19,
+      "text": "Okay. Let's stand by the police box.",
+      "emotion_description": null,
+      "label": "determined"
+    },
+    {
+      "turn": 23,
+      "text": "I just... happened to see her.",
+      "emotion_description": null,
+      "label": "embarrassed"
+    },
+    {
+      "turn": 30,
+      "text": "She's been scared for a while.",
+      "emotion_description": null,
+      "label": "sad"
+    },
+    {
+      "turn": 34,
+      "text": "It's okay now.",
+      "emotion_description": null,
+      "label": "smile"
+    },
+    {
+      "turn": 36,
+      "text": "...You're welcome.",
+      "emotion_description": null,
+      "label": "smile"
+    },
+    {
+      "turn": 40,
+      "text": "Ah...",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 41,
+      "text": "First period is definitely starting.",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 44,
+      "text": "They're all going to look at me...",
+      "emotion_description": null,
+      "label": "embarrassed"
+    },
+    {
+      "turn": 47,
+      "text": "But... I did the right thing.",
+      "emotion_description": null,
+      "label": "determined"
+    },
+    {
+      "turn": 50,
+      "text": "So... I'll go.",
+      "emotion_description": null,
+      "label": "determined"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "The sprites mostly fit an introverted girl’s subdued anxiety, quiet embarrassment, and soft resolve, with only minor overuse of anxious/determined where a more neutral-subtle transition might fit better."
+    },
+    "claude": {
+      "character_consistency": 5,
+      "emotional_fidelity": 5,
+      "rationale": "Every sprite choice reflects Aoi's introverted nature—anxiety and embarrassment dominate her internal experience, subtle determination emerges quietly, and her smiles are gentle and understated—while precisely tracking the emotional arc from panic to compassion to self-doubt to quiet resolve."
+    }
+  }
+}

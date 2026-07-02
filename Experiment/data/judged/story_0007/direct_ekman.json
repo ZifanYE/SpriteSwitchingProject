@@ -1,0 +1,125 @@
+{
+  "instance_id": "story_0007",
+  "pipeline": "direct",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "expression_labels": [
+    "anger",
+    "disgust",
+    "fear",
+    "happiness",
+    "neutral",
+    "sadness",
+    "surprise"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 6,
+      "text": "I just needed a shortcut...",
+      "emotion_description": null,
+      "label": "sadness"
+    },
+    {
+      "turn": 9,
+      "text": "If I go back now... where is back?",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 12,
+      "text": "S-sorry. I didn't mean to come here.",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 14,
+      "text": "I have entrance assembly. Or... first-term assembly.",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 18,
+      "text": "Can I get home quickly?",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 22,
+      "text": "It's... pretty.",
+      "emotion_description": null,
+      "label": "happiness"
+    },
+    {
+      "turn": 28,
+      "text": "It's breaking?",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 32,
+      "text": "I can't... I'm not good at this...",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 36,
+      "text": "Ah—!",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 40,
+      "text": "...Okay.",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 44,
+      "text": "May?",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 47,
+      "text": "Then... thank you. For noticing me.",
+      "emotion_description": null,
+      "label": "happiness"
+    },
+    {
+      "turn": 50,
+      "text": "I won't. Probably.",
+      "emotion_description": null,
+      "label": "happiness"
+    },
+    {
+      "turn": 54,
+      "text": "I'm... still late.",
+      "emotion_description": null,
+      "label": "sadness"
+    },
+    {
+      "turn": 57,
+      "text": "So it wasn't a dream.",
+      "emotion_description": null,
+      "label": "surprise"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Aoi’s sprites stay mostly subdued and fitting for an introvert—fear and quiet sadness dominate, with small happiness beats for wonder/gratitude—but a few choices are slightly broad or off, like repeated overt fear and the final surprise over a more inward awe/relief."
+    },
+    "claude": {
+      "character_consistency": 3,
+      "emotional_fidelity": 3,
+      "rationale": "Overuse of overt 'fear' (seven times) suits the panic but clashes with her reserved, subtle nature, and several lines like the gentle 'thank you' and ironic 'I won't. Probably.' or the flat 'still late' are only roughly matched."
+    }
+  }
+}

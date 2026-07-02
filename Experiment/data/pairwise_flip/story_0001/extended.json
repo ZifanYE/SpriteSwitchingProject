@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0001",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A’s more subdued self-reproach and anxiety fit an introverted girl better, while B’s exasperated beat after the classroom mistake feels too outwardly forceful for the moment."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "The two versions differ on only two lines; A's 'holding_back_tears' for the quiet self-criticism 'I couldn't even be late correctly' fits the introverted, internalizing character better than B's 'exasperated', while the early-line difference is minor."
+    }
+  }
+}

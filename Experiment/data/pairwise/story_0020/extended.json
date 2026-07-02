@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0020",
+  "expression_set": "extended",
+  "personality": "extroverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B keeps Aoi a bit more outward and animated overall, and its uneasy/surprised/cheerful choices fit the specific beats better than A’s more flat serious/exasperated picks."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B's surprised/uneasy_confused for the discovery and natural_smile for the gentle teasing fit an expressive extrovert better than A's repeated exasperated/serious_expressionless, which flatten emotional beats like spotting the crying child and reassuring Kota."
+    }
+  }
+}

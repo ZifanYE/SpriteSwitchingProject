@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0003",
+  "expression_set": "extended",
+  "personality": "extroverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A’s stronger astonishment better suits this expressive, outwardly reactive girl and more sharply tracks the scene’s escalation, while B’s surprised/unconvinced/uneasy choices mute key beats."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "The two versions differ on three lines: B's 'unconvinced' for the skeptical 'We've never met' and 'uneasy_confused' for the unsettled 'How do you know' fit better than A's repeated 'astonished', giving B a more nuanced, coherent emotional progression while remaining consistent with the expressive personality."
+    }
+  }
+}

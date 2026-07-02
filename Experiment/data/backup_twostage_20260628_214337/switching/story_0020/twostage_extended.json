@@ -1,0 +1,114 @@
+{
+  "instance_id": "story_0020",
+  "pipeline": "twostage",
+  "expression_set": "extended",
+  "personality": "extroverted",
+  "expression_labels": [
+    "angry",
+    "astonished",
+    "crying_hard",
+    "displeased_frown",
+    "exasperated",
+    "holding_back_tears",
+    "interested_attentive",
+    "natural_smile_cheerful",
+    "sad",
+    "serious_expressionless",
+    "slightly_happy_faint_smile",
+    "surprised",
+    "unconvinced",
+    "uneasy_confused"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels panicked and flustered, with a burst of frustrated disbelief at being late on the very first day and a strong urge to fix it immediately.",
+      "label": "exasperated"
+    },
+    {
+      "turn": 3,
+      "text": "Why did the train have to stall today of all days?!",
+      "emotion_description": "She’s flustered and frustrated, feeling panicked that bad luck is ruining her chance to start the term properly.",
+      "label": "exasperated"
+    },
+    {
+      "turn": 6,
+      "text": "...Huh?",
+      "emotion_description": "She is abruptly startled and confused, her panic briefly interrupted by concern as she notices something unexpected ahead.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 8,
+      "text": "Hey, hey, are you okay?",
+      "emotion_description": "She shifts from frantic self-stress into immediate concern and gentle protectiveness, trying to sound reassuring despite still being flustered and in a hurry.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 11,
+      "text": "Whoa, seriously? Don't move, okay? I'm here.",
+      "emotion_description": "She shifts from frantic impatience to immediate protective concern, feeling startled by the boy’s distress and determined to steady him and take charge.",
+      "label": "surprised"
+    },
+    {
+      "turn": 15,
+      "text": "...Ah, man. Fine. First day and I'm already doomed.",
+      "emotion_description": "She feels frustrated and resigned about being late, but her concern for the crying boy is overriding her own panic, leaving her flustered yet determined to help.",
+      "label": "exasperated"
+    },
+    {
+      "turn": 16,
+      "text": "What's your name?",
+      "emotion_description": "She feels hurried and mildly frustrated about being late, but her concern for the crying boy has taken over, making her focused, gentle, and determined to help.",
+      "label": "interested_attentive"
+    },
+    {
+      "turn": 18,
+      "text": "Okay, Kota. I'm Aoi. We're going to find your mom together.",
+      "emotion_description": "She shifts from frustrated panic into determined, reassuring protectiveness, choosing to take charge and help the boy despite being worried about being late.",
+      "label": "serious_expressionless"
+    },
+    {
+      "turn": 20,
+      "text": "Did you come from the station? The bakery? Somewhere with lots of people?",
+      "emotion_description": "She is focused and reassuring, thinking quickly while trying to calm Kota and narrow down clues, with a faint undercurrent of urgency about the time she’s losing.",
+      "label": "interested_attentive"
+    },
+    {
+      "turn": 23,
+      "text": "Got it. Flower shop. Come on, hold my sleeve tight.",
+      "emotion_description": "She is focused and reassuring, pushing aside her own panic about being late so she can take charge and keep the frightened boy close and safe.",
+      "label": "interested_attentive"
+    },
+    {
+      "turn": 25,
+      "text": "Excuse me! Did anyone see a woman looking for a little kid in a yellow cap?",
+      "emotion_description": "She is focused and urgent, pushing aside her own lateness to sound clear and helpful while quietly worrying about the crying boy.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 32,
+      "text": "It's okay. He stayed near the crossing. He was really trying to be brave.",
+      "emotion_description": "She feels relieved and quietly proud, softening into warm reassurance as she downplays the boy’s fear and focuses on comforting the mother.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 34,
+      "text": "Next time, don't chase buses, okay? They're not that interesting.",
+      "emotion_description": "She’s relieved and quietly proud after helping them reunite, and she covers her lingering tenderness with a light, teasing joke to keep the mood upbeat.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 38,
+      "text": "Oh, wow. I am absolutely dead.",
+      "emotion_description": "She feels a mix of comic despair and resigned panic about being late, but underneath it she’s oddly satisfied and relieved that helping the boy was worth the sacrifice.",
+      "label": "exasperated"
+    },
+    {
+      "turn": 40,
+      "text": "But... yeah. Still worth it.",
+      "emotion_description": "She feels breathless and resigned about being late, but warmly satisfied and quietly proud that helping Kota was absolutely the right choice.",
+      "label": "slightly_happy_faint_smile"
+    }
+  ]
+}

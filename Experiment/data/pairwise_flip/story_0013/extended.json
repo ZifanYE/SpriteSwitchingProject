@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0013",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A better preserves Aoi’s subdued, inward affect with softer beats where B turns several key moments too flat or mismatched, especially her acceptance, self-reassurance, and modest denial."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "A",
+      "rationale": "A uses varied, line-appropriate emotions (astonished, helpless smile after laughing) giving better emotional fidelity, while B's heavier reliance on uneasy_confused/serious is flatter but its restraint slightly suits the reserved personality, though B's serious_expressionless after a 'helpless laugh' is a mismatch."
+    }
+  }
+}

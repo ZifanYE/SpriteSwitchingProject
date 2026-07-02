@@ -1,0 +1,155 @@
+{
+  "instance_id": "story_0005",
+  "pipeline": "twostage",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "expression_labels": [
+    "anger",
+    "disgust",
+    "fear",
+    "happiness",
+    "neutral",
+    "sadness",
+    "surprise"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panicked embarrassment and self-reproach, worried that starting the term late has already gone wrong.",
+      "label": "fear"
+    },
+    {
+      "turn": 6,
+      "text": "...This wasn't here yesterday.",
+      "emotion_description": "She feels quiet, uneasy surprise mixed with a growing sense of disorientation as she tries to make sense of the impossible change.",
+      "label": "surprise"
+    },
+    {
+      "turn": 9,
+      "text": "No way...",
+      "emotion_description": "She feels a quiet, rising panic and disbelief, trying to stay composed while realizing she may be lost in something unsettling and unfamiliar.",
+      "label": "fear"
+    },
+    {
+      "turn": 12,
+      "text": "I really don't have time for this.",
+      "emotion_description": "She feels quietly panicked and frustrated, trying to steady herself while inwardly worrying that she is already losing control of her first day.",
+      "label": "fear"
+    },
+    {
+      "turn": 17,
+      "text": "Again...?",
+      "emotion_description": "She feels startled and uneasy, with a small flicker of confusion and self-conscious worry at being singled out, though she tries to keep it quiet and composed.",
+      "label": "surprise"
+    },
+    {
+      "turn": 19,
+      "text": "I don't understand.",
+      "emotion_description": "She feels quietly bewildered and uneasy, trying to stay composed while the strange situation and Mizuki’s cryptic words leave her off balance.",
+      "label": "surprise"
+    },
+    {
+      "turn": 22,
+      "text": "The first time?",
+      "emotion_description": "She feels cautious curiosity mixed with a flicker of unease, trying to understand the strange situation while staying quietly composed.",
+      "label": "surprise"
+    },
+    {
+      "turn": 27,
+      "text": "...That's why I was late.",
+      "emotion_description": "She feels a quiet, uneasy realization settling in, with a faint mix of confusion and embarrassed resignation as she tries to make sense of the impossible situation.",
+      "label": "surprise"
+    },
+    {
+      "turn": 29,
+      "text": "It's just the route to school.",
+      "emotion_description": "She is trying to steady herself by treating the impossible situation as ordinary, but beneath the quiet words there is a faint, uneasy confusion and a need to believe she still has some control.",
+      "label": "neutral"
+    },
+    {
+      "turn": 32,
+      "text": "From me?",
+      "emotion_description": "She feels a small, uneasy jolt of fear and confusion, trying to stay composed while realizing the strange place may be asking something of her personally.",
+      "label": "surprise"
+    },
+    {
+      "turn": 36,
+      "text": "You're asking me to tell my name to a road?",
+      "emotion_description": "She is bewildered and uneasy, but trying to mask her fear with a faint, incredulous bit of dry humor.",
+      "label": "surprise"
+    },
+    {
+      "turn": 41,
+      "text": "If I do this... I'll get to school?",
+      "emotion_description": "She is cautious and bewildered, but quietly hopeful and trying to reassure herself that cooperating might still let her escape this strange delay and make it to school on time.",
+      "label": "surprise"
+    },
+    {
+      "turn": 43,
+      "text": "And if I don't?",
+      "emotion_description": "She is quietly anxious and cautious, testing the danger with a small, guarded question while hoping for reassurance that she can still make it to school.",
+      "label": "fear"
+    },
+    {
+      "turn": 48,
+      "text": "...You couldn't leave either, could you?",
+      "emotion_description": "She is quietly recognizing the other girl’s loneliness and feeling a small, sympathetic ache beneath her own fear, with a tentative softness replacing her earlier panic.",
+      "label": "sadness"
+    },
+    {
+      "turn": 53,
+      "text": "Aoi Takase.",
+      "emotion_description": "She feels tense but determined, quietly pushing past her fear and uncertainty to trust the moment and offer her name as a way forward.",
+      "label": "neutral"
+    },
+    {
+      "turn": 56,
+      "text": "Then... if names matter...",
+      "emotion_description": "She is cautiously curious and quietly unsettled, trying to make sense of the shrine’s rules while feeling a small, growing concern for what forgetting a name might mean.",
+      "label": "neutral"
+    },
+    {
+      "turn": 57,
+      "text": "Can I give you one?",
+      "emotion_description": "She feels tentative but gently compassionate, gathering her courage to offer help because she has just realized the other girl’s loneliness and wants to repay that kindness.",
+      "label": "happiness"
+    },
+    {
+      "turn": 60,
+      "text": "Because being left behind sounds lonely.",
+      "emotion_description": "She feels a gentle, empathetic sadness for Mizuki, speaking quietly but sincerely from her own fear of loneliness and her wish to offer comfort.",
+      "label": "sadness"
+    },
+    {
+      "turn": 63,
+      "text": "...Mizuki.",
+      "emotion_description": "She feels a quiet, tentative compassion and a small, steady resolve, as if offering the name is both an act of kindness and a gentle step toward connection despite her lingering uncertainty.",
+      "label": "happiness"
+    },
+    {
+      "turn": 70,
+      "text": "Will I see you again?",
+      "emotion_description": "She feels quiet, tentative hope mixed with lingering concern and a small, reluctant sadness at the thought of parting from someone she has just begun to understand.",
+      "label": "sadness"
+    },
+    {
+      "turn": 73,
+      "text": "Right... I'll try not to be.",
+      "emotion_description": "She feels quietly relieved and a little wistful, trying to sound normal while gently promising to avoid returning to this lonely place.",
+      "label": "happiness"
+    },
+    {
+      "turn": 77,
+      "text": "First day...",
+      "emotion_description": "She feels a quiet, breathless mix of lingering disbelief and relieved determination, as if the strange encounter has left her unsettled but gently encouraged.",
+      "label": "surprise"
+    },
+    {
+      "turn": 78,
+      "text": "Please be normal from here on.",
+      "emotion_description": "She is quietly relieved and still a little shaken, trying to steady herself with a soft, earnest wish that the rest of the day will finally feel ordinary.",
+      "label": "neutral"
+    }
+  ]
+}

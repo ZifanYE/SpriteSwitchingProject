@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0004",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A better preserves Aoi’s subdued, shy affect with embarrassed/shy beats and stronger resolve at key moments, while B’s neutral/anxious/smile choices flatten or slightly misplace those emotions."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "Version A maintains consistent introversion through subtle emotional expressions (shy, sad, embarrassed) that align with the personality, while Version B uses neutral and repeated smile sprites that undermine the reserved, soft-spoken characterization; A's emotional arc is more nuanced and coherent, particularly in the tender moments with the girl where A uses shy/sad to show internal depth rather than B's broad smiling."
+    }
+  }
+}

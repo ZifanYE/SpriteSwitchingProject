@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0014",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays more subdued and introverted overall, while B adds mismatched embarrassed/smiling beats and misses Aoi’s brief resolve and lingering uncertainty."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "A",
+      "rationale": "B's restrained anxious/smile choices fit her reserved nature slightly better, but A's determined line and confused 'did we fix it?' track the line-by-line emotional shifts more accurately than B's flat anxious repetition, with A's closing smile mismatching the relieved smile B captures."
+    }
+  }
+}

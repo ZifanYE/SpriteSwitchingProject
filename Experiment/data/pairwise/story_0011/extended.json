@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0011",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "B",
+      "rationale": "A stays more subdued and inward for this introverted girl, while B uses a few better spikes of shock on the most startling beats."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "B",
+      "rationale": "A's heavy reliance on uneasy_confused fits the reserved personality but flattens key shocks, whereas B's astonished/surprised choices at the empty pocket, vanishing woman, and prewritten class better track the escalating dread."
+    }
+  }
+}

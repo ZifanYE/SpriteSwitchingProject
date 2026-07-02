@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0020",
+  "expression_set": "adaptive",
+  "personality": "extroverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A’s warmer smile to comfort the boy and steadier determined follow-through fit an expressive, take-charge Aoi better, while B’s neutral opening and anxious self-commentary feel flatter and less emotionally precise."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "B",
+      "rationale": "A's 'smile' when greeting the crying boy fits her bright extroverted nature but B's 'neutral' there and 'anxious' on the resigned 'I'm doomed' line more accurately track the implied emotion of each moment."
+    }
+  }
+}

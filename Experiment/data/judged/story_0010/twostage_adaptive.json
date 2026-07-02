@@ -1,0 +1,140 @@
+{
+  "instance_id": "story_0010",
+  "pipeline": "twostage",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "anxious",
+    "confused",
+    "determined",
+    "embarrassed",
+    "neutral",
+    "sad",
+    "shy",
+    "smile",
+    "surprised"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panicked embarrassment and frustration at her bad timing, with a small, inward plea that things won’t start off badly.",
+      "label": "anxious"
+    },
+    {
+      "turn": 7,
+      "text": "Ah—!",
+      "emotion_description": "She feels a sudden jolt of panic and embarrassment, startled by the collision and worried she has already made a bad first impression on the very first day.",
+      "label": "surprised"
+    },
+    {
+      "turn": 12,
+      "text": "I-I'm sorry.",
+      "emotion_description": "She feels flustered and embarrassed, with a quick spike of fear at having caused trouble, but she keeps it small and apologetic rather than defensive.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 13,
+      "text": "I turned too fast.",
+      "emotion_description": "She is flustered and apologetic, trying to explain herself quietly while feeling embarrassed and anxious about the collision.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 16,
+      "text": "You don't have to—",
+      "emotion_description": "She feels flustered and embarrassed from the collision, but also quietly grateful and hesitant to accept help, trying to be polite without drawing attention to herself.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 19,
+      "text": "I won't cry.",
+      "emotion_description": "She feels stung and embarrassed by his assumption, but quietly determined to defend herself and keep her composure.",
+      "label": "determined"
+    },
+    {
+      "turn": 22,
+      "text": "...Thank you.",
+      "emotion_description": "She feels quietly embarrassed and a little stung, but also relieved and sincerely grateful, so she thanks him in a small, restrained voice.",
+      "label": "shy"
+    },
+    {
+      "turn": 25,
+      "text": "Um. Your tag.",
+      "emotion_description": "She feels a small, cautious mix of embarrassment and concern, quietly trying to return the tag without drawing attention to herself.",
+      "label": "shy"
+    },
+    {
+      "turn": 29,
+      "text": "You're the transfer student.",
+      "emotion_description": "She is quietly tentative and a little self-conscious, trying to confirm what she has noticed while keeping her voice gentle and controlled.",
+      "label": "shy"
+    },
+    {
+      "turn": 31,
+      "text": "Only a little.",
+      "emotion_description": "She feels a small, shy spark of satisfaction at having noticed him, while staying guarded and quietly amused by his surprise.",
+      "label": "smile"
+    },
+    {
+      "turn": 34,
+      "text": "Aoi. First year.",
+      "emotion_description": "She feels a little flustered but determined to sound composed, offering her name and year in a quiet, guarded way that hints at cautious curiosity beneath her reserve.",
+      "label": "shy"
+    },
+    {
+      "turn": 36,
+      "text": "Was it the panic?",
+      "emotion_description": "She is quietly curious and a little self-conscious, tentatively probing him while trying to hide how flustered she feels.",
+      "label": "shy"
+    },
+    {
+      "turn": 39,
+      "text": "Oh no...",
+      "emotion_description": "She feels a sudden sinking wave of embarrassment and alarm, realizing she is already late and has made a clumsy first impression, while trying to keep her distress quiet.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 40,
+      "text": "The staff room— I still have to take this there.",
+      "emotion_description": "She feels a sudden spike of anxious urgency and embarrassment, trying to recover her composure and focus on the task before her.",
+      "label": "anxious"
+    },
+    {
+      "turn": 44,
+      "text": "You know already?",
+      "emotion_description": "She feels a small, embarrassed surprise that he already knows where she needs to go, mixed with a quiet relief that he is paying attention and helping her despite his bluntness.",
+      "label": "surprised"
+    },
+    {
+      "turn": 47,
+      "text": "Then... we're both doing badly.",
+      "emotion_description": "She feels shyly amused and relieved, letting a small shared joke slip out as her embarrassment softens into tentative warmth toward him.",
+      "label": "shy"
+    },
+    {
+      "turn": 50,
+      "text": "...Right.",
+      "emotion_description": "She feels a little flustered and embarrassed, but also quietly amused and oddly reassured by his blunt help.",
+      "label": "shy"
+    },
+    {
+      "turn": 51,
+      "text": "Thank you, Kazami-senpai.",
+      "emotion_description": "She feels shyly grateful and a little flustered, but also quietly warmed by his help and the unexpected ease of their exchange.",
+      "label": "shy"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "The mostly subdued sequence of embarrassed/shy/anxious sprites fits an introverted girl well, with only the 'determined' denial and a couple brighter beats feeling slightly stronger than her soft-spoken, subtle affect."
+    },
+    "claude": {
+      "character_consistency": 5,
+      "emotional_fidelity": 5,
+      "rationale": "Sprites stay subtle and reserved (shy, smile, the restrained 'determined' for 'I won't cry') while precisely tracking each emotional beat from panicked anxiety to embarrassment to a warming shyness, forming a coherent arc."
+    }
+  }
+}

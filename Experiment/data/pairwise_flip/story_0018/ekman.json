@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0018",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A better preserves Aoi’s quiet warmth and subdued gratitude, while B adds flatter or slightly off beats like sadness for a simple admission and neutral/surprise where relief or shy thanks fit better."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "A",
+      "rationale": "B's softer choices (sadness for 'I wasn't looking ahead', neutral 'Yes sir') suit the reserved personality, but A's emotional progression better matches lines like the relieved 'Yes, sir' and grateful thanks."
+    }
+  }
+}

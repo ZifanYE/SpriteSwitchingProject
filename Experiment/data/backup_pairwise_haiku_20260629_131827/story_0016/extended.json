@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0016",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "A",
+      "rationale": "B is a touch more reserved by softening the bus-call and hopeful beat, while A better captures the brief lift into cautious optimism before the daikon setback."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "Version A uses slightly_happy_faint_smile at the moment of hope ('Maybe... maybe I can still make homeroom'), which better captures the introverted character's subtle emotional shifts and provides stronger emotional progression; Version B's uneasy_confused at that same moment undercuts the momentary optimism and creates less coherent emotional arc."
+    }
+  }
+}

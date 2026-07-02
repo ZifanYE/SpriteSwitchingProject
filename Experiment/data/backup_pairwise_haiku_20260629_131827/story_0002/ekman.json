@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0002",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A better preserves Aoi’s subdued, apologetic reserve with softer beats like sadness/neutral, while B overuses fear/happiness/surprise in places that flatten the scene’s emotional nuance."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "Version A uses sadness sprites at key moments of vulnerability (after the collision, when pulling back from his touch, acknowledging her apologetic nature) which better captures an introvert's internalized emotional processing, while Version B overuses fear sprites in contexts where sadness or embarrassment would be more subtle and character-consistent."
+    }
+  }
+}

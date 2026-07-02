@@ -1,0 +1,138 @@
+{
+  "instance_id": "story_0013",
+  "pipeline": "twostage",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "astonished",
+    "crying_hard",
+    "displeased_frown",
+    "exasperated",
+    "holding_back_tears",
+    "interested_attentive",
+    "natural_smile_cheerful",
+    "sad",
+    "serious_expressionless",
+    "slightly_happy_faint_smile",
+    "surprised",
+    "unconvinced",
+    "uneasy_confused"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panicked embarrassment and self-reproach, worried that starting the term late has already gone wrong.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 5,
+      "text": "...Why is it here again?",
+      "emotion_description": "She feels quietly startled and disoriented, with a small knot of anxious frustration as she realizes she may be caught in something impossible.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 8,
+      "text": "I left home at seven-twenty.",
+      "emotion_description": "She is quietly bewildered and increasingly anxious, trying to reassure herself with a factual detail even as she realizes something is very wrong.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 9,
+      "text": "I know I did.",
+      "emotion_description": "She feels quietly unsettled and increasingly anxious, trying to reassure herself with a small, stubborn certainty even as the impossible repetition makes her doubt her own senses.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 13,
+      "text": "...You can see me?",
+      "emotion_description": "She is startled and wary, with a quiet surge of disbelief and fear as she realizes the strange girl is real and aware of her.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 16,
+      "text": "Am I dreaming?",
+      "emotion_description": "She feels startled and disoriented, quietly grasping for an explanation while trying to stay calm despite the impossible situation.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 18,
+      "text": "That's... worse.",
+      "emotion_description": "She feels a small, uneasy jolt of fear and disbelief, with a quiet, resigned humor as she realizes this situation is even more troubling than a dream.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 22,
+      "text": "You want me to help?",
+      "emotion_description": "She is cautious but quietly sympathetic, surprised by the strange request yet willing to help despite her own anxiety about being late.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 26,
+      "text": "...If I say no, I'll just see this gate again, won't I?",
+      "emotion_description": "She feels wary and resigned, with a quiet thread of reluctant curiosity and determination as she realizes refusing won’t let her escape the situation.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 29,
+      "text": "Okay.",
+      "emotion_description": "She feels resigned but quietly determined, accepting the strange situation with a small, nervous calm and a hint of reluctant curiosity.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 30,
+      "text": "Just quickly, then.",
+      "emotion_description": "She is quietly resigned and a little anxious, but trying to stay composed and move forward without making a fuss.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 33,
+      "text": "Is this it?",
+      "emotion_description": "She is quietly cautious and a little relieved, with her fear easing into tentative hope as she asks the question softly.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 39,
+      "text": "It didn't ruin everything.",
+      "emotion_description": "She speaks softly with a quiet, reassuring certainty, trying to comfort the ghost girl while also easing her own lingering anxiety about being late and making mistakes.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 40,
+      "text": "You remembered to come back.",
+      "emotion_description": "She feels a quiet, tender sympathy mixed with relief, recognizing the ghost girl’s return as a small but meaningful act of courage and not wanting to let it go unacknowledged.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 43,
+      "text": "I'm... not, really.",
+      "emotion_description": "She feels shyly self-effacing and a little embarrassed by the praise, quietly downplaying her own kindness while secretly being touched by it.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 50,
+      "text": "...I really am late now.",
+      "emotion_description": "She feels a quiet, resigned mix of embarrassment and lingering disbelief, with a small flicker of relief that the strange delay is finally over.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 52,
+      "text": "I'll still go.",
+      "emotion_description": "She feels quietly resolved and a little breathless, choosing to move forward despite her lateness, with a soft lingering warmth from the encounter and a trace of nervous determination.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 56,
+      "text": "S-Sorry.",
+      "emotion_description": "She feels flustered and embarrassed from arriving late, but also quietly relieved that the strange ordeal is over and determined to be polite despite her nerves.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 57,
+      "text": "I got held up on the way.",
+      "emotion_description": "She feels flustered and embarrassed about being late, but is trying to sound polite and composed while quietly covering for the strange encounter.",
+      "label": "uneasy_confused"
+    }
+  ]
+}

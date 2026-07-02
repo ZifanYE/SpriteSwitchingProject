@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0014",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays more subdued and inward-looking, while B adds sharper sprites at key lines ('So there is an alien device...', 'If I disappear...', 'Mostly?') that feel too forceful for her reserved personality and the scene’s softer emotional arc."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "The two differ at two lines: A's 'fear' for the alien-device realization fits Aoi's quiet dread better than B's flat 'surprise', and B's 'anger' on the playful 'I'm blaming you' line clashes with her gentle, never-raised-voice personality where A's 'fear' coheres."
+    }
+  }
+}

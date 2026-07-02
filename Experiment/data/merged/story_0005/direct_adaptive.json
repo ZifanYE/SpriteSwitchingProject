@@ -1,0 +1,502 @@
+{
+  "instance_id": "story_0005",
+  "title": "The Fourth Bell",
+  "protagonist": "Aoi",
+  "studied_speaker": "Aoi",
+  "pipeline": "direct",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "spriteMap": {
+    "angry": 0,
+    "anxious": 1,
+    "confused": 2,
+    "determined": 3,
+    "embarrassed": 4,
+    "neutral": 5,
+    "sad": 6,
+    "shy": 7,
+    "smile": 8,
+    "surprised": 9
+  },
+  "dialogue": [
+    {
+      "turn": 0,
+      "type": "narration",
+      "text": "The first morning of the new school term -- and Aoi is already running late."
+    },
+    {
+      "turn": 1,
+      "type": "dialogue",
+      "text": "No, no, no -- not on the very first day!",
+      "speaker": "Aoi",
+      "label": "anxious",
+      "sprite": 1
+    },
+    {
+      "turn": 2,
+      "type": "narration",
+      "text": "Her breath caught in her throat as she skidded to a stop at the corner."
+    },
+    {
+      "turn": 3,
+      "type": "narration",
+      "text": "The road to school should have opened onto the shopping street."
+    },
+    {
+      "turn": 4,
+      "type": "narration",
+      "text": "Instead, a narrow stone path stretched ahead, damp with morning mist."
+    },
+    {
+      "turn": 5,
+      "type": "narration",
+      "text": "At the end of it stood a shrine gate she had never seen before."
+    },
+    {
+      "turn": 6,
+      "type": "dialogue",
+      "text": "...This wasn't here yesterday.",
+      "speaker": "Aoi",
+      "label": "confused",
+      "sprite": 2
+    },
+    {
+      "turn": 7,
+      "type": "narration",
+      "text": "She turned back at once."
+    },
+    {
+      "turn": 8,
+      "type": "narration",
+      "text": "The corner behind her was gone, swallowed by pale white fog."
+    },
+    {
+      "turn": 9,
+      "type": "dialogue",
+      "text": "No way...",
+      "speaker": "Aoi",
+      "label": "anxious",
+      "sprite": 1
+    },
+    {
+      "turn": 10,
+      "type": "narration",
+      "text": "A bell rang somewhere ahead."
+    },
+    {
+      "turn": 11,
+      "type": "narration",
+      "text": "One clear note. Then another. Then a third."
+    },
+    {
+      "turn": 12,
+      "type": "dialogue",
+      "text": "I really don't have time for this.",
+      "speaker": "Aoi",
+      "label": "anxious",
+      "sprite": 1
+    },
+    {
+      "turn": 13,
+      "type": "narration",
+      "text": "She said it softly, as if the mist might overhear."
+    },
+    {
+      "turn": 14,
+      "type": "narration",
+      "text": "When the fourth bell sounded, a girl was standing beneath the gate."
+    },
+    {
+      "turn": 15,
+      "type": "narration",
+      "text": "She wore an old school uniform, sleeves faded silver at the edges."
+    },
+    {
+      "turn": 16,
+      "type": "dialogue",
+      "text": "You're late again.",
+      "speaker": "Mizuki"
+    },
+    {
+      "turn": 17,
+      "type": "dialogue",
+      "text": "Again...?",
+      "speaker": "Aoi",
+      "label": "confused",
+      "sprite": 2
+    },
+    {
+      "turn": 18,
+      "type": "dialogue",
+      "text": "This morning keeps missing its first step.",
+      "speaker": "Mizuki"
+    },
+    {
+      "turn": 19,
+      "type": "dialogue",
+      "text": "I don't understand.",
+      "speaker": "Aoi",
+      "label": "confused",
+      "sprite": 2
+    },
+    {
+      "turn": 20,
+      "type": "narration",
+      "text": "The other girl smiled, but it looked lonely more than kind."
+    },
+    {
+      "turn": 21,
+      "type": "dialogue",
+      "text": "Neither did I, the first time.",
+      "speaker": "Mizuki"
+    },
+    {
+      "turn": 22,
+      "type": "dialogue",
+      "text": "The first time?",
+      "speaker": "Aoi",
+      "label": "confused",
+      "sprite": 2
+    },
+    {
+      "turn": 23,
+      "type": "dialogue",
+      "text": "You've passed this gate three times already.",
+      "speaker": "Mizuki"
+    },
+    {
+      "turn": 24,
+      "type": "narration",
+      "text": "Aoi's fingers tightened around her school bag."
+    },
+    {
+      "turn": 25,
+      "type": "narration",
+      "text": "A memory flickered: tying her ribbon, checking the clock, stepping outside."
+    },
+    {
+      "turn": 26,
+      "type": "narration",
+      "text": "Then nothing. Just the rush of running, and this place."
+    },
+    {
+      "turn": 27,
+      "type": "dialogue",
+      "text": "...That's why I was late.",
+      "speaker": "Aoi",
+      "label": "confused",
+      "sprite": 2
+    },
+    {
+      "turn": 28,
+      "type": "dialogue",
+      "text": "Because you keep choosing the shortest way.",
+      "speaker": "Mizuki"
+    },
+    {
+      "turn": 29,
+      "type": "dialogue",
+      "text": "It's just the route to school.",
+      "speaker": "Aoi",
+      "label": "confused",
+      "sprite": 2
+    },
+    {
+      "turn": 30,
+      "type": "dialogue",
+      "text": "Not today. Today it wants something.",
+      "speaker": "Mizuki"
+    },
+    {
+      "turn": 31,
+      "type": "narration",
+      "text": "The mist stirred around the stones like breath."
+    },
+    {
+      "turn": 32,
+      "type": "dialogue",
+      "text": "From me?",
+      "speaker": "Aoi",
+      "label": "surprised",
+      "sprite": 9
+    },
+    {
+      "turn": 33,
+      "type": "dialogue",
+      "text": "A name.",
+      "speaker": "Mizuki"
+    },
+    {
+      "turn": 34,
+      "type": "narration",
+      "text": "For a moment, Aoi almost laughed."
+    },
+    {
+      "turn": 35,
+      "type": "narration",
+      "text": "It came out instead as a small, shaky exhale."
+    },
+    {
+      "turn": 36,
+      "type": "dialogue",
+      "text": "You're asking me to tell my name to a road?",
+      "speaker": "Aoi",
+      "label": "confused",
+      "sprite": 2
+    },
+    {
+      "turn": 37,
+      "type": "dialogue",
+      "text": "To the morning. So it can let you go.",
+      "speaker": "Mizuki"
+    },
+    {
+      "turn": 38,
+      "type": "narration",
+      "text": "Aoi looked through the gate."
+    },
+    {
+      "turn": 39,
+      "type": "narration",
+      "text": "Beyond it, hidden in the dim, stood rows of weathered wooden tablets."
+    },
+    {
+      "turn": 40,
+      "type": "narration",
+      "text": "One of them was blank."
+    },
+    {
+      "turn": 41,
+      "type": "dialogue",
+      "text": "If I do this... I'll get to school?",
+      "speaker": "Aoi",
+      "label": "anxious",
+      "sprite": 1
+    },
+    {
+      "turn": 42,
+      "type": "dialogue",
+      "text": "Yes.",
+      "speaker": "Mizuki"
+    },
+    {
+      "turn": 43,
+      "type": "dialogue",
+      "text": "And if I don't?",
+      "speaker": "Aoi",
+      "label": "anxious",
+      "sprite": 1
+    },
+    {
+      "turn": 44,
+      "type": "dialogue",
+      "text": "You'll keep running until the first bell never comes.",
+      "speaker": "Mizuki"
+    },
+    {
+      "turn": 45,
+      "type": "narration",
+      "text": "Her stomach dropped."
+    },
+    {
+      "turn": 46,
+      "type": "narration",
+      "text": "Then, unexpectedly, she noticed the girl's hands."
+    },
+    {
+      "turn": 47,
+      "type": "narration",
+      "text": "They were pressed together so tightly they trembled."
+    },
+    {
+      "turn": 48,
+      "type": "dialogue",
+      "text": "...You couldn't leave either, could you?",
+      "speaker": "Aoi",
+      "label": "sad",
+      "sprite": 6
+    },
+    {
+      "turn": 49,
+      "type": "narration",
+      "text": "The smile on Mizuki's face thinned."
+    },
+    {
+      "turn": 50,
+      "type": "dialogue",
+      "text": "I forgot my own name a long time ago.",
+      "speaker": "Mizuki"
+    },
+    {
+      "turn": 51,
+      "type": "narration",
+      "text": "The words landed with a quiet weight."
+    },
+    {
+      "turn": 52,
+      "type": "narration",
+      "text": "Aoi stepped closer to the blank tablet."
+    },
+    {
+      "turn": 53,
+      "type": "dialogue",
+      "text": "Aoi Takase.",
+      "speaker": "Aoi",
+      "label": "determined",
+      "sprite": 3
+    },
+    {
+      "turn": 54,
+      "type": "narration",
+      "text": "The mist drew back at once."
+    },
+    {
+      "turn": 55,
+      "type": "narration",
+      "text": "Sunlight poured through the gate in a pale gold sheet."
+    },
+    {
+      "turn": 56,
+      "type": "dialogue",
+      "text": "Then... if names matter...",
+      "speaker": "Aoi",
+      "label": "confused",
+      "sprite": 2
+    },
+    {
+      "turn": 57,
+      "type": "dialogue",
+      "text": "Can I give you one?",
+      "speaker": "Aoi",
+      "label": "shy",
+      "sprite": 7
+    },
+    {
+      "turn": 58,
+      "type": "narration",
+      "text": "Mizuki's eyes widened, glass-bright."
+    },
+    {
+      "turn": 59,
+      "type": "dialogue",
+      "text": "Why would you?",
+      "speaker": "Mizuki"
+    },
+    {
+      "turn": 60,
+      "type": "dialogue",
+      "text": "Because being left behind sounds lonely.",
+      "speaker": "Aoi",
+      "label": "sad",
+      "sprite": 6
+    },
+    {
+      "turn": 61,
+      "type": "narration",
+      "text": "It was the longest sentence she'd said all morning."
+    },
+    {
+      "turn": 62,
+      "type": "narration",
+      "text": "Her voice stayed soft, but it did not shake this time."
+    },
+    {
+      "turn": 63,
+      "type": "dialogue",
+      "text": "...Mizuki.",
+      "speaker": "Aoi",
+      "label": "determined",
+      "sprite": 3
+    },
+    {
+      "turn": 64,
+      "type": "narration",
+      "text": "A wind moved through the shrine, ringing the bell once."
+    },
+    {
+      "turn": 65,
+      "type": "narration",
+      "text": "The old uniform fluttered like paper in rain."
+    },
+    {
+      "turn": 66,
+      "type": "dialogue",
+      "text": "What a gentle name.",
+      "speaker": "Mizuki"
+    },
+    {
+      "turn": 67,
+      "type": "narration",
+      "text": "The path behind Aoi opened back into the ordinary street."
+    },
+    {
+      "turn": 68,
+      "type": "narration",
+      "text": "The shopping signs, the crossing light, the distant school clock."
+    },
+    {
+      "turn": 69,
+      "type": "dialogue",
+      "text": "Go on. You'll still make homeroom.",
+      "speaker": "Mizuki"
+    },
+    {
+      "turn": 70,
+      "type": "dialogue",
+      "text": "Will I see you again?",
+      "speaker": "Aoi",
+      "label": "sad",
+      "sprite": 6
+    },
+    {
+      "turn": 71,
+      "type": "dialogue",
+      "text": "If you're late tomorrow, I hope not.",
+      "speaker": "Mizuki"
+    },
+    {
+      "turn": 72,
+      "type": "narration",
+      "text": "Aoi let out a breath that almost became a laugh."
+    },
+    {
+      "turn": 73,
+      "type": "dialogue",
+      "text": "Right... I'll try not to be.",
+      "speaker": "Aoi",
+      "label": "smile",
+      "sprite": 8
+    },
+    {
+      "turn": 74,
+      "type": "narration",
+      "text": "When she blinked, the gate was gone."
+    },
+    {
+      "turn": 75,
+      "type": "narration",
+      "text": "Only a narrow side alley remained, bright with morning."
+    },
+    {
+      "turn": 76,
+      "type": "narration",
+      "text": "Aoi touched her chest once, steadying her heartbeat, and started running again."
+    },
+    {
+      "turn": 77,
+      "type": "dialogue",
+      "text": "First day...",
+      "speaker": "Aoi",
+      "label": "confused",
+      "sprite": 2
+    },
+    {
+      "turn": 78,
+      "type": "dialogue",
+      "text": "Please be normal from here on.",
+      "speaker": "Aoi",
+      "label": "determined",
+      "sprite": 3
+    }
+  ]
+}

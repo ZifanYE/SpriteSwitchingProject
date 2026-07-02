@@ -1,0 +1,108 @@
+{
+  "instance_id": "story_0001",
+  "pipeline": "twostage",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "astonished",
+    "crying_hard",
+    "displeased_frown",
+    "exasperated",
+    "holding_back_tears",
+    "interested_attentive",
+    "natural_smile_cheerful",
+    "sad",
+    "serious_expressionless",
+    "slightly_happy_faint_smile",
+    "surprised",
+    "unconvinced",
+    "uneasy_confused"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panicked embarrassment and self-reproach, worried that starting the term late has already gone wrong.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 4,
+      "text": "Please don't say that...",
+      "emotion_description": "She feels quietly overwhelmed and anxious, dreading the bad news while trying to keep her panic contained.",
+      "label": "holding_back_tears"
+    },
+    {
+      "turn": 6,
+      "text": "If I miss the opening homeroom...",
+      "emotion_description": "She is quietly panicking and imagining the embarrassment of being late, with anxious self-reproach held in a tense, restrained pause.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 9,
+      "text": "I'm sorry. I'm late.",
+      "emotion_description": "She feels embarrassed and anxious, quietly bracing herself for disapproval while trying to be polite and composed despite the bad start to the day.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 12,
+      "text": "Class 1-B... second floor, right?",
+      "emotion_description": "She is quietly anxious and slightly flustered, trying to steady herself by confirming the classroom location while feeling the pressure of being late.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 16,
+      "text": "S-sorry for interrupting...",
+      "emotion_description": "She feels flustered and deeply embarrassed, shrinking under everyone’s attention while trying to be as polite and unobtrusive as possible.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 20,
+      "text": "Ah... right. I'm very sorry.",
+      "emotion_description": "She feels mortified and flustered, shrinking inward with quiet embarrassment as she apologizes again and tries to recover her composure.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 23,
+      "text": "I couldn't even be late correctly...",
+      "emotion_description": "She feels mortified and flustered, turning her embarrassment inward into a quiet, self-conscious frustration at having made an already bad first impression even more awkward.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 27,
+      "text": "Y-yes. I mixed up the rooms.",
+      "emotion_description": "She feels deeply embarrassed and flustered, trying to stay polite and composed while quietly shrinking under the humiliation of her mistake.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 30,
+      "text": "Thank you...",
+      "emotion_description": "She feels shyly relieved and grateful for the kindness, with her embarrassment easing just enough to let a small, cautious warmth show through.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 34,
+      "text": "I'm sorry for causing trouble.",
+      "emotion_description": "She feels deeply embarrassed and apologetic, quietly trying to minimize herself and make amends after already making a bad first impression.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 37,
+      "text": "You saved me.",
+      "emotion_description": "She feels deeply relieved and quietly grateful, with a small surge of warmth and trust toward Mina after being rescued from an embarrassing morning.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 40,
+      "text": "Okay... I can do that.",
+      "emotion_description": "She feels a small, relieved steadiness returning after the morning’s embarrassment, and though still shy, she’s quietly grateful and willing to trust Mina’s kindness.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 42,
+      "text": "Maybe... this day isn't ruined after all.",
+      "emotion_description": "She feels a cautious, relieved hope beginning to replace her earlier embarrassment, as if a small kindness has made the day seem salvageable.",
+      "label": "slightly_happy_faint_smile"
+    }
+  ]
+}

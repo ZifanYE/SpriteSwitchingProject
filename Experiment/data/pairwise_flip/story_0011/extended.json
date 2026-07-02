@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0011",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "A",
+      "rationale": "B stays more subdued and reserved overall, while A better marks the key shock beats with stronger sprites instead of flattening them into generic confusion."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "A",
+      "rationale": "B's heavy reliance on uneasy_confused better suits a reserved character but flattens emotional peaks, while A's astonished/surprised variety more accurately tracks the escalating shocks and the final serious resolve."
+    }
+  }
+}

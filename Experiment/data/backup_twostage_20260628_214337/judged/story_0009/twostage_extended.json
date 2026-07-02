@@ -1,0 +1,132 @@
+{
+  "instance_id": "story_0009",
+  "pipeline": "twostage",
+  "expression_set": "extended",
+  "personality": "extroverted",
+  "expression_labels": [
+    "angry",
+    "astonished",
+    "crying_hard",
+    "displeased_frown",
+    "exasperated",
+    "holding_back_tears",
+    "interested_attentive",
+    "natural_smile_cheerful",
+    "sad",
+    "serious_expressionless",
+    "slightly_happy_faint_smile",
+    "surprised",
+    "unconvinced",
+    "uneasy_confused"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels panicked and flustered, with a burst of frustrated disbelief at already messing up on the very first day and a strong urge to fix it immediately.",
+      "label": "exasperated"
+    },
+    {
+      "turn": 4,
+      "text": "You've got to be kidding me. Today of all days?",
+      "emotion_description": "She feels flustered and exasperated, with a rising panic that her already bad start to the term is being unfairly made worse.",
+      "label": "exasperated"
+    },
+    {
+      "turn": 6,
+      "text": "Okay, okay. Don't panic. Fast walk, transfer, survive.",
+      "emotion_description": "She is tense and flustered but trying to rally herself with determined, self-directed optimism, using a brisk pep talk to keep panic at bay.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 8,
+      "text": "Made it! Barely! I am never trusting that line again.",
+      "emotion_description": "She feels breathless relief and triumphant frustration at having arrived just in time, still keyed up from the morning’s chaos but trying to shake it off with upbeat determination.",
+      "label": "natural_smile_cheerful"
+    },
+    {
+      "turn": 10,
+      "text": "Year one, class three... end of the hall, right?",
+      "emotion_description": "She’s still flustered and hurried, but trying to stay upbeat and focused as she confirms the classroom location and pushes herself to keep moving.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 12,
+      "text": "Good morning! Sorry I'm la—",
+      "emotion_description": "She’s flustered and breathless from rushing in late, but still trying to stay upbeat and make a cheerful first impression despite the embarrassment.",
+      "label": "natural_smile_cheerful"
+    },
+    {
+      "turn": 15,
+      "text": "...Nope! Wrong dramatic entrance!",
+      "emotion_description": "She feels a jolt of embarrassed panic that she instantly masks with playful, self-aware humor, trying to recover her confidence and keep the moment light.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 17,
+      "text": "Amazing. Absolute master class, Aoi.",
+      "emotion_description": "She’s mortified and flustered, but trying to cover her embarrassment with self-deprecating humor and a forced, upbeat attitude.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 20,
+      "text": "What kind of map prints north in six-point font?!",
+      "emotion_description": "She’s flustered and embarrassed, but mostly venting incredulous frustration at the absurd mistake while trying to keep her spirits up with humor.",
+      "label": "exasperated"
+    },
+    {
+      "turn": 22,
+      "text": "Come on, come on... please let the teacher be nice.",
+      "emotion_description": "She is flustered and anxious after a string of humiliating mistakes, but still pushing herself forward with hopeful, pleading determination that the teacher will be forgiving.",
+      "label": "holding_back_tears"
+    },
+    {
+      "turn": 25,
+      "text": "Please tell me you're also in 1-3 and not judging me too hard.",
+      "emotion_description": "She feels flustered and embarrassed from her string of mishaps, but is trying to recover with upbeat, self-deprecating humor and a hopeful need for reassurance.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 28,
+      "text": "Then lead the way, hero. I'll owe you my life for at least one lunch break.",
+      "emotion_description": "She feels relieved and amused, with her embarrassment easing into playful gratitude and a quick, friendly trust in Miyu.",
+      "label": "natural_smile_cheerful"
+    },
+    {
+      "turn": 30,
+      "text": "Excuse me! Sorry we're late!",
+      "emotion_description": "She is still flustered and embarrassed from the morning’s chaos, but trying to recover with upbeat, polite confidence and a hopeful desire to make a good first impression.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 33,
+      "text": "That obvious, huh?",
+      "emotion_description": "She feels sheepish and embarrassed, but also relieved enough to joke lightly because the teacher’s deadpan confirmation makes her blunder feel hilariously undeniable rather than disastrous.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 36,
+      "text": "Thank you! I swear this is not my usual brand.",
+      "emotion_description": "She feels embarrassed but relieved, trying to laugh off the chaos and reassure everyone that this flustered first-day disaster is not who she normally is.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 38,
+      "text": "Okay. New term status: messy start, but not a total disaster.",
+      "emotion_description": "She feels sheepish but relieved, trying to laugh off the chaos and regain confidence now that the worst of the morning is over.",
+      "label": "slightly_happy_faint_smile"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "The sequence is mostly expressive and outgoing—exasperation, joking embarrassment, and cheerful recovery fit Aoi well—but several late lines lean too mild with repeated faint smiles where stronger relief or laughter would better match the dialogue."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Sprites consistently reflect an extroverted, expressive personality with visible mood shifts (exasperation → confusion → relief → cheerfulness), though the 'holding_back_tears' choice during the sprint feels slightly overwrought for someone who recovers so quickly and maintains her outgoing energy throughout."
+    }
+  }
+}

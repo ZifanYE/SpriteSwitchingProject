@@ -1,0 +1,122 @@
+{
+  "instance_id": "story_0015",
+  "pipeline": "twostage",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "anxious",
+    "confused",
+    "determined",
+    "embarrassed",
+    "neutral",
+    "sad",
+    "shy",
+    "smile",
+    "surprised"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panicked embarrassment and self-reproach, worried that starting the term late has already gone wrong.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 5,
+      "text": "...What?",
+      "emotion_description": "She is quietly startled and confused, momentarily thrown off by the strange reflection while trying to keep her composure.",
+      "label": "surprised"
+    },
+    {
+      "turn": 9,
+      "text": "N-no way...",
+      "emotion_description": "She is stunned and quietly frightened, trying to deny what she just saw while her usual reserved composure starts to slip.",
+      "label": "surprised"
+    },
+    {
+      "turn": 12,
+      "text": "A key...?",
+      "emotion_description": "She is stunned and quietly bewildered, trying to make sense of the impossible while keeping her fear and curiosity tightly contained.",
+      "label": "confused"
+    },
+    {
+      "turn": 17,
+      "text": "Root?",
+      "emotion_description": "She is startled and quietly bewildered, trying to make sense of Rowan’s strange warning while instinctively repeating the unfamiliar word with cautious curiosity.",
+      "label": "confused"
+    },
+    {
+      "turn": 19,
+      "text": "This is why I'm late...?",
+      "emotion_description": "She feels bewildered and flustered, with a faint anxious disbelief as she tries to make sense of the impossible situation while still worrying about being late.",
+      "label": "confused"
+    },
+    {
+      "turn": 21,
+      "text": "School. Opening ceremony. First years have to be early.",
+      "emotion_description": "She is flustered and anxious about being late, but trying to steady herself by clinging to the practical rules of school life and speaking in a quiet, matter-of-fact way.",
+      "label": "determined"
+    },
+    {
+      "turn": 24,
+      "text": "If I do, will this... close?",
+      "emotion_description": "She is anxious and cautious, quietly trying to understand the danger while hesitating to let go of the mysterious key.",
+      "label": "anxious"
+    },
+    {
+      "turn": 28,
+      "text": "...All right.",
+      "emotion_description": "She is tense and bewildered, but quietly resolves to trust him and hand over the key despite her lingering fear and urgency about being late.",
+      "label": "determined"
+    },
+    {
+      "turn": 32,
+      "text": "You know my name?",
+      "emotion_description": "She is quietly startled and a little wary, with a flicker of self-conscious surprise that someone she just met already knows her name.",
+      "label": "surprised"
+    },
+    {
+      "turn": 38,
+      "text": "So that's it...?",
+      "emotion_description": "She is quietly bewildered and still trying to make sense of the impossible, with a cautious trace of relief now that the immediate danger seems to be passing.",
+      "label": "confused"
+    },
+    {
+      "turn": 45,
+      "text": "Rowan...",
+      "emotion_description": "She is quietly alarmed and searching for reassurance, her relief giving way to tense worry as she realizes Rowan is in danger.",
+      "label": "anxious"
+    },
+    {
+      "turn": 48,
+      "text": "Ah—!",
+      "emotion_description": "She is jolted into sharp, frightened shock, her composure breaking for an instant as the sudden pain and the creature’s gaze overwhelm her.",
+      "label": "surprised"
+    },
+    {
+      "turn": 52,
+      "text": "This... is really bad, isn't it?",
+      "emotion_description": "She feels a quiet, sinking dread and helpless worry, trying to confirm the danger aloud while keeping her panic subdued.",
+      "label": "anxious"
+    },
+    {
+      "turn": 59,
+      "text": "...Can this wait until after homeroom?",
+      "emotion_description": "She is trying to stay composed by focusing on school routine, but beneath the quiet request there is lingering panic and a cautious, overwhelmed curiosity about the strange mark and what it means.",
+      "label": "anxious"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 3,
+      "emotional_fidelity": 4,
+      "rationale": "The mostly subdued surprised/confused/anxious sequence fits an introvert, but repeated determined beats and the opening embarrassed panic feel a bit too outward, while most line-level emotions still track the scene well."
+    },
+    "claude": {
+      "character_consistency": 3,
+      "emotional_fidelity": 4,
+      "rationale": "Sprites track the line emotions well (surprise, confusion, anxiety), but 'embarrassed'/'determined'/repeated 'surprised' outbursts read more overt than this reserved, subtle character would show, lacking quieter cues."
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0007",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays subtler and more introverted with shy/embarrassed beats where B’s smiles feel too outward, and A’s final surprised realization reads more naturally than B’s confused one."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "B",
+      "rationale": "The two differ on only four lines; A's 'shy' for the quiet wonder/thanks fits the reserved personality better, while B's 'smile' and 'confused' final reaction track the literal emotion (delight at beauty, dawning realization) more accurately."
+    }
+  }
+}

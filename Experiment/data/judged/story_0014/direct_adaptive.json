@@ -1,0 +1,176 @@
+{
+  "instance_id": "story_0014",
+  "pipeline": "direct",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "anxious",
+    "confused",
+    "determined",
+    "embarrassed",
+    "neutral",
+    "sad",
+    "shy",
+    "smile",
+    "surprised"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 5,
+      "text": "It says 7:41...",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 6,
+      "text": "But it was 7:34 a second ago.",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 8,
+      "text": "I didn't... drop this, did I?",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 11,
+      "text": "That's not possible.",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 16,
+      "text": "I... didn't hear you come in.",
+      "emotion_description": null,
+      "label": "surprised"
+    },
+    {
+      "turn": 18,
+      "text": "Nearby doesn't usually mean appearing out of nowhere.",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 21,
+      "text": "Excuse me?",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 23,
+      "text": "My... local time.",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 26,
+      "text": "I don't think I'm awake enough for this.",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 29,
+      "text": "...What is that?",
+      "emotion_description": null,
+      "label": "surprised"
+    },
+    {
+      "turn": 32,
+      "text": "You're joking.",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 35,
+      "text": "So there is an alien device in my stairwell...",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 36,
+      "text": "And you're saying you're not from here.",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 40,
+      "text": "What happens if that opens?",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 42,
+      "text": "Briefly sounds bad.",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 46,
+      "text": "Tell me what to do.",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 49,
+      "text": "If I disappear before homeroom, I'm blaming you.",
+      "emotion_description": null,
+      "label": "determined"
+    },
+    {
+      "turn": 55,
+      "text": "...Did we fix it?",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 58,
+      "text": "Mostly?",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 62,
+      "text": "You're enrolling... today?",
+      "emotion_description": null,
+      "label": "surprised"
+    },
+    {
+      "turn": 64,
+      "text": "You lost a piece of impossible technology in an apartment stairwell.",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 68,
+      "text": "Then I guess we're both having a bad first day.",
+      "emotion_description": null,
+      "label": "smile"
+    },
+    {
+      "turn": 73,
+      "text": "...Only if you explain what 'local time' means on the way.",
+      "emotion_description": null,
+      "label": "confused"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "The sequence stays mostly subtle and reserved—confused/anxious/small smile fit Aoi well—but a few beats flatten distinct emotions into repeated 'confused' where wary disbelief or dry amusement would read more precisely."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Subtle, reserved sprites (heavy reliance on confused/anxious, ending on a quiet smile) fit the introvert well, though a few emotional beats like the relieved 'did we fix it?' and the wry 'determined' line are slightly under- or over-shot."
+    }
+  }
+}

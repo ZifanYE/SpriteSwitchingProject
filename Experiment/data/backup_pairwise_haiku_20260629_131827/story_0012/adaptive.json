@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0012",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A better preserves Aoi’s quiet, inward affect with shy/anxious/embarrassed beats, while B repeatedly overstates confidence or mismatches lines with smile/confused/determined sprites."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "Version A maintains consistent introversion through subtle emotional displays (shy, anxious, embarrassed) and avoids overusing determined sprites, while B overuses determined sprites in moments requiring restraint (e.g., 'Please don't be' should show vulnerability, not resolve), breaking character consistency and emotional authenticity."
+    }
+  }
+}

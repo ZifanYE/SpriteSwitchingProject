@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0019",
+  "expression_set": "extended",
+  "personality": "extroverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B’s added astonishment at the platform-three reveal and name-drop better suits an expressive, outwardly reactive Aoi and tracks the scene’s surprise beats more precisely than A’s flatter skepticism/confusion."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "The two versions differ only on two lines, where B's 'astonished' for the disbelieving 'you're kidding' and the unsettling 'How do you know my name?' captures the wide-eyed surprise better than A's flatter 'unconvinced'/'uneasy_confused', fitting both the emotion and the expressive personality."
+    }
+  }
+}

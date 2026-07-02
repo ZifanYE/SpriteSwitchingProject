@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0005",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B uses more subdued, inward-looking sadness at the empathy beats and avoids A’s less fitting attentive/confused choices, giving Aoi a softer, more coherent emotional arc."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "Version B uses 'sad' for emotionally vulnerable moments (noticing Mizuki's trapped state, expressing empathy about loneliness, asking if she'll see her again) which better captures an introvert's subtle, internalized emotional depth, while Version A's 'holding_back_tears' and 'interested_attentive' are more externally expressive and inconsistent with reserved, soft-spoken characterization."
+    }
+  }
+}

@@ -1,0 +1,6 @@
+Judge,Dim,Flip rate (pos. bias)
+gpt,CC,0.40  (n=57)
+gpt,EF,0.46  (n=59)
+claude,CC,0.16  (n=58)
+claude,EF,0.39  (n=59)
+ALL,ALL,0.35  (n=233)

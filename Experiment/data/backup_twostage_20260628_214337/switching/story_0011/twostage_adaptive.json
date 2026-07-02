@@ -1,0 +1,116 @@
+{
+  "instance_id": "story_0011",
+  "pipeline": "twostage",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "anxious",
+    "confused",
+    "determined",
+    "embarrassed",
+    "neutral",
+    "sad",
+    "shy",
+    "smile",
+    "surprised"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panicked embarrassment and frustration at being late on such an important first day, while trying to keep herself composed.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 5,
+      "text": "...\"Don't take the usual road to school.\"",
+      "emotion_description": "She feels a quiet, uneasy alarm and a growing sense of being watched, trying to keep her fear contained while the warning unsettles her.",
+      "label": "anxious"
+    },
+    {
+      "turn": 7,
+      "text": "I should've ignored it.",
+      "emotion_description": "She feels a quiet, uneasy regret and self-reproach, wishing she had trusted her own judgment instead of letting the note unsettle her.",
+      "label": "sad"
+    },
+    {
+      "turn": 8,
+      "text": "But... it was inside my shoe.",
+      "emotion_description": "She feels uneasy and quietly alarmed, torn between disbelief and a small, stubborn sense that the note’s strange placement makes it hard to dismiss.",
+      "label": "anxious"
+    },
+    {
+      "turn": 12,
+      "text": "...Ah.",
+      "emotion_description": "She feels a quiet, uneasy shock mixed with reluctant relief, realizing the warning was real and trying to keep her fear contained.",
+      "label": "surprised"
+    },
+    {
+      "turn": 14,
+      "text": "So that's why...?",
+      "emotion_description": "She feels a quiet, uneasy shock as the warning suddenly makes sense, with a faint tremor of fear and relief mixed together.",
+      "label": "surprised"
+    },
+    {
+      "turn": 17,
+      "text": "Y-yes.",
+      "emotion_description": "She feels startled and uneasy, but is trying to answer politely while quietly realizing the note may have saved her from something dangerous.",
+      "label": "anxious"
+    },
+    {
+      "turn": 19,
+      "text": "Eh... how do you know that?",
+      "emotion_description": "She feels startled and uneasy, with a quiet spike of suspicion and confusion as she realizes the woman seems to know more about her than she should.",
+      "label": "surprised"
+    },
+    {
+      "turn": 23,
+      "text": "...What?",
+      "emotion_description": "She is startled and uneasy, with a quiet surge of suspicion and confusion as the woman’s warning feels uncomfortably personal.",
+      "label": "anxious"
+    },
+    {
+      "turn": 24,
+      "text": "I haven't even received one yet.",
+      "emotion_description": "She feels quietly startled and uneasy, with a growing sense that something is off as she realizes she is already being singled out before the school year has even begun.",
+      "label": "anxious"
+    },
+    {
+      "turn": 29,
+      "text": "W-wait.",
+      "emotion_description": "She is startled and uneasy, trying to hold back rising fear as she instinctively seeks clarification from the woman.",
+      "label": "anxious"
+    },
+    {
+      "turn": 30,
+      "text": "Who are you?",
+      "emotion_description": "She is tense and bewildered, trying to steady her fear into a cautious question while feeling the situation has become unsettlingly personal.",
+      "label": "anxious"
+    },
+    {
+      "turn": 34,
+      "text": "...No way.",
+      "emotion_description": "She is stunned and unsettled, trying to deny what just happened while a quiet thread of fear and confusion tightens inside her.",
+      "label": "confused"
+    },
+    {
+      "turn": 38,
+      "text": "\"Class 1-C.\"",
+      "emotion_description": "She feels a tight, uneasy shock mixed with dawning dread, as if the strange message has just confirmed that something is watching her and she is trying to steady herself without panicking.",
+      "label": "anxious"
+    },
+    {
+      "turn": 40,
+      "text": "This isn't funny.",
+      "emotion_description": "She is trying to steady herself with a quiet, disbelieving protest, feeling frightened and unsettled by the eerie warning and the sense that someone is watching her.",
+      "label": "anxious"
+    },
+    {
+      "turn": 42,
+      "text": "...I have to go.",
+      "emotion_description": "She is frightened and overwhelmed, but forcing herself into motion with a quiet, shaky resolve because she knows she has no time to stop and think.",
+      "label": "determined"
+    }
+  ]
+}

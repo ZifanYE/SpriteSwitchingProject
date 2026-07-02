@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0009",
+  "expression_set": "ekman",
+  "personality": "extroverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "B",
+      "rationale": "A better preserves Aoi’s broadly expressive, upbeat extroversion overall, while B tracks the line-by-line emotions more precisely with irritation, embarrassment, anxiety, and brief surprise where appropriate."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B's varied sprites (anger at the delay, surprise/anger at the wrong room, fear before meeting Miyu) better match each line's emotion and an expressive personality, whereas A defaults to happiness even on frustrated or self-deprecating lines."
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "instance_id": "story_0008",
+  "pipeline": "twostage",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "expression_labels": [
+    "anger",
+    "disgust",
+    "fear",
+    "happiness",
+    "neutral",
+    "sadness",
+    "surprise"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panicked embarrassment and frustration, worried that starting the term late will immediately ruin her careful first impression.",
+      "label": "fear"
+    },
+    {
+      "turn": 5,
+      "text": "I was defeated by... basic clothing maintenance.",
+      "emotion_description": "She feels embarrassed and mildly self-mocking, quietly frustrated at her clumsy start to the day but trying to soften it with dry, understated humor.",
+      "label": "neutral"
+    },
+    {
+      "turn": 8,
+      "text": "...Why?",
+      "emotion_description": "She feels stunned, quietly exasperated, and a little helpless, as if the morning’s absurd string of mishaps has left her too tired to do anything but stare in disbelief.",
+      "label": "surprise"
+    },
+    {
+      "turn": 10,
+      "text": "Okay. Window, then.",
+      "emotion_description": "She is quietly exasperated but still oddly composed, shifting from disbelief to determined problem-solving as she accepts the absurdity and looks for the next option.",
+      "label": "neutral"
+    },
+    {
+      "turn": 16,
+      "text": "I-I'm so sorry!",
+      "emotion_description": "She feels flustered and mortified, with a sudden anxious urge to apologize and make amends while trying not to panic outwardly.",
+      "label": "fear"
+    },
+    {
+      "turn": 18,
+      "text": "Ah— hot! Hot—",
+      "emotion_description": "She is startled and flustered, with a brief spike of panic as the hot croquette burns her, but she’s still trying to stay quiet and composed.",
+      "label": "surprise"
+    },
+    {
+      "turn": 21,
+      "text": "Thank you... and I'm really sorry.",
+      "emotion_description": "She feels embarrassed and flustered, but is trying to stay polite and composed while quietly grateful for the help.",
+      "label": "happiness"
+    },
+    {
+      "turn": 24,
+      "text": "I don't deserve a reward for this.",
+      "emotion_description": "She feels embarrassed and self-reproachful, quietly insisting on her own fault even while being relieved by the owner’s kindness.",
+      "label": "sadness"
+    },
+    {
+      "turn": 29,
+      "text": "...",
+      "emotion_description": "She is stunned into a small, exhausted silence, feeling mortified and defeated but trying to keep her composure after one absurd mishap after another.",
+      "label": "neutral"
+    },
+    {
+      "turn": 31,
+      "text": "It was trying so hard.",
+      "emotion_description": "She is on the verge of laughing and crying at once, overwhelmed by absurd bad luck and tenderly mourning the croquette as if it were a small, earnest victim of the morning.",
+      "label": "sadness"
+    },
+    {
+      "turn": 34,
+      "text": "If even breakfast gave up... maybe I can stop panicking for one second.",
+      "emotion_description": "She feels exhausted and absurdly defeated, but a tiny, shaky sense of relief is letting her turn her panic into quiet, self-deprecating humor for a moment.",
+      "label": "happiness"
+    },
+    {
+      "turn": 37,
+      "text": "Oh. Right. That would have been worse.",
+      "emotion_description": "She feels a quiet, delayed jolt of relief mixed with lingering embarrassment, realizing with subdued gratitude that she narrowly avoided an even bigger mistake.",
+      "label": "surprise"
+    },
+    {
+      "turn": 40,
+      "text": "Y-Yes, sorry.",
+      "emotion_description": "She feels flustered and chastened, but also quietly relieved to be caught before making things worse, so she answers with timid, apologetic compliance.",
+      "label": "fear"
+    },
+    {
+      "turn": 44,
+      "text": "Does it show that much?",
+      "emotion_description": "She feels embarrassed and self-conscious about how obvious her chaotic morning has been, but there’s a faint, sheepish humor underneath her quiet concern.",
+      "label": "surprise"
+    },
+    {
+      "turn": 47,
+      "text": "Made it... somehow.",
+      "emotion_description": "She feels exhausted and relieved, with a faint, embarrassed sense of triumph after barely surviving the morning’s chaos.",
+      "label": "happiness"
+    },
+    {
+      "turn": 49,
+      "text": "Please let the disasters stay outside the school today.",
+      "emotion_description": "She is quietly exhausted and anxious, but trying to steady herself with a small, hopeful plea for the day to finally go normally.",
+      "label": "fear"
+    }
+  ]
+}

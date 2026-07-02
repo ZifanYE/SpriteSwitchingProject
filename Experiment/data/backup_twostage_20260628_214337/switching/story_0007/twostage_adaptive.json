@@ -1,0 +1,116 @@
+{
+  "instance_id": "story_0007",
+  "pipeline": "twostage",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "anxious",
+    "confused",
+    "determined",
+    "embarrassed",
+    "neutral",
+    "sad",
+    "shy",
+    "smile",
+    "surprised"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panicked embarrassment and self-reproach, worried that starting the term late has already ruined her chance to make a good impression.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 6,
+      "text": "I just needed a shortcut...",
+      "emotion_description": "She feels a small, embarrassed mix of frustration and disbelief, quietly regretting her impulsive shortcut while trying to keep herself composed.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 9,
+      "text": "If I go back now... where is back?",
+      "emotion_description": "She feels quietly disoriented and uneasy, with a small thread of fear giving way to cautious wonder as she realizes the place she came from may no longer be reachable.",
+      "label": "confused"
+    },
+    {
+      "turn": 12,
+      "text": "S-sorry. I didn't mean to come here.",
+      "emotion_description": "She feels startled and embarrassed, with a timid, apologetic fear that she has intruded somewhere she doesn’t understand.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 14,
+      "text": "I have entrance assembly. Or... first-term assembly.",
+      "emotion_description": "She is flustered and anxious, trying to cling to ordinary school concerns as a small anchor while quietly realizing how badly her morning has gone off course.",
+      "label": "anxious"
+    },
+    {
+      "turn": 18,
+      "text": "Can I get home quickly?",
+      "emotion_description": "She is anxious and disoriented, trying to stay polite while quietly hoping for a simple, immediate way back home.",
+      "label": "anxious"
+    },
+    {
+      "turn": 22,
+      "text": "It's... pretty.",
+      "emotion_description": "She is quietly awed and cautiously relieved, letting a small, hesitant sense of wonder surface through her usual reserve.",
+      "label": "shy"
+    },
+    {
+      "turn": 28,
+      "text": "It's breaking?",
+      "emotion_description": "She is startled and anxious, but trying to stay quiet and composed as she realizes the strange road may be failing beneath them.",
+      "label": "anxious"
+    },
+    {
+      "turn": 32,
+      "text": "I can't... I'm not good at this...",
+      "emotion_description": "She feels frightened and overwhelmed, with a small, self-doubting panic as she realizes she is struggling to cope with the impossible situation.",
+      "label": "anxious"
+    },
+    {
+      "turn": 36,
+      "text": "Ah—!",
+      "emotion_description": "A sudden spike of panic and helpless surprise as she loses her footing, with fear overriding her usual quiet composure.",
+      "label": "surprised"
+    },
+    {
+      "turn": 40,
+      "text": "...Okay.",
+      "emotion_description": "She is frightened but gathering herself, clinging to Ren’s steady reassurance and forcing a small, quiet resolve to keep going.",
+      "label": "determined"
+    },
+    {
+      "turn": 44,
+      "text": "May?",
+      "emotion_description": "She is quietly alarmed and uncertain, with a small, careful hope that is immediately shadowed by worry about being forgotten.",
+      "label": "anxious"
+    },
+    {
+      "turn": 47,
+      "text": "Then... thank you. For noticing me.",
+      "emotion_description": "She feels quietly relieved and deeply grateful, with a shy, vulnerable warmth at being seen and helped when she was frightened and lost.",
+      "label": "shy"
+    },
+    {
+      "turn": 50,
+      "text": "I won't. Probably.",
+      "emotion_description": "She is trying to sound lightly joking to cover her lingering nerves, while quietly feeling grateful, embarrassed, and still a little shaken.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 54,
+      "text": "I'm... still late.",
+      "emotion_description": "She feels a small, weary mix of relief and embarrassment, with lingering adrenaline from the ordeal and a quiet, resigned worry about the school day ahead.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 57,
+      "text": "So it wasn't a dream.",
+      "emotion_description": "She feels a quiet, stunned relief mixed with lingering awe, as if trying to reassure herself that the impossible really happened.",
+      "label": "surprised"
+    }
+  ]
+}

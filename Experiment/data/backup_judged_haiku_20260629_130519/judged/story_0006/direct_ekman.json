@@ -1,0 +1,149 @@
+{
+  "instance_id": "story_0006",
+  "pipeline": "direct",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "expression_labels": [
+    "anger",
+    "disgust",
+    "fear",
+    "happiness",
+    "neutral",
+    "sadness",
+    "surprise"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 4,
+      "text": "It was just a shortcut... why is the road... doing that?",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 7,
+      "text": "Did someone drop... a phone?",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 12,
+      "text": "...Eh?",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 14,
+      "text": "U-um. Are you... talking to me?",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 17,
+      "text": "I wasn't going to.",
+      "emotion_description": null,
+      "label": "neutral"
+    },
+    {
+      "turn": 22,
+      "text": "S-sorry!",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 26,
+      "text": "Your... what?",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 30,
+      "text": "This isn't a phone.",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 32,
+      "text": "And you're not a transfer student.",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 36,
+      "text": "I... should be at school.",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 38,
+      "text": "That was because of you?",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 42,
+      "text": "You sound like an apology email.",
+      "emotion_description": null,
+      "label": "happiness"
+    },
+    {
+      "turn": 45,
+      "text": "...Not really.",
+      "emotion_description": null,
+      "label": "neutral"
+    },
+    {
+      "turn": 50,
+      "text": "No... homeroom.",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 52,
+      "text": "A small error?",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 57,
+      "text": "If this makes me later, I'm blaming you forever.",
+      "emotion_description": null,
+      "label": "happiness"
+    },
+    {
+      "turn": 63,
+      "text": "You're coming in too?",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 65,
+      "text": "That's a terrible way to say 'school life.'",
+      "emotion_description": null,
+      "label": "happiness"
+    },
+    {
+      "turn": 68,
+      "text": "Then... try not to break reality before lunch, okay?",
+      "emotion_description": null,
+      "label": "happiness"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Mostly subtle and reserved—fear/surprise dominate appropriately and the later small happiness fits her shy warming-up, though a few repeated surprise beats flatten finer shifts like embarrassment, dry humor, and quiet resolve."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Sprites consistently reflect an introverted character's subtle emotional range—fear and surprise dominate appropriately, happiness is muted and tentative rather than exuberant, and neutral moments show restraint; only minor misalignment where repeated surprise could have shifted to other emotions (confusion, concern) in later exchanges."
+    }
+  }
+}

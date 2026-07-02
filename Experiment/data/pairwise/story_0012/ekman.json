@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0012",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays more subdued and inward overall, while B repeatedly uses brighter or more outward sprites on gentle reassurance and apology beats that read too expressive for this introverted scene."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "B",
+      "rationale": "A overuses 'fear' and flat 'neutral' for warm reassurances, fitting reserved restraint slightly better, but B's gentle 'happiness' when comforting the boy and varied reactions track the line-level emotions and progression more accurately."
+    }
+  }
+}

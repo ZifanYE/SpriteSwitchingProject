@@ -1,0 +1,132 @@
+{
+  "instance_id": "story_0007",
+  "pipeline": "direct",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "astonished",
+    "crying_hard",
+    "displeased_frown",
+    "exasperated",
+    "holding_back_tears",
+    "interested_attentive",
+    "natural_smile_cheerful",
+    "sad",
+    "serious_expressionless",
+    "slightly_happy_faint_smile",
+    "surprised",
+    "unconvinced",
+    "uneasy_confused"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": null,
+      "label": "exasperated"
+    },
+    {
+      "turn": 6,
+      "text": "I just needed a shortcut...",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 9,
+      "text": "If I go back now... where is back?",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 12,
+      "text": "S-sorry. I didn't mean to come here.",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 14,
+      "text": "I have entrance assembly. Or... first-term assembly.",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 18,
+      "text": "Can I get home quickly?",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 22,
+      "text": "It's... pretty.",
+      "emotion_description": null,
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 28,
+      "text": "It's breaking?",
+      "emotion_description": null,
+      "label": "surprised"
+    },
+    {
+      "turn": 32,
+      "text": "I can't... I'm not good at this...",
+      "emotion_description": null,
+      "label": "holding_back_tears"
+    },
+    {
+      "turn": 36,
+      "text": "Ah—!",
+      "emotion_description": null,
+      "label": "surprised"
+    },
+    {
+      "turn": 40,
+      "text": "...Okay.",
+      "emotion_description": null,
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 44,
+      "text": "May?",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 47,
+      "text": "Then... thank you. For noticing me.",
+      "emotion_description": null,
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 50,
+      "text": "I won't. Probably.",
+      "emotion_description": null,
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 54,
+      "text": "I'm... still late.",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 57,
+      "text": "So it wasn't a dream.",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "The sequence stays mostly subdued and inward-looking with fitting uneasy/faint-smile choices, but the opening exasperated and a couple of repeated uneasy_confused beats feel slightly too broad or imprecise for her quieter emotional shifts."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Subtle faint smiles and uneasy/held-back-tears choices fit a reserved girl and track the fear-to-wonder arc well, though the opening 'exasperated' and the loud 'surprised' panic moments lean slightly more overt than her soft-spoken profile."
+    }
+  }
+}

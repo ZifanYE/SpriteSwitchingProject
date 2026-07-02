@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0019",
+  "expression_set": "ekman",
+  "personality": "extroverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B better captures an extroverted, openly expressive Aoi by using more forceful frustration where the lines read as frazzled complaint rather than pure fear, while A is slightly too fear-heavy early on."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "Version A uses fear and surprise to capture Aoi's escalating panic and confusion, while Version B overuses anger in early moments (alarm frustration, missing pass) where fear better fits an extrovert's reactive distress; A's emotional arc is more nuanced and coherent with her outgoing personality showing vulnerability before resilience."
+    }
+  }
+}

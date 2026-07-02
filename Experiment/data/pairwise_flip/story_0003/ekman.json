@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0003",
+  "expression_set": "ekman",
+  "personality": "extroverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A better preserves Aoi’s outspoken, reactive energy with frustrated/defiant sprites where B turns key sarcastic and self-steadying lines into incongruous happiness/fear."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "The three differing lines—B's 'happiness' for a self-deprecating worry and its repetitive 'fear' for the exasperated 'Oh, come on' and snappy 'Fine. School first'—fit worse than A's wry happiness, frustrated anger, and resolute anger, which better match both emotion and Aoi's expressive extroversion."
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "instance_id": "story_0016",
+  "pipeline": "direct",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "astonished",
+    "crying_hard",
+    "displeased_frown",
+    "exasperated",
+    "holding_back_tears",
+    "interested_attentive",
+    "natural_smile_cheerful",
+    "sad",
+    "serious_expressionless",
+    "slightly_happy_faint_smile",
+    "surprised",
+    "unconvinced",
+    "uneasy_confused"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": null,
+      "label": "exasperated"
+    },
+    {
+      "turn": 4,
+      "text": "I only meant to look at the time...",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 7,
+      "text": "Ah—!",
+      "emotion_description": null,
+      "label": "astonished"
+    },
+    {
+      "turn": 9,
+      "text": "Ow... no, keep moving.",
+      "emotion_description": null,
+      "label": "exasperated"
+    },
+    {
+      "turn": 11,
+      "text": "Wait, please—!",
+      "emotion_description": null,
+      "label": "surprised"
+    },
+    {
+      "turn": 14,
+      "text": "...I see.",
+      "emotion_description": null,
+      "label": "serious_expressionless"
+    },
+    {
+      "turn": 17,
+      "text": "Good morning. I'm sorry for... this shape.",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 19,
+      "text": "I haven't ridden one in a while.",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 23,
+      "text": "Maybe... maybe I can still make homeroom.",
+      "emotion_description": null,
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 26,
+      "text": "Why is there a daikon in the basket...",
+      "emotion_description": null,
+      "label": "exasperated"
+    },
+    {
+      "turn": 29,
+      "text": "...This was supposed to be a good start.",
+      "emotion_description": null,
+      "label": "sad"
+    },
+    {
+      "turn": 31,
+      "text": "I ironed everything. I checked everything. I really tried.",
+      "emotion_description": null,
+      "label": "holding_back_tears"
+    },
+    {
+      "turn": 34,
+      "text": "I'm fine. Just... losing to vegetables.",
+      "emotion_description": null,
+      "label": "holding_back_tears"
+    },
+    {
+      "turn": 37,
+      "text": "Th-thank you.",
+      "emotion_description": null,
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 40,
+      "text": "Right. Running sounds simpler than cycling.",
+      "emotion_description": null,
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 43,
+      "text": "Made it... somehow.",
+      "emotion_description": null,
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 45,
+      "text": "Please don't tell anyone about the daikon.",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    }
+  ]
+}

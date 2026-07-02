@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0007",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays more subdued and inward overall, while B’s displeased_frown and especially astonished choices feel a bit too outward for this introverted character and the scene’s quieter emotional beats."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "Differences are few; A's 'surprised' on the breaking crack and reflective 'uneasy_confused' on the final realization fit better, while B's 'displeased_frown' and 'astonished' are slightly off for this reserved character, though A's repeated 'slightly_happy' at the climax is a minor overreach."
+    }
+  }
+}

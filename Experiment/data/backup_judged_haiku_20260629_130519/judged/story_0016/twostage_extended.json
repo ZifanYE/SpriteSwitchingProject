@@ -1,0 +1,138 @@
+{
+  "instance_id": "story_0016",
+  "pipeline": "twostage",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "astonished",
+    "crying_hard",
+    "displeased_frown",
+    "exasperated",
+    "holding_back_tears",
+    "interested_attentive",
+    "natural_smile_cheerful",
+    "sad",
+    "serious_expressionless",
+    "slightly_happy_faint_smile",
+    "surprised",
+    "unconvinced",
+    "uneasy_confused"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panicked embarrassment and frustration at her bad timing, with a worried determination to fix it before the day gets any worse.",
+      "label": "exasperated"
+    },
+    {
+      "turn": 4,
+      "text": "I only meant to look at the time...",
+      "emotion_description": "She feels flustered and embarrassed, quietly trying to excuse herself while inwardly panicking about being late on the very first day.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 7,
+      "text": "Ah—!",
+      "emotion_description": "She is startled and flustered, with a brief burst of panic at the sudden newspaper hit, but her embarrassment is already turning inward as she tries to keep herself composed.",
+      "label": "surprised"
+    },
+    {
+      "turn": 9,
+      "text": "Ow... no, keep moving.",
+      "emotion_description": "She feels flustered and embarrassed by the string of mishaps, but is trying to stay composed and push through without panicking.",
+      "label": "exasperated"
+    },
+    {
+      "turn": 11,
+      "text": "Wait, please—!",
+      "emotion_description": "She feels a sudden surge of anxious relief and desperation, trying to stop the bus while still flustered and embarrassed from her morning mishaps.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 14,
+      "text": "...I see.",
+      "emotion_description": "She feels a quiet, sinking embarrassment and resignation, trying to accept the humiliating bad luck with a small, controlled calm rather than outward frustration.",
+      "label": "serious_expressionless"
+    },
+    {
+      "turn": 17,
+      "text": "Good morning. I'm sorry for... this shape.",
+      "emotion_description": "She is mortified and flustered, but trying to stay polite and composed by turning her embarrassment into a small, dry apology.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 19,
+      "text": "I haven't ridden one in a while.",
+      "emotion_description": "She feels embarrassed and uncertain, quietly worried about whether she can manage the bicycle after so much morning chaos, but is trying to stay polite and composed.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 23,
+      "text": "Maybe... maybe I can still make homeroom.",
+      "emotion_description": "She is quietly anxious but cautiously hopeful, trying to steady herself after a string of humiliating mishaps and focus on the small possibility that she can still recover the morning.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 26,
+      "text": "Why is there a daikon in the basket...",
+      "emotion_description": "She is quietly stunned and exhausted, with a thin thread of disbelief and resigned embarrassment as she tries to process yet another absurd setback.",
+      "label": "exasperated"
+    },
+    {
+      "turn": 29,
+      "text": "...This was supposed to be a good start.",
+      "emotion_description": "She feels quietly defeated and embarrassed, with a small, weary disappointment at how the morning has unraveled despite her trying so hard to begin well.",
+      "label": "sad"
+    },
+    {
+      "turn": 31,
+      "text": "I ironed everything. I checked everything. I really tried.",
+      "emotion_description": "She feels quietly crushed and frustrated with herself, holding back tears as she tries to justify her effort and make sense of the day’s humiliating failure.",
+      "label": "holding_back_tears"
+    },
+    {
+      "turn": 34,
+      "text": "I'm fine. Just... losing to vegetables.",
+      "emotion_description": "She is embarrassed and quietly frustrated, but trying to cover her near-tears with dry, self-deprecating humor and a small effort to stay composed.",
+      "label": "holding_back_tears"
+    },
+    {
+      "turn": 37,
+      "text": "Th-thank you.",
+      "emotion_description": "She feels embarrassed and overwhelmed, but also quietly relieved and grateful that someone is helping her after such a humiliating string of mishaps.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 40,
+      "text": "Right. Running sounds simpler than cycling.",
+      "emotion_description": "She feels a little embarrassed but relieved, quietly accepting help and trying to regain composure with a faint, self-conscious humor.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 43,
+      "text": "Made it... somehow.",
+      "emotion_description": "She feels exhausted and relieved in equal measure, with a faint, shy sense of triumph after barely surviving the morning’s chaos.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 45,
+      "text": "Please don't tell anyone about the daikon.",
+      "emotion_description": "She feels shyly embarrassed and a little vulnerable, but also relieved enough to make a quiet, self-conscious plea for privacy.",
+      "label": "uneasy_confused"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "The sprites mostly preserve Aoi’s restrained, inward style—favoring uneasy, subdued embarrassment, quiet sadness, and faint smiles—with only a few slightly broad comedic beats like repeated exasperation on a notably introverted character."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Sprites consistently reflect introversion through subtle expressions (uneasy_confused, faint smiles, holding back tears) rather than dramatic outbursts, with only minor misalignment: 'exasperated' on the first line reads slightly louder than her reserved nature would typically allow, but the overall arc—from frustration to vulnerability to quiet gratitude—coherently tracks an introverted personality managing crisis through restraint."
+    }
+  }
+}

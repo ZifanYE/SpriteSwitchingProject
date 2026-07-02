@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0015",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A’s quieter anxious/confused choices better suit an introverted girl, while B’s embarrassed opening and especially determined delivery on the school line feel a bit too outwardly forceful despite otherwise similar emotional beats."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "Version A uses 'anxious' for the opening rush, which better captures an introverted character's internal stress, while B's 'embarrassed' misses the personality fit; A also maintains more consistent emotional progression through the escalating supernatural events, whereas B's early 'determined' sprite at 'School. Opening ceremony' feels premature and undercuts the building tension that should dominate an introvert's response to chaos."
+    }
+  }
+}

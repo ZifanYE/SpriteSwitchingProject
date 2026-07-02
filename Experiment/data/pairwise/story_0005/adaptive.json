@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0005",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays subtler and more reserved at key beats, while B adds comparatively outward/forceful sprites (smile, determined, anxious) that weaken both the introverted fit and the scene’s gentler emotional arc."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "Differences are few; A's opening 'embarrassed', the 'shy' gift-of-name beat, and the softer 'shy' closer better fit a reserved, subtly-emotive girl than B's 'anxious'/'determined' substitutions, while A's 'neutral' line and softened bell answers track the quiet progression slightly better."
+    }
+  }
+}

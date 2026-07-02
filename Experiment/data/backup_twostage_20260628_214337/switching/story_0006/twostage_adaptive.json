@@ -1,0 +1,140 @@
+{
+  "instance_id": "story_0006",
+  "pipeline": "twostage",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "anxious",
+    "confused",
+    "determined",
+    "embarrassed",
+    "neutral",
+    "sad",
+    "shy",
+    "smile",
+    "surprised"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panicked embarrassment and self-reproach, worried that starting the term late has already ruined her chance to make a good impression.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 4,
+      "text": "It was just a shortcut... why is the road... doing that?",
+      "emotion_description": "She feels flustered and mildly panicked, trying to make sense of the strange road while quietly blaming her bad luck and her own rushed decision.",
+      "label": "anxious"
+    },
+    {
+      "turn": 7,
+      "text": "Did someone drop... a phone?",
+      "emotion_description": "She is cautiously curious and slightly uneasy, trying to make sense of the strange object while keeping her nerves contained.",
+      "label": "confused"
+    },
+    {
+      "turn": 12,
+      "text": "...Eh?",
+      "emotion_description": "She is stunned into a small, breathless pause, her confusion edged with quiet unease as the impossible sight interrupts her rush.",
+      "label": "surprised"
+    },
+    {
+      "turn": 14,
+      "text": "U-um. Are you... talking to me?",
+      "emotion_description": "She is startled and confused, but trying very hard to stay polite and composed as she cautiously checks whether the strange girl is addressing her.",
+      "label": "confused"
+    },
+    {
+      "turn": 17,
+      "text": "I wasn't going to.",
+      "emotion_description": "She feels startled and a little defensive, but tries to sound calm and harmless, masking her confusion with a quiet, polite denial.",
+      "label": "confused"
+    },
+    {
+      "turn": 22,
+      "text": "S-sorry!",
+      "emotion_description": "She feels startled and embarrassed, with a quick spike of anxiety from being caught off guard, and immediately tries to shrink herself back into politeness.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 26,
+      "text": "Your... what?",
+      "emotion_description": "She is bewildered and trying to stay polite, with a cautious, slightly flustered curiosity as she struggles to make sense of the girl’s strange words.",
+      "label": "confused"
+    },
+    {
+      "turn": 30,
+      "text": "This isn't a phone.",
+      "emotion_description": "She is quietly startled and trying to steady herself, with cautious curiosity edging out her embarrassment as she realizes this is something far stranger than an ordinary lost phone.",
+      "label": "surprised"
+    },
+    {
+      "turn": 32,
+      "text": "And you're not a transfer student.",
+      "emotion_description": "She is quietly startled and increasingly wary, trying to make sense of the impossible while keeping her voice small and controlled.",
+      "label": "anxious"
+    },
+    {
+      "turn": 36,
+      "text": "I... should be at school.",
+      "emotion_description": "She is flustered and anxious, trying to cling to ordinary school-day priorities as a small, shaky way to steady herself against the impossible situation.",
+      "label": "anxious"
+    },
+    {
+      "turn": 38,
+      "text": "That was because of you?",
+      "emotion_description": "She is startled and uneasy, but beneath the soft-spoken question there’s a flicker of anxious disbelief and reluctant curiosity as she tries to make sense of the impossible.",
+      "label": "confused"
+    },
+    {
+      "turn": 42,
+      "text": "You sound like an apology email.",
+      "emotion_description": "She is still tense and bewildered, but a tiny, nervous spark of humor slips through as she tries to steady herself by making a dry joke.",
+      "label": "anxious"
+    },
+    {
+      "turn": 45,
+      "text": "...Not really.",
+      "emotion_description": "She is still rattled and wary, but a tiny, reluctant amusement slips through her nerves as she answers honestly without wanting to be unkind.",
+      "label": "smile"
+    },
+    {
+      "turn": 50,
+      "text": "No... homeroom.",
+      "emotion_description": "She feels a sudden sinking dread and embarrassed panic at the thought of being late to homeroom, with a small helpless resignation under her quiet voice.",
+      "label": "anxious"
+    },
+    {
+      "turn": 52,
+      "text": "A small error?",
+      "emotion_description": "She is anxious about being late, but her curiosity and cautious hope are starting to outweigh her fear as she tries to understand what the girl means.",
+      "label": "anxious"
+    },
+    {
+      "turn": 57,
+      "text": "If this makes me later, I'm blaming you forever.",
+      "emotion_description": "She is flustered but beginning to relax, trying to cover her lingering anxiety with a small, shy joke and a tentative sense of trust.",
+      "label": "shy"
+    },
+    {
+      "turn": 63,
+      "text": "You're coming in too?",
+      "emotion_description": "She is startled but cautiously relieved, with a shy, practical concern underneath as she tries to make sense of the girl’s sudden presence and whether she should help her.",
+      "label": "surprised"
+    },
+    {
+      "turn": 65,
+      "text": "That's a terrible way to say 'school life.'",
+      "emotion_description": "She feels a shy, incredulous amusement easing her lingering anxiety, with a faintly exasperated warmth as she tries to treat the impossible situation like a normal conversation.",
+      "label": "shy"
+    },
+    {
+      "turn": 68,
+      "text": "Then... try not to break reality before lunch, okay?",
+      "emotion_description": "She is still shaken and wary, but her fear has softened into tentative, shy humor and a cautious willingness to accept the strange girl.",
+      "label": "shy"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0011",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays more subdued and inward for this introverted character, while B adds sharper surprise beats where A’s quieter confusion/resolve better fits both her personality and the scene’s emotional flow."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "B",
+      "rationale": "A maintains better consistency with the introverted personality by using uneasy_confused repeatedly to show internal processing and restraint, while B's shifts to astonished and surprised break character; however, B's emotional progression is marginally more varied and reactive to the escalating supernatural revelations."
+    }
+  }
+}

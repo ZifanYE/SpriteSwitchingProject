@@ -1,0 +1,122 @@
+{
+  "instance_id": "story_0020",
+  "pipeline": "twostage",
+  "expression_set": "adaptive",
+  "personality": "extroverted",
+  "expression_labels": [
+    "angry",
+    "anxious",
+    "confused",
+    "determined",
+    "embarrassed",
+    "neutral",
+    "sad",
+    "shy",
+    "smile",
+    "surprised"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels panicked and flustered, with a burst of frustrated disbelief at being late on the very first day and a strong urge to fix it immediately.",
+      "label": "anxious"
+    },
+    {
+      "turn": 3,
+      "text": "Why did the train have to stall today of all days?!",
+      "emotion_description": "She’s flustered and frustrated, feeling panicked that bad luck has already ruined her careful first-day start, with a strong urge to complain out loud.",
+      "label": "angry"
+    },
+    {
+      "turn": 6,
+      "text": "...Huh?",
+      "emotion_description": "She jolts from frantic urgency into puzzled concern, momentarily forgetting her own panic as she tries to make sense of the trembling figure ahead.",
+      "label": "confused"
+    },
+    {
+      "turn": 8,
+      "text": "Hey, hey, are you okay?",
+      "emotion_description": "She shifts from frantic self-stress into immediate concern and gentle protectiveness, trying to sound reassuring despite still being flustered.",
+      "label": "smile"
+    },
+    {
+      "turn": 11,
+      "text": "Whoa, seriously? Don't move, okay? I'm here.",
+      "emotion_description": "She shifts instantly from frantic impatience to protective concern, feeling urgent sympathy and a determined need to steady the crying boy and take charge.",
+      "label": "determined"
+    },
+    {
+      "turn": 15,
+      "text": "...Ah, man. Fine. First day and I'm already doomed.",
+      "emotion_description": "She feels frustrated and resigned about being late, but her concern for the crying boy has overridden her own plans, leaving her with a flustered, self-sacrificing determination.",
+      "label": "determined"
+    },
+    {
+      "turn": 16,
+      "text": "What's your name?",
+      "emotion_description": "She’s pushing past her frustration and lateness to focus on the boy, sounding brisk and caring as she tries to take charge and reassure him.",
+      "label": "determined"
+    },
+    {
+      "turn": 18,
+      "text": "Okay, Kota. I'm Aoi. We're going to find your mom together.",
+      "emotion_description": "She feels determined and reassuring, pushing aside her own panic about being late so she can take charge and help Kota feel safe.",
+      "label": "determined"
+    },
+    {
+      "turn": 20,
+      "text": "Did you come from the station? The bakery? Somewhere with lots of people?",
+      "emotion_description": "She is focused and brisk, trying to calm the boy while mentally narrowing down clues, with a faint undercurrent of worry and urgency beneath her upbeat, take-charge tone.",
+      "label": "determined"
+    },
+    {
+      "turn": 23,
+      "text": "Got it. Flower shop. Come on, hold my sleeve tight.",
+      "emotion_description": "She is focused and reassuring, pushing aside her own panic about being late so she can take charge and make the frightened boy feel safe.",
+      "label": "determined"
+    },
+    {
+      "turn": 25,
+      "text": "Excuse me! Did anyone see a woman looking for a little kid in a yellow cap?",
+      "emotion_description": "She is focused and urgent, pushing aside her own lateness to sound clear and helpful while quietly worrying about the boy and hoping someone answers quickly.",
+      "label": "determined"
+    },
+    {
+      "turn": 32,
+      "text": "It's okay. He stayed near the crossing. He was really trying to be brave.",
+      "emotion_description": "She feels relieved and quietly proud, softening into warm reassurance as she downplays the scare and praises the boy’s courage.",
+      "label": "smile"
+    },
+    {
+      "turn": 34,
+      "text": "Next time, don't chase buses, okay? They're not that interesting.",
+      "emotion_description": "She’s relieved and lightly teasing, using humor to mask how shaken and protective she still feels after helping the lost boy.",
+      "label": "smile"
+    },
+    {
+      "turn": 38,
+      "text": "Oh, wow. I am absolutely dead.",
+      "emotion_description": "She feels a mix of comic despair and lingering panic about being late, but underneath it she’s relieved and satisfied that the boy was safely reunited with his mother.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 40,
+      "text": "But... yeah. Still worth it.",
+      "emotion_description": "She feels tired and resigned about being late, but warmly satisfied and quietly proud that helping Kota made the delay feel completely worthwhile.",
+      "label": "smile"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "The sequence is broadly expressive and proactive in an extroverted way, and most emotions track the scene well, though the early 'smile' to a crying child and the long run of repeated 'determined' sprites flatten some finer emotional shifts."
+    },
+    "claude": {
+      "character_consistency": 5,
+      "emotional_fidelity": 5,
+      "rationale": "Aoi's sprites track her extroverted, expressive nature throughout: anxiety and anger at being late give way to immediate engagement with the boy (confused→smile→determined), and her determination never wavers despite the cost to herself, culminating in genuine warmth and self-aware humor about the consequences—each sprite precisely mirrors the emotional and motivational shift in her dialogue and actions."
+    }
+  }
+}

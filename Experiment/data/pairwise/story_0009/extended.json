@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0009",
+  "expression_set": "extended",
+  "personality": "extroverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "strong",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A better preserves Aoi’s expressive, openly flustered personality and tracks the scene’s beats more naturally, while B overuses cheerful/faint-smile sprites in embarrassed or stressed moments."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A's sprites track the emotional beats more precisely (serious self-talk while strategizing, cheerful 'made it', exasperated self-mockery after wrong room, astonished at being seen through), whereas B mismatches several lines like a cheerful 'made it' panic and natural smile during self-deprecation."
+    }
+  }
+}

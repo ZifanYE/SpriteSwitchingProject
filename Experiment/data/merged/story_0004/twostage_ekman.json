@@ -1,0 +1,340 @@
+{
+  "instance_id": "story_0004",
+  "title": "A Small Detour",
+  "protagonist": "Aoi",
+  "studied_speaker": "Aoi",
+  "pipeline": "twostage",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "spriteMap": {
+    "anger": 0,
+    "disgust": 1,
+    "fear": 2,
+    "happiness": 3,
+    "neutral": 4,
+    "sadness": 5,
+    "surprise": 6
+  },
+  "dialogue": [
+    {
+      "turn": 0,
+      "type": "narration",
+      "text": "The first morning of the new school term -- and Aoi is already running late."
+    },
+    {
+      "turn": 1,
+      "type": "dialogue",
+      "text": "No, no, no -- not on the very first day!",
+      "speaker": "Aoi",
+      "label": "fear",
+      "sprite": 2
+    },
+    {
+      "turn": 2,
+      "type": "narration",
+      "text": "Aoi skids to a stop at the corner, one hand on her school bag, breath catching in the cold morning air."
+    },
+    {
+      "turn": 3,
+      "type": "narration",
+      "text": "She had left home on time."
+    },
+    {
+      "turn": 4,
+      "type": "narration",
+      "text": "But halfway to school, she remembered the attendance form she forgot on the kitchen table."
+    },
+    {
+      "turn": 5,
+      "type": "narration",
+      "text": "She ran back for it. Then ran again. And now the pedestrian light is red."
+    },
+    {
+      "turn": 6,
+      "type": "dialogue",
+      "text": "I had it this morning... I know I did...",
+      "speaker": "Aoi",
+      "label": "fear",
+      "sprite": 2
+    },
+    {
+      "turn": 7,
+      "type": "narration",
+      "text": "Beside the crosswalk, a little girl in a yellow hat stands alone, shoulders shaking."
+    },
+    {
+      "turn": 8,
+      "type": "dialogue",
+      "text": "Um...",
+      "speaker": "Aoi",
+      "label": "fear",
+      "sprite": 2
+    },
+    {
+      "turn": 9,
+      "type": "dialogue",
+      "text": "Are you okay?",
+      "speaker": "Aoi",
+      "label": "fear",
+      "sprite": 2
+    },
+    {
+      "turn": 10,
+      "type": "dialogue",
+      "text": "Hic... my brother went away...",
+      "speaker": "Little Girl"
+    },
+    {
+      "turn": 11,
+      "type": "narration",
+      "text": "The girl clutches a rabbit keychain so tightly her fingers have gone white."
+    },
+    {
+      "turn": 12,
+      "type": "dialogue",
+      "text": "You got separated?",
+      "speaker": "Aoi",
+      "label": "neutral",
+      "sprite": 4
+    },
+    {
+      "turn": 13,
+      "type": "dialogue",
+      "text": "He said stay here... but he didn't come back...",
+      "speaker": "Little Girl"
+    },
+    {
+      "turn": 14,
+      "type": "narration",
+      "text": "The walk signal changes. Students stream past them toward school."
+    },
+    {
+      "turn": 15,
+      "type": "narration",
+      "text": "Aoi glances at the road. Then at the girl."
+    },
+    {
+      "turn": 16,
+      "type": "dialogue",
+      "text": "...I can't just leave you.",
+      "speaker": "Aoi",
+      "label": "neutral",
+      "sprite": 4
+    },
+    {
+      "turn": 17,
+      "type": "dialogue",
+      "text": "Do you know your brother's name?",
+      "speaker": "Aoi",
+      "label": "neutral",
+      "sprite": 4
+    },
+    {
+      "turn": 18,
+      "type": "dialogue",
+      "text": "Haru.",
+      "speaker": "Little Girl"
+    },
+    {
+      "turn": 19,
+      "type": "dialogue",
+      "text": "Okay. Let's stand by the police box.",
+      "speaker": "Aoi",
+      "label": "happiness",
+      "sprite": 3
+    },
+    {
+      "turn": 20,
+      "type": "narration",
+      "text": "It's only a short distance away, but the girl's steps are tiny and uneven."
+    },
+    {
+      "turn": 21,
+      "type": "narration",
+      "text": "At the neighborhood koban, the officer kneels to the girl's height and speaks gently into a radio."
+    },
+    {
+      "turn": 22,
+      "type": "dialogue",
+      "text": "You did the right thing bringing her here.",
+      "speaker": "Officer"
+    },
+    {
+      "turn": 23,
+      "type": "dialogue",
+      "text": "I just... happened to see her.",
+      "speaker": "Aoi",
+      "label": "happiness",
+      "sprite": 3
+    },
+    {
+      "turn": 24,
+      "type": "narration",
+      "text": "She says it quietly, but her pulse is still pounding."
+    },
+    {
+      "turn": 25,
+      "type": "narration",
+      "text": "A minute later, footsteps slap against the pavement outside."
+    },
+    {
+      "turn": 26,
+      "type": "dialogue",
+      "text": "Haru!",
+      "speaker": "Little Girl"
+    },
+    {
+      "turn": 27,
+      "type": "narration",
+      "text": "A middle-school boy bursts in, pale and breathless, and the girl runs straight into him."
+    },
+    {
+      "turn": 28,
+      "type": "dialogue",
+      "text": "You can't leave your sister alone like that.",
+      "speaker": "Officer"
+    },
+    {
+      "turn": 29,
+      "type": "dialogue",
+      "text": "I thought you went away forever...",
+      "speaker": "Little Girl"
+    },
+    {
+      "turn": 30,
+      "type": "dialogue",
+      "text": "She's been scared for a while.",
+      "speaker": "Aoi",
+      "label": "sadness",
+      "sprite": 5
+    },
+    {
+      "turn": 31,
+      "type": "dialogue",
+      "text": "I know. I'm sorry. I only went to ask for directions...",
+      "speaker": "Haru"
+    },
+    {
+      "turn": 32,
+      "type": "narration",
+      "text": "His voice cracks on the last word."
+    },
+    {
+      "turn": 33,
+      "type": "narration",
+      "text": "Aoi looks away, giving them a little privacy."
+    },
+    {
+      "turn": 34,
+      "type": "dialogue",
+      "text": "It's okay now.",
+      "speaker": "Aoi",
+      "label": "happiness",
+      "sprite": 3
+    },
+    {
+      "turn": 35,
+      "type": "dialogue",
+      "text": "Thank you, big sister.",
+      "speaker": "Little Girl"
+    },
+    {
+      "turn": 36,
+      "type": "dialogue",
+      "text": "...You're welcome.",
+      "speaker": "Aoi",
+      "label": "happiness",
+      "sprite": 3
+    },
+    {
+      "turn": 37,
+      "type": "narration",
+      "text": "The girl smiles through drying tears. Small, uneven, but real."
+    },
+    {
+      "turn": 38,
+      "type": "narration",
+      "text": "When Aoi finally steps back outside, the town has fully woken up."
+    },
+    {
+      "turn": 39,
+      "type": "narration",
+      "text": "And the clock on the station sign makes her stomach drop."
+    },
+    {
+      "turn": 40,
+      "type": "dialogue",
+      "text": "Ah...",
+      "speaker": "Aoi",
+      "label": "surprise",
+      "sprite": 6
+    },
+    {
+      "turn": 41,
+      "type": "dialogue",
+      "text": "First period is definitely starting.",
+      "speaker": "Aoi",
+      "label": "fear",
+      "sprite": 2
+    },
+    {
+      "turn": 42,
+      "type": "narration",
+      "text": "For one weak second, she imagines turning around and going home."
+    },
+    {
+      "turn": 43,
+      "type": "narration",
+      "text": "Her shoes feel heavy. Her face burns just thinking about opening the classroom door late."
+    },
+    {
+      "turn": 44,
+      "type": "dialogue",
+      "text": "They're all going to look at me...",
+      "speaker": "Aoi",
+      "label": "fear",
+      "sprite": 2
+    },
+    {
+      "turn": 45,
+      "type": "narration",
+      "text": "She presses the attendance form against her chest."
+    },
+    {
+      "turn": 46,
+      "type": "narration",
+      "text": "Then she remembers the little girl reaching for her brother."
+    },
+    {
+      "turn": 47,
+      "type": "dialogue",
+      "text": "But... I did the right thing.",
+      "speaker": "Aoi",
+      "label": "happiness",
+      "sprite": 3
+    },
+    {
+      "turn": 48,
+      "type": "narration",
+      "text": "The words are barely above a whisper."
+    },
+    {
+      "turn": 49,
+      "type": "narration",
+      "text": "Still, hearing them makes her straighten a little."
+    },
+    {
+      "turn": 50,
+      "type": "dialogue",
+      "text": "So... I'll go.",
+      "speaker": "Aoi",
+      "label": "fear",
+      "sprite": 2
+    },
+    {
+      "turn": 51,
+      "type": "narration",
+      "text": "Aoi takes one slow breath, then starts running again -- late, flustered, and somehow just a little less afraid of the day waiting for her."
+    }
+  ]
+}

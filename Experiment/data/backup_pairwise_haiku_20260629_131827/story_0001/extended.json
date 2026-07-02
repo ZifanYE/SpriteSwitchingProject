@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0001",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "Both fit Aoi’s restrained, anxious nature, but B’s tearful sprites better track her escalating distress at the delay and post-humiliation self-reproach, while A’s exasperated beat there feels a bit too outwardly frustrated."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "Version B maintains emotional consistency by using holding_back_tears at the station (matching internal distress) and again after the classroom humiliation (when shame peaks), whereas Version A switches to uneasy_confused at the station despite the narrative showing Aoi's anxiety is already high, and uses exasperated for self-recrimination which feels too externalized for an introverted character's private moment."
+    }
+  }
+}

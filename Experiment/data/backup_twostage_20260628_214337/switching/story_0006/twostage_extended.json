@@ -1,0 +1,144 @@
+{
+  "instance_id": "story_0006",
+  "pipeline": "twostage",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "astonished",
+    "crying_hard",
+    "displeased_frown",
+    "exasperated",
+    "holding_back_tears",
+    "interested_attentive",
+    "natural_smile_cheerful",
+    "sad",
+    "serious_expressionless",
+    "slightly_happy_faint_smile",
+    "surprised",
+    "unconvinced",
+    "uneasy_confused"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panicked embarrassment and self-reproach, worried that starting the term late has already gone wrong.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 4,
+      "text": "It was just a shortcut... why is the road... doing that?",
+      "emotion_description": "She feels flustered and mildly panicked, trying to make sense of the strange road while quietly blaming her bad luck and worrying about being even later.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 7,
+      "text": "Did someone drop... a phone?",
+      "emotion_description": "She is cautiously curious and slightly unsettled, trying to make sense of the strange object while keeping her nerves tucked quietly under control.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 12,
+      "text": "...Eh?",
+      "emotion_description": "She is startled into a small, breathless pause, her confusion and unease barely contained as she tries to make sense of the impossible scene.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 14,
+      "text": "U-um. Are you... talking to me?",
+      "emotion_description": "She is startled and confused, but trying very hard to stay polite and composed as she cautiously checks whether the strange girl is addressing her.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 17,
+      "text": "I wasn't going to.",
+      "emotion_description": "She feels startled and a little defensive, but is trying to sound calm and harmless while quietly asserting that she meant no threat.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 22,
+      "text": "S-sorry!",
+      "emotion_description": "She feels startled and embarrassed, immediately shrinking inward and apologizing reflexively while trying to recover her composure.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 26,
+      "text": "Your... what?",
+      "emotion_description": "She is bewildered and trying to stay polite, with a cautious, slightly flustered curiosity as she struggles to make sense of the girl’s strange words.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 30,
+      "text": "This isn't a phone.",
+      "emotion_description": "She is quietly startled and trying to steady herself, with cautious curiosity edging out her embarrassment as she realizes this strange object is far beyond anything ordinary.",
+      "label": "astonished"
+    },
+    {
+      "turn": 32,
+      "text": "And you're not a transfer student.",
+      "emotion_description": "She is quietly startled but increasingly certain, her cautious curiosity edging into wary suspicion as she tries to make sense of the impossible.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 36,
+      "text": "I... should be at school.",
+      "emotion_description": "She is flustered and anxious, trying to cling to ordinary school-day priorities as a small, shaky anchor while her mind races from fear and confusion.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 38,
+      "text": "That was because of you?",
+      "emotion_description": "She is startled and uneasy, but more than angry she feels a cautious, incredulous worry as she tries to make sense of the impossible situation.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 42,
+      "text": "You sound like an apology email.",
+      "emotion_description": "She is still nervous and overwhelmed, but a small, reluctant amusement slips through as she tries to lighten the moment and keep herself steady.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 45,
+      "text": "...Not really.",
+      "emotion_description": "She is still rattled and wary, but a tiny, involuntary bit of amusement slips through her nerves as she answers bluntly.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 50,
+      "text": "No... homeroom.",
+      "emotion_description": "She feels a sudden sinking panic and reluctant resignation as she realizes she is already late for homeroom, with a small, overwhelmed dread she tries to keep contained.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 52,
+      "text": "A small error?",
+      "emotion_description": "She is anxious about being late, but her curiosity and cautious hope are starting to outweigh her fear as she tries to understand what the girl means.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 57,
+      "text": "If this makes me later, I'm blaming you forever.",
+      "emotion_description": "She is flustered but lightly teasing, using a small joke to cover her lingering anxiety and the pressure of being late.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 63,
+      "text": "You're coming in too?",
+      "emotion_description": "She is startled but cautiously relieved, with a shy, tentative curiosity and a faint urge to keep the strange girl close rather than face school alone.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 65,
+      "text": "That's a terrible way to say 'school life.'",
+      "emotion_description": "She feels a shy, reluctant amusement easing her lingering anxiety, with a faintly exasperated sense that this strange girl is already disrupting her carefully ordinary first day.",
+      "label": "exasperated"
+    },
+    {
+      "turn": 68,
+      "text": "Then... try not to break reality before lunch, okay?",
+      "emotion_description": "She is still shaken and wary, but her fear has softened into tentative, shy humor and a cautious willingness to accept the strange girl’s company.",
+      "label": "slightly_happy_faint_smile"
+    }
+  ]
+}

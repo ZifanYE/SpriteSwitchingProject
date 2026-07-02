@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0014",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays more subdued and introverted overall, while B adds mismatched embarrassed/smiling beats and keeps anxiety where Aoi is calmer, wry, or cautiously relieved."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "Version A maintains consistent emotional restraint and subtle expression throughout (confused/anxious/surprised), matching an introverted character's reserved nature; Version B breaks character by using 'embarrassed' at the start and 'anxious' for post-crisis moments that should show relief/confusion, disrupting the emotional arc and personality consistency."
+    }
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "instance_id": "story_0002",
+  "pipeline": "direct",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "expression_labels": [
+    "anger",
+    "disgust",
+    "fear",
+    "happiness",
+    "neutral",
+    "sadness",
+    "surprise"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 6,
+      "text": "Ah—!",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 10,
+      "text": "I-I'm sorry.",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 11,
+      "text": "I turned too fast...",
+      "emotion_description": null,
+      "label": "sadness"
+    },
+    {
+      "turn": 14,
+      "text": "You don't have to—",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 17,
+      "text": "Th-thank you.",
+      "emotion_description": null,
+      "label": "happiness"
+    },
+    {
+      "turn": 20,
+      "text": "Sorry.",
+      "emotion_description": null,
+      "label": "sadness"
+    },
+    {
+      "turn": 22,
+      "text": "...I know.",
+      "emotion_description": null,
+      "label": "sadness"
+    },
+    {
+      "turn": 25,
+      "text": "Yes.",
+      "emotion_description": null,
+      "label": "neutral"
+    },
+    {
+      "turn": 26,
+      "text": "These are for my class.",
+      "emotion_description": null,
+      "label": "neutral"
+    },
+    {
+      "turn": 29,
+      "text": "What?",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 31,
+      "text": "Moved...?",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 33,
+      "text": "No wonder...",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 36,
+      "text": "You're helping me?",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 39,
+      "text": "Are you a second-year?",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 41,
+      "text": "Oh.",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 43,
+      "text": "Then... welcome.",
+      "emotion_description": null,
+      "label": "happiness"
+    },
+    {
+      "turn": 48,
+      "text": "Y-yes!",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 52,
+      "text": "Our...?",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 55,
+      "text": "So we're in the same class.",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 58,
+      "text": "Then I really did crash into my morning.",
+      "emotion_description": null,
+      "label": "happiness"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "The mostly subdued fear/sadness/neutral sequence fits an introverted, apologetic girl, with only a few broad surprise/fear choices where a quieter flustered or shy expression would fit better."
+    },
+    "claude": {
+      "character_consistency": 3,
+      "emotional_fidelity": 3,
+      "rationale": "Subtle smiles and downcast sadness fit her reserved nature, but the repeated full 'surprise' and 'fear' sprites overstate reactions for a soft-spoken introvert, and many mid-scene curiosity/acknowledgment lines that should be neutral are flattened into generic surprise."
+    }
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "instance_id": "story_0011",
+  "title": "The Name on the Slip",
+  "protagonist": "Aoi",
+  "studied_speaker": "Aoi",
+  "pipeline": "direct",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "spriteMap": {
+    "angry": 0,
+    "anxious": 1,
+    "confused": 2,
+    "determined": 3,
+    "embarrassed": 4,
+    "neutral": 5,
+    "sad": 6,
+    "shy": 7,
+    "smile": 8,
+    "surprised": 9
+  },
+  "dialogue": [
+    {
+      "turn": 0,
+      "type": "narration",
+      "text": "The first morning of the new school term -- and Aoi is already running late."
+    },
+    {
+      "turn": 1,
+      "type": "dialogue",
+      "text": "No, no, no -- not on the very first day!",
+      "speaker": "Aoi",
+      "label": "anxious",
+      "sprite": 1
+    },
+    {
+      "turn": 2,
+      "type": "narration",
+      "text": "Her breath catches as she skids to a stop at the corner by the station."
+    },
+    {
+      "turn": 3,
+      "type": "narration",
+      "text": "The reason is still crumpled in her fist: a white slip of paper she found tucked inside her shoe that morning."
+    },
+    {
+      "turn": 4,
+      "type": "narration",
+      "text": "In neat blue ink, it had said only one thing."
+    },
+    {
+      "turn": 5,
+      "type": "dialogue",
+      "text": "...\"Don't take the usual road to school.\"",
+      "speaker": "Aoi",
+      "label": "anxious",
+      "sprite": 1
+    },
+    {
+      "turn": 6,
+      "type": "narration",
+      "text": "She had stood frozen in the entryway for ten whole minutes, reading it again and again."
+    },
+    {
+      "turn": 7,
+      "type": "dialogue",
+      "text": "I should've ignored it.",
+      "speaker": "Aoi",
+      "label": "sad",
+      "sprite": 6
+    },
+    {
+      "turn": 8,
+      "type": "dialogue",
+      "text": "But... it was inside my shoe.",
+      "speaker": "Aoi",
+      "label": "confused",
+      "sprite": 2
+    },
+    {
+      "turn": 9,
+      "type": "narration",
+      "text": "A delivery truck rumbles past the crossing ahead."
+    },
+    {
+      "turn": 10,
+      "type": "narration",
+      "text": "On the pavement beyond it, a bicycle lies on its side, its front wheel bent under the guardrail."
+    },
+    {
+      "turn": 11,
+      "type": "narration",
+      "text": "A small crowd gathers. The usual road is blocked by tape."
+    },
+    {
+      "turn": 12,
+      "type": "dialogue",
+      "text": "...Ah.",
+      "speaker": "Aoi",
+      "label": "surprised",
+      "sprite": 9
+    },
+    {
+      "turn": 13,
+      "type": "narration",
+      "text": "A chill slips down her back."
+    },
+    {
+      "turn": 14,
+      "type": "dialogue",
+      "text": "So that's why...?",
+      "speaker": "Aoi",
+      "label": "confused",
+      "sprite": 2
+    },
+    {
+      "turn": 15,
+      "type": "dialogue",
+      "text": "You going to Minase High too?",
+      "speaker": "Woman"
+    },
+    {
+      "turn": 16,
+      "type": "narration",
+      "text": "A woman in a beige coat stands beside the vending machines, as if she had been waiting there."
+    },
+    {
+      "turn": 17,
+      "type": "dialogue",
+      "text": "Y-yes.",
+      "speaker": "Aoi",
+      "label": "shy",
+      "sprite": 7
+    },
+    {
+      "turn": 18,
+      "type": "dialogue",
+      "text": "Then you'd better hurry. Entrance remarks start in twelve minutes.",
+      "speaker": "Woman"
+    },
+    {
+      "turn": 19,
+      "type": "dialogue",
+      "text": "Eh... how do you know that?",
+      "speaker": "Aoi",
+      "label": "surprised",
+      "sprite": 9
+    },
+    {
+      "turn": 20,
+      "type": "dialogue",
+      "text": "And keep your student ID somewhere safer this year.",
+      "speaker": "Woman"
+    },
+    {
+      "turn": 21,
+      "type": "narration",
+      "text": "Aoi instinctively grabs her blazer pocket."
+    },
+    {
+      "turn": 22,
+      "type": "narration",
+      "text": "Empty."
+    },
+    {
+      "turn": 23,
+      "type": "dialogue",
+      "text": "...What?",
+      "speaker": "Aoi",
+      "label": "surprised",
+      "sprite": 9
+    },
+    {
+      "turn": 24,
+      "type": "dialogue",
+      "text": "I haven't even received one yet.",
+      "speaker": "Aoi",
+      "label": "confused",
+      "sprite": 2
+    },
+    {
+      "turn": 25,
+      "type": "narration",
+      "text": "The woman smiles faintly. Not kindly. Not cruelly either."
+    },
+    {
+      "turn": 26,
+      "type": "dialogue",
+      "text": "Right. Not yet.",
+      "speaker": "Woman"
+    },
+    {
+      "turn": 27,
+      "type": "narration",
+      "text": "She presses something into Aoi's hand: a tiny brass charm shaped like a key, cold as ice."
+    },
+    {
+      "turn": 28,
+      "type": "dialogue",
+      "text": "If you hear your name before anyone calls it, don't answer.",
+      "speaker": "Woman"
+    },
+    {
+      "turn": 29,
+      "type": "dialogue",
+      "text": "W-wait.",
+      "speaker": "Aoi",
+      "label": "surprised",
+      "sprite": 9
+    },
+    {
+      "turn": 30,
+      "type": "dialogue",
+      "text": "Who are you?",
+      "speaker": "Aoi",
+      "label": "confused",
+      "sprite": 2
+    },
+    {
+      "turn": 31,
+      "type": "narration",
+      "text": "A train screams into the station behind them."
+    },
+    {
+      "turn": 32,
+      "type": "narration",
+      "text": "For one second Aoi flinches at the wind and noise."
+    },
+    {
+      "turn": 33,
+      "type": "narration",
+      "text": "When she looks back, the beige coat is gone."
+    },
+    {
+      "turn": 34,
+      "type": "dialogue",
+      "text": "...No way.",
+      "speaker": "Aoi",
+      "label": "surprised",
+      "sprite": 9
+    },
+    {
+      "turn": 35,
+      "type": "narration",
+      "text": "Only a receipt flutters near her shoes."
+    },
+    {
+      "turn": 36,
+      "type": "narration",
+      "text": "She picks it up with trembling fingers."
+    },
+    {
+      "turn": 37,
+      "type": "narration",
+      "text": "On the blank back, in the same blue ink, are the words:"
+    },
+    {
+      "turn": 38,
+      "type": "dialogue",
+      "text": "\"Class 1-C.\"",
+      "speaker": "Aoi",
+      "label": "surprised",
+      "sprite": 9
+    },
+    {
+      "turn": 39,
+      "type": "narration",
+      "text": "Her chest tightens. That class assignment has not been posted yet."
+    },
+    {
+      "turn": 40,
+      "type": "dialogue",
+      "text": "This isn't funny.",
+      "speaker": "Aoi",
+      "label": "angry",
+      "sprite": 0
+    },
+    {
+      "turn": 41,
+      "type": "narration",
+      "text": "The school bell rings faintly in the distance."
+    },
+    {
+      "turn": 42,
+      "type": "dialogue",
+      "text": "...I have to go.",
+      "speaker": "Aoi",
+      "label": "determined",
+      "sprite": 3
+    },
+    {
+      "turn": 43,
+      "type": "narration",
+      "text": "She closes her fingers around the brass key charm and starts running again."
+    },
+    {
+      "turn": 44,
+      "type": "narration",
+      "text": "This time, not just because she's late."
+    }
+  ]
+}

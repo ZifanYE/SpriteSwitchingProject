@@ -1,0 +1,348 @@
+{
+  "instance_id": "story_0002",
+  "protagonist": "Aoi",
+  "personality": "introverted",
+  "personality_profile": "Reserved and soft-spoken. Keeps strong feelings inside, prefers to listen, and shows emotion subtly — a slight smile, a quiet pause, downcast eyes. Rarely raises her voice even when upset.",
+  "character_base_profile": "Aoi is a first-year high-school girl. Today is the first day of the new school term, and she is an ordinary student hoping to start the year off on the right foot.",
+  "scenario": "bump_into_someone",
+  "title": "Corner, Impact, and Attendance",
+  "opening_turns": 2,
+  "dialogue": [
+    {
+      "turn": 0,
+      "type": "narration",
+      "text": "The first morning of the new school term -- and Aoi is already running late."
+    },
+    {
+      "turn": 1,
+      "type": "dialogue",
+      "text": "No, no, no -- not on the very first day!",
+      "speaker": "Aoi"
+    },
+    {
+      "turn": 2,
+      "type": "narration",
+      "text": "Her loafer slips on the polished hallway floor as she hugs a stack of freshly printed class schedules to her chest."
+    },
+    {
+      "turn": 3,
+      "type": "narration",
+      "text": "She had stopped at the staff room to return them after a teacher mistook her for a committee helper."
+    },
+    {
+      "turn": 4,
+      "type": "narration",
+      "text": "One corner. One blind turn."
+    },
+    {
+      "turn": 5,
+      "type": "narration",
+      "text": "A solid shoulder crashes into hers."
+    },
+    {
+      "turn": 6,
+      "type": "dialogue",
+      "text": "Ah—!",
+      "speaker": "Aoi"
+    },
+    {
+      "turn": 7,
+      "type": "narration",
+      "text": "The schedules burst from her arms like scattered cards."
+    },
+    {
+      "turn": 8,
+      "type": "dialogue",
+      "text": "Watch it.",
+      "speaker": "Unknown Boy"
+    },
+    {
+      "turn": 9,
+      "type": "narration",
+      "text": "A tall boy in a different blazer trim steadies himself with a click of his tongue."
+    },
+    {
+      "turn": 10,
+      "type": "dialogue",
+      "text": "I-I'm sorry.",
+      "speaker": "Aoi"
+    },
+    {
+      "turn": 11,
+      "type": "dialogue",
+      "text": "I turned too fast...",
+      "speaker": "Aoi"
+    },
+    {
+      "turn": 12,
+      "type": "dialogue",
+      "text": "So did I.",
+      "speaker": "Unknown Boy"
+    },
+    {
+      "turn": 13,
+      "type": "narration",
+      "text": "His voice is blunt, but he crouches first, gathering papers before they slide under the lockers."
+    },
+    {
+      "turn": 14,
+      "type": "dialogue",
+      "text": "You don't have to—",
+      "speaker": "Aoi"
+    },
+    {
+      "turn": 15,
+      "type": "dialogue",
+      "text": "If you kneel there, people will step on you.",
+      "speaker": "Unknown Boy"
+    },
+    {
+      "turn": 16,
+      "type": "narration",
+      "text": "Aoi drops to her knees anyway, cheeks burning."
+    },
+    {
+      "turn": 17,
+      "type": "dialogue",
+      "text": "Th-thank you.",
+      "speaker": "Aoi"
+    },
+    {
+      "turn": 18,
+      "type": "narration",
+      "text": "She reaches for the last sheet at the same time he does."
+    },
+    {
+      "turn": 19,
+      "type": "narration",
+      "text": "Their fingers touch. She pulls back at once."
+    },
+    {
+      "turn": 20,
+      "type": "dialogue",
+      "text": "Sorry.",
+      "speaker": "Aoi"
+    },
+    {
+      "turn": 21,
+      "type": "dialogue",
+      "text": "You apologize a lot.",
+      "speaker": "Unknown Boy"
+    },
+    {
+      "turn": 22,
+      "type": "dialogue",
+      "text": "...I know.",
+      "speaker": "Aoi"
+    },
+    {
+      "turn": 23,
+      "type": "narration",
+      "text": "At the top page, in bold marker, someone has written: CLASS 1-A."
+    },
+    {
+      "turn": 24,
+      "type": "dialogue",
+      "text": "First-year?",
+      "speaker": "Unknown Boy"
+    },
+    {
+      "turn": 25,
+      "type": "dialogue",
+      "text": "Yes.",
+      "speaker": "Aoi"
+    },
+    {
+      "turn": 26,
+      "type": "dialogue",
+      "text": "These are for my class.",
+      "speaker": "Aoi"
+    },
+    {
+      "turn": 27,
+      "type": "dialogue",
+      "text": "Then you're running the wrong way.",
+      "speaker": "Unknown Boy"
+    },
+    {
+      "turn": 28,
+      "type": "narration",
+      "text": "Her head lifts."
+    },
+    {
+      "turn": 29,
+      "type": "dialogue",
+      "text": "What?",
+      "speaker": "Aoi"
+    },
+    {
+      "turn": 30,
+      "type": "dialogue",
+      "text": "The first-years were moved to the east wing this morning.",
+      "speaker": "Unknown Boy"
+    },
+    {
+      "turn": 31,
+      "type": "dialogue",
+      "text": "Moved...?",
+      "speaker": "Aoi"
+    },
+    {
+      "turn": 32,
+      "type": "narration",
+      "text": "Her stomach drops. That explains the empty hall. The wrong staircase. The wasted minutes."
+    },
+    {
+      "turn": 33,
+      "type": "dialogue",
+      "text": "No wonder...",
+      "speaker": "Aoi"
+    },
+    {
+      "turn": 34,
+      "type": "dialogue",
+      "text": "Come on.",
+      "speaker": "Unknown Boy"
+    },
+    {
+      "turn": 35,
+      "type": "narration",
+      "text": "He stands, already turning away, then glances back when she doesn't move."
+    },
+    {
+      "turn": 36,
+      "type": "dialogue",
+      "text": "You're helping me?",
+      "speaker": "Aoi"
+    },
+    {
+      "turn": 37,
+      "type": "dialogue",
+      "text": "I'm going there too.",
+      "speaker": "Unknown Boy"
+    },
+    {
+      "turn": 38,
+      "type": "narration",
+      "text": "He says it like an inconvenience, but he slows his stride for her."
+    },
+    {
+      "turn": 39,
+      "type": "dialogue",
+      "text": "Are you a second-year?",
+      "speaker": "Aoi"
+    },
+    {
+      "turn": 40,
+      "type": "dialogue",
+      "text": "Transfer.",
+      "speaker": "Unknown Boy"
+    },
+    {
+      "turn": 41,
+      "type": "dialogue",
+      "text": "Oh.",
+      "speaker": "Aoi"
+    },
+    {
+      "turn": 42,
+      "type": "narration",
+      "text": "For a moment, neither speaks. Their footsteps fill the corridor."
+    },
+    {
+      "turn": 43,
+      "type": "dialogue",
+      "text": "Then... welcome.",
+      "speaker": "Aoi"
+    },
+    {
+      "turn": 44,
+      "type": "narration",
+      "text": "He blinks, as if the words caught him off guard."
+    },
+    {
+      "turn": 45,
+      "type": "dialogue",
+      "text": "...Thanks.",
+      "speaker": "Unknown Boy"
+    },
+    {
+      "turn": 46,
+      "type": "narration",
+      "text": "They reach the east wing just as the warning chime rings."
+    },
+    {
+      "turn": 47,
+      "type": "dialogue",
+      "text": "There you are! Schedules?",
+      "speaker": "Teacher"
+    },
+    {
+      "turn": 48,
+      "type": "dialogue",
+      "text": "Y-yes!",
+      "speaker": "Aoi"
+    },
+    {
+      "turn": 49,
+      "type": "narration",
+      "text": "Aoi hands them over with both hands, breathless but in time."
+    },
+    {
+      "turn": 50,
+      "type": "dialogue",
+      "text": "Good save. And you must be our transfer student. Perfect timing.",
+      "speaker": "Teacher"
+    },
+    {
+      "turn": 51,
+      "type": "narration",
+      "text": "Aoi turns sharply."
+    },
+    {
+      "turn": 52,
+      "type": "dialogue",
+      "text": "Our...?",
+      "speaker": "Aoi"
+    },
+    {
+      "turn": 53,
+      "type": "dialogue",
+      "text": "He's joining Class 1-A today.",
+      "speaker": "Teacher"
+    },
+    {
+      "turn": 54,
+      "type": "narration",
+      "text": "The boy exhales through his nose, like he'd hoped to avoid an audience."
+    },
+    {
+      "turn": 55,
+      "type": "dialogue",
+      "text": "So we're in the same class.",
+      "speaker": "Aoi"
+    },
+    {
+      "turn": 56,
+      "type": "dialogue",
+      "text": "Looks like it.",
+      "speaker": "Unknown Boy"
+    },
+    {
+      "turn": 57,
+      "type": "narration",
+      "text": "A small, helpless laugh slips out of her before she can hide it."
+    },
+    {
+      "turn": 58,
+      "type": "dialogue",
+      "text": "Then I really did crash into my morning.",
+      "speaker": "Aoi"
+    },
+    {
+      "turn": 59,
+      "type": "narration",
+      "text": "For the first time, the corner of his mouth lifts."
+    }
+  ]
+}

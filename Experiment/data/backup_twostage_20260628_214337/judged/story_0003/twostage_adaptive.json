@@ -1,0 +1,116 @@
+{
+  "instance_id": "story_0003",
+  "pipeline": "twostage",
+  "expression_set": "adaptive",
+  "personality": "extroverted",
+  "expression_labels": [
+    "angry",
+    "anxious",
+    "confused",
+    "determined",
+    "embarrassed",
+    "neutral",
+    "sad",
+    "shy",
+    "smile",
+    "surprised"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels panicked and flustered, with a burst of frustrated disbelief at being late on the very first day and a strong urge to fix it immediately.",
+      "label": "anxious"
+    },
+    {
+      "turn": 3,
+      "text": "Stupid alarm, why did you die today of all days?!",
+      "emotion_description": "She is flustered and panicked about being late, with a burst of irritated self-directed frustration at the alarm and a strong anxious urgency to fix the situation.",
+      "label": "anxious"
+    },
+    {
+      "turn": 5,
+      "text": "Mom's going to say it was fate punishing me for scrolling at midnight...",
+      "emotion_description": "She’s flustered and self-mocking, half-panicked about being late but trying to lighten the moment with a joking, resigned complaint about her mom’s inevitable teasing.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 8,
+      "text": "Wait, seriously? They never open this gate.",
+      "emotion_description": "She’s abruptly shifting from panicked frustration to startled, hopeful curiosity, sensing an unexpected lucky break and mentally grabbing onto it.",
+      "label": "surprised"
+    },
+    {
+      "turn": 11,
+      "text": "Yeah, that was the problem, thanks.",
+      "emotion_description": "She feels flustered and irritated at being reminded of the obvious, but her urgency keeps it sharp and brisk rather than truly hostile.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 13,
+      "text": "...That's weirdly specific.",
+      "emotion_description": "She feels wary and puzzled, with her earlier rush giving way to cautious suspicion at the stranger’s oddly precise warning.",
+      "label": "confused"
+    },
+    {
+      "turn": 16,
+      "text": "\"Always\"? We've never met.",
+      "emotion_description": "She feels startled and suspicious, with a flicker of self-conscious embarrassment as the stranger’s uncanny familiarity makes her defensive.",
+      "label": "surprised"
+    },
+    {
+      "turn": 19,
+      "text": "How do you know that before the board goes up?",
+      "emotion_description": "She is startled and uneasy, with her usual boldness turning into sharp suspicion as she tries to make sense of the girl’s impossible knowledge.",
+      "label": "surprised"
+    },
+    {
+      "turn": 23,
+      "text": "Okay, wow. Creepy. Helpful, maybe, but creepy.",
+      "emotion_description": "She’s startled and uneasy, but trying to keep her composure with nervous humor while also feeling a flicker of curiosity and gratitude toward the girl’s oddly helpful warning.",
+      "label": "anxious"
+    },
+    {
+      "turn": 26,
+      "text": "Yes! I might actually make it!",
+      "emotion_description": "She feels a sudden surge of relieved, energized optimism, with her earlier panic easing into excited determination as she realizes she may still salvage the morning.",
+      "label": "determined"
+    },
+    {
+      "turn": 31,
+      "text": "No way...",
+      "emotion_description": "She is jolted into stunned, uneasy disbelief as the eerie warning suddenly proves real, with a flash of fear under her usual lively confidence.",
+      "label": "surprised"
+    },
+    {
+      "turn": 33,
+      "text": "She said not to use the east stairs.",
+      "emotion_description": "She feels a sharp, uneasy jolt of fear and vindicated alarm, realizing the stranger’s eerie warning may have just saved her from something serious.",
+      "label": "anxious"
+    },
+    {
+      "turn": 37,
+      "text": "Oh, come on. Don't do this to me on day one.",
+      "emotion_description": "She feels a sharp mix of alarm and frustrated disbelief, with a growing sense that something uncanny is targeting her and that she needs to stay alert.",
+      "label": "anxious"
+    },
+    {
+      "turn": 39,
+      "text": "Fine. School first. Panic attack later.",
+      "emotion_description": "She is forcing herself into brisk, joking composure while underneath she feels shaken, suspicious, and newly frightened by how narrowly she seems to have avoided disaster.",
+      "label": "anxious"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "The sprites are mostly lively and outwardly reactive in line with an expressive extrovert, and they track the panic-to-weirded-out-to-relieved-to-alarmed arc well, with only a few slightly off choices like embarrassed for snarky lines."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Sprites consistently reflect an extroverted, expressive personality with visible emotional shifts (anxiety→embarrassment→surprise→determination→shock), though the repeated anxious sprite in the final sequence slightly dulls what could be sharper escalation into genuine dread."
+    }
+  }
+}

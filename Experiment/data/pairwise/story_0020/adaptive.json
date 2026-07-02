@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0020",
+  "expression_set": "adaptive",
+  "personality": "extroverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "Both track her energetic, expressive personality well, but B’s warmer smile to the crying boy and firmer resolve on accepting the delay create a more natural emotional flow than A’s flatter neutral/anxious beats."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "A",
+      "rationale": "The only differences are line 4 (A: neutral vs B: smile, fitting an extrovert's warmth) and line 7 (A: anxious better matches her reluctant groan, B: determined is flat there)."
+    }
+  }
+}

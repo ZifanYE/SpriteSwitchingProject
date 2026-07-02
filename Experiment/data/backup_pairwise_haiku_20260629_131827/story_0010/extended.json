@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0010",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays subtler and more reserved overall, while B’s stronger astonishment/unconvinced/surprised beats feel slightly too outward for Aoi and less finely matched to the scene’s gentle emotional shifts."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "Version A uses more consistently reserved and subtle emotional expressions (displeased_frown, slightly_happy_faint_smile) that align with an introverted personality, while Version B's unconvinced and astonished sprites are more overtly expressive and less characteristic of someone who 'shows emotion subtly' and 'rarely raises her voice even when upset.'"
+    }
+  }
+}

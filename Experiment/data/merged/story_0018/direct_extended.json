@@ -1,0 +1,435 @@
+{
+  "instance_id": "story_0018",
+  "title": "Corner, Impact, and Attendance",
+  "protagonist": "Aoi",
+  "studied_speaker": "Aoi",
+  "pipeline": "direct",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "spriteMap": {
+    "angry": 0,
+    "astonished": 1,
+    "crying_hard": 2,
+    "displeased_frown": 3,
+    "exasperated": 4,
+    "holding_back_tears": 5,
+    "interested_attentive": 6,
+    "natural_smile_cheerful": 7,
+    "sad": 8,
+    "serious_expressionless": 9,
+    "slightly_happy_faint_smile": 10,
+    "surprised": 11,
+    "unconvinced": 12,
+    "uneasy_confused": 13
+  },
+  "dialogue": [
+    {
+      "turn": 0,
+      "type": "narration",
+      "text": "The first morning of the new school term -- and Aoi is already running late."
+    },
+    {
+      "turn": 1,
+      "type": "dialogue",
+      "text": "No, no, no -- not on the very first day!",
+      "speaker": "Aoi",
+      "label": "exasperated",
+      "sprite": 4
+    },
+    {
+      "turn": 2,
+      "type": "narration",
+      "text": "Her loafer skids on the polished floor of the station underpass."
+    },
+    {
+      "turn": 3,
+      "type": "narration",
+      "text": "Aoi clutches the paper packet in her arms — the orientation forms she went back home to retrieve after leaving them on the kitchen table."
+    },
+    {
+      "turn": 4,
+      "type": "narration",
+      "text": "She cuts around the last blind corner toward the school gate."
+    },
+    {
+      "turn": 5,
+      "type": "narration",
+      "text": "And slams straight into someone coming the other way."
+    },
+    {
+      "turn": 6,
+      "type": "dialogue",
+      "text": "Ah—!",
+      "speaker": "Aoi",
+      "label": "astonished",
+      "sprite": 1
+    },
+    {
+      "turn": 7,
+      "type": "narration",
+      "text": "The packet bursts open. Papers flutter across the pavement like white birds."
+    },
+    {
+      "turn": 8,
+      "type": "dialogue",
+      "text": "Watch it.",
+      "speaker": "Boy"
+    },
+    {
+      "turn": 9,
+      "type": "narration",
+      "text": "The voice is low and clipped. A tall boy in a different blazer steadies himself, one hand still on the strap of a duffel bag."
+    },
+    {
+      "turn": 10,
+      "type": "dialogue",
+      "text": "I-I'm so sorry.",
+      "speaker": "Aoi",
+      "label": "uneasy_confused",
+      "sprite": 13
+    },
+    {
+      "turn": 11,
+      "type": "dialogue",
+      "text": "I wasn't looking ahead.",
+      "speaker": "Aoi",
+      "label": "uneasy_confused",
+      "sprite": 13
+    },
+    {
+      "turn": 12,
+      "type": "dialogue",
+      "text": "Clearly.",
+      "speaker": "Boy"
+    },
+    {
+      "turn": 13,
+      "type": "narration",
+      "text": "Heat rushes to her face. She drops to her knees and starts gathering the scattered sheets with trembling fingers."
+    },
+    {
+      "turn": 14,
+      "type": "dialogue",
+      "text": "My forms... oh no...",
+      "speaker": "Aoi",
+      "label": "uneasy_confused",
+      "sprite": 13
+    },
+    {
+      "turn": 15,
+      "type": "narration",
+      "text": "A shadow falls across the papers. The boy crouches too, quicker than his tone suggested."
+    },
+    {
+      "turn": 16,
+      "type": "dialogue",
+      "text": "Hold still. The wind's taking them.",
+      "speaker": "Boy"
+    },
+    {
+      "turn": 17,
+      "type": "narration",
+      "text": "He pins one page with his palm, catches another against his knee, and hands her a bent photograph."
+    },
+    {
+      "turn": 18,
+      "type": "dialogue",
+      "text": "Th-thank you.",
+      "speaker": "Aoi",
+      "label": "slightly_happy_faint_smile",
+      "sprite": 10
+    },
+    {
+      "turn": 19,
+      "type": "dialogue",
+      "text": "You don't have to—",
+      "speaker": "Aoi",
+      "label": "uneasy_confused",
+      "sprite": 13
+    },
+    {
+      "turn": 20,
+      "type": "dialogue",
+      "text": "If these are your entrance forms, you kind of need them.",
+      "speaker": "Boy"
+    },
+    {
+      "turn": 21,
+      "type": "narration",
+      "text": "She blinks. On top of the stack in his hand is the school crest and her name, written in careful ink."
+    },
+    {
+      "turn": 22,
+      "type": "dialogue",
+      "text": "You saw that?",
+      "speaker": "Aoi",
+      "label": "astonished",
+      "sprite": 1
+    },
+    {
+      "turn": 23,
+      "type": "dialogue",
+      "text": "Hard not to.",
+      "speaker": "Boy"
+    },
+    {
+      "turn": 24,
+      "type": "narration",
+      "text": "He gathers the last sheet, then glances toward the front gate beyond the hedge."
+    },
+    {
+      "turn": 25,
+      "type": "dialogue",
+      "text": "We're both late now.",
+      "speaker": "Boy"
+    },
+    {
+      "turn": 26,
+      "type": "dialogue",
+      "text": "Both...?",
+      "speaker": "Aoi",
+      "label": "uneasy_confused",
+      "sprite": 13
+    },
+    {
+      "turn": 27,
+      "type": "dialogue",
+      "text": "Transfer student. First day.",
+      "speaker": "Boy"
+    },
+    {
+      "turn": 28,
+      "type": "narration",
+      "text": "He lifts the duffel a little, as if that explains the hurried look, the unfamiliar uniform, the map sticking from his pocket."
+    },
+    {
+      "turn": 29,
+      "type": "dialogue",
+      "text": "Oh.",
+      "speaker": "Aoi",
+      "label": "surprised",
+      "sprite": 11
+    },
+    {
+      "turn": 30,
+      "type": "narration",
+      "text": "For a second, her embarrassment loosens. She isn't the only one off-balance this morning."
+    },
+    {
+      "turn": 31,
+      "type": "dialogue",
+      "text": "Then... we're in trouble together.",
+      "speaker": "Aoi",
+      "label": "slightly_happy_faint_smile",
+      "sprite": 10
+    },
+    {
+      "turn": 32,
+      "type": "narration",
+      "text": "The corner of his mouth moves. Not quite a smile, but close."
+    },
+    {
+      "turn": 33,
+      "type": "dialogue",
+      "text": "Don't say that so calmly.",
+      "speaker": "Boy"
+    },
+    {
+      "turn": 34,
+      "type": "narration",
+      "text": "The warning bell rings from the main building."
+    },
+    {
+      "turn": 35,
+      "type": "dialogue",
+      "text": "Ah— the bell...",
+      "speaker": "Aoi",
+      "label": "surprised",
+      "sprite": 11
+    },
+    {
+      "turn": 36,
+      "type": "dialogue",
+      "text": "Can you run?",
+      "speaker": "Boy"
+    },
+    {
+      "turn": 37,
+      "type": "dialogue",
+      "text": "I can try.",
+      "speaker": "Aoi",
+      "label": "slightly_happy_faint_smile",
+      "sprite": 10
+    },
+    {
+      "turn": 38,
+      "type": "narration",
+      "text": "They break into a run through the gate, side by side for three breathless seconds — until a teacher steps into their path."
+    },
+    {
+      "turn": 39,
+      "type": "dialogue",
+      "text": "You two. Stop right there.",
+      "speaker": "Teacher"
+    },
+    {
+      "turn": 40,
+      "type": "narration",
+      "text": "Aoi freezes so fast she almost drops the forms again."
+    },
+    {
+      "turn": 41,
+      "type": "dialogue",
+      "text": "S-sorry...",
+      "speaker": "Aoi",
+      "label": "uneasy_confused",
+      "sprite": 13
+    },
+    {
+      "turn": 42,
+      "type": "dialogue",
+      "text": "Name and class?",
+      "speaker": "Teacher"
+    },
+    {
+      "turn": 43,
+      "type": "dialogue",
+      "text": "Aoi Sakamoto. First year, Class Three.",
+      "speaker": "Aoi",
+      "label": "serious_expressionless",
+      "sprite": 9
+    },
+    {
+      "turn": 44,
+      "type": "narration",
+      "text": "Her voice comes out small, but steady enough."
+    },
+    {
+      "turn": 45,
+      "type": "dialogue",
+      "text": "Kirishima Ren. Transfer. I was heading to the office.",
+      "speaker": "Boy"
+    },
+    {
+      "turn": 46,
+      "type": "narration",
+      "text": "The teacher's eyes narrow at the two of them, then at the papers in Aoi's arms."
+    },
+    {
+      "turn": 47,
+      "type": "dialogue",
+      "text": "First day, and already making an impression.",
+      "speaker": "Teacher"
+    },
+    {
+      "turn": 48,
+      "type": "narration",
+      "text": "Aoi's stomach sinks."
+    },
+    {
+      "turn": 49,
+      "type": "dialogue",
+      "text": "It's my fault.",
+      "speaker": "Aoi",
+      "label": "sad",
+      "sprite": 8
+    },
+    {
+      "turn": 50,
+      "type": "dialogue",
+      "text": "I forgot my forms and ran back home for them.",
+      "speaker": "Aoi",
+      "label": "uneasy_confused",
+      "sprite": 13
+    },
+    {
+      "turn": 51,
+      "type": "dialogue",
+      "text": "Then I turned the corner too fast.",
+      "speaker": "Aoi",
+      "label": "uneasy_confused",
+      "sprite": 13
+    },
+    {
+      "turn": 52,
+      "type": "narration",
+      "text": "Beside her, Ren shifts as if to object, but she keeps her eyes lowered and finishes anyway."
+    },
+    {
+      "turn": 53,
+      "type": "dialogue",
+      "text": "...At least you're honest.",
+      "speaker": "Teacher"
+    },
+    {
+      "turn": 54,
+      "type": "dialogue",
+      "text": "Get to class, Aoi. And you, Kirishima, come with me to the office.",
+      "speaker": "Teacher"
+    },
+    {
+      "turn": 55,
+      "type": "narration",
+      "text": "Relief arrives so suddenly it almost makes her knees weak."
+    },
+    {
+      "turn": 56,
+      "type": "dialogue",
+      "text": "Yes, sir.",
+      "speaker": "Aoi",
+      "label": "serious_expressionless",
+      "sprite": 9
+    },
+    {
+      "turn": 57,
+      "type": "narration",
+      "text": "She turns, then hesitates. Ren is already adjusting his bag, expression unreadable."
+    },
+    {
+      "turn": 58,
+      "type": "dialogue",
+      "text": "Um... Kirishima-senpai?",
+      "speaker": "Aoi",
+      "label": "uneasy_confused",
+      "sprite": 13
+    },
+    {
+      "turn": 59,
+      "type": "dialogue",
+      "text": "What.",
+      "speaker": "Boy"
+    },
+    {
+      "turn": 60,
+      "type": "dialogue",
+      "text": "Thank you. For helping me.",
+      "speaker": "Aoi",
+      "label": "slightly_happy_faint_smile",
+      "sprite": 10
+    },
+    {
+      "turn": 61,
+      "type": "narration",
+      "text": "He looks at her for a brief, quiet beat."
+    },
+    {
+      "turn": 62,
+      "type": "dialogue",
+      "text": "Next time, look where you're going, Sakamoto.",
+      "speaker": "Boy"
+    },
+    {
+      "turn": 63,
+      "type": "dialogue",
+      "text": "...I will.",
+      "speaker": "Aoi",
+      "label": "slightly_happy_faint_smile",
+      "sprite": 10
+    },
+    {
+      "turn": 64,
+      "type": "narration",
+      "text": "As she hurries toward the first-year hall, cheeks still warm, she finds herself holding one bent photograph a little more carefully than the rest."
+    }
+  ]
+}

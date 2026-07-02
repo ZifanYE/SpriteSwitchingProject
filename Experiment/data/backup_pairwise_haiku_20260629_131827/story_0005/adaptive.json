@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0005",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays more understated and introverted overall, while B repeatedly pushes Aoi into more outwardly assertive or bright sprites at tender beats where softer shy/sad restraint fits better."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "Version A maintains consistent introversion through subtle emotional restraint (shy, sad, neutral sprites) and avoids jarring tonal shifts, while Version B breaks character with anxious overstatement early on and ends with determined/smile sprites that contradict the reserved, soft-spoken personality established throughout."
+    }
+  }
+}

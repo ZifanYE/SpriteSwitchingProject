@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0006",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B better preserves Aoi’s quiet, inward personality with subtler choices like shy for soft protest and reply, while A’s embarrassed/anxious picks are slightly more outward than the lines imply."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B uses 'shy' instead of 'anxious' for the initial late-to-school line and 'shy' instead of 'embarrassed' when deflecting the girl's question, better capturing an introvert's reserved, soft-spoken nature and subtle emotional expression rather than overt anxiety or embarrassment."
+    }
+  }
+}

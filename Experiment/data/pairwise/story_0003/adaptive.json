@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0003",
+  "expression_set": "adaptive",
+  "personality": "extroverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B gives Aoi a sharper, more expressive edge on her snark and mounting nerves, while A undersells a few key beats with flatter neutral/confused choices."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "A",
+      "rationale": "B's 'angry' retort and 'anxious' reactions are more expressive for an extrovert, but A's 'neutral' deflection and 'confused' beats better track the line-by-line emotional logic while B repeats 'surprised' redundantly."
+    }
+  }
+}

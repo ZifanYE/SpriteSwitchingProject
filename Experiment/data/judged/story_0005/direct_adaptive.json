@@ -1,0 +1,170 @@
+{
+  "instance_id": "story_0005",
+  "pipeline": "direct",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "anxious",
+    "confused",
+    "determined",
+    "embarrassed",
+    "neutral",
+    "sad",
+    "shy",
+    "smile",
+    "surprised"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 6,
+      "text": "...This wasn't here yesterday.",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 9,
+      "text": "No way...",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 12,
+      "text": "I really don't have time for this.",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 17,
+      "text": "Again...?",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 19,
+      "text": "I don't understand.",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 22,
+      "text": "The first time?",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 27,
+      "text": "...That's why I was late.",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 29,
+      "text": "It's just the route to school.",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 32,
+      "text": "From me?",
+      "emotion_description": null,
+      "label": "surprised"
+    },
+    {
+      "turn": 36,
+      "text": "You're asking me to tell my name to a road?",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 41,
+      "text": "If I do this... I'll get to school?",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 43,
+      "text": "And if I don't?",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 48,
+      "text": "...You couldn't leave either, could you?",
+      "emotion_description": null,
+      "label": "sad"
+    },
+    {
+      "turn": 53,
+      "text": "Aoi Takase.",
+      "emotion_description": null,
+      "label": "determined"
+    },
+    {
+      "turn": 56,
+      "text": "Then... if names matter...",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 57,
+      "text": "Can I give you one?",
+      "emotion_description": null,
+      "label": "shy"
+    },
+    {
+      "turn": 60,
+      "text": "Because being left behind sounds lonely.",
+      "emotion_description": null,
+      "label": "sad"
+    },
+    {
+      "turn": 63,
+      "text": "...Mizuki.",
+      "emotion_description": null,
+      "label": "determined"
+    },
+    {
+      "turn": 70,
+      "text": "Will I see you again?",
+      "emotion_description": null,
+      "label": "sad"
+    },
+    {
+      "turn": 73,
+      "text": "Right... I'll try not to be.",
+      "emotion_description": null,
+      "label": "smile"
+    },
+    {
+      "turn": 77,
+      "text": "First day...",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 78,
+      "text": "Please be normal from here on.",
+      "emotion_description": null,
+      "label": "determined"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "The sequence stays mostly subdued and inward-looking with fitting anxious/confused/sad beats, but a few choices flatten nuance or overstate it slightly, especially repeated confusion and the stronger determined poses."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Sprites stay subtle and reserved (shy, sad, soft determined) fitting the introvert, and track the emotional arc well, though the repeated 'confused' becomes slightly monotonous and the final 'confused/determined' pairing is a touch generic."
+    }
+  }
+}

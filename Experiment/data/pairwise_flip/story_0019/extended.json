@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0019",
+  "expression_set": "extended",
+  "personality": "extroverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "tie",
+      "cc_confidence": "strong",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "tie",
+      "raw_ef_ab": "A",
+      "rationale": "The versions are identical except A uses astonished rather than unconvinced/uneasy_confused on the two strongest surprise beats, which fits the immediate shock slightly better."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "The two differ at three lines: A's 'astonished' for the surprise reveals (platform three, name reveal) better captures this expressive extrovert's wide-eyed reactions, whereas B uses flatter 'unconvinced'/'uneasy_confused' that dampen the emotional peaks."
+    }
+  }
+}

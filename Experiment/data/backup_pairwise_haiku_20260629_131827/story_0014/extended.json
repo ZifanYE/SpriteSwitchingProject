@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0014",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays more subdued and inward for an introverted Aoi, while B repeatedly pushes her into broader surprise/exasperation where quieter confusion, resolve, and dry understatement fit better."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "Version A maintains consistent use of uneasy_confused to reflect Aoi's introverted, inward-processing response to escalating strangeness, while B breaks character with astonished and surprised sprites that contradict her reserved, subtle-emotion personality; A's emotional arc is also more coherent, building from confusion through dry humor to cautious acceptance."
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0010",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays more subtly reserved with shy/small-smile beats, while B’s neutral/confused/smile choices flatten or overstate key moments in her timid-to-warmed progression."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "Version A uses 'smile' sprite at the moment of genuine warmth with Ren and 'shy' when laughing at his admission, maintaining subtle emotional expression consistent with an introverted character; Version B switches to 'neutral' and 'confused' at emotionally significant moments, breaking character consistency and dampening the emotional arc of their connection."
+    }
+  }
+}

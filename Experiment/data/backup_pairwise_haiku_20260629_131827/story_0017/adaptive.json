@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0017",
+  "expression_set": "adaptive",
+  "personality": "extroverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "strong",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A better preserves Aoi’s assertive, expressive momentum with determined sprites during her push-through moments, while B softens key beats into embarrassed/smiling expressions that undercut both her outgoing personality and the scene’s emotional arc."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "Version A uses determined sprites during the rushed arrival sequence, which better reflects an extroverted character taking action and pushing forward, whereas Version B's embarrassed sprites undermine her agency; A also maintains better emotional coherence by reserving embarrassment for the actual humiliating moment rather than diluting it across the rush."
+    }
+  }
+}

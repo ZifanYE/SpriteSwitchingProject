@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0018",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A better preserves Aoi’s quiet, inward affect with shy/anxious beats and lands key shifts more precisely, while B overuses embarrassed/surprised and weakens the scene’s emotional progression."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "A",
+      "rationale": "B leans into subtle, reserved shy/embarrassed sprites fitting the introvert, but A's varied progression (shy thanks, confused, surprised, determined) better tracks each line's distinct emotional beat."
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0004",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "strong",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A better preserves Aoi’s quiet, restrained resolve and tracks the scene’s beats more precisely, while B often flattens key moments into generic unease or mismatched calm."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A's varied sprites better track each emotional beat (sad at the girl's fear, holding_back_tears at the dread of being late, faint smile of resolve), while B overuses uneasy_confused and flattens the progression."
+    }
+  }
+}

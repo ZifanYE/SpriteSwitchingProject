@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0008",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A’s subdued sadness on the self-deprecating and apologetic beats fits an introverted, quietly mortified Aoi better, while B’s smile on “Thank you... and I’m really sorry” feels too bright for the moment."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "A",
+      "rationale": "The two versions differ only on two lines: B's neutral self-deprecation and happiness-during-apology fit the reserved personality slightly better, while A's sadness on the self-deprecation and the 'almost laughed' apology line track the implied emotion more precisely."
+    }
+  }
+}

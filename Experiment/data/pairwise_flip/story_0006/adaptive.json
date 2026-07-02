@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0006",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A better preserves Aoi’s quiet, inward softness with shy/embarrassed beats where B turns several subdued lines into broader anxiety or embarrassment, making A’s emotional flow more precise."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "The versions differ on only three lines, and A's choices (anxious opening for running late, shy for the quiet 'I wasn't going to' and '...Not really') better fit the introverted character's subtle, soft-spoken reactions than B's blunter embarrassed/anxious picks."
+    }
+  }
+}

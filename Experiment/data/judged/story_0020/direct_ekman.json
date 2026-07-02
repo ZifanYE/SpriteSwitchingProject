@@ -1,0 +1,119 @@
+{
+  "instance_id": "story_0020",
+  "pipeline": "direct",
+  "expression_set": "ekman",
+  "personality": "extroverted",
+  "expression_labels": [
+    "anger",
+    "disgust",
+    "fear",
+    "happiness",
+    "neutral",
+    "sadness",
+    "surprise"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 3,
+      "text": "Why did the train have to stall today of all days?!",
+      "emotion_description": null,
+      "label": "anger"
+    },
+    {
+      "turn": 6,
+      "text": "...Huh?",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 8,
+      "text": "Hey, hey, are you okay?",
+      "emotion_description": null,
+      "label": "happiness"
+    },
+    {
+      "turn": 11,
+      "text": "Whoa, seriously? Don't move, okay? I'm here.",
+      "emotion_description": null,
+      "label": "surprise"
+    },
+    {
+      "turn": 15,
+      "text": "...Ah, man. Fine. First day and I'm already doomed.",
+      "emotion_description": null,
+      "label": "sadness"
+    },
+    {
+      "turn": 16,
+      "text": "What's your name?",
+      "emotion_description": null,
+      "label": "neutral"
+    },
+    {
+      "turn": 18,
+      "text": "Okay, Kota. I'm Aoi. We're going to find your mom together.",
+      "emotion_description": null,
+      "label": "happiness"
+    },
+    {
+      "turn": 20,
+      "text": "Did you come from the station? The bakery? Somewhere with lots of people?",
+      "emotion_description": null,
+      "label": "neutral"
+    },
+    {
+      "turn": 23,
+      "text": "Got it. Flower shop. Come on, hold my sleeve tight.",
+      "emotion_description": null,
+      "label": "happiness"
+    },
+    {
+      "turn": 25,
+      "text": "Excuse me! Did anyone see a woman looking for a little kid in a yellow cap?",
+      "emotion_description": null,
+      "label": "happiness"
+    },
+    {
+      "turn": 32,
+      "text": "It's okay. He stayed near the crossing. He was really trying to be brave.",
+      "emotion_description": null,
+      "label": "happiness"
+    },
+    {
+      "turn": 34,
+      "text": "Next time, don't chase buses, okay? They're not that interesting.",
+      "emotion_description": null,
+      "label": "happiness"
+    },
+    {
+      "turn": 38,
+      "text": "Oh, wow. I am absolutely dead.",
+      "emotion_description": null,
+      "label": "fear"
+    },
+    {
+      "turn": 40,
+      "text": "But... yeah. Still worth it.",
+      "emotion_description": null,
+      "label": "happiness"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "The sequence is mostly expressive and proactive in an extroverted way, with strong fits on her panic, frustration, reassurance, and upbeat resolve, but several 'happiness' and 'neutral' choices flatten concern/inquiry where warmer concern or focused determination would fit better."
+    },
+    "claude": {
+      "character_consistency": 3,
+      "emotional_fidelity": 2,
+      "rationale": "Strong opening fits (fear/anger/surprise), but the recurring 'happiness' on concerned/comforting lines ('are you okay?', 'don't chase buses') and 'fear' on the final wry self-mockery misread the actual emotions."
+    }
+  }
+}

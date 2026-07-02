@@ -1,0 +1,168 @@
+{
+  "instance_id": "story_0014",
+  "pipeline": "direct",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "astonished",
+    "crying_hard",
+    "displeased_frown",
+    "exasperated",
+    "holding_back_tears",
+    "interested_attentive",
+    "natural_smile_cheerful",
+    "sad",
+    "serious_expressionless",
+    "slightly_happy_faint_smile",
+    "surprised",
+    "unconvinced",
+    "uneasy_confused"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": null,
+      "label": "exasperated"
+    },
+    {
+      "turn": 5,
+      "text": "It says 7:41...",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 6,
+      "text": "But it was 7:34 a second ago.",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 8,
+      "text": "I didn't... drop this, did I?",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 11,
+      "text": "That's not possible.",
+      "emotion_description": null,
+      "label": "astonished"
+    },
+    {
+      "turn": 16,
+      "text": "I... didn't hear you come in.",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 18,
+      "text": "Nearby doesn't usually mean appearing out of nowhere.",
+      "emotion_description": null,
+      "label": "unconvinced"
+    },
+    {
+      "turn": 21,
+      "text": "Excuse me?",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 23,
+      "text": "My... local time.",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 26,
+      "text": "I don't think I'm awake enough for this.",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 29,
+      "text": "...What is that?",
+      "emotion_description": null,
+      "label": "astonished"
+    },
+    {
+      "turn": 32,
+      "text": "You're joking.",
+      "emotion_description": null,
+      "label": "unconvinced"
+    },
+    {
+      "turn": 35,
+      "text": "So there is an alien device in my stairwell...",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 36,
+      "text": "And you're saying you're not from here.",
+      "emotion_description": null,
+      "label": "unconvinced"
+    },
+    {
+      "turn": 40,
+      "text": "What happens if that opens?",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 42,
+      "text": "Briefly sounds bad.",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 46,
+      "text": "Tell me what to do.",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 49,
+      "text": "If I disappear before homeroom, I'm blaming you.",
+      "emotion_description": null,
+      "label": "exasperated"
+    },
+    {
+      "turn": 55,
+      "text": "...Did we fix it?",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 58,
+      "text": "Mostly?",
+      "emotion_description": null,
+      "label": "unconvinced"
+    },
+    {
+      "turn": 62,
+      "text": "You're enrolling... today?",
+      "emotion_description": null,
+      "label": "surprised"
+    },
+    {
+      "turn": 64,
+      "text": "You lost a piece of impossible technology in an apartment stairwell.",
+      "emotion_description": null,
+      "label": "unconvinced"
+    },
+    {
+      "turn": 68,
+      "text": "Then I guess we're both having a bad first day.",
+      "emotion_description": null,
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 73,
+      "text": "...Only if you explain what 'local time' means on the way.",
+      "emotion_description": null,
+      "label": "interested_attentive"
+    }
+  ]
+}

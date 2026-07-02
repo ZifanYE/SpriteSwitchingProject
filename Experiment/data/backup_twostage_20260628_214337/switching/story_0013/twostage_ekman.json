@@ -1,0 +1,131 @@
+{
+  "instance_id": "story_0013",
+  "pipeline": "twostage",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "expression_labels": [
+    "anger",
+    "disgust",
+    "fear",
+    "happiness",
+    "neutral",
+    "sadness",
+    "surprise"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panic and self-reproach, worried that starting the term late will ruin her careful first impression.",
+      "label": "fear"
+    },
+    {
+      "turn": 5,
+      "text": "...Why is it here again?",
+      "emotion_description": "She feels startled and quietly disoriented, with a growing anxious frustration as the familiar shrine gate seems impossibly to block her path again.",
+      "label": "fear"
+    },
+    {
+      "turn": 8,
+      "text": "I left home at seven-twenty.",
+      "emotion_description": "She is quietly bewildered and increasingly anxious, trying to reassure herself with a factual detail while realizing something is very wrong.",
+      "label": "fear"
+    },
+    {
+      "turn": 9,
+      "text": "I know I did.",
+      "emotion_description": "She feels quietly unsettled and increasingly certain that something is wrong, but is trying to stay calm and trust her own memory despite the confusion.",
+      "label": "fear"
+    },
+    {
+      "turn": 13,
+      "text": "...You can see me?",
+      "emotion_description": "She is startled and wary, with a quiet surge of disbelief and fear as she realizes the strange girl is real and aware of her.",
+      "label": "fear"
+    },
+    {
+      "turn": 16,
+      "text": "Am I dreaming?",
+      "emotion_description": "She feels startled and disoriented, trying to steady herself by quietly questioning whether this impossible situation is only a dream.",
+      "label": "surprise"
+    },
+    {
+      "turn": 18,
+      "text": "That's... worse.",
+      "emotion_description": "She feels a quiet, uneasy dread mixed with bewildered resignation, realizing this strange situation is more serious than a dream and trying to keep her fear contained.",
+      "label": "fear"
+    },
+    {
+      "turn": 22,
+      "text": "You want me to help?",
+      "emotion_description": "She is cautious but quietly sympathetic, surprised by the strange request yet willing to help despite her own anxiety about being late.",
+      "label": "surprise"
+    },
+    {
+      "turn": 26,
+      "text": "...If I say no, I'll just see this gate again, won't I?",
+      "emotion_description": "She feels uneasy and resigned, with a quiet, reluctant acceptance that helping is the only way to escape the repeating morning.",
+      "label": "sadness"
+    },
+    {
+      "turn": 29,
+      "text": "Okay.",
+      "emotion_description": "She feels resigned but quietly determined, accepting the strange situation with a small, nervous calm and a hint of reluctant curiosity.",
+      "label": "neutral"
+    },
+    {
+      "turn": 30,
+      "text": "Just quickly, then.",
+      "emotion_description": "She is quietly resigned but still anxious, trying to steady herself by agreeing to help only as briefly and cautiously as possible.",
+      "label": "fear"
+    },
+    {
+      "turn": 33,
+      "text": "Is this it?",
+      "emotion_description": "She is quietly cautious and a little relieved, with her fear easing into tentative hope as she asks the question softly.",
+      "label": "happiness"
+    },
+    {
+      "turn": 39,
+      "text": "It didn't ruin everything.",
+      "emotion_description": "She speaks softly with a quiet, reassuring empathy, trying to soothe the ghost girl while also comforting herself with the belief that one mistake does not define the whole day.",
+      "label": "happiness"
+    },
+    {
+      "turn": 40,
+      "text": "You remembered to come back.",
+      "emotion_description": "She feels a quiet, tender sympathy mixed with relief, recognizing the ghost girl’s loneliness and offering a small, reassuring kindness without making a big show of it.",
+      "label": "happiness"
+    },
+    {
+      "turn": 43,
+      "text": "I'm... not, really.",
+      "emotion_description": "She feels shy and self-effacing, quietly deflecting praise while a small, embarrassed warmth lingers beneath her reserved exterior.",
+      "label": "happiness"
+    },
+    {
+      "turn": 50,
+      "text": "...I really am late now.",
+      "emotion_description": "She feels a quiet, resigned mix of anxiety and relief, realizing the strange delay is over and that she now has to face the ordinary panic of being genuinely late.",
+      "label": "fear"
+    },
+    {
+      "turn": 52,
+      "text": "I'll still go.",
+      "emotion_description": "She feels quietly resolved and a little breathless, choosing to move forward despite her lateness with a soft, lingering sense of responsibility and courage.",
+      "label": "happiness"
+    },
+    {
+      "turn": 56,
+      "text": "S-Sorry.",
+      "emotion_description": "She feels flustered and embarrassed about arriving late, but is trying to stay polite and composed despite the lingering rush and self-consciousness.",
+      "label": "surprise"
+    },
+    {
+      "turn": 57,
+      "text": "I got held up on the way.",
+      "emotion_description": "She feels flustered and apologetic, trying to explain herself calmly while quietly embarrassed about being late.",
+      "label": "fear"
+    }
+  ]
+}

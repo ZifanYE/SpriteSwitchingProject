@@ -1,0 +1,176 @@
+{
+  "instance_id": "story_0014",
+  "pipeline": "twostage",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "anxious",
+    "confused",
+    "determined",
+    "embarrassed",
+    "neutral",
+    "sad",
+    "shy",
+    "smile",
+    "surprised"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panicked embarrassment and frustration, worried that starting the term late will ruin her careful first impression.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 5,
+      "text": "It says 7:41...",
+      "emotion_description": "She feels a quiet, sinking panic and disbelief as she realizes she has already lost precious time, trying to stay composed despite the urgency.",
+      "label": "anxious"
+    },
+    {
+      "turn": 6,
+      "text": "But it was 7:34 a second ago.",
+      "emotion_description": "She feels quietly bewildered and mildly panicked, trying to make sense of the impossible time jump while keeping her anxiety contained.",
+      "label": "confused"
+    },
+    {
+      "turn": 8,
+      "text": "I didn't... drop this, did I?",
+      "emotion_description": "She feels quietly unsettled and confused, with a faint anxious suspicion that something is wrong but trying to stay calm and make sense of it.",
+      "label": "confused"
+    },
+    {
+      "turn": 11,
+      "text": "That's not possible.",
+      "emotion_description": "She feels quiet, startled disbelief and a growing unease as she tries to make sense of something that clearly shouldn’t be happening.",
+      "label": "confused"
+    },
+    {
+      "turn": 16,
+      "text": "I... didn't hear you come in.",
+      "emotion_description": "She is startled and uneasy, trying to stay polite and composed while quietly processing the impossible sudden appearance.",
+      "label": "surprised"
+    },
+    {
+      "turn": 18,
+      "text": "Nearby doesn't usually mean appearing out of nowhere.",
+      "emotion_description": "She is quietly unsettled and wary, trying to sound polite while mentally pushing back against the girl’s impossible appearance.",
+      "label": "confused"
+    },
+    {
+      "turn": 21,
+      "text": "Excuse me?",
+      "emotion_description": "She is quietly startled and wary, trying to process the impossible accusation while keeping her confusion restrained and polite.",
+      "label": "confused"
+    },
+    {
+      "turn": 23,
+      "text": "My... local time.",
+      "emotion_description": "She is quietly bewildered and uneasy, trying to process the impossible explanation while keeping her alarm and confusion restrained.",
+      "label": "confused"
+    },
+    {
+      "turn": 26,
+      "text": "I don't think I'm awake enough for this.",
+      "emotion_description": "She feels dazed and overwhelmed, trying to stay polite and composed while quietly admitting that the situation has become too strange to process.",
+      "label": "confused"
+    },
+    {
+      "turn": 29,
+      "text": "...What is that?",
+      "emotion_description": "She is quietly stunned and uneasy, trying to steady herself while her curiosity is overtaken by a growing sense that something impossible and unsettling is unfolding.",
+      "label": "surprised"
+    },
+    {
+      "turn": 32,
+      "text": "You're joking.",
+      "emotion_description": "She is trying to steady herself with disbelief and a faint, nervous edge, using a quiet skeptical remark to keep panic at bay.",
+      "label": "confused"
+    },
+    {
+      "turn": 35,
+      "text": "So there is an alien device in my stairwell...",
+      "emotion_description": "She is trying to steady herself with dry, tentative disbelief, masking rising fear and confusion behind a quiet, almost sarcastic observation.",
+      "label": "confused"
+    },
+    {
+      "turn": 36,
+      "text": "And you're saying you're not from here.",
+      "emotion_description": "She is tense and wary, trying to process the impossible with quiet disbelief while keeping her fear and curiosity tightly contained.",
+      "label": "confused"
+    },
+    {
+      "turn": 40,
+      "text": "What happens if that opens?",
+      "emotion_description": "She is frightened but trying to stay composed, urgently seeking reassurance as the situation becomes dangerously real.",
+      "label": "anxious"
+    },
+    {
+      "turn": 42,
+      "text": "Briefly sounds bad.",
+      "emotion_description": "She is trying to stay calm and understated, but beneath the quiet wording she is clearly alarmed and wary, with a growing sense that this situation is dangerously beyond her control.",
+      "label": "anxious"
+    },
+    {
+      "turn": 46,
+      "text": "Tell me what to do.",
+      "emotion_description": "She is frightened but trying to stay composed, shifting from disbelief into urgent trust as she asks for clear instructions.",
+      "label": "anxious"
+    },
+    {
+      "turn": 49,
+      "text": "If I disappear before homeroom, I'm blaming you.",
+      "emotion_description": "She is frightened but trying to steady herself with dry, nervous humor, masking her panic with a small, reluctant joke.",
+      "label": "anxious"
+    },
+    {
+      "turn": 55,
+      "text": "...Did we fix it?",
+      "emotion_description": "She is cautiously hopeful and still shaken, checking for reassurance with a quiet, tentative voice after the surreal danger seems to have passed.",
+      "label": "anxious"
+    },
+    {
+      "turn": 58,
+      "text": "Mostly?",
+      "emotion_description": "She is relieved that the danger seems to have passed, but still anxious and wary, needing reassurance because the word leaves her uncertain whether everything is truly safe.",
+      "label": "anxious"
+    },
+    {
+      "turn": 62,
+      "text": "You're enrolling... today?",
+      "emotion_description": "Aoi is cautiously startled and trying to process the absurdity, with a thin thread of wary curiosity beneath her lingering relief.",
+      "label": "surprised"
+    },
+    {
+      "turn": 64,
+      "text": "You lost a piece of impossible technology in an apartment stairwell.",
+      "emotion_description": "She is dryly incredulous and still a little shaken, but the joke-like wording shows her trying to steady herself with cautious humor rather than panic.",
+      "label": "confused"
+    },
+    {
+      "turn": 68,
+      "text": "Then I guess we're both having a bad first day.",
+      "emotion_description": "She feels a cautious, wry camaraderie easing her lingering shock, with a small resigned amusement at the shared chaos of the morning.",
+      "label": "smile"
+    },
+    {
+      "turn": 73,
+      "text": "...Only if you explain what 'local time' means on the way.",
+      "emotion_description": "She feels cautiously relieved and a little curious, trying to stay composed while tentatively accepting the strange situation and the other girl’s company.",
+      "label": "smile"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "The mostly subdued anxious/confused/small-smile sequence fits an introverted, soft-spoken girl well, though the repeated 'confused' labels flatten distinct beats like skepticism, dry humor, and wary disbelief."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Sprites consistently reflect an introverted character processing shock through confusion and anxiety rather than outward panic, with subtle emotional shifts (the caught laugh, the small smile at the end) matching her reserved nature; minor inconsistency is the 'surprised' sprite appearing twice for similar revelations when a more muted response might fit better."
+    }
+  }
+}

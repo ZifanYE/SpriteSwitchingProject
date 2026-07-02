@@ -1,0 +1,285 @@
+{
+  "instance_id": "story_0020",
+  "title": "The Long Way to School",
+  "protagonist": "Aoi",
+  "studied_speaker": "Aoi",
+  "pipeline": "twostage",
+  "expression_set": "adaptive",
+  "personality": "extroverted",
+  "spriteMap": {
+    "angry": 0,
+    "anxious": 1,
+    "confused": 2,
+    "determined": 3,
+    "embarrassed": 4,
+    "neutral": 5,
+    "sad": 6,
+    "shy": 7,
+    "smile": 8,
+    "surprised": 9
+  },
+  "dialogue": [
+    {
+      "turn": 0,
+      "type": "narration",
+      "text": "The first morning of the new school term -- and Aoi is already running late."
+    },
+    {
+      "turn": 1,
+      "type": "dialogue",
+      "text": "No, no, no -- not on the very first day!",
+      "speaker": "Aoi",
+      "label": "anxious",
+      "sprite": 1
+    },
+    {
+      "turn": 2,
+      "type": "narration",
+      "text": "Aoi skids around the corner, school bag thumping against her side."
+    },
+    {
+      "turn": 3,
+      "type": "dialogue",
+      "text": "Why did the train have to stall today of all days?!",
+      "speaker": "Aoi",
+      "label": "angry",
+      "sprite": 0
+    },
+    {
+      "turn": 4,
+      "type": "narration",
+      "text": "She had already lost ten minutes when the local line stopped between stations."
+    },
+    {
+      "turn": 5,
+      "type": "narration",
+      "text": "Now, taking the back streets as a shortcut, she sees a small figure standing by a crosswalk, shoulders shaking."
+    },
+    {
+      "turn": 6,
+      "type": "dialogue",
+      "text": "...Huh?",
+      "speaker": "Aoi",
+      "label": "confused",
+      "sprite": 2
+    },
+    {
+      "turn": 7,
+      "type": "narration",
+      "text": "A little boy in a yellow cap is crying, one shoe untied, clutching a crumpled paper tag."
+    },
+    {
+      "turn": 8,
+      "type": "dialogue",
+      "text": "Hey, hey, are you okay?",
+      "speaker": "Aoi",
+      "label": "smile",
+      "sprite": 8
+    },
+    {
+      "turn": 9,
+      "type": "dialogue",
+      "text": "M-My mom... I can't find her...",
+      "speaker": "Boy"
+    },
+    {
+      "turn": 10,
+      "type": "narration",
+      "text": "The light changes. People stream past him without stopping."
+    },
+    {
+      "turn": 11,
+      "type": "dialogue",
+      "text": "Whoa, seriously? Don't move, okay? I'm here.",
+      "speaker": "Aoi",
+      "label": "determined",
+      "sprite": 3
+    },
+    {
+      "turn": 12,
+      "type": "narration",
+      "text": "Aoi glances toward the school hill in the distance."
+    },
+    {
+      "turn": 13,
+      "type": "narration",
+      "text": "If she runs now, she might still make homeroom."
+    },
+    {
+      "turn": 14,
+      "type": "narration",
+      "text": "The boy wipes his face with his sleeve and looks smaller somehow."
+    },
+    {
+      "turn": 15,
+      "type": "dialogue",
+      "text": "...Ah, man. Fine. First day and I'm already doomed.",
+      "speaker": "Aoi",
+      "label": "determined",
+      "sprite": 3
+    },
+    {
+      "turn": 16,
+      "type": "dialogue",
+      "text": "What's your name?",
+      "speaker": "Aoi",
+      "label": "determined",
+      "sprite": 3
+    },
+    {
+      "turn": 17,
+      "type": "dialogue",
+      "text": "Kota...",
+      "speaker": "Boy"
+    },
+    {
+      "turn": 18,
+      "type": "dialogue",
+      "text": "Okay, Kota. I'm Aoi. We're going to find your mom together.",
+      "speaker": "Aoi",
+      "label": "determined",
+      "sprite": 3
+    },
+    {
+      "turn": 19,
+      "type": "narration",
+      "text": "She crouches to retie his shoelace, fingers quick but gentler than her voice."
+    },
+    {
+      "turn": 20,
+      "type": "dialogue",
+      "text": "Did you come from the station? The bakery? Somewhere with lots of people?",
+      "speaker": "Aoi",
+      "label": "determined",
+      "sprite": 3
+    },
+    {
+      "turn": 21,
+      "type": "dialogue",
+      "text": "The flower shop... Mom said wait... then I saw the bus...",
+      "speaker": "Boy"
+    },
+    {
+      "turn": 22,
+      "type": "narration",
+      "text": "His words break into hiccuping sobs."
+    },
+    {
+      "turn": 23,
+      "type": "dialogue",
+      "text": "Got it. Flower shop. Come on, hold my sleeve tight.",
+      "speaker": "Aoi",
+      "label": "determined",
+      "sprite": 3
+    },
+    {
+      "turn": 24,
+      "type": "narration",
+      "text": "They hurry back a block and a half. Aoi scans every storefront, every face."
+    },
+    {
+      "turn": 25,
+      "type": "dialogue",
+      "text": "Excuse me! Did anyone see a woman looking for a little kid in a yellow cap?",
+      "speaker": "Aoi",
+      "label": "determined",
+      "sprite": 3
+    },
+    {
+      "turn": 26,
+      "type": "narration",
+      "text": "At the corner flower shop, a pale woman rushes out the instant she hears them."
+    },
+    {
+      "turn": 27,
+      "type": "dialogue",
+      "text": "Kota!",
+      "speaker": "Mother"
+    },
+    {
+      "turn": 28,
+      "type": "dialogue",
+      "text": "Mom!",
+      "speaker": "Boy"
+    },
+    {
+      "turn": 29,
+      "type": "narration",
+      "text": "She drops to her knees and pulls him into her arms so hard his cap falls off."
+    },
+    {
+      "turn": 30,
+      "type": "narration",
+      "text": "For a second, Aoi only watches, chest tight from the force of the relief on the woman's face."
+    },
+    {
+      "turn": 31,
+      "type": "dialogue",
+      "text": "Thank you... thank you so much. I only turned away for one minute...",
+      "speaker": "Mother"
+    },
+    {
+      "turn": 32,
+      "type": "dialogue",
+      "text": "It's okay. He stayed near the crossing. He was really trying to be brave.",
+      "speaker": "Aoi",
+      "label": "smile",
+      "sprite": 8
+    },
+    {
+      "turn": 33,
+      "type": "narration",
+      "text": "The mother bows again and again, eyes wet. Kota peeks around her shoulder and gives Aoi a tiny wave."
+    },
+    {
+      "turn": 34,
+      "type": "dialogue",
+      "text": "Next time, don't chase buses, okay? They're not that interesting.",
+      "speaker": "Aoi",
+      "label": "smile",
+      "sprite": 8
+    },
+    {
+      "turn": 35,
+      "type": "dialogue",
+      "text": "...Okay.",
+      "speaker": "Boy"
+    },
+    {
+      "turn": 36,
+      "type": "narration",
+      "text": "Aoi checks the time on her phone."
+    },
+    {
+      "turn": 37,
+      "type": "narration",
+      "text": "Homeroom started three minutes ago."
+    },
+    {
+      "turn": 38,
+      "type": "dialogue",
+      "text": "Oh, wow. I am absolutely dead.",
+      "speaker": "Aoi",
+      "label": "embarrassed",
+      "sprite": 4
+    },
+    {
+      "turn": 39,
+      "type": "narration",
+      "text": "She groans, then laughs despite herself, breathless and bright."
+    },
+    {
+      "turn": 40,
+      "type": "dialogue",
+      "text": "But... yeah. Still worth it.",
+      "speaker": "Aoi",
+      "label": "smile",
+      "sprite": 8
+    },
+    {
+      "turn": 41,
+      "type": "narration",
+      "text": "With that, Aoi spins on her heel and tears uphill toward school, later than ever, heart pounding for a completely different reason."
+    }
+  ]
+}

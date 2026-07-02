@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0010",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A’s subtler choices better suit an introverted girl overall, while B overstates key beats with displeased/smiling/surprised sprites where the scene implies quieter offense, teasing restraint, and mild curiosity."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "B",
+      "rationale": "A's 'unconvinced' for the offended retort and 'surprised' reaction fit the reserved character slightly better, while B's 'displeased_frown' and consistent 'uneasy_confused' track the line-level emotions a touch more faithfully."
+    }
+  }
+}

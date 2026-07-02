@@ -1,0 +1,125 @@
+{
+  "instance_id": "story_0011",
+  "pipeline": "twostage",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "expression_labels": [
+    "anger",
+    "disgust",
+    "fear",
+    "happiness",
+    "neutral",
+    "sadness",
+    "surprise"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panicked embarrassment and self-reproach, worried that being late has already ruined her chance to start the term properly.",
+      "label": "fear"
+    },
+    {
+      "turn": 5,
+      "text": "...\"Don't take the usual road to school.\"",
+      "emotion_description": "She feels a quiet, uneasy alarm and a growing sense of being watched, trying to stay composed while the warning unsettles her.",
+      "label": "fear"
+    },
+    {
+      "turn": 7,
+      "text": "I should've ignored it.",
+      "emotion_description": "She feels a quiet, self-reproaching mix of regret and unease, wishing she had trusted herself instead of letting the note unsettle her.",
+      "label": "sadness"
+    },
+    {
+      "turn": 8,
+      "text": "But... it was inside my shoe.",
+      "emotion_description": "She feels uneasy and quietly alarmed, torn between disbelief and a reluctant sense that the note’s strange placement makes it hard to dismiss.",
+      "label": "fear"
+    },
+    {
+      "turn": 12,
+      "text": "...Ah.",
+      "emotion_description": "She feels a quiet, uneasy shock as the note suddenly seems real, mixed with relief that she listened and a faint, nervous dread about what comes next.",
+      "label": "surprise"
+    },
+    {
+      "turn": 14,
+      "text": "So that's why...?",
+      "emotion_description": "She feels a quiet, uneasy shock turning into wary relief, realizing the note may have saved her from something bad while still leaving her deeply unsettled.",
+      "label": "surprise"
+    },
+    {
+      "turn": 17,
+      "text": "Y-yes.",
+      "emotion_description": "She feels startled and uneasy, but is trying to answer politely and keep her fear hidden behind a small, hesitant composure.",
+      "label": "fear"
+    },
+    {
+      "turn": 19,
+      "text": "Eh... how do you know that?",
+      "emotion_description": "She feels startled and uneasy, with a quiet spike of suspicion and confusion as she realizes the woman knows more about her than she expected.",
+      "label": "surprise"
+    },
+    {
+      "turn": 23,
+      "text": "...What?",
+      "emotion_description": "She feels startled and uneasy, with a quiet spike of suspicion and confusion as the woman seems to know too much.",
+      "label": "surprise"
+    },
+    {
+      "turn": 24,
+      "text": "I haven't even received one yet.",
+      "emotion_description": "She feels quietly bewildered and uneasy, with a small rising panic as she realizes something is wrong with her student ID and the woman seems to know more than she should.",
+      "label": "surprise"
+    },
+    {
+      "turn": 29,
+      "text": "W-wait.",
+      "emotion_description": "She is startled and uneasy, trying to hold back rising fear and confusion as she instinctively seeks clarification without fully trusting what she has just heard.",
+      "label": "fear"
+    },
+    {
+      "turn": 30,
+      "text": "Who are you?",
+      "emotion_description": "She is tense and bewildered, trying to steady herself while a quiet fear and suspicion rise beneath her polite, hesitant tone.",
+      "label": "fear"
+    },
+    {
+      "turn": 34,
+      "text": "...No way.",
+      "emotion_description": "She is stunned and unsettled, trying to deny what just happened while a quiet thread of fear and confusion tightens inside her.",
+      "label": "surprise"
+    },
+    {
+      "turn": 38,
+      "text": "\"Class 1-C.\"",
+      "emotion_description": "She is quietly stunned and uneasy, trying to steady herself by repeating the class name while her mind races with fear and confusion over the strange warning and the woman’s disappearance.",
+      "label": "surprise"
+    },
+    {
+      "turn": 40,
+      "text": "This isn't funny.",
+      "emotion_description": "She is frightened and unsettled, trying to steady herself by rejecting the situation as a bad joke even though she feels the eerie warning is real.",
+      "label": "fear"
+    },
+    {
+      "turn": 42,
+      "text": "...I have to go.",
+      "emotion_description": "She is frightened and overwhelmed, but forcing herself into motion with a thin thread of resolve because she knows she cannot afford to stop and think right now.",
+      "label": "fear"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "The mostly fear/sadness/surprise sequence fits Aoi’s quiet, inward panic and restrained reactions, though a few repeated surprise beats feel broader and less nuanced than this introverted personality would likely show."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Sprite choices consistently favor fear and surprise—appropriate for an introverted character experiencing supernatural dread—with only minor misalignment: the initial 'fear' for 'not on the very first day' slightly overstates what should be mild embarrassment, and the repeated surprise sprites near the end flatten what could be escalating dread, but the overall arc respects her reserved, internalizing nature."
+    }
+  }
+}

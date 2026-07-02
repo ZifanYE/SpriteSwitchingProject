@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0015",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "A",
+      "rationale": "B’s restrained, mostly uneasy/confused choices better suit an introverted girl’s subtle affect, while A more clearly marks key beats like shock, practical seriousness, and the final supernatural sting."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "A",
+      "rationale": "Version B maintains consistent introversion through sustained uneasy_confused sprites, fitting the reserved personality; Version A's varied sprites (astonished, exasperated, serious) better track emotional escalation from shock through panic to resignation, though less aligned with the introverted archetype."
+    }
+  }
+}

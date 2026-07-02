@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0019",
+  "expression_set": "ekman",
+  "personality": "extroverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A better captures an expressive, outspoken girl by using anger/frustration where she vents and fear only at the genuinely eerie beats, while B overuses fear and softens her assertive emotional texture."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "The lines differ at four points: A uses anger for the assertive 'My alarm worked!' and the frantic 'Come on, come on' plus an exasperated retort to the attendant, fitting an expressive extrovert who externalizes frustration, while B's repeated fear there reads as more timid and less coherent with her bold personality."
+    }
+  }
+}

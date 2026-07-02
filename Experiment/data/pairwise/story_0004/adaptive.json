@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0004",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A better preserves Aoi’s subdued, shy affect with shy/sad beats where B turns key quiet moments neutral, smiling, or generically anxious."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A's 'shy' for 'You're welcome' and 'sad' before the clock-drop fit the reserved character and emotional beats better than B's flatter 'smile'/'neutral'/'anxious' choices."
+    }
+  }
+}

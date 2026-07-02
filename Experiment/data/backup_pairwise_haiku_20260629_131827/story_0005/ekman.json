@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0005",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "The versions are nearly identical, but A’s final neutral better suits Aoi’s subdued, inward personality and lands the closing plea more coherently than B’s unnecessary last-moment surprise."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "Version A uses neutral sprites for the final two lines to reflect Aoi's return to composure and normalcy, while B's surprise sprite on 'First day...' contradicts the established pattern of her regaining emotional control and undermines the introverted character's subtle, reserved nature."
+    }
+  }
+}

@@ -1,0 +1,7 @@
+Expression Set,Dim,TwoStage W-T-L,WinRate(excl.tie),Net(counterbalanced) [95% CI]
+ekman,CC,7-10-23,0.23,"-0.40 [-0.68, -0.10]"
+ekman,EF,4-16-20,0.17,"-0.40 [-0.65, -0.15]"
+extended,CC,19-13-8,0.70,"+0.29 [-0.01, +0.57]"
+extended,EF,11-16-13,0.46,"-0.05 [-0.33, +0.25]"
+adaptive,CC,22-11-7,0.76,"+0.40 [+0.10, +0.68]"
+adaptive,EF,12-20-8,0.60,"+0.10 [-0.15, +0.35]"

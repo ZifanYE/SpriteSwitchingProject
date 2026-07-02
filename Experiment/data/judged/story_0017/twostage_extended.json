@@ -1,0 +1,132 @@
+{
+  "instance_id": "story_0017",
+  "pipeline": "twostage",
+  "expression_set": "extended",
+  "personality": "extroverted",
+  "expression_labels": [
+    "angry",
+    "astonished",
+    "crying_hard",
+    "displeased_frown",
+    "exasperated",
+    "holding_back_tears",
+    "interested_attentive",
+    "natural_smile_cheerful",
+    "sad",
+    "serious_expressionless",
+    "slightly_happy_faint_smile",
+    "surprised",
+    "unconvinced",
+    "uneasy_confused"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels panicked and flustered, with a burst of frustrated disbelief at being late on the very first day and a strong urge to fix it immediately.",
+      "label": "exasperated"
+    },
+    {
+      "turn": 4,
+      "text": "You have got to be kidding me.",
+      "emotion_description": "She feels exasperated and incredulous, with a burst of frustrated panic at how unfairly her already-bad morning is going.",
+      "label": "exasperated"
+    },
+    {
+      "turn": 5,
+      "text": "Come on, come on... move already.",
+      "emotion_description": "She is impatient and stressed, urgently frustrated by the delay and mentally pushing the crowd to clear so she can recover from being late.",
+      "label": "exasperated"
+    },
+    {
+      "turn": 8,
+      "text": "Okay. It's fine. New term, fresh start, and I'm sweating before homeroom.",
+      "emotion_description": "She is trying to talk herself into staying upbeat, but underneath the joking words she feels flustered, stressed, and embarrassed about already being in a mess on the first day.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 10,
+      "text": "Sorry! Excuse me! Coming through!",
+      "emotion_description": "She is flustered and breathless from being late, but pushing forward with determined, apologetic urgency as she tries to force her way through the crowd.",
+      "label": "exasperated"
+    },
+    {
+      "turn": 12,
+      "text": "Made it—",
+      "emotion_description": "She feels breathless, relieved, and a little triumphant at having barely arrived in time, with her earlier panic easing into upbeat determination.",
+      "label": "natural_smile_cheerful"
+    },
+    {
+      "turn": 15,
+      "text": "...Ah.",
+      "emotion_description": "She freezes in sudden embarrassment and awkward realization, her confidence collapsing for a beat as she registers that she has burst into the wrong room.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 16,
+      "text": "This is not 1-C, is it?",
+      "emotion_description": "She feels abruptly embarrassed and flustered, with a nervous attempt to recover her composure by checking whether she has simply walked into the wrong classroom.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 19,
+      "text": "Right! Great! Love that for me.",
+      "emotion_description": "She’s mortified and embarrassed by the mistake, but is forcing a bright, joking front to recover her composure and keep from looking flustered.",
+      "label": "natural_smile_cheerful"
+    },
+    {
+      "turn": 20,
+      "text": "Sorry to interrupt!",
+      "emotion_description": "She is flustered and embarrassed from barging into the wrong classroom, but is trying to recover with upbeat, socially smooth energy and a forced confidence.",
+      "label": "natural_smile_cheerful"
+    },
+    {
+      "turn": 24,
+      "text": "Seriously? You may have just saved my life.",
+      "emotion_description": "She feels intensely relieved and grateful, with a burst of embarrassed humor as she tries to shake off the morning’s chaos by joking warmly at Mika.",
+      "label": "natural_smile_cheerful"
+    },
+    {
+      "turn": 28,
+      "text": "Here! Present. Very present. Extremely sorry.",
+      "emotion_description": "She’s flustered and embarrassed from the chaotic morning, but trying to recover with upbeat, self-aware humor and a determined effort to make a good impression.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 31,
+      "text": "I can't believe that happened before nine in the morning.",
+      "emotion_description": "She feels embarrassed and overwhelmed by how disastrously the morning started, but is also trying to laugh it off with relieved, self-deprecating energy.",
+      "label": "exasperated"
+    },
+    {
+      "turn": 33,
+      "text": "Recovered? I entered the wrong class like I was making a dramatic entrance.",
+      "emotion_description": "She’s embarrassed but laughing it off with self-deprecating humor, trying to turn a mortifying mistake into something playful and confident.",
+      "label": "natural_smile_cheerful"
+    },
+    {
+      "turn": 35,
+      "text": "Then I'll call it confidence and not a total disaster.",
+      "emotion_description": "She’s joking herself back into composure, turning embarrassment into playful self-assurance and trying to frame the whole mess as a funny win rather than a humiliating mistake.",
+      "label": "natural_smile_cheerful"
+    },
+    {
+      "turn": 37,
+      "text": "Hey, since I already embarrassed myself in front of half the first years... want to stick together at lunch?",
+      "emotion_description": "She feels sheepish about her earlier blunders but is now relaxed, grateful, and warmly hopeful that turning the awkward morning into a new friendship will make the day better.",
+      "label": "natural_smile_cheerful"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "The sequence is mostly expressive and socially forward for an extrovert—frustration, quick recovery, joking, and initiating lunch fit well—though a few smile sprites flatten sharper embarrassment/exasperation beats like 'Love that for me' and the attendance apology."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Sprites track Aoi's expressive mood well (exasperated at delays, uneasy in wrong class, cheerful recovery), though the 'natural_smile_cheerful' on the embarrassing 'Love that for me' moment understates the implied flustered/sarcastic heat."
+    }
+  }
+}

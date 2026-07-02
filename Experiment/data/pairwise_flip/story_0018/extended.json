@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0018",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays more subdued and inward throughout, while B repeatedly overstates her reactions with astonished/smiling/sad choices where quieter surprise, resolve, or near-tears fit better."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A's restrained 'surprised' and 'holding_back_tears' fit the reserved girl better than B's stronger 'astonished'/'sad', though A's 'serious_expressionless' on 'I can try' is a minor misstep against B's faint smile."
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0003",
+  "expression_set": "adaptive",
+  "personality": "extroverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B gives Aoi a sharper, more expressive edge on her snark and escalating unease, while A has a few flatter or less precise beats."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B maintains better emotional consistency with an extroverted character by using angry (confrontational) rather than neutral when dismissing the stranger, and anxious (vulnerable) rather than confused when nervous-laughing, creating a more coherent arc of growing unease that fits her expressive personality."
+    }
+  }
+}

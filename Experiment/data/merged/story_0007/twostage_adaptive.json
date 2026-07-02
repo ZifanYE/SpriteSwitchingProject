@@ -1,0 +1,378 @@
+{
+  "instance_id": "story_0007",
+  "title": "The Door in the Hydrangea Wall",
+  "protagonist": "Aoi",
+  "studied_speaker": "Aoi",
+  "pipeline": "twostage",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "spriteMap": {
+    "angry": 0,
+    "anxious": 1,
+    "confused": 2,
+    "determined": 3,
+    "embarrassed": 4,
+    "neutral": 5,
+    "sad": 6,
+    "shy": 7,
+    "smile": 8,
+    "surprised": 9
+  },
+  "dialogue": [
+    {
+      "turn": 0,
+      "type": "narration",
+      "text": "The first morning of the new school term -- and Aoi is already running late."
+    },
+    {
+      "turn": 1,
+      "type": "dialogue",
+      "text": "No, no, no -- not on the very first day!",
+      "speaker": "Aoi",
+      "label": "embarrassed",
+      "sprite": 4
+    },
+    {
+      "turn": 2,
+      "type": "narration",
+      "text": "Her loafer skids on the wet slope beside the shrine path."
+    },
+    {
+      "turn": 3,
+      "type": "narration",
+      "text": "At dawn, she had taken the shortcut behind the old hydrangea wall to save five minutes."
+    },
+    {
+      "turn": 4,
+      "type": "narration",
+      "text": "Instead, her sleeve brushed a bronze ring set into the mossy stone."
+    },
+    {
+      "turn": 5,
+      "type": "narration",
+      "text": "The wall opened like water."
+    },
+    {
+      "turn": 6,
+      "type": "dialogue",
+      "text": "I just needed a shortcut...",
+      "speaker": "Aoi",
+      "label": "embarrassed",
+      "sprite": 4
+    },
+    {
+      "turn": 7,
+      "type": "narration",
+      "text": "Now she stands before a doorway of green light, the street behind her gone silent."
+    },
+    {
+      "turn": 8,
+      "type": "narration",
+      "text": "Beyond it stretches a road of blue glass through red-gold grass, under a sky washed in violet."
+    },
+    {
+      "turn": 9,
+      "type": "dialogue",
+      "text": "If I go back now... where is back?",
+      "speaker": "Aoi",
+      "label": "confused",
+      "sprite": 2
+    },
+    {
+      "turn": 10,
+      "type": "dialogue",
+      "text": "Don't step off the glass.",
+      "speaker": "???"
+    },
+    {
+      "turn": 11,
+      "type": "narration",
+      "text": "A boy about her age sits atop a broken milepost, silver-threaded cloak over one shoulder."
+    },
+    {
+      "turn": 12,
+      "type": "dialogue",
+      "text": "S-sorry. I didn't mean to come here.",
+      "speaker": "Aoi",
+      "label": "embarrassed",
+      "sprite": 4
+    },
+    {
+      "turn": 13,
+      "type": "dialogue",
+      "text": "Nobody means to, first time. The gate snagged you.",
+      "speaker": "Ren"
+    },
+    {
+      "turn": 14,
+      "type": "dialogue",
+      "text": "I have entrance assembly. Or... first-term assembly.",
+      "speaker": "Aoi",
+      "label": "anxious",
+      "sprite": 1
+    },
+    {
+      "turn": 15,
+      "type": "dialogue",
+      "text": "Then you're very lost.",
+      "speaker": "Ren"
+    },
+    {
+      "turn": 16,
+      "type": "narration",
+      "text": "He hops down and offers her a hand. She hesitates, then takes it."
+    },
+    {
+      "turn": 17,
+      "type": "narration",
+      "text": "His fingers are warm. The road hums faintly beneath their shoes."
+    },
+    {
+      "turn": 18,
+      "type": "dialogue",
+      "text": "Can I get home quickly?",
+      "speaker": "Aoi",
+      "label": "anxious",
+      "sprite": 1
+    },
+    {
+      "turn": 19,
+      "type": "dialogue",
+      "text": "If the Bell Tower is still answering, yes.",
+      "speaker": "Ren"
+    },
+    {
+      "turn": 20,
+      "type": "narration",
+      "text": "They hurry along the glass road. On either side, lilies the size of umbrellas turn their luminous faces toward them."
+    },
+    {
+      "turn": 21,
+      "type": "narration",
+      "text": "Aoi's breathing slowly steadies. The fear loosens, just enough for wonder to slip in."
+    },
+    {
+      "turn": 22,
+      "type": "dialogue",
+      "text": "It's... pretty.",
+      "speaker": "Aoi",
+      "label": "shy",
+      "sprite": 7
+    },
+    {
+      "turn": 23,
+      "type": "dialogue",
+      "text": "That's how it tricks people.",
+      "speaker": "Ren"
+    },
+    {
+      "turn": 24,
+      "type": "narration",
+      "text": "Ahead, a white tower rises from a lake hanging upside down in the sky."
+    },
+    {
+      "turn": 25,
+      "type": "narration",
+      "text": "Then the road shudders."
+    },
+    {
+      "turn": 26,
+      "type": "dialogue",
+      "text": "Stop.",
+      "speaker": "Ren"
+    },
+    {
+      "turn": 27,
+      "type": "narration",
+      "text": "A crack runs through the blue glass. Below it, darkness flickers with distant stars."
+    },
+    {
+      "turn": 28,
+      "type": "dialogue",
+      "text": "It's breaking?",
+      "speaker": "Aoi",
+      "label": "surprised",
+      "sprite": 9
+    },
+    {
+      "turn": 29,
+      "type": "dialogue",
+      "text": "Because the gate is closing. Run.",
+      "speaker": "Ren"
+    },
+    {
+      "turn": 30,
+      "type": "narration",
+      "text": "She runs."
+    },
+    {
+      "turn": 31,
+      "type": "narration",
+      "text": "Her school bag pounds against her side. Wind full of gold sparks tears at her ribbon."
+    },
+    {
+      "turn": 32,
+      "type": "dialogue",
+      "text": "I can't... I'm not good at this...",
+      "speaker": "Aoi",
+      "label": "anxious",
+      "sprite": 1
+    },
+    {
+      "turn": 33,
+      "type": "dialogue",
+      "text": "You're doing fine. Don't look down.",
+      "speaker": "Ren"
+    },
+    {
+      "turn": 34,
+      "type": "narration",
+      "text": "The tower bells ring once. The sound is bright as sunlight on metal."
+    },
+    {
+      "turn": 35,
+      "type": "narration",
+      "text": "At the final span, Aoi falters. One loafer slides over a widening seam."
+    },
+    {
+      "turn": 36,
+      "type": "dialogue",
+      "text": "Ah—!",
+      "speaker": "Aoi",
+      "label": "surprised",
+      "sprite": 9
+    },
+    {
+      "turn": 37,
+      "type": "narration",
+      "text": "Ren catches her wrist and pulls hard. For a moment, she sees the star-dark below and her own frightened face trembling in it."
+    },
+    {
+      "turn": 38,
+      "type": "dialogue",
+      "text": "Aoi. Look at me.",
+      "speaker": "Ren"
+    },
+    {
+      "turn": 39,
+      "type": "narration",
+      "text": "She does. His voice is steady, almost gentle."
+    },
+    {
+      "turn": 40,
+      "type": "dialogue",
+      "text": "...Okay.",
+      "speaker": "Aoi",
+      "label": "determined",
+      "sprite": 3
+    },
+    {
+      "turn": 41,
+      "type": "narration",
+      "text": "Together they leap through the tower's bronze arch just as the road breaks apart behind them like shattered ice."
+    },
+    {
+      "turn": 42,
+      "type": "narration",
+      "text": "On the other side stands a narrow wooden door painted with faded peonies."
+    },
+    {
+      "turn": 43,
+      "type": "dialogue",
+      "text": "This opens near where you entered. Once you cross, it may forget you.",
+      "speaker": "Ren"
+    },
+    {
+      "turn": 44,
+      "type": "dialogue",
+      "text": "May?",
+      "speaker": "Aoi",
+      "label": "confused",
+      "sprite": 2
+    },
+    {
+      "turn": 45,
+      "type": "dialogue",
+      "text": "This world keeps what notices it.",
+      "speaker": "Ren"
+    },
+    {
+      "turn": 46,
+      "type": "narration",
+      "text": "Her fingers tighten around her bag strap."
+    },
+    {
+      "turn": 47,
+      "type": "dialogue",
+      "text": "Then... thank you. For noticing me.",
+      "speaker": "Aoi",
+      "label": "shy",
+      "sprite": 7
+    },
+    {
+      "turn": 48,
+      "type": "narration",
+      "text": "Ren blinks, surprised, then smiles with only one corner of his mouth."
+    },
+    {
+      "turn": 49,
+      "type": "dialogue",
+      "text": "Go. And don't take shortcuts through sleeping shrines.",
+      "speaker": "Ren"
+    },
+    {
+      "turn": 50,
+      "type": "dialogue",
+      "text": "I won't. Probably.",
+      "speaker": "Aoi",
+      "label": "shy",
+      "sprite": 7
+    },
+    {
+      "turn": 51,
+      "type": "narration",
+      "text": "She opens the peony door."
+    },
+    {
+      "turn": 52,
+      "type": "narration",
+      "text": "Morning noise rushes back in — bicycle bells, crows, far-off announcements from the school gate."
+    },
+    {
+      "turn": 53,
+      "type": "narration",
+      "text": "Aoi stumbles out beside the hydrangea wall, knees shaking, only one street from school."
+    },
+    {
+      "turn": 54,
+      "type": "dialogue",
+      "text": "I'm... still late.",
+      "speaker": "Aoi",
+      "label": "embarrassed",
+      "sprite": 4
+    },
+    {
+      "turn": 55,
+      "type": "narration",
+      "text": "She looks back once. The bronze ring is just an old iron hook in the stone."
+    },
+    {
+      "turn": 56,
+      "type": "narration",
+      "text": "But caught in her sleeve is a single thread of silver, shining faintly in the ordinary sun."
+    },
+    {
+      "turn": 57,
+      "type": "dialogue",
+      "text": "So it wasn't a dream.",
+      "speaker": "Aoi",
+      "label": "surprised",
+      "sprite": 9
+    },
+    {
+      "turn": 58,
+      "type": "narration",
+      "text": "She presses the thread into her palm, takes a quiet breath, and starts running again."
+    }
+  ]
+}

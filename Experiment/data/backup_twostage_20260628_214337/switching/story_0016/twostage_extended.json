@@ -1,0 +1,126 @@
+{
+  "instance_id": "story_0016",
+  "pipeline": "twostage",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "astonished",
+    "crying_hard",
+    "displeased_frown",
+    "exasperated",
+    "holding_back_tears",
+    "interested_attentive",
+    "natural_smile_cheerful",
+    "sad",
+    "serious_expressionless",
+    "slightly_happy_faint_smile",
+    "surprised",
+    "unconvinced",
+    "uneasy_confused"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panicked embarrassment and self-reproach, worried that starting the term late has already gone wrong.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 4,
+      "text": "I only meant to look at the time...",
+      "emotion_description": "She feels flustered and embarrassed, quietly trying to excuse herself while inwardly panicking about being late on the very first day.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 7,
+      "text": "Ah—!",
+      "emotion_description": "She is startled and flustered, with a brief burst of panic at the unexpected hit to her face, but her embarrassment is already being swallowed by her usual quiet restraint.",
+      "label": "surprised"
+    },
+    {
+      "turn": 9,
+      "text": "Ow... no, keep moving.",
+      "emotion_description": "She feels flustered and embarrassed by the string of mishaps, but is trying to stay composed and push through without panicking.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 11,
+      "text": "Wait, please—!",
+      "emotion_description": "She is panicked and breathless, urgently trying to stop the bus from leaving while still clinging to a quiet, embarrassed determination not to give up.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 14,
+      "text": "...I see.",
+      "emotion_description": "She feels a quiet, sinking mix of embarrassment and resignation, trying to accept the bad luck without showing how flustered and disappointed she really is.",
+      "label": "sad"
+    },
+    {
+      "turn": 17,
+      "text": "Good morning. I'm sorry for... this shape.",
+      "emotion_description": "She is mortified and flustered, but trying to stay polite and composed by turning her embarrassment into a quiet, awkward joke.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 19,
+      "text": "I haven't ridden one in a while.",
+      "emotion_description": "She feels embarrassed and uncertain, but is quietly trying to stay composed and accept the help without making a fuss.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 23,
+      "text": "Maybe... maybe I can still make homeroom.",
+      "emotion_description": "She feels cautious, breathless hope mixed with lingering embarrassment, trying to steady herself and cling to the possibility that she can still recover the morning.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 26,
+      "text": "Why is there a daikon in the basket...",
+      "emotion_description": "She is quietly stunned and exhausted, with a thin thread of disbelief and resigned embarrassment after yet another absurd setback.",
+      "label": "exasperated"
+    },
+    {
+      "turn": 29,
+      "text": "...This was supposed to be a good start.",
+      "emotion_description": "She feels quietly defeated and embarrassed, with a small, resigned sadness at how badly her first day has gone despite trying so hard to start well.",
+      "label": "sad"
+    },
+    {
+      "turn": 31,
+      "text": "I ironed everything. I checked everything. I really tried.",
+      "emotion_description": "She feels quietly crushed and frustrated, with a fragile hurt beneath her self-reproach because she genuinely tried to prepare and still ended up failing.",
+      "label": "sad"
+    },
+    {
+      "turn": 34,
+      "text": "I'm fine. Just... losing to vegetables.",
+      "emotion_description": "She is embarrassed and quietly defeated, trying to mask her frustration with dry humor while holding back tears and keeping her composure.",
+      "label": "holding_back_tears"
+    },
+    {
+      "turn": 37,
+      "text": "Th-thank you.",
+      "emotion_description": "She feels embarrassed and overwhelmed, but also quietly relieved and grateful that someone is helping her after a humiliating morning.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 40,
+      "text": "Right. Running sounds simpler than cycling.",
+      "emotion_description": "She feels embarrassed but relieved, quietly accepting help and trying to regain composure with a small, wry sense of humor.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 43,
+      "text": "Made it... somehow.",
+      "emotion_description": "She feels exhausted and faintly relieved, with a shy, self-deprecating sense of triumph after barely surviving the morning.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 45,
+      "text": "Please don't tell anyone about the daikon.",
+      "emotion_description": "She feels shyly embarrassed and vulnerable, but also relieved enough to make a small, self-protective joke as she asks for discretion.",
+      "label": "uneasy_confused"
+    }
+  ]
+}

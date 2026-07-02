@@ -1,0 +1,146 @@
+{
+  "instance_id": "story_0013",
+  "pipeline": "twostage",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "anxious",
+    "confused",
+    "determined",
+    "embarrassed",
+    "neutral",
+    "sad",
+    "shy",
+    "smile",
+    "surprised"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panic and self-reproach, worried that starting the term late will ruin her careful first impression.",
+      "label": "anxious"
+    },
+    {
+      "turn": 5,
+      "text": "...Why is it here again?",
+      "emotion_description": "She feels quietly startled and disoriented, with a growing anxious frustration as she realizes she may be caught in something impossible.",
+      "label": "confused"
+    },
+    {
+      "turn": 8,
+      "text": "I left home at seven-twenty.",
+      "emotion_description": "She is quietly bewildered and increasingly anxious, trying to reassure herself with a factual detail even as she realizes something is very wrong.",
+      "label": "anxious"
+    },
+    {
+      "turn": 9,
+      "text": "I know I did.",
+      "emotion_description": "She feels quietly unsettled and increasingly certain something is wrong, but is trying to stay calm and trust her own memory despite the confusion.",
+      "label": "anxious"
+    },
+    {
+      "turn": 13,
+      "text": "...You can see me?",
+      "emotion_description": "She is startled and wary, with a quiet surge of disbelief and fear as she realizes the strange girl is real and aware of her.",
+      "label": "surprised"
+    },
+    {
+      "turn": 16,
+      "text": "Am I dreaming?",
+      "emotion_description": "She feels a quiet, uneasy disbelief, trying to make sense of the impossible while holding back rising fear and confusion.",
+      "label": "confused"
+    },
+    {
+      "turn": 18,
+      "text": "That's... worse.",
+      "emotion_description": "She feels a quiet, uneasy dread mixed with bewildered resignation, realizing this strange situation is more serious than a dream and trying to stay composed.",
+      "label": "anxious"
+    },
+    {
+      "turn": 22,
+      "text": "You want me to help?",
+      "emotion_description": "She is cautious but quietly sympathetic, surprised by the request yet willing to help despite her own anxiety about being late.",
+      "label": "surprised"
+    },
+    {
+      "turn": 26,
+      "text": "...If I say no, I'll just see this gate again, won't I?",
+      "emotion_description": "She feels wary and resigned, but also quietly determined to cooperate because she senses refusing will only trap her further.",
+      "label": "anxious"
+    },
+    {
+      "turn": 29,
+      "text": "Okay.",
+      "emotion_description": "She feels resigned but quietly determined, accepting the strange situation with a small, nervous calm and a hint of helplessness.",
+      "label": "determined"
+    },
+    {
+      "turn": 30,
+      "text": "Just quickly, then.",
+      "emotion_description": "She is quietly resigned and a little anxious, but trying to steady herself by treating the situation as a brief inconvenience she can handle.",
+      "label": "determined"
+    },
+    {
+      "turn": 33,
+      "text": "Is this it?",
+      "emotion_description": "She feels cautious relief and quiet curiosity, with a faint tension still held back as she checks whether this small discovery might finally solve the strange delay.",
+      "label": "confused"
+    },
+    {
+      "turn": 39,
+      "text": "It didn't ruin everything.",
+      "emotion_description": "She speaks softly with quiet reassurance, trying to comfort the ghost while also easing her own lingering anxiety about being late and the fear that one mistake can spoil everything.",
+      "label": "smile"
+    },
+    {
+      "turn": 40,
+      "text": "You remembered to come back.",
+      "emotion_description": "She feels a quiet, tender relief mixed with sympathy, gently acknowledging the ghost girl’s persistence without saying too much.",
+      "label": "smile"
+    },
+    {
+      "turn": 43,
+      "text": "I'm... not, really.",
+      "emotion_description": "She feels quietly embarrassed and self-effacing, deflecting praise with a soft, uncertain humility while still being touched by the moment.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 50,
+      "text": "...I really am late now.",
+      "emotion_description": "She feels a quiet, resigned embarrassment mixed with lingering relief, accepting the absurd situation with a small, self-conscious sigh.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 52,
+      "text": "I'll still go.",
+      "emotion_description": "She feels quietly resolved and a little anxious, but steadied by the encounter enough to keep moving forward despite being late.",
+      "label": "determined"
+    },
+    {
+      "turn": 56,
+      "text": "S-Sorry.",
+      "emotion_description": "She feels flustered and embarrassed about arriving late, but is trying to stay polite and composed despite her lingering nerves.",
+      "label": "embarrassed"
+    },
+    {
+      "turn": 57,
+      "text": "I got held up on the way.",
+      "emotion_description": "She feels embarrassed and flustered about being late, but is trying to sound polite and composed while quietly accepting the excuse she has to give.",
+      "label": "embarrassed"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Mostly subtle and reserved throughout—anxious/confused/embarrassed fit well, with only slight overstatement in repeated surprised/determined beats for such an introverted character."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Sprites consistently reflect an introverted character's subtle emotional range—anxiety, confusion, surprise, and quiet determination—with only minor misalignment: the 'determined' sprite at 'Okay' feels slightly assertive for someone so reserved, and 'embarrassed' at the end slightly overplays what should be a more muted, internalized reaction."
+    }
+  }
+}

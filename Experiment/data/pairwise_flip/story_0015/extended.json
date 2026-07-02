@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0015",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "B",
+      "rationale": "A’s mostly subdued unease better suits an introverted girl, while B gains some line-by-line emotional precision with astonishment/exasperation on key beats despite a couple of slightly too forceful choices."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "B",
+      "rationale": "A's near-uniform uneasy_confused fits the reserved character but flattens emotion, while B's varied sprites (astonished, exasperated, serious) better track each line's distinct emotional beats."
+    }
+  }
+}

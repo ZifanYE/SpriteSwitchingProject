@@ -1,0 +1,144 @@
+{
+  "instance_id": "story_0010",
+  "pipeline": "direct",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "astonished",
+    "crying_hard",
+    "displeased_frown",
+    "exasperated",
+    "holding_back_tears",
+    "interested_attentive",
+    "natural_smile_cheerful",
+    "sad",
+    "serious_expressionless",
+    "slightly_happy_faint_smile",
+    "surprised",
+    "unconvinced",
+    "uneasy_confused"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": null,
+      "label": "exasperated"
+    },
+    {
+      "turn": 7,
+      "text": "Ah—!",
+      "emotion_description": null,
+      "label": "astonished"
+    },
+    {
+      "turn": 12,
+      "text": "I-I'm sorry.",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 13,
+      "text": "I turned too fast.",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 16,
+      "text": "You don't have to—",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 19,
+      "text": "I won't cry.",
+      "emotion_description": null,
+      "label": "unconvinced"
+    },
+    {
+      "turn": 22,
+      "text": "...Thank you.",
+      "emotion_description": null,
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 25,
+      "text": "Um. Your tag.",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 29,
+      "text": "You're the transfer student.",
+      "emotion_description": null,
+      "label": "interested_attentive"
+    },
+    {
+      "turn": 31,
+      "text": "Only a little.",
+      "emotion_description": null,
+      "label": "unconvinced"
+    },
+    {
+      "turn": 34,
+      "text": "Aoi. First year.",
+      "emotion_description": null,
+      "label": "serious_expressionless"
+    },
+    {
+      "turn": 36,
+      "text": "Was it the panic?",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 39,
+      "text": "Oh no...",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 40,
+      "text": "The staff room— I still have to take this there.",
+      "emotion_description": null,
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 44,
+      "text": "You know already?",
+      "emotion_description": null,
+      "label": "surprised"
+    },
+    {
+      "turn": 47,
+      "text": "Then... we're both doing badly.",
+      "emotion_description": null,
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 50,
+      "text": "...Right.",
+      "emotion_description": null,
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 51,
+      "text": "Thank you, Kazami-senpai.",
+      "emotion_description": null,
+      "label": "slightly_happy_faint_smile"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "The sprites mostly stay subtle and reserved—uneasy, faint smiles, serious delivery—while matching the scene’s beats well, with only minor overtness in the opening exasperation/surprise and the transfer-student line reading a bit too openly attentive for such an introverted character."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Sprites lean appropriately subtle (faint smiles, uneasy_confused, unconvinced) fitting her reserved nature and tracking the emotional arc well, though the opening 'exasperated' and 'serious_expressionless' for her name introduction are mild slips from her soft-spoken restraint."
+    }
+  }
+}

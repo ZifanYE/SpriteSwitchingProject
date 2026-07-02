@@ -1,0 +1,168 @@
+{
+  "instance_id": "story_0014",
+  "pipeline": "twostage",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "astonished",
+    "crying_hard",
+    "displeased_frown",
+    "exasperated",
+    "holding_back_tears",
+    "interested_attentive",
+    "natural_smile_cheerful",
+    "sad",
+    "serious_expressionless",
+    "slightly_happy_faint_smile",
+    "surprised",
+    "unconvinced",
+    "uneasy_confused"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panicked embarrassment and self-reproach, worried that being late has already ruined her careful first impression.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 5,
+      "text": "It says 7:41...",
+      "emotion_description": "She feels a quiet, sinking panic and disbelief as she realizes she has already lost precious time, trying to stay composed despite the morning going wrong.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 6,
+      "text": "But it was 7:34 a second ago.",
+      "emotion_description": "She feels quietly baffled and a little panicked, trying to make sense of the impossible time jump while still holding herself together.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 8,
+      "text": "I didn't... drop this, did I?",
+      "emotion_description": "She feels quietly unsettled and confused, with a faint anxious suspicion that something is wrong but trying to stay calm and make sense of it.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 11,
+      "text": "That's not possible.",
+      "emotion_description": "She feels quiet, startled disbelief as the impossible time slip and floating shard unsettle her, but she is trying to keep her panic contained.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 16,
+      "text": "I... didn't hear you come in.",
+      "emotion_description": "She is startled and uneasy, trying to stay polite and composed while quietly processing the impossible sudden appearance.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 18,
+      "text": "Nearby doesn't usually mean appearing out of nowhere.",
+      "emotion_description": "She is quietly unsettled and wary, trying to sound composed while gently pushing back against the stranger’s impossible appearance.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 21,
+      "text": "Excuse me?",
+      "emotion_description": "She is quietly startled and skeptical, trying to process the impossible situation while keeping her confusion restrained.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 23,
+      "text": "My... local time.",
+      "emotion_description": "She is quietly bewildered and uneasy, trying to process the impossible explanation while keeping her alarm and confusion restrained.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 26,
+      "text": "I don't think I'm awake enough for this.",
+      "emotion_description": "She feels dazed and overwhelmed, trying to stay polite and composed while quietly admitting that the situation has become too strange to process.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 29,
+      "text": "...What is that?",
+      "emotion_description": "She is quietly stunned and uneasy, trying to steady herself as her confusion turns into cautious fear at the impossible sight.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 32,
+      "text": "You're joking.",
+      "emotion_description": "She is trying to steady herself with disbelief and a faint, nervous edge of humor, while quietly feeling that the situation has become far too strange to process.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 35,
+      "text": "So there is an alien device in my stairwell...",
+      "emotion_description": "She is trying to steady herself with dry, incredulous humor while quietly panicking, her fear and disbelief held tightly under a restrained, cautious exterior.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 36,
+      "text": "And you're saying you're not from here.",
+      "emotion_description": "She is tense and wary, trying to process the impossible with quiet disbelief while keeping her fear contained behind a careful, matter-of-fact tone.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 40,
+      "text": "What happens if that opens?",
+      "emotion_description": "She is frightened but trying to stay composed, urgently seeking reassurance as the situation becomes dangerously real.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 42,
+      "text": "Briefly sounds bad.",
+      "emotion_description": "She is trying to stay calm and practical, but beneath the quiet understatement she is clearly anxious and alarmed by how dangerous this situation feels.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 46,
+      "text": "Tell me what to do.",
+      "emotion_description": "She is frightened but trying to stay composed, shifting from disbelief into urgent trust as she asks for clear instructions.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 49,
+      "text": "If I disappear before homeroom, I'm blaming you.",
+      "emotion_description": "She is frightened but trying to steady herself with dry, nervous humor, clinging to a small sense of control as she follows the stranger’s instructions.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 55,
+      "text": "...Did we fix it?",
+      "emotion_description": "She is cautiously hopeful and still shaken, quietly checking whether the danger has passed while trying to sound composed.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 58,
+      "text": "Mostly?",
+      "emotion_description": "She is relieved that the danger seems to have passed, but still wary and slightly incredulous, needing reassurance before she can fully relax.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 62,
+      "text": "You're enrolling... today?",
+      "emotion_description": "Aoi is cautiously startled and trying to process the absurdity, with a thin thread of wary curiosity beneath her lingering relief.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 64,
+      "text": "You lost a piece of impossible technology in an apartment stairwell.",
+      "emotion_description": "She is dryly incredulous and still a little shaken, but the joke-like wording shows she’s trying to steady herself by turning the absurdity into something manageable.",
+      "label": "unconvinced"
+    },
+    {
+      "turn": 68,
+      "text": "Then I guess we're both having a bad first day.",
+      "emotion_description": "She feels a cautious, wry camaraderie easing her lingering shock, with a small resigned amusement at the shared disaster of the morning.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 73,
+      "text": "...Only if you explain what 'local time' means on the way.",
+      "emotion_description": "She feels cautiously relieved and a little curious, trying to stay composed while tentatively accepting the strange girl’s company and answers.",
+      "label": "interested_attentive"
+    }
+  ]
+}

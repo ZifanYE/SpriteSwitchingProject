@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0008",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "tie",
+      "cc_confidence": "strong",
+      "ef_winner": "tie",
+      "ef_confidence": "strong",
+      "raw_cc_ab": "tie",
+      "raw_ef_ab": "tie",
+      "rationale": "A and B are sprite-for-sprite identical throughout the scene, so neither differs in personality fit or emotional matching."
+    },
+    "claude": {
+      "cc_winner": "tie",
+      "cc_confidence": "strong",
+      "ef_winner": "tie",
+      "ef_confidence": "strong",
+      "raw_cc_ab": "tie",
+      "raw_ef_ab": "tie",
+      "rationale": "Versions A and B are identical in sprite selection across all lines; no differences exist to compare."
+    }
+  }
+}

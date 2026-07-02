@@ -1,0 +1,132 @@
+{
+  "instance_id": "story_0008",
+  "pipeline": "twostage",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "astonished",
+    "crying_hard",
+    "displeased_frown",
+    "exasperated",
+    "holding_back_tears",
+    "interested_attentive",
+    "natural_smile_cheerful",
+    "sad",
+    "serious_expressionless",
+    "slightly_happy_faint_smile",
+    "surprised",
+    "unconvinced",
+    "uneasy_confused"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panic and self-reproach, worried that starting the term late has already ruined her chance to make a good impression.",
+      "label": "exasperated"
+    },
+    {
+      "turn": 5,
+      "text": "I was defeated by... basic clothing maintenance.",
+      "emotion_description": "She feels embarrassed and mildly flustered, but is trying to soften the mishap with quiet self-deprecating humor rather than show real frustration.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 8,
+      "text": "...Why?",
+      "emotion_description": "She feels stunned and quietly exasperated, as if the morning’s absurd string of mishaps has left her too tired to do anything but stare in disbelief.",
+      "label": "exasperated"
+    },
+    {
+      "turn": 10,
+      "text": "Okay. Window, then.",
+      "emotion_description": "She is quietly exasperated but still oddly composed, shifting from disbelief to determined problem-solving with a faint, resigned sense of humor.",
+      "label": "exasperated"
+    },
+    {
+      "turn": 16,
+      "text": "I-I'm so sorry!",
+      "emotion_description": "She feels flustered and mortified, with a sinking sense of guilt as she apologizes immediately and tries to shrink out of the way.",
+      "label": "holding_back_tears"
+    },
+    {
+      "turn": 18,
+      "text": "Ah— hot! Hot—",
+      "emotion_description": "She is startled and flustered, with a brief spike of panic as the hot croquette burns her, but she’s still trying to stay quiet and composed despite the chaos.",
+      "label": "surprised"
+    },
+    {
+      "turn": 21,
+      "text": "Thank you... and I'm really sorry.",
+      "emotion_description": "She feels embarrassed and flustered, but is trying to stay polite and composed while quietly grateful for the help.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 24,
+      "text": "I don't deserve a reward for this.",
+      "emotion_description": "She feels embarrassed and self-reproachful, quietly insisting on her own fault even while being touched by the owner’s kindness.",
+      "label": "sad"
+    },
+    {
+      "turn": 29,
+      "text": "...",
+      "emotion_description": "She is too stunned and exhausted to speak, feeling a mix of mortified disbelief and fragile resignation after one absurd mishap after another.",
+      "label": "serious_expressionless"
+    },
+    {
+      "turn": 31,
+      "text": "It was trying so hard.",
+      "emotion_description": "She is quietly devastated and absurdly sympathetic, feeling a small, helpless grief for the croquette as if even her one bit of comfort had been cruelly denied.",
+      "label": "holding_back_tears"
+    },
+    {
+      "turn": 34,
+      "text": "If even breakfast gave up... maybe I can stop panicking for one second.",
+      "emotion_description": "She feels exhausted and absurdly defeated, but a tiny, helpless humor is letting her breathe and regain a sliver of composure.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 37,
+      "text": "Oh. Right. That would have been worse.",
+      "emotion_description": "She feels a quiet, weary relief mixed with lingering embarrassment, realizing with a small jolt that her near-disaster could have been even more troublesome.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 40,
+      "text": "Y-Yes, sorry.",
+      "emotion_description": "She feels embarrassed and chastened, but also quietly relieved to have been stopped before making things even worse, so she answers meekly and obediently.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 44,
+      "text": "Does it show that much?",
+      "emotion_description": "She feels embarrassed and self-conscious about how obvious her frazzled, unlucky morning has been, but tries to answer quietly and politely without making a fuss.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 47,
+      "text": "Made it... somehow.",
+      "emotion_description": "She feels exhausted and relieved, with a faint, embarrassed sense of triumph after barely surviving the morning’s chaos.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 49,
+      "text": "Please let the disasters stay outside the school today.",
+      "emotion_description": "She feels exhausted but quietly hopeful, trying to steady herself with a small, anxious wish that the day will finally become normal once she gets inside.",
+      "label": "slightly_happy_faint_smile"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "The sequence mostly fits an introverted girl through subdued embarrassment, apology, and quiet relief, with only minor overstatement in repeated exasperation and the blank 'serious_expressionless' beat."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Sprites lean on subtle, restrained expressions (faint smiles, holding back tears, uneasy) fitting the introvert and tracking the disaster-to-relief arc, though 'exasperated' for the opening exclamation is slightly louder than her reserved profile."
+    }
+  }
+}

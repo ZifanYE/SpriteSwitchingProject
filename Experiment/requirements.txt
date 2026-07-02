@@ -1,0 +1,6 @@
+openai>=1.30.0
+anthropic>=0.40.0
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+pingouin>=0.5.4

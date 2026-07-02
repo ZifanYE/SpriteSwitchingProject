@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0016",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "The versions are nearly identical, but A’s milder surprise/hope sprites (“surprised,” “uneasy_confused”) fit an introverted, subdued Aoi a bit better than B’s more heightened “astonished” and brighter optimism."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "B",
+      "rationale": "The two versions differ only on three lines; A keeps subtler 'surprised'/'uneasy_confused' fitting a reserved character, while B's 'astonished' and 'surprised' plus the hopeful 'slightly_happy' on the bus line better track each moment's emotion."
+    }
+  }
+}

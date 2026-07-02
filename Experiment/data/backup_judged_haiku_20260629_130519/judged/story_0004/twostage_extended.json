@@ -1,0 +1,138 @@
+{
+  "instance_id": "story_0004",
+  "pipeline": "twostage",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "astonished",
+    "crying_hard",
+    "displeased_frown",
+    "exasperated",
+    "holding_back_tears",
+    "interested_attentive",
+    "natural_smile_cheerful",
+    "sad",
+    "serious_expressionless",
+    "slightly_happy_faint_smile",
+    "surprised",
+    "unconvinced",
+    "uneasy_confused"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panicked embarrassment and self-reproach, worried that starting the term late has already gone wrong.",
+      "label": "exasperated"
+    },
+    {
+      "turn": 6,
+      "text": "I had it this morning... I know I did...",
+      "emotion_description": "She feels quietly flustered and anxious, trying to reassure herself with a small, uncertain insistence while inwardly worrying that she may have lost the form.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 8,
+      "text": "Um...",
+      "emotion_description": "She feels flustered and hesitant, caught between her own panic about being late and a quiet concern for the lonely little girl, with her voice barely finding its way out.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 9,
+      "text": "Are you okay?",
+      "emotion_description": "She is quietly worried and hesitant, but her concern for the crying child gently overrides her own panic about being late.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 12,
+      "text": "You got separated?",
+      "emotion_description": "She is quietly concerned and sympathetic, with her own panic pushed aside as she focuses on understanding the little girl’s situation.",
+      "label": "interested_attentive"
+    },
+    {
+      "turn": 16,
+      "text": "...I can't just leave you.",
+      "emotion_description": "She feels torn and anxious about being late, but her quiet sense of responsibility and empathy overrides her worry, leaving her determined and gently protective.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 17,
+      "text": "Do you know your brother's name?",
+      "emotion_description": "She is quietly focused and gently reassuring, setting aside her own panic to help the lost girl with careful, practical concern.",
+      "label": "interested_attentive"
+    },
+    {
+      "turn": 19,
+      "text": "Okay. Let's stand by the police box.",
+      "emotion_description": "She feels quietly responsible and reassuring, setting aside her own panic about being late to help the child with calm, gentle resolve.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 23,
+      "text": "I just... happened to see her.",
+      "emotion_description": "She feels shy and self-effacing, quietly downplaying her kindness because she’s embarrassed by praise and doesn’t want to draw attention to herself.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 30,
+      "text": "She's been scared for a while.",
+      "emotion_description": "She feels quietly relieved that the girl is safe, while still carrying a soft, lingering concern and empathy for how frightened the child must have been.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 34,
+      "text": "It's okay now.",
+      "emotion_description": "She feels quietly relieved and gently reassuring, with a soft lingering concern that has settled now that the little girl is safe.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 36,
+      "text": "...You're welcome.",
+      "emotion_description": "She feels quietly relieved and a little embarrassed by the attention, trying to sound modest while still warmed by the child’s gratitude.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 40,
+      "text": "Ah...",
+      "emotion_description": "Aoi feels a sudden sinking panic and weary resignation as she realizes how badly she has lost track of time, with a quiet, inwardly bracing frustration at herself beneath her calm exterior.",
+      "label": "astonished"
+    },
+    {
+      "turn": 41,
+      "text": "First period is definitely starting.",
+      "emotion_description": "She feels a sudden, sinking panic about being late, mixed with lingering relief from helping the lost girl and a quiet determination to hurry without making a fuss.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 44,
+      "text": "They're all going to look at me...",
+      "emotion_description": "She feels shy, embarrassed, and anxious about being late, with a small surge of self-conscious dread at the thought of everyone noticing her.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 47,
+      "text": "But... I did the right thing.",
+      "emotion_description": "She is quietly trying to steady herself with a small, fragile sense of reassurance and pride, even though she still feels anxious and embarrassed about being late.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 50,
+      "text": "So... I'll go.",
+      "emotion_description": "She feels anxious and embarrassed about being late, but quietly steels herself with a small, reluctant resolve to face school anyway.",
+      "label": "serious_expressionless"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "The sequence is mostly subdued and fitting for an introverted, soft-spoken girl—hesitant unease, faint smiles, and quiet resolve dominate—though the opening exasperated/astonished beats feel slightly stronger than her personality suggests."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Sprites consistently favor subtle, reserved expressions (uneasy_confused, faint_smile, serious_expressionless) that align with an introverted personality; minor misalignment occurs with 'exasperated' on the opening line, which reads louder than her typical restraint, and the emotional arc is coherent but occasionally misses nuance in transitions between concern and quiet resolve."
+    }
+  }
+}

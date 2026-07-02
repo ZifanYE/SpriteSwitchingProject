@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0002",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays more subdued and introverted with gentler warmth, while B repeatedly overstates key beats with more overt surprise/unease where quiet gratitude or mild realization fits better."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "Version A maintains consistent introversion through subtle emotional expressions (slightly_happy_faint_smile, uneasy_confused) that align with reserved personality, while Version B uses more dramatic sprites (astonished, surprised) that break character consistency; A's progression also shows better emotional coherence with the narrative arc of growing comfort."
+    }
+  }
+}

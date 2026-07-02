@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0020",
+  "expression_set": "extended",
+  "personality": "extroverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays more outwardly expressive and warm for this extroverted girl, while B’s repeated serious/expressionless choices and exasperated admonition flatten key beats that should read as reassuring, proactive, and lightly playful."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A uses expressive sprites (surprised, natural_smile) fitting the extroverted character and emotional beats, while B's serious_expressionless on the alarmed 'Whoa, seriously?' and exasperated on the warm teasing line misfit both personality and emotion."
+    }
+  }
+}

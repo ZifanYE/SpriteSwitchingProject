@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0017",
+  "expression_set": "extended",
+  "personality": "extroverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "B",
+      "rationale": "A better sustains Aoi’s expressive, socially buoyant personality overall, while B is a bit more line-accurate on specific beats like the startled pause and the post-homeroom self-deprecating complaint."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B's surprised reaction to the wrong-room moment and exasperated/sarcastic 'Love that for me' track the implied emotions more faithfully, while A overuses cheerful smiles at awkward beats."
+    }
+  }
+}

@@ -1,0 +1,369 @@
+{
+  "instance_id": "story_0010",
+  "title": "Corner, Impact, and a Name Tag",
+  "protagonist": "Aoi",
+  "studied_speaker": "Aoi",
+  "pipeline": "direct",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "spriteMap": {
+    "anger": 0,
+    "disgust": 1,
+    "fear": 2,
+    "happiness": 3,
+    "neutral": 4,
+    "sadness": 5,
+    "surprise": 6
+  },
+  "dialogue": [
+    {
+      "turn": 0,
+      "type": "narration",
+      "text": "The first morning of the new school term -- and Aoi is already running late."
+    },
+    {
+      "turn": 1,
+      "type": "dialogue",
+      "text": "No, no, no -- not on the very first day!",
+      "speaker": "Aoi",
+      "label": "fear",
+      "sprite": 2
+    },
+    {
+      "turn": 2,
+      "type": "narration",
+      "text": "Her loafer skids on the polished floor."
+    },
+    {
+      "turn": 3,
+      "type": "narration",
+      "text": "At dawn, she'd gone back for the attendance envelope her homeroom teacher asked her to deliver to the staff room."
+    },
+    {
+      "turn": 4,
+      "type": "narration",
+      "text": "It is now clutched to her chest like a shield."
+    },
+    {
+      "turn": 5,
+      "type": "narration",
+      "text": "She cuts around the corner by the stairwell—"
+    },
+    {
+      "turn": 6,
+      "type": "narration",
+      "text": "—and slams straight into someone coming the other way."
+    },
+    {
+      "turn": 7,
+      "type": "dialogue",
+      "text": "Ah—!",
+      "speaker": "Aoi",
+      "label": "surprise",
+      "sprite": 6
+    },
+    {
+      "turn": 8,
+      "type": "narration",
+      "text": "Paper bursts from her hands. A hardback textbook thuds to the floor."
+    },
+    {
+      "turn": 9,
+      "type": "dialogue",
+      "text": "Watch it.",
+      "speaker": "Boy"
+    },
+    {
+      "turn": 10,
+      "type": "narration",
+      "text": "The voice is low, irritated. The boy in front of her is taller, older— second-year, maybe third."
+    },
+    {
+      "turn": 11,
+      "type": "narration",
+      "text": "A fresh school pin gleams on his blazer. Transfer student, if the whispered rumors from the gate were true."
+    },
+    {
+      "turn": 12,
+      "type": "dialogue",
+      "text": "I-I'm sorry.",
+      "speaker": "Aoi",
+      "label": "fear",
+      "sprite": 2
+    },
+    {
+      "turn": 13,
+      "type": "dialogue",
+      "text": "I turned too fast.",
+      "speaker": "Aoi",
+      "label": "fear",
+      "sprite": 2
+    },
+    {
+      "turn": 14,
+      "type": "dialogue",
+      "text": "So did I.",
+      "speaker": "Boy"
+    },
+    {
+      "turn": 15,
+      "type": "narration",
+      "text": "He crouches first, gathering the scattered papers with quick, blunt movements."
+    },
+    {
+      "turn": 16,
+      "type": "dialogue",
+      "text": "You don't have to—",
+      "speaker": "Aoi",
+      "label": "surprise",
+      "sprite": 6
+    },
+    {
+      "turn": 17,
+      "type": "dialogue",
+      "text": "If these get mixed up, you'll cry.",
+      "speaker": "Boy"
+    },
+    {
+      "turn": 18,
+      "type": "narration",
+      "text": "Aoi freezes. Then, despite herself, she lets out the smallest breath of offense."
+    },
+    {
+      "turn": 19,
+      "type": "dialogue",
+      "text": "I won't cry.",
+      "speaker": "Aoi",
+      "label": "anger",
+      "sprite": 0
+    },
+    {
+      "turn": 20,
+      "type": "dialogue",
+      "text": "Good.",
+      "speaker": "Boy"
+    },
+    {
+      "turn": 21,
+      "type": "narration",
+      "text": "He hands her the envelope. His expression is severe, but one corner is bent where he caught it before it hit the floor."
+    },
+    {
+      "turn": 22,
+      "type": "dialogue",
+      "text": "...Thank you.",
+      "speaker": "Aoi",
+      "label": "happiness",
+      "sprite": 3
+    },
+    {
+      "turn": 23,
+      "type": "narration",
+      "text": "A laminated name tag has slid from his pocket."
+    },
+    {
+      "turn": 24,
+      "type": "narration",
+      "text": "She picks it up before he notices."
+    },
+    {
+      "turn": 25,
+      "type": "dialogue",
+      "text": "Um. Your tag.",
+      "speaker": "Aoi",
+      "label": "neutral",
+      "sprite": 4
+    },
+    {
+      "turn": 26,
+      "type": "dialogue",
+      "text": "...Oh.",
+      "speaker": "Boy"
+    },
+    {
+      "turn": 27,
+      "type": "narration",
+      "text": "For the first time, he looks wrong-footed."
+    },
+    {
+      "turn": 28,
+      "type": "dialogue",
+      "text": "Thanks.",
+      "speaker": "Boy"
+    },
+    {
+      "turn": 29,
+      "type": "dialogue",
+      "text": "You're the transfer student.",
+      "speaker": "Aoi",
+      "label": "neutral",
+      "sprite": 4
+    },
+    {
+      "turn": 30,
+      "type": "dialogue",
+      "text": "That obvious?",
+      "speaker": "Boy"
+    },
+    {
+      "turn": 31,
+      "type": "dialogue",
+      "text": "Only a little.",
+      "speaker": "Aoi",
+      "label": "happiness",
+      "sprite": 3
+    },
+    {
+      "turn": 32,
+      "type": "narration",
+      "text": "His mouth twitches. Not quite a smile, but close."
+    },
+    {
+      "turn": 33,
+      "type": "dialogue",
+      "text": "Kazami Ren.",
+      "speaker": "Boy"
+    },
+    {
+      "turn": 34,
+      "type": "dialogue",
+      "text": "Aoi. First year.",
+      "speaker": "Aoi",
+      "label": "neutral",
+      "sprite": 4
+    },
+    {
+      "turn": 35,
+      "type": "dialogue",
+      "text": "I guessed.",
+      "speaker": "Ren"
+    },
+    {
+      "turn": 36,
+      "type": "dialogue",
+      "text": "Was it the panic?",
+      "speaker": "Aoi",
+      "label": "surprise",
+      "sprite": 6
+    },
+    {
+      "turn": 37,
+      "type": "dialogue",
+      "text": "The ribbon. And the panic.",
+      "speaker": "Ren"
+    },
+    {
+      "turn": 38,
+      "type": "narration",
+      "text": "Heat rises to her face. Then a bell rings, sharp and merciless."
+    },
+    {
+      "turn": 39,
+      "type": "dialogue",
+      "text": "Oh no...",
+      "speaker": "Aoi",
+      "label": "fear",
+      "sprite": 2
+    },
+    {
+      "turn": 40,
+      "type": "dialogue",
+      "text": "The staff room— I still have to take this there.",
+      "speaker": "Aoi",
+      "label": "fear",
+      "sprite": 2
+    },
+    {
+      "turn": 41,
+      "type": "dialogue",
+      "text": "Wrong direction.",
+      "speaker": "Ren"
+    },
+    {
+      "turn": 42,
+      "type": "narration",
+      "text": "He steps aside, points down the opposite hall."
+    },
+    {
+      "turn": 43,
+      "type": "dialogue",
+      "text": "End of the corridor, left.",
+      "speaker": "Ren"
+    },
+    {
+      "turn": 44,
+      "type": "dialogue",
+      "text": "You know already?",
+      "speaker": "Aoi",
+      "label": "surprise",
+      "sprite": 6
+    },
+    {
+      "turn": 45,
+      "type": "dialogue",
+      "text": "I've been lost since seven-thirty.",
+      "speaker": "Ren"
+    },
+    {
+      "turn": 46,
+      "type": "narration",
+      "text": "Aoi stares at him, then a small laugh escapes before she can hide it."
+    },
+    {
+      "turn": 47,
+      "type": "dialogue",
+      "text": "Then... we're both doing badly.",
+      "speaker": "Aoi",
+      "label": "happiness",
+      "sprite": 3
+    },
+    {
+      "turn": 48,
+      "type": "dialogue",
+      "text": "Speak for yourself.",
+      "speaker": "Ren"
+    },
+    {
+      "turn": 49,
+      "type": "narration",
+      "text": "The answer is brusque, but he picks up her dropped pen and tucks it neatly into the envelope flap."
+    },
+    {
+      "turn": 50,
+      "type": "dialogue",
+      "text": "...Right.",
+      "speaker": "Aoi",
+      "label": "neutral",
+      "sprite": 4
+    },
+    {
+      "turn": 51,
+      "type": "dialogue",
+      "text": "Thank you, Kazami-senpai.",
+      "speaker": "Aoi",
+      "label": "happiness",
+      "sprite": 3
+    },
+    {
+      "turn": 52,
+      "type": "dialogue",
+      "text": "Run, Aoi.",
+      "speaker": "Ren"
+    },
+    {
+      "turn": 53,
+      "type": "narration",
+      "text": "She clutches the envelope, bows once, and takes off down the hall."
+    },
+    {
+      "turn": 54,
+      "type": "narration",
+      "text": "Her morning is still a mess."
+    },
+    {
+      "turn": 55,
+      "type": "narration",
+      "text": "But as she rounds the next corner, her heartbeat feels different now— less like panic, and a little more like the start of something she can't name yet."
+    }
+  ]
+}

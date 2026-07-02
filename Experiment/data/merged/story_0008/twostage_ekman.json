@@ -1,0 +1,324 @@
+{
+  "instance_id": "story_0008",
+  "title": "A Croquette Morning Catastrophe",
+  "protagonist": "Aoi",
+  "studied_speaker": "Aoi",
+  "pipeline": "twostage",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "spriteMap": {
+    "anger": 0,
+    "disgust": 1,
+    "fear": 2,
+    "happiness": 3,
+    "neutral": 4,
+    "sadness": 5,
+    "surprise": 6
+  },
+  "dialogue": [
+    {
+      "turn": 0,
+      "type": "narration",
+      "text": "The first morning of the new school term -- and Aoi is already running late."
+    },
+    {
+      "turn": 1,
+      "type": "dialogue",
+      "text": "No, no, no -- not on the very first day!",
+      "speaker": "Aoi",
+      "label": "fear",
+      "sprite": 2
+    },
+    {
+      "turn": 2,
+      "type": "narration",
+      "text": "Her alarm had rung on time."
+    },
+    {
+      "turn": 3,
+      "type": "narration",
+      "text": "What failed was everything after it: the hem of her cardigan had snagged on her desk drawer, yanking open the emergency sewing kit her mother left out last night."
+    },
+    {
+      "turn": 4,
+      "type": "narration",
+      "text": "Aoi had spent seven full minutes trying to free herself from a trailing rainbow of thread."
+    },
+    {
+      "turn": 5,
+      "type": "dialogue",
+      "text": "I was defeated by... basic clothing maintenance.",
+      "speaker": "Aoi",
+      "label": "neutral",
+      "sprite": 4
+    },
+    {
+      "turn": 6,
+      "type": "narration",
+      "text": "She lunged for the front door, jammed one foot into her loafer, and reached for the handle."
+    },
+    {
+      "turn": 7,
+      "type": "narration",
+      "text": "The handle came off in her hand."
+    },
+    {
+      "turn": 8,
+      "type": "dialogue",
+      "text": "...Why?",
+      "speaker": "Aoi",
+      "label": "surprise",
+      "sprite": 6
+    },
+    {
+      "turn": 9,
+      "type": "narration",
+      "text": "She stared at the brass knob. The brass knob stared back, spiritually."
+    },
+    {
+      "turn": 10,
+      "type": "dialogue",
+      "text": "Okay. Window, then.",
+      "speaker": "Aoi",
+      "label": "neutral",
+      "sprite": 4
+    },
+    {
+      "turn": 11,
+      "type": "narration",
+      "text": "Two minutes later she was in the alley, skirt dusty, schoolbag crooked, dignity negotiable."
+    },
+    {
+      "turn": 12,
+      "type": "narration",
+      "text": "She broke into a run toward the corner bakery."
+    },
+    {
+      "turn": 13,
+      "type": "narration",
+      "text": "At that exact second, the bakery's sandwich board tipped forward."
+    },
+    {
+      "turn": 14,
+      "type": "narration",
+      "text": "Aoi swerved, clipped the edge with her bag, and sent a tray of freshly fried croquettes skidding off the outdoor rack like golden hockey pucks."
+    },
+    {
+      "turn": 15,
+      "type": "dialogue",
+      "text": "Whoa, whoa, whoa! My croquettes!",
+      "speaker": "Bakery Owner"
+    },
+    {
+      "turn": 16,
+      "type": "dialogue",
+      "text": "I-I'm so sorry!",
+      "speaker": "Aoi",
+      "label": "fear",
+      "sprite": 2
+    },
+    {
+      "turn": 17,
+      "type": "narration",
+      "text": "She dropped to her knees to help. One croquette bounced off the curb, another rolled under a bicycle, and a third landed neatly in the hood of her uniform."
+    },
+    {
+      "turn": 18,
+      "type": "dialogue",
+      "text": "Ah— hot! Hot—",
+      "speaker": "Aoi",
+      "label": "surprise",
+      "sprite": 6
+    },
+    {
+      "turn": 19,
+      "type": "dialogue",
+      "text": "Don't move! You've got one in your collar!",
+      "speaker": "Bakery Owner"
+    },
+    {
+      "turn": 20,
+      "type": "narration",
+      "text": "He plucked it out with tongs. For one blessed second, it was so ridiculous that Aoi almost laughed."
+    },
+    {
+      "turn": 21,
+      "type": "dialogue",
+      "text": "Thank you... and I'm really sorry.",
+      "speaker": "Aoi",
+      "label": "happiness",
+      "sprite": 3
+    },
+    {
+      "turn": 22,
+      "type": "dialogue",
+      "text": "Forget it. First day, right? Here. Take one that survived.",
+      "speaker": "Bakery Owner"
+    },
+    {
+      "turn": 23,
+      "type": "narration",
+      "text": "He pressed a paper-wrapped croquette into her hand."
+    },
+    {
+      "turn": 24,
+      "type": "dialogue",
+      "text": "I don't deserve a reward for this.",
+      "speaker": "Aoi",
+      "label": "sadness",
+      "sprite": 5
+    },
+    {
+      "turn": 25,
+      "type": "narration",
+      "text": "Still, the warm packet in her palm felt like a tiny miracle. She bowed and ran again."
+    },
+    {
+      "turn": 26,
+      "type": "narration",
+      "text": "Relief lasted exactly twelve seconds."
+    },
+    {
+      "turn": 27,
+      "type": "narration",
+      "text": "Her shoelace, tied in haste, whipped loose. She stepped on it, pitched forward, windmilled once, and the croquette launched from her hand in a perfect arc."
+    },
+    {
+      "turn": 28,
+      "type": "narration",
+      "text": "It landed on the road just as a passing bicycle rolled over it with quiet finality."
+    },
+    {
+      "turn": 29,
+      "type": "dialogue",
+      "text": "...",
+      "speaker": "Aoi",
+      "label": "neutral",
+      "sprite": 4
+    },
+    {
+      "turn": 30,
+      "type": "narration",
+      "text": "She stopped in the middle of the sidewalk, shoulders trembling."
+    },
+    {
+      "turn": 31,
+      "type": "dialogue",
+      "text": "It was trying so hard.",
+      "speaker": "Aoi",
+      "label": "sadness",
+      "sprite": 5
+    },
+    {
+      "turn": 32,
+      "type": "narration",
+      "text": "That was the low point. Not the lateness. Not the door handle. The flattened croquette, shining faintly in the morning sun."
+    },
+    {
+      "turn": 33,
+      "type": "narration",
+      "text": "A laugh escaped her anyway—small, helpless, almost disbelieving."
+    },
+    {
+      "turn": 34,
+      "type": "dialogue",
+      "text": "If even breakfast gave up... maybe I can stop panicking for one second.",
+      "speaker": "Aoi",
+      "label": "happiness",
+      "sprite": 3
+    },
+    {
+      "turn": 35,
+      "type": "narration",
+      "text": "She crouched, retied both laces carefully, then checked her bag."
+    },
+    {
+      "turn": 36,
+      "type": "narration",
+      "text": "Inside was the attendance envelope she nearly forgot entirely."
+    },
+    {
+      "turn": 37,
+      "type": "dialogue",
+      "text": "Oh. Right. That would have been worse.",
+      "speaker": "Aoi",
+      "label": "surprise",
+      "sprite": 6
+    },
+    {
+      "turn": 38,
+      "type": "narration",
+      "text": "At the final crosswalk before school, the light flashed red."
+    },
+    {
+      "turn": 39,
+      "type": "dialogue",
+      "text": "No running across!",
+      "speaker": "Crossing Guard"
+    },
+    {
+      "turn": 40,
+      "type": "dialogue",
+      "text": "Y-Yes, sorry.",
+      "speaker": "Aoi",
+      "label": "fear",
+      "sprite": 2
+    },
+    {
+      "turn": 41,
+      "type": "narration",
+      "text": "She bounced in place, breathing hard, watching the school gate across the street like it might drift away."
+    },
+    {
+      "turn": 42,
+      "type": "narration",
+      "text": "Then the guard looked at her dust-streaked uniform, the thread still hanging from her sleeve, and the dead seriousness on her face."
+    },
+    {
+      "turn": 43,
+      "type": "dialogue",
+      "text": "First day?",
+      "speaker": "Crossing Guard"
+    },
+    {
+      "turn": 44,
+      "type": "dialogue",
+      "text": "Does it show that much?",
+      "speaker": "Aoi",
+      "label": "surprise",
+      "sprite": 6
+    },
+    {
+      "turn": 45,
+      "type": "dialogue",
+      "text": "Only from here to next week.",
+      "speaker": "Crossing Guard"
+    },
+    {
+      "turn": 46,
+      "type": "narration",
+      "text": "The light changed. She sprinted through the gate just as the opening bell began to ring."
+    },
+    {
+      "turn": 47,
+      "type": "dialogue",
+      "text": "Made it... somehow.",
+      "speaker": "Aoi",
+      "label": "happiness",
+      "sprite": 3
+    },
+    {
+      "turn": 48,
+      "type": "narration",
+      "text": "Bent over, cheeks pink, she touched the attendance envelope in her bag and let out one soft breath."
+    },
+    {
+      "turn": 49,
+      "type": "dialogue",
+      "text": "Please let the disasters stay outside the school today.",
+      "speaker": "Aoi",
+      "label": "fear",
+      "sprite": 2
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0015",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B’s neutral delivery for the school explanation better suits an introverted, subdued girl, and its fear/surprise choices track the scene beats more precisely than A’s overuse of surprise on anxious or pained lines."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "The two differ only at three lines; B's neutral for the matter-of-fact school explanation and fear for the eye-branding shock fit both personality and emotion slightly better than A's repeated fear/surprise."
+    }
+  }
+}

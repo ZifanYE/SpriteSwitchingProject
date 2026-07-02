@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0017",
+  "expression_set": "ekman",
+  "personality": "extroverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A better preserves Aoi’s expressive, outspoken energy and tracks the scene’s beats more naturally, while B overuses fear and misreads her embarrassed sarcasm as happiness."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "B",
+      "rationale": "The two lines differing are the nervous self-reassurance and the rushed apology; B's fear sprites match those anxious moments better, while A's happiness/surprise there feel less fitting though slightly more in line with her bubbly extroversion."
+    }
+  }
+}

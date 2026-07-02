@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0014",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A better preserves Aoi’s subdued, introverted affect with softer skepticism and wonder, while B flattens key beats into generic unease or adds harsher emphasis where the scene calls for subtlety."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "A",
+      "rationale": "B's flatter, more reserved sprites slightly suit the introvert, but A's varied use of astonished, surprised, and unconvinced better tracks the line-by-line emotional escalation while staying subtle."
+    }
+  }
+}

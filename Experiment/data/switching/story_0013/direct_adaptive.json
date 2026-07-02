@@ -1,0 +1,134 @@
+{
+  "instance_id": "story_0013",
+  "pipeline": "direct",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "anxious",
+    "confused",
+    "determined",
+    "embarrassed",
+    "neutral",
+    "sad",
+    "shy",
+    "smile",
+    "surprised"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 5,
+      "text": "...Why is it here again?",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 8,
+      "text": "I left home at seven-twenty.",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 9,
+      "text": "I know I did.",
+      "emotion_description": null,
+      "label": "determined"
+    },
+    {
+      "turn": 13,
+      "text": "...You can see me?",
+      "emotion_description": null,
+      "label": "surprised"
+    },
+    {
+      "turn": 16,
+      "text": "Am I dreaming?",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 18,
+      "text": "That's... worse.",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 22,
+      "text": "You want me to help?",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 26,
+      "text": "...If I say no, I'll just see this gate again, won't I?",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 29,
+      "text": "Okay.",
+      "emotion_description": null,
+      "label": "determined"
+    },
+    {
+      "turn": 30,
+      "text": "Just quickly, then.",
+      "emotion_description": null,
+      "label": "determined"
+    },
+    {
+      "turn": 33,
+      "text": "Is this it?",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 39,
+      "text": "It didn't ruin everything.",
+      "emotion_description": null,
+      "label": "smile"
+    },
+    {
+      "turn": 40,
+      "text": "You remembered to come back.",
+      "emotion_description": null,
+      "label": "smile"
+    },
+    {
+      "turn": 43,
+      "text": "I'm... not, really.",
+      "emotion_description": null,
+      "label": "embarrassed"
+    },
+    {
+      "turn": 50,
+      "text": "...I really am late now.",
+      "emotion_description": null,
+      "label": "embarrassed"
+    },
+    {
+      "turn": 52,
+      "text": "I'll still go.",
+      "emotion_description": null,
+      "label": "determined"
+    },
+    {
+      "turn": 56,
+      "text": "S-Sorry.",
+      "emotion_description": null,
+      "label": "embarrassed"
+    },
+    {
+      "turn": 57,
+      "text": "I got held up on the way.",
+      "emotion_description": null,
+      "label": "embarrassed"
+    }
+  ]
+}

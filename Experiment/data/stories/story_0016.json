@@ -1,0 +1,281 @@
+{
+  "instance_id": "story_0016",
+  "protagonist": "Aoi",
+  "personality": "introverted",
+  "personality_profile": "Reserved and soft-spoken. Keeps strong feelings inside, prefers to listen, and shows emotion subtly — a slight smile, a quiet pause, downcast eyes. Rarely raises her voice even when upset.",
+  "character_base_profile": "Aoi is a first-year high-school girl. Today is the first day of the new school term, and she is an ordinary student hoping to start the year off on the right foot.",
+  "scenario": "comedy_mishap",
+  "title": "Aoi and the Catastrophic First Dash",
+  "opening_turns": 2,
+  "dialogue": [
+    {
+      "turn": 0,
+      "type": "narration",
+      "text": "The first morning of the new school term -- and Aoi is already running late."
+    },
+    {
+      "turn": 1,
+      "type": "dialogue",
+      "text": "No, no, no -- not on the very first day!",
+      "speaker": "Aoi"
+    },
+    {
+      "turn": 2,
+      "type": "narration",
+      "text": "She lunges for the front door with her loafers half on, toast clenched in one hand and her bag in the other."
+    },
+    {
+      "turn": 3,
+      "type": "narration",
+      "text": "The reason is painfully simple: she stayed up late ironing the new ribbon for today... and forgot to set her alarm back on after checking it."
+    },
+    {
+      "turn": 4,
+      "type": "dialogue",
+      "text": "I only meant to look at the time...",
+      "speaker": "Aoi"
+    },
+    {
+      "turn": 5,
+      "type": "narration",
+      "text": "She yanks the door open."
+    },
+    {
+      "turn": 6,
+      "type": "narration",
+      "text": "A rubber band she tied to keep the mail slot shut overnight snaps free and catapults the stack of newspapers into her face."
+    },
+    {
+      "turn": 7,
+      "type": "dialogue",
+      "text": "Ah—!",
+      "speaker": "Aoi"
+    },
+    {
+      "turn": 8,
+      "type": "narration",
+      "text": "She stumbles down the step, windmilling, somehow keeps the toast, then steps straight onto the heel of her own loafer."
+    },
+    {
+      "turn": 9,
+      "type": "dialogue",
+      "text": "Ow... no, keep moving.",
+      "speaker": "Aoi"
+    },
+    {
+      "turn": 10,
+      "type": "narration",
+      "text": "At the corner, relief— the bus is still there."
+    },
+    {
+      "turn": 11,
+      "type": "dialogue",
+      "text": "Wait, please—!",
+      "speaker": "Aoi"
+    },
+    {
+      "turn": 12,
+      "type": "narration",
+      "text": "She sprints, reaches out... and the strap of her schoolbag catches on a campaign banner tied to a pole."
+    },
+    {
+      "turn": 13,
+      "type": "narration",
+      "text": "The pole spins. The banner wraps around her like a burrito. The bus pulls away."
+    },
+    {
+      "turn": 14,
+      "type": "dialogue",
+      "text": "...I see.",
+      "speaker": "Aoi"
+    },
+    {
+      "turn": 15,
+      "type": "dialogue",
+      "text": "Aoi-chan? Are you being kidnapped by civic enthusiasm?",
+      "speaker": "Mrs. Suda"
+    },
+    {
+      "turn": 16,
+      "type": "narration",
+      "text": "Mrs. Suda from the neighborhood vegetable shop hustles over, unwinding her with brisk, practiced hands."
+    },
+    {
+      "turn": 17,
+      "type": "dialogue",
+      "text": "Good morning. I'm sorry for... this shape.",
+      "speaker": "Aoi"
+    },
+    {
+      "turn": 18,
+      "type": "dialogue",
+      "text": "No apologizing. Here, take my bicycle. Coast downhill and fly.",
+      "speaker": "Mrs. Suda"
+    },
+    {
+      "turn": 19,
+      "type": "dialogue",
+      "text": "I haven't ridden one in a while.",
+      "speaker": "Aoi"
+    },
+    {
+      "turn": 20,
+      "type": "dialogue",
+      "text": "Then today you'll remember fast.",
+      "speaker": "Mrs. Suda"
+    },
+    {
+      "turn": 21,
+      "type": "narration",
+      "text": "Aoi bows, mounts the bicycle, and pushes off."
+    },
+    {
+      "turn": 22,
+      "type": "narration",
+      "text": "For one bright minute, it works. The wind cools her face. The school gate feels possible."
+    },
+    {
+      "turn": 23,
+      "type": "dialogue",
+      "text": "Maybe... maybe I can still make homeroom.",
+      "speaker": "Aoi"
+    },
+    {
+      "turn": 24,
+      "type": "narration",
+      "text": "Then the front basket, overloaded with daikon, tips forward."
+    },
+    {
+      "turn": 25,
+      "type": "narration",
+      "text": "A white radish launches out, wedges perfectly into the rotating front wheel, and the bicycle stops with theatrical finality."
+    },
+    {
+      "turn": 26,
+      "type": "dialogue",
+      "text": "Why is there a daikon in the basket...",
+      "speaker": "Aoi"
+    },
+    {
+      "turn": 27,
+      "type": "narration",
+      "text": "She topples gently into a hedge. Leaves in her hair. Ribbon crooked. Silence."
+    },
+    {
+      "turn": 28,
+      "type": "narration",
+      "text": "For the first time, she doesn't get up right away."
+    },
+    {
+      "turn": 29,
+      "type": "dialogue",
+      "text": "...This was supposed to be a good start.",
+      "speaker": "Aoi"
+    },
+    {
+      "turn": 30,
+      "type": "narration",
+      "text": "Her eyes sting. Not enough for tears, just enough to blur the school in the distance."
+    },
+    {
+      "turn": 31,
+      "type": "dialogue",
+      "text": "I ironed everything. I checked everything. I really tried.",
+      "speaker": "Aoi"
+    },
+    {
+      "turn": 32,
+      "type": "dialogue",
+      "text": "Um... are you okay?",
+      "speaker": "Boy at Gate"
+    },
+    {
+      "turn": 33,
+      "type": "narration",
+      "text": "A lanky boy in the same uniform stands by the path, holding a fallen name-tag holder she must have dropped."
+    },
+    {
+      "turn": 34,
+      "type": "dialogue",
+      "text": "I'm fine. Just... losing to vegetables.",
+      "speaker": "Aoi"
+    },
+    {
+      "turn": 35,
+      "type": "dialogue",
+      "text": "Then let's not let the vegetables win. Here.",
+      "speaker": "Boy at Gate"
+    },
+    {
+      "turn": 36,
+      "type": "narration",
+      "text": "He offers the holder. Then, after one glance at the jammed wheel, crouches and yanks the daikon free with both hands."
+    },
+    {
+      "turn": 37,
+      "type": "dialogue",
+      "text": "Th-thank you.",
+      "speaker": "Aoi"
+    },
+    {
+      "turn": 38,
+      "type": "dialogue",
+      "text": "We run now. Explanations later.",
+      "speaker": "Boy at Gate"
+    },
+    {
+      "turn": 39,
+      "type": "narration",
+      "text": "Aoi blinks, then lets out the smallest laugh of the morning."
+    },
+    {
+      "turn": 40,
+      "type": "dialogue",
+      "text": "Right. Running sounds simpler than cycling.",
+      "speaker": "Aoi"
+    },
+    {
+      "turn": 41,
+      "type": "narration",
+      "text": "They dash the last stretch together, her bag bouncing, leaves still caught in her hair."
+    },
+    {
+      "turn": 42,
+      "type": "narration",
+      "text": "At the school gate, the warning bell rings just as she stumbles across the line."
+    },
+    {
+      "turn": 43,
+      "type": "dialogue",
+      "text": "Made it... somehow.",
+      "speaker": "Aoi"
+    },
+    {
+      "turn": 44,
+      "type": "dialogue",
+      "text": "First day speedrun. Impressive form.",
+      "speaker": "Boy at Gate"
+    },
+    {
+      "turn": 45,
+      "type": "dialogue",
+      "text": "Please don't tell anyone about the daikon.",
+      "speaker": "Aoi"
+    },
+    {
+      "turn": 46,
+      "type": "narration",
+      "text": "Breathless, disheveled, and one disaster away from disaster again, Aoi presses a hand to her crooked ribbon."
+    },
+    {
+      "turn": 47,
+      "type": "narration",
+      "text": "It isn't the graceful start she wanted."
+    },
+    {
+      "turn": 48,
+      "type": "narration",
+      "text": "But when she looks up, there's a faint smile on her face anyway."
+    }
+  ]
+}

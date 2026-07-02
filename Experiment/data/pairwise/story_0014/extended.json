@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0014",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays more subdued and inward for this introverted girl, while B repeatedly pushes her into broader surprise/exasperation where quieter confusion, resolve, and faint humor fit better."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "B",
+      "rationale": "A's restrained uneasy_confused choices better fit the reserved introvert, while B's occasional astonished/surprised sprites add emotional variety that more literally tracks each beat but reads louder than the character."
+    }
+  }
+}

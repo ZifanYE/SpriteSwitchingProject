@@ -1,0 +1,110 @@
+{
+  "instance_id": "story_0015",
+  "pipeline": "direct",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "anxious",
+    "confused",
+    "determined",
+    "embarrassed",
+    "neutral",
+    "sad",
+    "shy",
+    "smile",
+    "surprised"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 5,
+      "text": "...What?",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 9,
+      "text": "N-no way...",
+      "emotion_description": null,
+      "label": "surprised"
+    },
+    {
+      "turn": 12,
+      "text": "A key...?",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 17,
+      "text": "Root?",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 19,
+      "text": "This is why I'm late...?",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 21,
+      "text": "School. Opening ceremony. First years have to be early.",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 24,
+      "text": "If I do, will this... close?",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 28,
+      "text": "...All right.",
+      "emotion_description": null,
+      "label": "determined"
+    },
+    {
+      "turn": 32,
+      "text": "You know my name?",
+      "emotion_description": null,
+      "label": "surprised"
+    },
+    {
+      "turn": 38,
+      "text": "So that's it...?",
+      "emotion_description": null,
+      "label": "confused"
+    },
+    {
+      "turn": 45,
+      "text": "Rowan...",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 48,
+      "text": "Ah—!",
+      "emotion_description": null,
+      "label": "surprised"
+    },
+    {
+      "turn": 52,
+      "text": "This... is really bad, isn't it?",
+      "emotion_description": null,
+      "label": "anxious"
+    },
+    {
+      "turn": 59,
+      "text": "...Can this wait until after homeroom?",
+      "emotion_description": null,
+      "label": "anxious"
+    }
+  ]
+}

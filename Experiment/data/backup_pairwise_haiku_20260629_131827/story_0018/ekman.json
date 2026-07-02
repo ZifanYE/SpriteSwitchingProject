@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0018",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays more subdued and introverted overall, while B over-brightens key restrained beats like \"Yes, sir\" and the hesitant \"Um... Kirishima-senpai?\" with happiness."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "Version A uses sadness instead of fear at a key moment ('I wasn't looking ahead') and neutral instead of happiness at relief ('Yes, sir'), creating more nuanced emotional restraint consistent with an introverted character; Version B overuses happiness at the end, which contradicts the subtle, reserved personality profile."
+    }
+  }
+}

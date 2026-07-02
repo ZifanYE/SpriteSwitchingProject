@@ -1,0 +1,144 @@
+{
+  "instance_id": "story_0010",
+  "pipeline": "twostage",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "expression_labels": [
+    "angry",
+    "astonished",
+    "crying_hard",
+    "displeased_frown",
+    "exasperated",
+    "holding_back_tears",
+    "interested_attentive",
+    "natural_smile_cheerful",
+    "sad",
+    "serious_expressionless",
+    "slightly_happy_faint_smile",
+    "surprised",
+    "unconvinced",
+    "uneasy_confused"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panicked embarrassment and self-reproach, worried that starting the term late has already gone wrong.",
+      "label": "exasperated"
+    },
+    {
+      "turn": 7,
+      "text": "Ah—!",
+      "emotion_description": "She feels a sudden jolt of startled panic and embarrassment, instinctively shrinking inward as she braces for the awkwardness of the collision.",
+      "label": "surprised"
+    },
+    {
+      "turn": 12,
+      "text": "I-I'm sorry.",
+      "emotion_description": "She feels startled and immediately embarrassed, shrinking inward with anxious guilt as she apologizes in a small, shaky voice.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 13,
+      "text": "I turned too fast.",
+      "emotion_description": "She is flustered and apologetic, trying to explain herself quietly while feeling embarrassed and anxious about the collision.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 16,
+      "text": "You don't have to—",
+      "emotion_description": "She feels flustered and embarrassed, but also quietly grateful and hesitant to accept help, so she starts to protest in a soft, polite way.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 19,
+      "text": "I won't cry.",
+      "emotion_description": "She feels stung and embarrassed by his assumption, but is quietly determined to deny it and keep her composure.",
+      "label": "displeased_frown"
+    },
+    {
+      "turn": 22,
+      "text": "...Thank you.",
+      "emotion_description": "She feels quietly embarrassed but relieved, softening into shy gratitude after his unexpected help despite still being a little stung by his bluntness.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 25,
+      "text": "Um. Your tag.",
+      "emotion_description": "She feels a small, cautious mix of embarrassment and gratitude, with a quiet urge to return the tag without making a fuss.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 29,
+      "text": "You're the transfer student.",
+      "emotion_description": "She is quietly tentative and a little self-conscious, trying to confirm what she’s noticed while masking her curiosity with a small, careful statement.",
+      "label": "interested_attentive"
+    },
+    {
+      "turn": 31,
+      "text": "Only a little.",
+      "emotion_description": "She feels a small, shy satisfaction at having noticed him, mixed with lingering embarrassment and a cautious curiosity she doesn’t quite show openly.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 34,
+      "text": "Aoi. First year.",
+      "emotion_description": "She feels a little flustered but determined to sound composed, offering her name and year in a quiet, guarded way that hints at cautious curiosity after the awkward collision.",
+      "label": "serious_expressionless"
+    },
+    {
+      "turn": 36,
+      "text": "Was it the panic?",
+      "emotion_description": "She is quietly curious and a little self-conscious, tentatively probing him while trying to hide how flustered she feels.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 39,
+      "text": "Oh no...",
+      "emotion_description": "She feels a sudden sinking wave of embarrassment and dread as she realizes she’s already late and has drawn attention to herself, with a quiet urge to disappear.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 40,
+      "text": "The staff room— I still have to take this there.",
+      "emotion_description": "She feels a sudden spike of anxious urgency and embarrassment, trying to recover her composure and focus on the task before her despite being flustered.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 44,
+      "text": "You know already?",
+      "emotion_description": "She feels a small, embarrassed surprise that he has already figured out her mistake, mixed with a quiet self-consciousness and a faint curiosity about how observant he is.",
+      "label": "uneasy_confused"
+    },
+    {
+      "turn": 47,
+      "text": "Then... we're both doing badly.",
+      "emotion_description": "She feels shyly amused and relieved, letting a small shared joke soften her embarrassment and make the awkward moment feel less lonely.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 50,
+      "text": "...Right.",
+      "emotion_description": "She feels a little flustered and embarrassed, but also quietly amused and oddly reassured by his blunt kindness.",
+      "label": "slightly_happy_faint_smile"
+    },
+    {
+      "turn": 51,
+      "text": "Thank you, Kazami-senpai.",
+      "emotion_description": "She feels shyly grateful and a little flustered, but also quietly warmed by his help and the small, unexpected ease between them.",
+      "label": "slightly_happy_faint_smile"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "The sprites mostly fit an introverted girl’s subdued affect—apology, mild offense, faint smiles, and quiet panic—with only minor overtness in the opening exasperation and a slightly flat serious introduction."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Sprites consistently reflect introversion through subtle expressions (faint smiles, uneasy confusion, downcast moments) and avoid overwrought displays; emotional progression tracks the dialogue arc from flustered to cautiously warm, with only minor misalignments (exasperated opening feels slightly loud for the personality, and some uneasy_confused repeats blur emotional nuance)."
+    }
+  }
+}

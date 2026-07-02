@@ -1,0 +1,459 @@
+{
+  "instance_id": "story_0012",
+  "title": "A Small Delay",
+  "protagonist": "Aoi",
+  "studied_speaker": "Aoi",
+  "pipeline": "direct",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "spriteMap": {
+    "angry": 0,
+    "anxious": 1,
+    "confused": 2,
+    "determined": 3,
+    "embarrassed": 4,
+    "neutral": 5,
+    "sad": 6,
+    "shy": 7,
+    "smile": 8,
+    "surprised": 9
+  },
+  "dialogue": [
+    {
+      "turn": 0,
+      "type": "narration",
+      "text": "The first morning of the new school term -- and Aoi is already running late."
+    },
+    {
+      "turn": 1,
+      "type": "dialogue",
+      "text": "No, no, no -- not on the very first day!",
+      "speaker": "Aoi",
+      "label": "anxious",
+      "sprite": 1
+    },
+    {
+      "turn": 2,
+      "type": "narration",
+      "text": "Aoi skids to the corner, school bag thumping against her side."
+    },
+    {
+      "turn": 3,
+      "type": "narration",
+      "text": "She had left home late after redoing the ribbon on her uniform twice, then gone back for the welcome packet she forgot on the table."
+    },
+    {
+      "turn": 4,
+      "type": "narration",
+      "text": "Now the station road is crowded with students, office workers, and parents hurrying in every direction."
+    },
+    {
+      "turn": 5,
+      "type": "dialogue",
+      "text": "If I cut through the plaza... maybe I can still make it.",
+      "speaker": "Aoi",
+      "label": "determined",
+      "sprite": 3
+    },
+    {
+      "turn": 6,
+      "type": "narration",
+      "text": "She takes one step toward the crosswalk, then stops."
+    },
+    {
+      "turn": 7,
+      "type": "narration",
+      "text": "Near the bus stop, a little boy stands alone, crying soundlessly, one hand twisted in the strap of a tiny yellow backpack."
+    },
+    {
+      "turn": 8,
+      "type": "dialogue",
+      "text": "...Um.",
+      "speaker": "Aoi",
+      "label": "shy",
+      "sprite": 7
+    },
+    {
+      "turn": 9,
+      "type": "narration",
+      "text": "People glance at him, hesitate, and keep moving."
+    },
+    {
+      "turn": 10,
+      "type": "dialogue",
+      "text": "Are you... lost?",
+      "speaker": "Aoi",
+      "label": "shy",
+      "sprite": 7
+    },
+    {
+      "turn": 11,
+      "type": "dialogue",
+      "text": "M-My grandma was here... and then she wasn't.",
+      "speaker": "Boy"
+    },
+    {
+      "turn": 12,
+      "type": "narration",
+      "text": "His cheeks are wet. He looks too young to be going anywhere alone."
+    },
+    {
+      "turn": 13,
+      "type": "dialogue",
+      "text": "It's okay. Don't move, all right?",
+      "speaker": "Aoi",
+      "label": "determined",
+      "sprite": 3
+    },
+    {
+      "turn": 14,
+      "type": "dialogue",
+      "text": "Do you know her phone number?",
+      "speaker": "Aoi",
+      "label": "determined",
+      "sprite": 3
+    },
+    {
+      "turn": 15,
+      "type": "dialogue",
+      "text": "No...",
+      "speaker": "Boy"
+    },
+    {
+      "turn": 16,
+      "type": "narration",
+      "text": "Aoi looks toward the station clock."
+    },
+    {
+      "turn": 17,
+      "type": "narration",
+      "text": "First bell is getting closer."
+    },
+    {
+      "turn": 18,
+      "type": "dialogue",
+      "text": "...It's fine.",
+      "speaker": "Aoi",
+      "label": "smile",
+      "sprite": 8
+    },
+    {
+      "turn": 19,
+      "type": "dialogue",
+      "text": "We'll find someone to help.",
+      "speaker": "Aoi",
+      "label": "determined",
+      "sprite": 3
+    },
+    {
+      "turn": 20,
+      "type": "narration",
+      "text": "She leads him carefully to the nearby police box."
+    },
+    {
+      "turn": 21,
+      "type": "narration",
+      "text": "The shutter is half-down. A handwritten sign says the officer is out on patrol."
+    },
+    {
+      "turn": 22,
+      "type": "dialogue",
+      "text": "Ah...",
+      "speaker": "Aoi",
+      "label": "confused",
+      "sprite": 2
+    },
+    {
+      "turn": 23,
+      "type": "narration",
+      "text": "The boy's lip trembles harder at the sight of it."
+    },
+    {
+      "turn": 24,
+      "type": "dialogue",
+      "text": "I want my grandma...",
+      "speaker": "Boy"
+    },
+    {
+      "turn": 25,
+      "type": "dialogue",
+      "text": "I know.",
+      "speaker": "Aoi",
+      "label": "sad",
+      "sprite": 6
+    },
+    {
+      "turn": 26,
+      "type": "dialogue",
+      "text": "Let's stay where she can find you.",
+      "speaker": "Aoi",
+      "label": "determined",
+      "sprite": 3
+    },
+    {
+      "turn": 27,
+      "type": "narration",
+      "text": "Aoi kneels so her eyes are level with his."
+    },
+    {
+      "turn": 28,
+      "type": "dialogue",
+      "text": "What does she look like?",
+      "speaker": "Aoi",
+      "label": "determined",
+      "sprite": 3
+    },
+    {
+      "turn": 29,
+      "type": "dialogue",
+      "text": "Brown hat. And... and flowers on her bag.",
+      "speaker": "Boy"
+    },
+    {
+      "turn": 30,
+      "type": "narration",
+      "text": "Aoi swallows, then raises her voice just enough to be heard over the traffic."
+    },
+    {
+      "turn": 31,
+      "type": "dialogue",
+      "text": "Excuse me!",
+      "speaker": "Aoi",
+      "label": "determined",
+      "sprite": 3
+    },
+    {
+      "turn": 32,
+      "type": "dialogue",
+      "text": "Has anyone seen an older woman with a brown hat?",
+      "speaker": "Aoi",
+      "label": "determined",
+      "sprite": 3
+    },
+    {
+      "turn": 33,
+      "type": "narration",
+      "text": "For a moment, nobody answers."
+    },
+    {
+      "turn": 34,
+      "type": "narration",
+      "text": "Heat crawls up Aoi's neck. She hates calling attention to herself."
+    },
+    {
+      "turn": 35,
+      "type": "dialogue",
+      "text": "She's looking for this boy.",
+      "speaker": "Aoi",
+      "label": "determined",
+      "sprite": 3
+    },
+    {
+      "turn": 36,
+      "type": "narration",
+      "text": "Then, from across the plaza, a strained voice cuts through the morning noise."
+    },
+    {
+      "turn": 37,
+      "type": "dialogue",
+      "text": "Haru! Haru!",
+      "speaker": "Grandmother"
+    },
+    {
+      "turn": 38,
+      "type": "narration",
+      "text": "An elderly woman hurries toward them, one shoe half-off, a flower-patterned tote clutched in her hand."
+    },
+    {
+      "turn": 39,
+      "type": "dialogue",
+      "text": "Grandma!",
+      "speaker": "Boy"
+    },
+    {
+      "turn": 40,
+      "type": "narration",
+      "text": "He runs to her. She drops to her knees and holds him so tightly Aoi has to look away."
+    },
+    {
+      "turn": 41,
+      "type": "dialogue",
+      "text": "Thank you... thank you so much. I only turned for a second.",
+      "speaker": "Grandmother"
+    },
+    {
+      "turn": 42,
+      "type": "dialogue",
+      "text": "I'm glad I found him.",
+      "speaker": "Aoi",
+      "label": "smile",
+      "sprite": 8
+    },
+    {
+      "turn": 43,
+      "type": "narration",
+      "text": "The grandmother's eyes shine with exhausted relief."
+    },
+    {
+      "turn": 44,
+      "type": "dialogue",
+      "text": "You're in uniform... dear, aren't you late?",
+      "speaker": "Grandmother"
+    },
+    {
+      "turn": 45,
+      "type": "narration",
+      "text": "Aoi looks at the station clock again."
+    },
+    {
+      "turn": 46,
+      "type": "narration",
+      "text": "The bell time has already passed."
+    },
+    {
+      "turn": 47,
+      "type": "dialogue",
+      "text": "...Yes.",
+      "speaker": "Aoi",
+      "label": "embarrassed",
+      "sprite": 4
+    },
+    {
+      "turn": 48,
+      "type": "narration",
+      "text": "The answer lands heavier than she expects."
+    },
+    {
+      "turn": 49,
+      "type": "narration",
+      "text": "Her stomach twists. First day. Late. Exactly what she wanted to avoid."
+    },
+    {
+      "turn": 50,
+      "type": "dialogue",
+      "text": "I'm sorry.",
+      "speaker": "Grandmother"
+    },
+    {
+      "turn": 51,
+      "type": "dialogue",
+      "text": "Please don't be.",
+      "speaker": "Aoi",
+      "label": "shy",
+      "sprite": 7
+    },
+    {
+      "turn": 52,
+      "type": "dialogue",
+      "text": "He wasn't alone.",
+      "speaker": "Aoi",
+      "label": "determined",
+      "sprite": 3
+    },
+    {
+      "turn": 53,
+      "type": "narration",
+      "text": "The grandmother bows deeply, still holding the boy's hand."
+    },
+    {
+      "turn": 54,
+      "type": "narration",
+      "text": "Aoi returns the bow, then breaks into a run again."
+    },
+    {
+      "turn": 55,
+      "type": "narration",
+      "text": "Her chest is tight, but not only from rushing now."
+    },
+    {
+      "turn": 56,
+      "type": "narration",
+      "text": "When she reaches the school gate, a teacher is already standing there with a clipboard."
+    },
+    {
+      "turn": 57,
+      "type": "dialogue",
+      "text": "You there. First-year? Name?",
+      "speaker": "Teacher"
+    },
+    {
+      "turn": 58,
+      "type": "dialogue",
+      "text": "Aoi Sakamizu.",
+      "speaker": "Aoi",
+      "label": "anxious",
+      "sprite": 1
+    },
+    {
+      "turn": 59,
+      "type": "dialogue",
+      "text": "Reason for being late?",
+      "speaker": "Teacher"
+    },
+    {
+      "turn": 60,
+      "type": "narration",
+      "text": "Aoi's fingers curl around her bag strap."
+    },
+    {
+      "turn": 61,
+      "type": "narration",
+      "text": "For a second, she thinks about saying something easier. Train delay. Overslept. Anything smaller."
+    },
+    {
+      "turn": 62,
+      "type": "dialogue",
+      "text": "I stopped to help a lost child near the station.",
+      "speaker": "Aoi",
+      "label": "embarrassed",
+      "sprite": 4
+    },
+    {
+      "turn": 63,
+      "type": "narration",
+      "text": "The teacher blinks, then studies her face."
+    },
+    {
+      "turn": 64,
+      "type": "dialogue",
+      "text": "...I see. Go on in. Next time, report to the office after.",
+      "speaker": "Teacher"
+    },
+    {
+      "turn": 65,
+      "type": "dialogue",
+      "text": "Yes, sir.",
+      "speaker": "Aoi",
+      "label": "embarrassed",
+      "sprite": 4
+    },
+    {
+      "turn": 66,
+      "type": "narration",
+      "text": "She hurries past him, breathless."
+    },
+    {
+      "turn": 67,
+      "type": "narration",
+      "text": "Embarrassment still burns in her cheeks."
+    },
+    {
+      "turn": 68,
+      "type": "narration",
+      "text": "But under it, quiet and steady, something warmer remains."
+    },
+    {
+      "turn": 69,
+      "type": "dialogue",
+      "text": "It was okay.",
+      "speaker": "Aoi",
+      "label": "smile",
+      "sprite": 8
+    },
+    {
+      "turn": 70,
+      "type": "narration",
+      "text": "And for the first time that morning, she believes it."
+    }
+  ]
+}

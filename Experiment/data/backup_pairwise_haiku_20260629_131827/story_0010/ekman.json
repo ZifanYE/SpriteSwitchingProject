@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0010",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A better preserves Aoi’s restrained, introverted affect by keeping her post-joke \"...Right\" subdued and giving \"Was it the panic?\" a shy startled edge, while B makes her too openly cheerful in those quieter beats."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "Version A uses neutral sprite at '...Right.' to show Aoi's subtle, reserved processing of Ren's brusque response before warmth emerges, while B's happiness sprite there contradicts the introverted character's tendency to mask feelings; A's sprite progression better captures her quiet emotional restraint throughout."
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0016",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B better preserves Aoi’s subdued, inward style by using sadness/fear where A over-neutralizes apology and caution, and it gives the brief hopeful upswing a more fitting lift before the setback."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "B",
+      "rationale": "A maintains better consistency with Aoi's introverted reserve by using neutral sprites during calm moments with Mrs. Suda, while B's fear sprite there contradicts her composed demeanor; however, B's happiness sprite at 'Maybe I can still make homeroom' better captures the emotional arc of cautious hope before the daikon disaster, whereas A's fear sprite there undermines the momentary relief the narrative describes."
+    }
+  }
+}

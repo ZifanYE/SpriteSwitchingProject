@@ -1,0 +1,284 @@
+{
+  "instance_id": "story_0001",
+  "title": "First Bell, Second Floor",
+  "protagonist": "Aoi",
+  "studied_speaker": "Aoi",
+  "pipeline": "direct",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "spriteMap": {
+    "anger": 0,
+    "disgust": 1,
+    "fear": 2,
+    "happiness": 3,
+    "neutral": 4,
+    "sadness": 5,
+    "surprise": 6
+  },
+  "dialogue": [
+    {
+      "turn": 0,
+      "type": "narration",
+      "text": "The first morning of the new school term -- and Aoi is already running late."
+    },
+    {
+      "turn": 1,
+      "type": "dialogue",
+      "text": "No, no, no -- not on the very first day!",
+      "speaker": "Aoi",
+      "label": "fear",
+      "sprite": 2
+    },
+    {
+      "turn": 2,
+      "type": "narration",
+      "text": "At the station gate, a crowd bunches around the timetable board."
+    },
+    {
+      "turn": 3,
+      "type": "narration",
+      "text": "A red notice flashes: signal trouble. Trains are delayed."
+    },
+    {
+      "turn": 4,
+      "type": "dialogue",
+      "text": "Please don't say that...",
+      "speaker": "Aoi",
+      "label": "fear",
+      "sprite": 2
+    },
+    {
+      "turn": 5,
+      "type": "narration",
+      "text": "She checks the time, then grips her bag tighter."
+    },
+    {
+      "turn": 6,
+      "type": "dialogue",
+      "text": "If I miss the opening homeroom...",
+      "speaker": "Aoi",
+      "label": "fear",
+      "sprite": 2
+    },
+    {
+      "turn": 7,
+      "type": "narration",
+      "text": "When the train finally arrives, it is packed and slow."
+    },
+    {
+      "turn": 8,
+      "type": "narration",
+      "text": "By the time Aoi reaches school, the front gate is almost empty."
+    },
+    {
+      "turn": 9,
+      "type": "dialogue",
+      "text": "I'm sorry. I'm late.",
+      "speaker": "Aoi",
+      "label": "sadness",
+      "sprite": 5
+    },
+    {
+      "turn": 10,
+      "type": "narration",
+      "text": "She bows automatically to no one in particular and hurries inside."
+    },
+    {
+      "turn": 11,
+      "type": "narration",
+      "text": "The hallway is too quiet. Her shoes sound louder than usual."
+    },
+    {
+      "turn": 12,
+      "type": "dialogue",
+      "text": "Class 1-B... second floor, right?",
+      "speaker": "Aoi",
+      "label": "neutral",
+      "sprite": 4
+    },
+    {
+      "turn": 13,
+      "type": "narration",
+      "text": "She finds 1-B, slides the door open a little, and freezes."
+    },
+    {
+      "turn": 14,
+      "type": "dialogue",
+      "text": "...And that's all for the semester assembly notes.",
+      "speaker": "Teacher"
+    },
+    {
+      "turn": 15,
+      "type": "narration",
+      "text": "Thirty faces turn toward her."
+    },
+    {
+      "turn": 16,
+      "type": "dialogue",
+      "text": "S-sorry for interrupting...",
+      "speaker": "Aoi",
+      "label": "fear",
+      "sprite": 2
+    },
+    {
+      "turn": 17,
+      "type": "narration",
+      "text": "A beat passes. Then the teacher blinks."
+    },
+    {
+      "turn": 18,
+      "type": "dialogue",
+      "text": "You're Aoi Sakamoto? You're in 1-A. Next room over.",
+      "speaker": "Teacher"
+    },
+    {
+      "turn": 19,
+      "type": "narration",
+      "text": "A small ripple of laughter moves through the room."
+    },
+    {
+      "turn": 20,
+      "type": "dialogue",
+      "text": "Ah... right. I'm very sorry.",
+      "speaker": "Aoi",
+      "label": "sadness",
+      "sprite": 5
+    },
+    {
+      "turn": 21,
+      "type": "narration",
+      "text": "Her face burns as she slides the door shut again."
+    },
+    {
+      "turn": 22,
+      "type": "narration",
+      "text": "In the hall, she stands still for one painful second, staring at the floor."
+    },
+    {
+      "turn": 23,
+      "type": "dialogue",
+      "text": "I couldn't even be late correctly...",
+      "speaker": "Aoi",
+      "label": "sadness",
+      "sprite": 5
+    },
+    {
+      "turn": 24,
+      "type": "narration",
+      "text": "The next door opens before she can knock."
+    },
+    {
+      "turn": 25,
+      "type": "dialogue",
+      "text": "Are you from 1-A too?",
+      "speaker": "Mina"
+    },
+    {
+      "turn": 26,
+      "type": "narration",
+      "text": "A girl with a neat ponytail lifts a stack of handouts in one arm."
+    },
+    {
+      "turn": 27,
+      "type": "dialogue",
+      "text": "Y-yes. I mixed up the rooms.",
+      "speaker": "Aoi",
+      "label": "sadness",
+      "sprite": 5
+    },
+    {
+      "turn": 28,
+      "type": "dialogue",
+      "text": "Me too, earlier. Come on. Sensei already started, but he's nice.",
+      "speaker": "Mina"
+    },
+    {
+      "turn": 29,
+      "type": "narration",
+      "text": "The girl smiles like it's no big deal and steps aside."
+    },
+    {
+      "turn": 30,
+      "type": "dialogue",
+      "text": "Thank you...",
+      "speaker": "Aoi",
+      "label": "happiness",
+      "sprite": 3
+    },
+    {
+      "turn": 31,
+      "type": "narration",
+      "text": "Inside 1-A, the teacher pauses only long enough to mark her attendance."
+    },
+    {
+      "turn": 32,
+      "type": "dialogue",
+      "text": "Train delay? Then sit down and catch up later. No need to panic.",
+      "speaker": "Teacher"
+    },
+    {
+      "turn": 33,
+      "type": "narration",
+      "text": "Aoi bows and slips into the only open seat—by the window, next to the ponytailed girl."
+    },
+    {
+      "turn": 34,
+      "type": "dialogue",
+      "text": "I'm sorry for causing trouble.",
+      "speaker": "Aoi",
+      "label": "sadness",
+      "sprite": 5
+    },
+    {
+      "turn": 35,
+      "type": "dialogue",
+      "text": "You didn't. Here, the printout. We just wrote our names and club interests.",
+      "speaker": "Mina"
+    },
+    {
+      "turn": 36,
+      "type": "narration",
+      "text": "Aoi takes the paper with both hands."
+    },
+    {
+      "turn": 37,
+      "type": "dialogue",
+      "text": "You saved me.",
+      "speaker": "Aoi",
+      "label": "happiness",
+      "sprite": 3
+    },
+    {
+      "turn": 38,
+      "type": "dialogue",
+      "text": "Then save me later if I forget something.",
+      "speaker": "Mina"
+    },
+    {
+      "turn": 39,
+      "type": "narration",
+      "text": "Aoi lets out a breath she feels she has been holding since the station."
+    },
+    {
+      "turn": 40,
+      "type": "dialogue",
+      "text": "Okay... I can do that.",
+      "speaker": "Aoi",
+      "label": "happiness",
+      "sprite": 3
+    },
+    {
+      "turn": 41,
+      "type": "narration",
+      "text": "Her handwriting is a little shaky as she writes her name, but the line comes out straight."
+    },
+    {
+      "turn": 42,
+      "type": "dialogue",
+      "text": "Maybe... this day isn't ruined after all.",
+      "speaker": "Aoi",
+      "label": "happiness",
+      "sprite": 3
+    }
+  ]
+}

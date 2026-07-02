@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0018",
+  "expression_set": "extended",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays subtler and more reserved overall, while B adds a few stronger beats ('I can try' as expressionless, 'It's my fault' as near-tearful) that feel less fitting and less precise for the scene's emotional flow."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "A",
+      "rationale": "B's restrained 'surprised' on collision and 'holding_back_tears' suit her subtle introversion, while A's 'astonished' and overt 'sad' more directly match the implied emotional beats."
+    }
+  }
+}

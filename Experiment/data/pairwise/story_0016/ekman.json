@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0016",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B better preserves Aoi’s subdued, inward style with sadness/fear where A over-neutralizes her apology and hesitation, and B’s brief hopeful upswing before the daikon gag gives a more coherent emotional arc."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "slight",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "The three differing lines favor B: sadness when apologizing for her 'shape' and fear at the unfamiliar bicycle fit her reserved anxiety, while happiness at the hopeful 'maybe I can make homeroom' beats A's incongruous fear there."
+    }
+  }
+}

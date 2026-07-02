@@ -1,0 +1,125 @@
+{
+  "instance_id": "story_0009",
+  "pipeline": "twostage",
+  "expression_set": "ekman",
+  "personality": "extroverted",
+  "expression_labels": [
+    "anger",
+    "disgust",
+    "fear",
+    "happiness",
+    "neutral",
+    "sadness",
+    "surprise"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels panicked and flustered, with a burst of frustrated disbelief at being late on the very first day and a strong urge to fix it immediately.",
+      "label": "fear"
+    },
+    {
+      "turn": 4,
+      "text": "You've got to be kidding me. Today of all days?",
+      "emotion_description": "She feels flustered and exasperated, with a sharp burst of disbelief that her already bad first-day luck has gotten even worse.",
+      "label": "surprise"
+    },
+    {
+      "turn": 6,
+      "text": "Okay, okay. Don't panic. Fast walk, transfer, survive.",
+      "emotion_description": "She is tense and flustered but trying to rally herself with determined, self-motivating optimism so she can stay in control and make it on time.",
+      "label": "fear"
+    },
+    {
+      "turn": 8,
+      "text": "Made it! Barely! I am never trusting that line again.",
+      "emotion_description": "She feels breathless relief and triumphant frustration at having arrived at all, with a lively, slightly exasperated resolve to avoid that train line in the future.",
+      "label": "happiness"
+    },
+    {
+      "turn": 10,
+      "text": "Year one, class three... end of the hall, right?",
+      "emotion_description": "She’s breathless and focused, trying to steady herself with a practical check while still feeling the lingering stress and urgency of barely making it on time.",
+      "label": "neutral"
+    },
+    {
+      "turn": 12,
+      "text": "Good morning! Sorry I'm la—",
+      "emotion_description": "She’s flustered and breathless from rushing in late, but still trying to sound cheerful and polite so she can make a good first impression despite the embarrassment.",
+      "label": "happiness"
+    },
+    {
+      "turn": 15,
+      "text": "...Nope! Wrong dramatic entrance!",
+      "emotion_description": "She feels a flash of embarrassed panic that she instantly covers with upbeat self-deprecating humor, trying to stay cheerful and save face despite realizing she has blundered badly.",
+      "label": "happiness"
+    },
+    {
+      "turn": 17,
+      "text": "Amazing. Absolute master class, Aoi.",
+      "emotion_description": "She is mortified and flustered, but trying to cover her embarrassment with self-deprecating humor and a forced, upbeat grin.",
+      "label": "happiness"
+    },
+    {
+      "turn": 20,
+      "text": "What kind of map prints north in six-point font?!",
+      "emotion_description": "She is flustered and embarrassed but channeling it into loud, incredulous frustration, trying to laugh off her own mistake while feeling personally betrayed by the tiny, unhelpful map.",
+      "label": "anger"
+    },
+    {
+      "turn": 22,
+      "text": "Come on, come on... please let the teacher be nice.",
+      "emotion_description": "She is flustered and anxious from her string of mishaps, but still pushing forward with hopeful, self-encouraging urgency and a little embarrassed pleading for mercy.",
+      "label": "fear"
+    },
+    {
+      "turn": 25,
+      "text": "Please tell me you're also in 1-3 and not judging me too hard.",
+      "emotion_description": "She feels flustered and embarrassed from her string of mishaps, but is trying to recover with a hopeful, jokingly self-aware plea for reassurance and camaraderie.",
+      "label": "happiness"
+    },
+    {
+      "turn": 28,
+      "text": "Then lead the way, hero. I'll owe you my life for at least one lunch break.",
+      "emotion_description": "She feels relieved and amused, with her embarrassment easing into playful gratitude and a quick, friendly trust in Miyu.",
+      "label": "happiness"
+    },
+    {
+      "turn": 30,
+      "text": "Excuse me! Sorry we're late!",
+      "emotion_description": "She feels flustered but relieved to have finally arrived, and is trying to sound cheerful and polite while masking lingering embarrassment.",
+      "label": "happiness"
+    },
+    {
+      "turn": 33,
+      "text": "That obvious, huh?",
+      "emotion_description": "She feels embarrassed and sheepish, but also relieved that the teacher is taking it lightly enough for her to joke back instead of panicking.",
+      "label": "happiness"
+    },
+    {
+      "turn": 36,
+      "text": "Thank you! I swear this is not my usual brand.",
+      "emotion_description": "She feels embarrassed but relieved, trying to recover her dignity with a playful, self-deprecating joke while still buoyed by the teacher’s leniency and the room’s friendly reaction.",
+      "label": "happiness"
+    },
+    {
+      "turn": 38,
+      "text": "Okay. New term status: messy start, but not a total disaster.",
+      "emotion_description": "She feels sheepish but relieved, trying to laugh off the chaos and reassure herself that the day is still salvageable.",
+      "label": "happiness"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 3,
+      "rationale": "The many happiness sprites suit an outgoing, expressive Aoi, but several clear emotional beats are off—especially using happiness for embarrassed self-mockery and fear/surprise where panic or frustration would fit better."
+    },
+    "claude": {
+      "character_consistency": 2,
+      "emotional_fidelity": 2,
+      "rationale": "Extroverted personalities express frustration, embarrassment, and anxiety visibly and openly, but happiness is used indiscriminately across moments of genuine distress (fear/anger at the map, humiliation in the wrong classroom, anxiety about the teacher), flattening the emotional range and contradicting the assigned trait of mood-responsive expressiveness."
+    }
+  }
+}

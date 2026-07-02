@@ -1,0 +1,119 @@
+{
+  "instance_id": "story_0015",
+  "pipeline": "twostage",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "expression_labels": [
+    "anger",
+    "disgust",
+    "fear",
+    "happiness",
+    "neutral",
+    "sadness",
+    "surprise"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panicked embarrassment and self-reproach, worried that starting the term late has already ruined her chance to make a good impression.",
+      "label": "fear"
+    },
+    {
+      "turn": 5,
+      "text": "...What?",
+      "emotion_description": "She is quietly startled and confused, momentarily thrown off by the impossible reflection while trying to keep her composure.",
+      "label": "surprise"
+    },
+    {
+      "turn": 9,
+      "text": "N-no way...",
+      "emotion_description": "She is stunned and quietly frightened, trying to deny what she just saw while her usual composure starts to slip.",
+      "label": "fear"
+    },
+    {
+      "turn": 12,
+      "text": "A key...?",
+      "emotion_description": "She is stunned and quietly bewildered, trying to make sense of the impossible while keeping her fear and curiosity tightly contained.",
+      "label": "surprise"
+    },
+    {
+      "turn": 17,
+      "text": "Root?",
+      "emotion_description": "She is startled and confused, trying to make sense of Rowan’s strange warning while quietly fixating on the unfamiliar word and the fragile key in her hands.",
+      "label": "surprise"
+    },
+    {
+      "turn": 19,
+      "text": "This is why I'm late...?",
+      "emotion_description": "She feels stunned and flustered, trying to make sense of the impossible while quietly worrying that this bizarre encounter is somehow her fault.",
+      "label": "surprise"
+    },
+    {
+      "turn": 21,
+      "text": "School. Opening ceremony. First years have to be early.",
+      "emotion_description": "She is flustered and anxious about being late, but tries to steady herself by clinging to the familiar rules of school life and speaking in a quiet, matter-of-fact way.",
+      "label": "fear"
+    },
+    {
+      "turn": 24,
+      "text": "If I do, will this... close?",
+      "emotion_description": "She is cautious and quietly anxious, torn between helping him and fearing that giving up the key will make the strange doorway vanish or worsen the situation.",
+      "label": "fear"
+    },
+    {
+      "turn": 28,
+      "text": "...All right.",
+      "emotion_description": "She is tense and bewildered, but quietly resolves to trust him and hand over the key despite her lingering fear and urgency about being late.",
+      "label": "fear"
+    },
+    {
+      "turn": 32,
+      "text": "You know my name?",
+      "emotion_description": "She is quietly startled and a little wary, with a shy flicker of curiosity at being recognized so suddenly.",
+      "label": "surprise"
+    },
+    {
+      "turn": 38,
+      "text": "So that's it...?",
+      "emotion_description": "She is quietly bewildered and still trying to make sense of the impossible, with a cautious, subdued curiosity beneath her lingering relief.",
+      "label": "surprise"
+    },
+    {
+      "turn": 45,
+      "text": "Rowan...",
+      "emotion_description": "She is quietly alarmed and searching for reassurance, her relief collapsing into tense worry as she realizes the danger is far from over.",
+      "label": "fear"
+    },
+    {
+      "turn": 48,
+      "text": "Ah—!",
+      "emotion_description": "She is jolted into sharp, frightened shock, her composure breaking for an instant as the sudden pain and the terrifying gaze overwhelm her.",
+      "label": "fear"
+    },
+    {
+      "turn": 52,
+      "text": "This... is really bad, isn't it?",
+      "emotion_description": "She feels a quiet, sinking dread mixed with disbelief, trying to steady herself while realizing the situation has become far more dangerous than she can comfortably handle.",
+      "label": "fear"
+    },
+    {
+      "turn": 59,
+      "text": "...Can this wait until after homeroom?",
+      "emotion_description": "She is trying to stay composed and practical despite lingering panic, quietly hoping to postpone the impossible and cling to the normal school routine for a little longer.",
+      "label": "fear"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 3,
+      "emotional_fidelity": 3,
+      "rationale": "The mostly subdued fear/surprise palette suits an introvert, but repeated broad surprise on quieter, skeptical or relieved lines ('This is why I'm late...?', 'So that's it...?') misses several emotional beats."
+    },
+    "claude": {
+      "character_consistency": 2,
+      "emotional_fidelity": 2,
+      "rationale": "Aoi is assigned as introverted and emotionally reserved, yet uses fear-sprite exclusively for panic, shock, and even pragmatic problem-solving (asking about homeroom), flattening her subtle emotional range; surprise-sprite appears only 4 times across a scene demanding far more nuanced shifts between confusion, wonder, curiosity, and quiet resignation."
+    }
+  }
+}

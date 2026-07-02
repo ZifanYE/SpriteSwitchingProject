@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0011",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays more subdued and inward for this introverted girl, while B adds sharper or less fitting beats like shy/confused/angry where anxiety or quiet shock reads better."
+    },
+    "claude": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "Version A maintains consistent introversion through anxious/surprised/confused sprites that reflect internal processing, while Version B breaks character with 'shy' (which reads as cuteness rather than reserve) and 'angry' (which contradicts the assigned soft-spoken, emotion-suppressing personality); A's progression also better tracks the emotional arc from embarrassment→anxiety→realization→confusion→determination without jarring tonal shifts."
+    }
+  }
+}

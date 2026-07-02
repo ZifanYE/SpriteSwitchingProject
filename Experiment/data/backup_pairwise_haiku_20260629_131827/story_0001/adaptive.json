@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0001",
+  "expression_set": "adaptive",
+  "personality": "introverted",
+  "A_is_direct": true,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "slight",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B stays more subdued for this introverted character, avoiding A’s overly assertive determined beat and using a gentler shy-to-smile recovery that better fits the scene’s emotional arc."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "clear",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "Version A uses 'smile' sprite at the moment of genuine relief and connection with Mina, which better captures the introverted character's subtle emotional breakthrough; Version B uses 'shy' at that same moment, which contradicts the narrative shift toward cautious optimism and undercuts the emotional arc of the scene."
+    }
+  }
+}

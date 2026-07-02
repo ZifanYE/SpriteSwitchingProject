@@ -1,0 +1,26 @@
+{
+  "instance_id": "story_0009",
+  "expression_set": "extended",
+  "personality": "extroverted",
+  "A_is_direct": false,
+  "judges": {
+    "gpt": {
+      "cc_winner": "two_stage",
+      "cc_confidence": "clear",
+      "ef_winner": "two_stage",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "A",
+      "raw_ef_ab": "A",
+      "rationale": "A stays more expressively in-character and better tracks the scene’s beats, while B turns several playful or relieved moments too flat, harsh, or startled."
+    },
+    "claude": {
+      "cc_winner": "direct",
+      "cc_confidence": "slight",
+      "ef_winner": "direct",
+      "ef_confidence": "clear",
+      "raw_cc_ab": "B",
+      "raw_ef_ab": "B",
+      "rationale": "B's exasperated on the self-deprecating fail lines and astonished blink fit the expressive extrovert better, while A overuses natural_smile_cheerful on frustrated/embarrassed beats; B's serious for the pep-talk and astonished for the blink are more emotionally precise."
+    }
+  }
+}

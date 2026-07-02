@@ -1,0 +1,167 @@
+{
+  "instance_id": "story_0012",
+  "pipeline": "twostage",
+  "expression_set": "ekman",
+  "personality": "introverted",
+  "expression_labels": [
+    "anger",
+    "disgust",
+    "fear",
+    "happiness",
+    "neutral",
+    "sadness",
+    "surprise"
+  ],
+  "sprite_sequence": [
+    {
+      "turn": 1,
+      "text": "No, no, no -- not on the very first day!",
+      "emotion_description": "She feels a quiet surge of panicked embarrassment and self-reproach, worried that starting the term late will ruin her careful first impression.",
+      "label": "fear"
+    },
+    {
+      "turn": 5,
+      "text": "If I cut through the plaza... maybe I can still make it.",
+      "emotion_description": "She is quietly anxious and flustered, but trying to steady herself with a small, hopeful determination to salvage the morning without drawing attention.",
+      "label": "fear"
+    },
+    {
+      "turn": 8,
+      "text": "...Um.",
+      "emotion_description": "She feels hesitant and flustered, but her concern for the crying child is quietly overriding her own panic as she gathers the courage to speak.",
+      "label": "fear"
+    },
+    {
+      "turn": 10,
+      "text": "Are you... lost?",
+      "emotion_description": "She feels anxious about being late, but her concern for the crying child gently overrides her own panic, making her hesitant and quietly compassionate.",
+      "label": "fear"
+    },
+    {
+      "turn": 13,
+      "text": "It's okay. Don't move, all right?",
+      "emotion_description": "She feels a quiet, steady concern that overrides her own panic, and is trying to sound reassuring and calm while gently taking charge.",
+      "label": "neutral"
+    },
+    {
+      "turn": 14,
+      "text": "Do you know her phone number?",
+      "emotion_description": "She is quietly focused and reassuring, with her own lateness pushed aside as she tries to stay calm and help the frightened boy.",
+      "label": "neutral"
+    },
+    {
+      "turn": 18,
+      "text": "...It's fine.",
+      "emotion_description": "She is quietly suppressing her own panic and time pressure, choosing to sound calm and reassuring so the frightened boy won’t feel more alone.",
+      "label": "fear"
+    },
+    {
+      "turn": 19,
+      "text": "We'll find someone to help.",
+      "emotion_description": "She is quietly anxious about being late, but her concern for the lost boy has shifted her into a calm, determined resolve to help without making a fuss.",
+      "label": "neutral"
+    },
+    {
+      "turn": 22,
+      "text": "Ah...",
+      "emotion_description": "She feels a small, quiet jolt of disappointment and worry as her plan stalls again, but she keeps it contained and searches for the next calm, practical step.",
+      "label": "surprise"
+    },
+    {
+      "turn": 25,
+      "text": "I know.",
+      "emotion_description": "She feels a quiet, aching sympathy for the boy and a restrained worry about the time, but keeps herself steady so she can comfort him without showing her own panic.",
+      "label": "sadness"
+    },
+    {
+      "turn": 26,
+      "text": "Let's stay where she can find you.",
+      "emotion_description": "She is quietly reassuring and protective, trying to steady the frightened boy while suppressing her own worry about being late.",
+      "label": "sadness"
+    },
+    {
+      "turn": 28,
+      "text": "What does she look like?",
+      "emotion_description": "She is quietly focused and reassuring, with a small undercurrent of worry about the missing grandmother and her own lateness, but she keeps it steady so the boy won’t panic.",
+      "label": "neutral"
+    },
+    {
+      "turn": 31,
+      "text": "Excuse me!",
+      "emotion_description": "She is quietly anxious about being late, but more urgently focused and gently determined to get help for the lost boy, pushing her shyness aside just enough to call out.",
+      "label": "neutral"
+    },
+    {
+      "turn": 32,
+      "text": "Has anyone seen an older woman with a brown hat?",
+      "emotion_description": "She is quietly anxious but focused, pushing past her own lateness to sound calm and helpful for the boy’s sake.",
+      "label": "neutral"
+    },
+    {
+      "turn": 35,
+      "text": "She's looking for this boy.",
+      "emotion_description": "She feels embarrassed at having to speak up, but pushes through her shyness with quiet determination and concern for the lost boy.",
+      "label": "neutral"
+    },
+    {
+      "turn": 42,
+      "text": "I'm glad I found him.",
+      "emotion_description": "She feels quiet relief and gentle satisfaction, with a faint lingering embarrassment from having drawn attention to herself.",
+      "label": "happiness"
+    },
+    {
+      "turn": 47,
+      "text": "...Yes.",
+      "emotion_description": "She feels a small, sinking embarrassment and quiet resignation about being late, but it is softened by relief and a faint sense of having done the right thing.",
+      "label": "sadness"
+    },
+    {
+      "turn": 51,
+      "text": "Please don't be.",
+      "emotion_description": "She feels a quiet, self-effacing reassurance mixed with lingering embarrassment and worry about being late, but is more focused on easing the grandmother’s guilt than on her own frustration.",
+      "label": "happiness"
+    },
+    {
+      "turn": 52,
+      "text": "He wasn't alone.",
+      "emotion_description": "She is quietly reassuring and self-effacing, trying to soften the grandmother’s guilt while masking her own disappointment about being late.",
+      "label": "neutral"
+    },
+    {
+      "turn": 58,
+      "text": "Aoi Sakamizu.",
+      "emotion_description": "She is tense and embarrassed about being late, but still trying to stay composed and answer politely, with a quiet undercurrent of lingering anxiety from the morning’s rush.",
+      "label": "fear"
+    },
+    {
+      "turn": 62,
+      "text": "I stopped to help a lost child near the station.",
+      "emotion_description": "She feels anxious and embarrassed about being late, but also quietly resolute and a little relieved that she chose to help someone in need.",
+      "label": "neutral"
+    },
+    {
+      "turn": 65,
+      "text": "Yes, sir.",
+      "emotion_description": "She feels quietly relieved to be let off with a simple response, while still carrying a small, embarrassed tension from being late and having drawn attention to herself.",
+      "label": "neutral"
+    },
+    {
+      "turn": 69,
+      "text": "It was okay.",
+      "emotion_description": "She is quietly reassuring herself that the trouble was worth it, feeling a small, warm sense of relief and pride beneath lingering embarrassment.",
+      "label": "happiness"
+    }
+  ],
+  "judges": {
+    "gpt": {
+      "character_consistency": 4,
+      "emotional_fidelity": 3,
+      "rationale": "The mostly subdued neutral/sadness choices fit an introverted girl, but repeated fear on gentle hesitation and several neutral lines that should show strain or timid resolve flatten key emotional turns."
+    },
+    "claude": {
+      "character_consistency": 4,
+      "emotional_fidelity": 4,
+      "rationale": "Sprites consistently reflect an introverted personality—fear and neutral dominate, with restrained emotional displays even during high-stress moments; happiness appears only when helping others or resolving conflict, never self-centered. Minor slip: 'happiness' after being late feels slightly too overt for someone who 'hates calling attention to herself,' though the internal warmth justifies it."
+    }
+  }
+}

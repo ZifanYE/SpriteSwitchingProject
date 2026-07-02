@@ -10,8 +10,7 @@ import os
 # API keys -- paste them directly between the quotes below.           #
 # Keep this file PRIVATE (don't commit to a public repo / don't share)#
 # ------------------------------------------------------------------ #
-OPENAI_API_KEY = ""
-ANTHROPIC_API_KEY = ""
+
 
 # Convenience: if you leave a placeholder above, it falls back to an
 # environment variable automatically (so both styles work).

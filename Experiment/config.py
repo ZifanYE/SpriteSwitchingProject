@@ -8,7 +8,6 @@ import os
 
 # ------------------------------------------------------------------ #
 # API keys -- paste them directly between the quotes below.           #
-# Keep this file PRIVATE (don't commit to a public repo / don't share)#
 # ------------------------------------------------------------------ #
 
 

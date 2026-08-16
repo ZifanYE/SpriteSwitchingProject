@@ -5,8 +5,7 @@ character sprite switching in LLM-driven visual novels.
 
 ## Repository structure
 
-- **[`CodesForImage`]** —
-  code and generated images for the character expression sprites.
+- **`CodesForImage`** — code and generated images for the character expression sprites.
 - **`experiment`** — all experiment prompts, the stories used, the running
   process, and the results.
 

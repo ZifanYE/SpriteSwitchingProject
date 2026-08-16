@@ -15,4 +15,4 @@ The Unity project used for the user study is provided via Google Drive:
 **[VNSpriteSwitchProjectInUnity (Google Drive)](https://drive.google.com/file/d/1dfV-Afg5N08nVndDHTUERhLHGiESiJcW/view?usp=sharing)**. It is currently a rough
 prototype in which the user study can be run inside Unity. The runtime in another scene requires
 two OpenAI API keys to run.
-For the setting guideline, you can check the previous version of this [VN system](https://github.com/ZifanYE/UnityVNforGCCE).
+For the setting guideline, you can check the previous version of this [VN system (Github Link](https://github.com/ZifanYE/UnityVNforGCCE).
